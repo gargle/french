@@ -10483,7 +10483,7 @@ nourrissais, nourrir    voeden, achten, knagen, koesteren
 nourrisson          m, baby, bébé, kindje
 nourriture          f, voedsel
 nouveauté           f, het nieuwste
-nouvelle            f, nieuws(bericht)
+nouvelle            f, nieuws(bericht), novel, verhaal, story
 novateur            pionier, vernieuwend, vernieuwer
 novlangue           newspeak (George Orwell, 1984)
 noyade              f, verdrinking
@@ -14175,7 +14175,7 @@ soutirer            afhandig maken, ergens onderuit komen, kronkelen, ontfutsele
 souvenance          f, herinnering
 souvenir            m, herinnering, geheugen, aandenken
 souverainement      veel, erg, peu, três, beaucoup
-souverain           m, soeverein
+souverain           m, soeverein, oppermachtig, belangrijk, beduidend, groot, gewichtig
 soyeuse, soyeux     glanzend, satijnzacht, zacht, zijdeachtig
 spécialité de départ    f, initiële specialisatie?
 spécialité          f, specialiteit
@@ -15697,4 +15697,9 @@ zonard              m, jeune délinquant de banlieue
 zone                f, zone
 zouave              m, soldaat
 zygomatique         wang, gelaatstrek, snuit
+à quoi nous en tenir      waar wij voor staan
+mitigée             verminderd, faire devenir de moindre importance
+enfance             f, kindertijd
+nécromancie         f, dodenbezwering, duivelskunsten, zwarte kunst
+fabuleusement       fabelachtig, fantastisch, geweldig, luisterrijk
 === Vol de nuit --- Antoine de Saint-Exupéry --- fin --- ===
