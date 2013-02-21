@@ -674,6 +674,7 @@ alcool à brûler     m, brandspiritus
 alcoolique          m, alcoholicus
 alcoolique mondain  m, alcoholicus door sociale verplichtingen
 électeur            m, kiezer, kiesgerechtigde
+lecteur             m, lezer
 électricité         f, elektriciteit, stroom
 électroménagers     electrisch huishoudelijk apparaat
 île                 f, eiland
@@ -945,6 +946,7 @@ anneler             geringd?
 annelure            f, coiffure, haren in een ringvorm
 annihilant          vernielen, verdelgen, vernietigen, wegvagen
 annonceur           m, reclameman, adverteerder, nieuwslezer, omroeper
+annonce             f, melding, aankondiging, bericht
 annonciateur        m, waarschuwing
 annonciation        f, aankondiging
 annonciatrice       f, voorbode
@@ -1108,6 +1110,7 @@ apparat             m, vertoon
 appareillage        m, apparaat, apparatuur, inrichting, materiaal
 appareiller         afvaren, uitvaren, van wal steken
 appareil            m, apparaat
+pareils             zulk, gelijksoortig, soortgelijk, gelijke
 apparemment         in schijn, naar het schijnt
 apparence           f, aanblik, show, uiterlijk, schijn, uiterlijke schijn
 apparence           f, show, voorkomen, uiterlijk
@@ -1151,6 +1154,7 @@ approche            f, nadering, benadering
 approcher de        être proche de, temporellement, approach
 approfondi          diep, diepgaand, grondig
 approfondir         doorzetten, verdiepen, verhevigen
+approfondissement   m, denken, verdieping, doordenken, zich bedenken, uitvorsen
 appropriation       f, bemachtiging, bezitneming, inbezitneming, toe-eigening, toeëigening
 approprier          toeeigenen, overnemen
 approvisionnement   m, reserve, voorraad, bevoorrading, levering
@@ -1211,7 +1215,7 @@ aréopage            m, vergadering, compagnie, réunion, tribunal
 arène               f, piste, arena
 araucaria           m, soort boom
 arôme               m, aroma
-arbitraire          eigenmachtig, willekeurig, m. onbillijkheid, onrecht, willekeur
+arbitraire          eigenmachtig, willekeurig, m. onbillijkheid, onrecht, willekeur, eigengerechtigheid
 arborant            tonen, zichtbaar tonen, showen
 arborer             sport, rechtzetten, tonen
 arbouse             f, arbousier, aardbeiboom
@@ -2466,6 +2470,7 @@ bien à soi          op zichzelf
 bien des            beaucoup des
 bien entendu        natuurlijk, uiteraard
 bienfaisance        menselijkheid, weldadigheid, weldoen
+bienfaits           m, ce qui favorise une chose, la rend supérieure, gunst, begunstiging
 bienfaisante        weldadig
 bien me rappeler    I must remember
 bien mis            elegant, goed gezegd
@@ -6260,7 +6265,6 @@ en savoir gros sur  grote leren
 enseigne à neon     f, bord, naambord, uithangbord, uithangteken
 enseignement        m, onderwijs, onderricht
 enseigner           doorgeven, bijbrengen, doceren, onderrichten
-ensemble            m, geheel
 ensemble            m, tenue, suite,  outfit, geheel, gezamelijk, samen
 enserrer            entourner, envelopper, enfermer, enlacer, omhelzen, omarmen
 ensevelies, ensevelir   begraven
@@ -10377,6 +10381,7 @@ naufragé            m, schipbreukeling, paria, outcast
 naufrage            m, schipbreuk, ondergang
 naufrageurs         m, zij die schipbreuken veroorzaken
 n'aurait guère de titre     zou weinig respect hebben
+guère plus          weinig meer
 nauséabond          afschuwelijk, onaangenaam
 nausée              f, braakneiging, misselijkheid, walging
 nauséeuse           misselijk
@@ -10880,6 +10885,8 @@ pantelante          hijgend
 panteler            hijgen, adem halen, opsnuiven, ademen
 panthéisme          m, geloofsovertuiging, natuur en God zijn identiek
 panthéiste          m, pantheist
+théiste             theïst, croyance, m., gelovige, croyant en une religion
+athée               atheïste
 panthère            f, panter
 pantin              m, harlekijn, trekpop, rag doll
 pantois             beduusd, stomverbaasd, verbaasd, verwonderd, verstomd
@@ -12594,6 +12601,7 @@ répartis            verkaleld, verspreid, verdeeld, versnipperd
 répartition         f, verdeling
 répéter             in herhaling vervallen
 répétiteur          m, docent, entortutor, voogd
+répétition          f, repetitie, try-out, herhaling
 rapatrier           terugsturen, repatriëren
 râpe                f, rasp, schaaf, vijl
 répercussion        f, weerslag, teruggstoot, terugslag, repercussie
@@ -12679,7 +12687,6 @@ rassemblement       m, samenkomst, verzameling
 rasseoir            asseoir de nouveau, opnieuw gaan zitten
 rassied             gaat zitten
 rassise, rassis     bedaard, oudbakken, zetelen, zitten
-rassis              oudbakken
 rassit              opnieuw gaan zitten
 rassurante          geruststellend, troostend
 rassurer            kalmeren, geruststellen
@@ -13173,6 +13180,7 @@ risible             belachlijk, komisch, lachwekkend
 risque              m, risico, kans, avontuur, gevaar
 ristourne           f, korting
 rite                m, ritueel
+rituel              m, ritueel
 ritournelle         f, liedje, refrein
 rivage              m, kust, zeekust, zeeoever, wal, walkant, oever, kustlijn
 rival               m, rivaal
@@ -15702,4 +15710,10 @@ mitigée             verminderd, faire devenir de moindre importance
 enfance             f, kindertijd
 nécromancie         f, dodenbezwering, duivelskunsten, zwarte kunst
 fabuleusement       fabelachtig, fantastisch, geweldig, luisterrijk
-=== Vol de nuit --- Antoine de Saint-Exupéry --- fin --- ===
+stature             f, gestalte, statuur, postuur, hoogte
+mythologie          f, mytologie, godenleer, fabelleer
+délicatesse         f, fact, fijngevoeligheid, teerheid, fijnzinnigheid
+impact              m, botsing, inslag, krachtige invloed, schok
+technique           f, handelswijze, hulpmiddel
+=== H.P. Lovecraft - Contre le monde, contre la vie - Michel Houellebecq --- pag. 37 ===
+
