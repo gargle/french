@@ -135,6 +135,7 @@ aboyer, aboieront   janken, keffen, blaffen, aanblaffen
 ébrécher            afbreken, afsplinteren, loslaten
 abréger             bekorten, ingekort
 ébranler            wagelen, wiegen, in beweging komen, schokken, doen schudden
+ébranlement         m, schok, ondermijning, beschadiging
 abrasant, abraser   schuren
 abreuver            bevochtigen, besprenkelen, besproeien, laten uitdrinken, laten opdrinken
 abreuvoir           m, plaats waar dieren kunnen drinken
@@ -221,7 +222,7 @@ accouder, accoudé   leunen op, qui a une certaine attitude corporelle
 accoudoirs          m, arm, armleuning, leuning
 accoumtumée         gebruikelijk, gewoonlijk
 accouplé, accoupler vastgekoppelen, paren, vastgekoppeld, gepaard
-accouplement        m, aansluiting, samenkomst, samenvloeiing
+accouplement        m, aansluiting, samenkomst, samenvloeiing, paring, geslachtsdaad
 accourir, accourue  aansnellen, toesnellen
 accoutrer           uitdossen
 accoutumer          gewennen
@@ -411,7 +412,7 @@ adhérer             aanhangen, toetreden, zich aansluiten bij
 adhésion            f, aansluiting, lidmaatschap
 édification         f, vorming, bouw
 édifice             m, gebouw
-édifier             opbouwen, stichten
+édifier, édifiant   opbouwen, stichten
 édile               m, hooggeplaatste
 édimbourg           Edinburgh
 adipeuse            adipeus, vet
@@ -789,7 +790,7 @@ aménité             f, beminnelijkheid, hartelijkheid, minzaamheid, vriendelij
 amantes             f, beminde, bijvrouw, bijzit, geliefde, maitresse
 amant               liefhebbend
 améranthrope        ?
-Amérique            m, Amerika
+Amérique            f, Amerika
 amarré              aangelegd, aangemeerd
 amarre              f, kabel, kabeltouw, meertouw, meertros, sleeptros, treklijn, tros
 amarrer             aanleggen, aanmeren, vastsjorren, sjorren
@@ -824,6 +825,7 @@ amer                m, bitter, verbitterd, zuur
 amertume            f, bitterheid, animositeit, verbittering
 émerveillé          in verrukking gebracht, verwonderd
 émerveillait        in verrukking brengen, verwonderen
+émerveillement      m, bevreemding, verrassing, verbazing, verwondering, overrompeling
 a mesure            à proportion, peu à peu, successivement
 émettre             faire sortir de soi un son. exprimer qqch.
 ameublement         m, meubilair, boedel, huisraad
@@ -922,6 +924,7 @@ Anges Déchus        gevallen engelen
 angle de la rue     m, hoek van de straat
 angle               m, hoek
 Angleterre          Engeland
+Nouvelle-Angleterre f, New England
 angoissé            bang, dol, gekweld, overspannen, overwerkt, m. twijfelaar, bangerik
 angoissant          angstig, lastig, zenuwslopend
 angoisse            f, emotie, gemoedsaandoening, gevoel, angst, angstgevoel, ongerustheid, bezorgdheid
@@ -1050,6 +1053,7 @@ aphorisme           m, spreuk, kernspreuk
 aphrodisiaque       m, afrodisiacum
 épia, épier         bespioneren, examining
 épice               gekruid, hartig, kruidig, pikant
+épice               f, kruiden, specerij, smaakmaker
 épicerie            f, kruidenier, kruidenierswinkel
 épicerie-mercerie   f, general store     
 épicier             m, kruidenier, groenteboer
@@ -1828,6 +1832,7 @@ avertisseur         m, claxon, hoorn, toeter
 aveu, aveux         m, bekentenis, biecht, belijdenis, schulderkenning
 aveuglé             aveugler = verblinden, blind maken, fel schijnen
 aveuglante          oogverblindend, fel, verblindend
+aveuglement         m, verduistering, verblinding
 aveugle             m, blinde, blindeman
 aveuglement         m, blindheid
 aviation            f, luchtvaart
@@ -1906,6 +1911,7 @@ azote               m, stikstof
 aztèque             Azteekse
 ôter, ôtant         nemen, aftrekken, snel uittrekken, verwijderen, wegnemen, ontdoen, losmaken
 azuré               hemelsblauw, azuur
+azur                m, azuur, blauw
 à arcades           gebogen
 à autant de         zoals velen van
 à autrui            aan anderen                    
@@ -2328,6 +2334,8 @@ Bar-Tabac           m, bar-tabac
 basalte             m, basalt-rots?
 basané              getaand
 basane              f, schapevlees
+bas-relief          m, bas-relief
+haut-relief         m, haut-relief, hoogreliëf
 bas-côté            m, gangpad, route, buitenkant (architectuur)
 bas-côtés           m, gangpaden naast een autoweg
 bascule             f, onderstel van schommelstoel, wip, balans, het statief (fotocamera?)
@@ -2365,6 +2373,7 @@ batifoler           gek doen, ravotten, stoeien, duimendraaien
 bâti                gebouwd, geconstrueerd
 bâtiment            m, gebouw
 bâtir               bouwen, construeren
+rebâtir             herbouwen, heropbouwen
 bâtisse             f, aanbouw, constructie
 bâtisseur           m, bouwer
 bât                 m, pakzadel, scheenzadel
@@ -3970,7 +3979,7 @@ commotionner        aanroeren, aankomen, aan zitten, zitten aan, aantikken
 communément         algemeen, gemeenschappelijk
 communauté          f, gemeenschap
 commune             f, gemeente, revolutionaire regering overheerste Parijs van 18/3/1871 tem 28/5/1871
-commune             ordinair
+commune             ordinair, algemeen, veelvoorkomend, gemeenschappelijk
 communicabilité     f, besmettingsgevaar
 communication       f, communicatie, lezing
 communier           tesamen zijn, samen beleven
@@ -4020,6 +4029,7 @@ comprimé            m, pil
 comprimer           ineenkrimpen, (samen)persen
 comprise            begrepen, verstaan
 compromission       f, compromis
+compromis           blootgesteld, gecompromitteerd
 comptabilité        f, boekhouding
 compté              druk, bedoening
 compte-évêque       m, prins-bisschop
@@ -4115,6 +4125,7 @@ conifère            m, naaldboom, conifeer
 conjecture          f, hypothese
 conjecturer         bevroeden, denken, gissen, menen, vermoeden
 conjoint            m, levenspartner
+conjointe           gezamelijk, mede-, verenigd
 conjonction         f, voegwoord, samenbundeling, vereniging
 conjugale           echtelijk, huwelijk
 conjugalité         f, ensemble des caractéristiques propres à la vie entre époux
@@ -4722,6 +4733,7 @@ cyanosé             huidziekte, verkleuring
 cyanure             m, soort vergif, cyanide
 cycle               m, cyclus
 cyclo               m, bromfiets
+cyclopéen           de volume, de taille important
 cyclomoteur         m, bromfiets, snorfiets
 cyclone             m, cycloon, orkaan, tornado, windhoos
 cygne               m, zwaan
@@ -5849,6 +5861,7 @@ effilochent         rafelen, uitrafelen, slijten, sneuvelen
 efflanqué           graatmager, slungelig
 effleurement        lichte aanraking
 effleurer, effleurant      aanroeren, toucheren, strijken langs, to occur to someone
+efflorescence       f, bloei, huidaandoening
 effluves            uitwaseming
 effondrement        m, collaps, dip, inzinking, kruimelen
 effondrer, effondré instorten, inzakken, bezwijken
@@ -6352,9 +6365,7 @@ entraide            f, zelfhulpgroep
 entraider           elkaar helpen
 entrailles          f, binnenste, ingewanden
 entrain             m, animo, geestdrift, fut
-entr'aperçu         een glimp van
 entraperçu          een glimp van
-entrapercu          glimp
 entravé             geboeid, geketend, belemmeren
 entrave             barrière, balast, hindernis, rem, obstakel
 entraver            afstoppen, verhinderen, bemoeilijken
@@ -6376,6 +6387,7 @@ entrelacement       m, netwerk
 entrelacer          ineenstrengelen, vergroeien, verstrengelen, doorweven
 entrelacs           m, interlacing, netwerking
 entremêler          samengaan, samensmelten, versmelten
+entremêlement       m, désordre, ontreddering, verwarring, wanorde
 entremise, entremettre  zich inlaten met
 entrepôt            m, depot, provisiekamer
 entreposer          herbergen, bewaren, opbergen, opslaan
@@ -7201,7 +7213,7 @@ fouillis            m, janboel, rommel, warboel
 fouinard            m, bemoeizuchtig, geurig, nieuwsgierig
 fouiner             doorboren, gluren, grasduinen, neuzen, rondneuzen, snuffelen
 fouineur            m, nieuwsgierig, bemoeizuchtig, computerkraker, hacker
-foulée              f, schare, schorem, schorremorrie, uitschot
+foulée              f, schare, schorem, schorremorrie, uitschot, fatigue, moeiheid
 foulard             m, sluier, hoofddoek
 foule               f, bende, massa, menigte
 fouler              omzwikken, verrekken
@@ -7470,6 +7482,7 @@ généalogiste        m, genealoge, geslachtkundige
 généalogistes       geslachtkundige
 généralement        in het algemeen, gewoonlijk
 généraliste         m, huisarts, huisdokter, omnipracticus
+généraliser         veralgemenen, generalizeren
 général             m, generaal
 générateur          m, generator
 génération          f, lichting, generatie, geslacht
@@ -7595,6 +7608,7 @@ gestionnaire        m, manager, administrateur
 gewürztraminer      druivenras / wijnsoort
 gewurztraminer      m, vin fruité de l'Alsace
 gibier de potence   m, personne malhonnête. synonyme truand anglais gallows bird
+gibbeux, gibbeuse   concaaf, wassend (maan)
 gibier              m, wild
 giboyeuse           rijk aan wild
 giclées             f, opwelling, spring, straal, spuiten, uitpersen, opspatten, spetteren
@@ -7758,8 +7772,7 @@ graphique           m, grafiek, tekening
 graphisme           m, grafisch ontwerp
 graphite            m, grafiet, potlood
 grappe              f, bos, cluster, tros, verzameling
-grappiller          links en rechts graaien
-grappiller          nemen, grabbelen, vastpakken
+grappiller          nemen, grabbelen, vastpakken, links en rechts graaien
 gréseuses           de la nature, zandsteen, keramiek
 gréseux             zanderig
 gras, grasse        delicieus, dik, heerlijk, olieachtig, sappig, succulent, vet
@@ -8265,6 +8278,7 @@ impénétrable        bodemloos, grondeloos, onbegrijpelijk, ondoordringbaar
 impénitents         onverbeterlijk
 imparable           unstoppable, onvermijdbaar
 impératif           noodzakelijk, noden, must
+impératif           m, verplichting, plicht, drang, last, gewicht, druk
 impardonnable       onvergeeflijk
 impériale           f, baard, knevel, snor
 impérieux           bevelend, commandered, gebiedend
@@ -9205,7 +9219,6 @@ le petit Prado      m, het kleine Prado
 le plein de soleil  vol van de zon
 le plein jour       broad daylight
 le plus clair de son temps  het grootstee gedeelte van zijn tijd
-le pont             m, overbrugging, brug, dek
 le pot aux roses    affaire?
 les dents serrées   de tanden op elkaar, opeengeklemde tanden
 les miennes         dat van mij, het mijne
@@ -10083,8 +10096,7 @@ mitraillette        f, machinepistool
 mnémonique          geheugenleer, mnemonisch
 mobile              beweegbaar, vervoerbaar
 mobile home         m, mobilehome
-mobile              m, beweegreden, motif, raison (d'agir, de penser...)
-mobile              m, motif, cause, oorzaak
+mobile              m, beweegreden, motif, raison (d'agir, de penser...), cause, oorzaak
 mobilier            m, huisraad, inboedel, meubel, meubels
 mobiliser           mobiliseren, oproepen, uitnodigen
 mobylette           f, bromfiet
@@ -10796,7 +10808,7 @@ paître, paissent    beweiden, grazen, weiden
 péché               m, kwaad, zondigheid, zonde
 pachyderme          m, nijlpaard, jumbo
 package             m, softwarepakket
-pacotilles          f, marchandise van slechte kwaliteit, prullen, rommel
+pacotilles          f, marchandise van slechte kwaliteit, prullen, rommel, van weinig belang
 pacsé               pacs, samenwonend
 pacs                m, samenlevingscontract
 pacte               m, conventie, pact, verdrag
@@ -10934,6 +10946,7 @@ par économie        to save money
 parade              f, counter
 paradis             m, paradijs, hemel, hemelrijk
 paradoxalement      paradoxaal
+paradoxe            m, paradox
 parée               aangekleed
 parages             m, contreien
 paragraphe          m, paragraaf, alinea, krantebericht
@@ -11755,7 +11768,7 @@ pont arrière        m, achterdek
 pont de charge      m, laadbrug
 ponte               f, geboorte, accouchement, naissance
 ponter, ponté       uitrusten, équiper un navire, bouwen, samenstellen, opbouwen
-pont                m, brug, dek, scheepsdek, scheepsvloer, overspanning
+pont                m, brug, dek, scheepsdek, scheepsvloer, overspanning, overbrugging
 ponton              m, kraaneiland, ponton
 ponts               m, bruggen
 popeline            soor stof
@@ -12212,7 +12225,7 @@ proximité           f, nabijheid, omgeving
 prudemment          behoedzaam
 prudence            f, bedachtzaamheid, behoedzaamheid, precautie
 prude               preuts
-pruderie            f, preutsheid
+pruderie, pruderies f, preutsheid
 pruneau             m, brokkenmaker, gedroogde pruim, brokkenpiloot
 prune               f, pruim, violetkleur
 prunelle            f, pupil, sleedoorn
@@ -12801,6 +12814,7 @@ rebelle             oproerig, dol, eigenzinnig, weerbarstig
 reblochon           m, soort kaas
 rebondies           stuiteren, terugspringen
 rebondissement      rebounds
+bondissant          springen, wippen, dansen, hinken
 rebord              m, drempel, vensterbank, richel, schap
 reboucher           boucher de nouveau, opnieuw (af)sluiten
 rebouteux           genezer, kwakzalver
@@ -12920,8 +12934,7 @@ relayer             aflossen, vervangen, rouleren, doorgeven
 relent              m, stank
 relevé              m, afschrift, ceel, kaart
 relever             lezen, overnemen, ontheffen, vallen onder, weer rechtzetten, op ingaan, omhoogkruipen (van rok)
-relief              m, relief
-relief              m, spijs, levensmiddelen, voeding, kost, eten, voedsel, eetkamer
+relief              m, spijs, levensmiddelen, voeding, kost, eten, voedsel, eetkamer, relief
 relier              verbinden, in verband brengen, verenigen, linken, ingebonden (boek)
 religion            f, geloof, godsdienst
 reliure             f, band, boekband
@@ -13095,7 +13108,7 @@ restituer           teruggeven, restitueren, overdragen, overmaken
 restreint           beperkt, nauw, niet algemeen toegankelijk
 restreinte          beperkt, benauwd, niet algemeen toegankelijk
 restriction         f, begrenzing, beknotting
-resurgir            weer opduiken
+ressurgir           avoir lieu à nouveau, weer opduiken
 retardataire        m, laattijdig, achterblijver, achterblijfster, laatkomer
 retard              m, vertraging
 retard              uitgesteld
@@ -13633,6 +13646,7 @@ scanda-t-il         declameerde hij, reciteerde hij, droeg hij voor
 scander             declameren, scanderen
 scarabée            m, kever
 scène de cul        f, kontscène
+scène               f, scène
 sceau               m, zegel
 scellés             m, zegels
 sceller             dichtplakken, verzegelen, ingezet in ...
@@ -13829,8 +13843,7 @@ sentimentalisme     m, sentimentaliteit
 sentimentalité      f, sentimentaliteit, gezwijmel
 sentiment d'échec   m, gevoel van mislukking
 sentiment           m, gevoel, emotie, gemoed
-sentinelle          f, wachtpost, beveiliging, schildwacht
-sentinelle          f, wacht, schildwacht, verkenner
+sentinelle          f, wachtpost, beveiliging, schildwacht, wacht, verkenner
 sentir avec force   feel intensely
 sentir d'accord     gevoel van begrip, overeenkomen
 sentir dans son assiette    van slag zijn
@@ -14365,6 +14378,7 @@ supplicié           gemarteld
 supposer            aannemen, vermoeden
 supposition         f, veronderstelling
 suppurante, suppurer        etteren, veretteren, zweren
+suppuration         f, etter
 supputer            speculeren
 suprême             laatste, hoogst
 suraiguë            schel
@@ -14827,6 +14841,7 @@ toison d'orr        f, gulden vlies
 toison hérissée     f, stekelige fleeche, schapenvacht
 toisons             f, vlies, schaapsvacht, peau animale, poil, beharing
 toit                m, het dak
+toit en croupe      m, schilddak
 toit terasse        m, dakterras
 tollé               m, geroep, gil, kreet, protest, roep, schreeuw, yell
 tombalacoque        boom?
@@ -14972,6 +14987,7 @@ traditionaliste     m, traditionalist, reactionair
 traduit en justice  voor het gerecht brengen
 trafic              m, verkeer, traffic, drukte
 trafiquer           knoeien, meesmokkelen, knoeien met
+trafiquage          m, manipulatie
 tréfond             m, ondergrond, diepten
 tragédie            f, tragedie, treurspel, calamiteit
 trahir              in de steek laten, verklikken, verraden
@@ -15105,7 +15121,7 @@ trivialité          parole, phrase obscène
 trolleys            m, car, omnibus, dubbeldekker
 trombe              f, hoos, waterhoos, regenbui, stortbui, tornado, wolkbreuk, voorbijsnellen
 trompant, tromper   bedonderen, belazeren, verneuken
-trompe              f, bazuin
+trompe              f, bazuin, zenuwstreng, orgaan, weefsel
 tromperie           f, misleiding, oplichterij, fraude, gesjoemel
 tromper l'attente   wachten; verwachting; wachttijd; afwachting
 tromper la vigilance    échapper à sa surveillance
@@ -15747,7 +15763,6 @@ en quête de         op zoek naar
 opuscule            m, petit livre, brochure, pamflet
 typologie           f, karakterschildering, typologie
 anatomie            f, lichaamsbouw, anatomie, gedaante, gestalte, lijf, verschijning
-batracien           m, amfibie
 cartonnage          m, bordpapier, karton
 gommée              gummi, gegomd, gegumd
 côtelette           f, kotelet, karbonade
@@ -15769,5 +15784,28 @@ exclusion           f, uitsluiting
 truffer, truffé     garnir (pourvoir une chose de qqch), mettre dans
 diagnostic          m, diagnose, besluit
 homosexualité       f, homofilie, homosexualiteit
-=== H.P. Lovecraft - Contre le monde, contre la vie - Michel Houellebecq --- pag. 55 --- onderaan ===
+verrat              m, beer
+censure, autocensure   f, censuur, zelfcensuur             
+affirmé             beaamd, verzekerd, bevestigd
+importer            invoeren, van belang zijn
+érotisme            m, erotiek
+émoustillant        joie, blijmoedig, jolig, vreugdevol, erotisch, zinneprikkend
+technologie         f, technology
+idéologie           f, ideologie
+arrière-mondes      ?
+opportunément       gelegen, geschikt, opportuun, van pas
+chambre à air       f, binnenband
+vespéral            couchant, soir
+succéder, succèdent volgen op, leiden, resulteren, uitlopen, uitmonden, opeenvolgen
+troc                m, ruilhandel, ruiling, ruilverkeer, swap, valutaswap
+taverne             f, taverne
+ciseler             beitelen, uitbeitelen
+jade                m, jade
+cornaline           f, kornalijn, steen, gesteente, kwarts
+corail              m, koraal
+architecture        f, architectuur
+clocheton           m, haute construction, tour, kerktoren
+minaret             m, minaret
+dramaturgie         f, drama, dramatiek, dramaturgie
+=== H.P. Lovecraft - Contre le monde, contre la vie - Michel Houellebecq --- pag. 73 --- bovenaan ===
 
