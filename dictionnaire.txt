@@ -258,8 +258,7 @@ acerbes             doordringend, guur, fel, schel, schril, bitter
 échéance            f, vervaldag
 échafaudage         m, steiger, stellage, stelling
 échafaud            m, schavot, steiger, stelling
-achalandée          goed voorzien, magazin, boutique
-achalandée          rijk aan clientèle
+achalandée          goed voorzien, magazin, boutique, rijk aan clientèle
 échancré            décolleté, ouvert
 échancrure          f, bocht, inham, verdunning, ouverture, espace libre ou vide
 échange             m, uitwisseling, inruilen, ruilen, omwisselen
@@ -1848,7 +1847,7 @@ avidité             graagte, begerigheid
 évier               m, afwasbak, gootsteen
 avilir              degraderen
 avilissante         mensonwaardig
-avilissement        m, vernedering
+avilissement        m, vernedering, événement malheureux
 aviné               dronken door de wijn
 évincer             verdringen
 avion               m, vliegtuig
@@ -2201,7 +2200,7 @@ baguette            f, aanwijsstok, dirigeerstok
 baies               f, bes, kreek, baai, inham, vensterraam, glasraam, kijkglas
 baie vitrée         f, erker, groot raam, vensterraam
 baignade            f, duik, het baden
-baigner             baden, wellen, een bad nemen
+baigner, baigné     baden, wellen, een bad nemen
 baigneur            m, bader, badgast, zwemmer
 baignoire à jacuzzi f, jacuzzi
 baignoire           f, bad, kuip, ligbad
@@ -3324,6 +3323,7 @@ cathédrale          f, kathedraal
 catho               m, catholique
 catogan             m, paardenstaart
 cauchemar           m, nachtmerrie, angstdroom
+cauchemardesque     hetgeen de haren te berge doet rijzen, nachtmerrieachtig, griezelig, bloedstollend
 cauchois            du pays de Caux
 cœur de cible       m, kerndoelgroep
 cœur gros           zwaar gemoed
@@ -5237,7 +5237,7 @@ dèche               f, misère
 désemparé           ontredderd
 désemparer          disloquer
 désemplir           vider en parti, drommen
-désenchanté         ontgoochelend
+désenchanté         ontgoochelend, gedesillusioneerd
 désenchantement     m, ontgoocheling
 désenchanter        de illusie benemen, ontgoochelen
 désengager          opt-out, losmaken
@@ -5311,6 +5311,7 @@ détournement de     m, gijzeling, kaping, verduistering, ontvreemding
 détourner           de pas afsnijden, krombuigen, afdraaien, de rug toekeren
 détours             onoprechtheid
 détraquer           beschadigen, verstoren, doen instorten
+détraquement        m, ontreddering, verwarring, wanorde
 détrôner            onttronen
 détrempé            doorweekt, modderig, vol water
 détresse            f, leed, pijn
@@ -6425,7 +6426,7 @@ envenimé            venijnig, giftig
 envenimer           etteren, veretteren, zweren
 envergure           f, formaat, spanwijdte, vleugelbreedte
 enverra, envoyer    verwijzen, achteroverslaan, kegelen, sturen, keilen, kieperen, bliksemen
-envers              m, jegens, naar, achteruit, omgekeerde
+envers              m, jegens, naar, achteruit, omgekeerde, keerzijde, rugpand, omkering
 en vertu de         krachtens, op grond van, uit kracht van
 en verve            in de mood, in goeden doen, in opperbeste stemming
 envestiture         f, inhuldiging
@@ -9246,6 +9247,7 @@ le tir à l'arc      boogschieten
 le tour est joué    voila
 lettré              geletterd
 lettre              f, brief, bijschrift, letter
+lettre circulaire   f, nieuwsbrief, rondschrijven
 lettre introductive f, inleidende brief
 leucémie            f, leukemie
 leurre, leurres     m, lokaas
@@ -10973,6 +10975,7 @@ parallèle           m, parallel, positiebepaling
 paralysé            verlamd, lam, paralytisch
 paralysie           f, lamheid, verlamming
 paranoïaque         m, zij die aan achtervolgingswaan lijden
+paranoïa            f, paranoia, achtervolgingswaan
 paranoïde           dwaas, krankzinnig, paranoïde
 parano              m, paranoïde
 parapet             m, balustrade, borstwering, reling
@@ -15735,6 +15738,7 @@ wagonnets           m, kleine wagen, karretje
 water               m, plee, toilet, wc
 wrap                m, wrap, soort broodje
 xénophobie          f, xenofobie
+phobie              f, fobie
 yatagan             m, turks kromzwaard
 yeuse               f, steeneik
 yeux volontaires    m, tic?
@@ -15888,4 +15892,19 @@ compromettre        compromitteren, zijn nek uitsteken
 mercantilisme       m, handelsgeest, business, commercie, koophandelsgeest
 leitmotiv           m, leitmotiv
 antisémite          m, antisemiet
-=== H.P. Lovecraft - Contre le monde, contre la vie - Michel Houellebecq --- pag. 119 --- onderaan ===
+correspondant       m, correspondent, reporter, berichtgever
+miracle             m, mirakel, wonder, godswonder
+musique             f, muziek
+périclitera, péricliter failliet gaan, verkrottten, vervallen
+boutique            f, boetiek, magazijn, schop, winkel
+compétitivité       f, concurrentievermogen
+candidature         f, kandidatuur, kandidaatstelling
+dynamisme           m, dynamisme
+efficience          f, efficiency, doelmatigheid
+insuffisance        f, afwezigheid, euvel, gemis, tekort, ontoereikendheid
+compétence          f, competentie, deskundigheid, vaardigheid
+hybridité           f, vermening
+baragouine          spreken, zeggen, façon de parler
+versification       f, metriek, versleer, poëtica, poëzieleer
+irréfléchie         ondoordacht, onnadenkend
+=== H.P. Lovecraft - Contre le monde, contre la vie - Michel Houellebecq --- pag. 130 --- bovenaan ===
