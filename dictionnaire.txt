@@ -6897,6 +6897,7 @@ faucon              m, havik, valk
 faufilant, faufiler aanrijgen, spartelen, trappelen, zich een weg banen
 faune               f, fauna, dierenrijk
 faussement          abusievelijk, bedrieglijk, frauduleus
+faux, fausse        onzuiver, vals
 fausser             verwringen, manipuleren, verdraaien
 faute de            bij gebrek aan
 faute de frappe     f, typfout
@@ -7004,7 +7005,6 @@ figure              f, aangezicht, smoel, tronie, pop, gezicht, bek, vorm, figuu
 figurer             voorkomen, een rol spelen, uitbeelden
 figurine            f, beeldje, figuurtje, poppetje
 filé entre les doigts   door de vingers glippen
-filé, filer         
 filé, filer         spinnen, zich op weg begeven, wegkomen, racen, to shoot past, zweven, bevaren, achteraangaan
 filament            m, fijne draad
 filaos              boom, bladeren zien er uit als naalden
@@ -7738,11 +7738,13 @@ gourou              m, goeroe
 gousse              f, teentje, dop, vrucht, zaadbol, kast, fruit, matras
 gousset             m, vestzak
 goutte-à-goutte     m, infuus
+goutte à goutte     f, druppelsgewijs
 goutte              f, druppel
 gouttelette         f, druppel, parel
 goutter             druipen, druppelen
 goutteux            jichtig
 gouttière           f, afvoergoot
+chat de gouttière   m, zwerfkat, straatkat
 gouttières          afvoergoot, regenpijp, goot, dakgoot
 gouvernail          m, roer, stuur, stuurinrichting, stuurrad
 gouverner           beheersen, regelen, reglementeren, regulariseren
@@ -7949,7 +7951,7 @@ haïssable           hatelijk
 hêtre               m, beuk
 hébétés             afwezig, suf, verdoofd, wezenloos
 hébétés             suf, wezenloos
-hébétude            bedwelming
+hébétude            f, bedwelming, beduusd, verstomd, verwonderd
 habile              behendig, competent, correct, deskundig, kundig, smarter
 habilement          op handige, behendige wijze
 habileté            slag, vlugheid, behendigheid, bekwaamheid
@@ -9057,7 +9059,7 @@ la fleur du ciel    f, de zon
 légaliste           op een wet gebaseerd
 légère              dun, licht, luchtig, schuin
 légèrement          lichtjes, nauwelijks, zachtjes
-légèreté            lichtheid, luchtigheid, gewichtloosheid
+légèreté            f, lichtheid, luchtigheid, gewichtloosheid
 Lagavulin           single malt whisky
 légendaire          legendarisch, mystérieux
 légende             f, fabel, parabel, legende, sage, volksoverlevering
@@ -10275,7 +10277,7 @@ mourantes           stervend
 mouroir             m, hospitum, hôpital, home
 mousqueton          m, musket, crochet, karabijnhaak
 mousse              f, mos, schuim
-mousseline          f, neteldoek
+mousseline          f, neteldoek, laken, materiaal, stof, stofdoek, weefsel
 mousse              m, jeune homme
 mousses             f, blank, wit
 mousseuse           bruisend, schuimend
@@ -14098,6 +14100,7 @@ solliciteur         personne qui sollicite une faveur
 sollicitude         f, bezorgdheid, bekommering, zorgzaamheid
 sol                 m, aardbodem, grond, aarde, bodem, vloer
 sombrer             ondergang, afzakken, kelderen, ondergaan, zakken, zinken
+sommier             m, spiraalmatras
 sommairement        kort en bondig, simpel
 sommaire            oppervlakkig
 sommation           f, aansporing, vermaning, aanmaning, dagvaarding
@@ -14159,6 +14162,7 @@ soucieux            bekommerd, bezorgd, zich bewust van
 souci               m, beslommering, getob, bron van ergernis, bekommering
 soucoupe            f, schotel, schoteltje, onderlegger
 soudé               aan elkaar gegroeid, aan elkaar gelast, dichtgegroeid, vergroeid
+soudre              oplossen
 souder              lassen, wellen, aan elkaar lassen
 soudoyer            afkopen, omkopen
 soudure             verenigen, lassen, hereniging
@@ -14256,6 +14260,7 @@ spécialité          f, specialiteit
 spahi               cavalier de l'armée française d'un corps d'Afrique du Nord.
 sparadrap           m, bepleistering, pleister, stucwerk
 spasmodiquement     convulsive
+convulsivement      krampachtig
 spasmodique         spastisch, spasmodisch
 spectacle           m, spektakel, show, tafereel, voorstelling
 spectateur          m, kijker, toeschouwer
@@ -15947,4 +15952,6 @@ bifurquer           zich afsplitsen, zich aftakken, zich splitsen
 courtoisie          f, hoffelijkheid
 ennemie             f, vijand, oppositie, bestrijder, tegenpartij
 hardis              brutaal, moedig, stoutmoedig, onverschrokken, onbevreesd, monter, vrolijk, opgewekt, vrijpostig
-=== H.P. Lovecraft - Contre le monde, contre la vie - Michel Houellebecq ===
+gaine               f, foedraal, schede, korset, huls, omhulsel
+arsenal, arsenaux   m, arsenaal, wapenkamer, wapendepot, magazijn
+=== André Malraux --- La condition humaine --- pag. 16 bovenaan ===
