@@ -1298,6 +1298,7 @@ arrachement         m, uitscheuring
 arracher            losrukken, losscheuren, losscheuren, wegrukken
 arranger            opmaken, in orde maken, rechtzetten
 arrière-bouche      f, keelholte
+arrière-boutique    f, achterste winkelruimte
 arrière             m, achterdeel, achtereind, achterstuk, achterzijde
 arrière             m, achterste, achterdeel, achtereind
 arrière-pays        m, achterland
@@ -4055,7 +4056,6 @@ conceptualisation   f, creatie, schepping, gissen, experimenteren
 concertation        f, overleg, vooroverleg, ruggespraak
 concerter           faire un projet en accord avec plusieurs personnes, samenzitten, samenspannen, deliberate
 concert             m, concert, optreden, muziekuitvoering
-concession          concessie, handel
 concession          f, grondbezit, handel, concessie, tegemoetkoming, toegeving
 concessionnaire     m, concessiehouder
 concevable          denkbaar
@@ -6536,6 +6536,7 @@ essoufflé, essouffler   ademloos, kortademig, buiten adem
 essuie-glaces       m, ruitenwisser
 essuyer             afvegen, afwrijven, afdrogen, vegen, wegstrijken, schoonvegen
 estaminet           m, taverne, bar, kroeg
+estamper            versieren, commanderen, ritselen, organiseren, regelen
 estampes            f, hak, gravure
 estéticienne        f, schoonheidsspecialist
 esthète             m, estheet, kamergeleerde, kunstliefhebber
@@ -11858,6 +11859,7 @@ poste de barre      m, het roer van een schip?
 poste de radio      m, radio-toestel
 poste de télévision m, tv-toestel
 poste               m, ambt, baan, positie, station
+poste               f, de Post
 poste restante      f, poste-restante
 postiche            m, haarstukje, pruik, toupet, vals haar
 postillonne         sputters, stotteren?
@@ -15352,6 +15354,7 @@ vague               vaag, wazig, schemerig, onscherp, onpeilbaar, onbepaald
 véhémence           gepassioneerd, bezield, ardent, vurig, energiek
 véhément            heftige, geestdriftig, enthoesiast
 véhiculer           overbrengen
+véhicule            m, voertuig
 vaillament          vaillamment, manhaftig, moedig
 vaillance           bravoure, dapperheid, heldendom, heldenmoed
 vaillant            braaf, dapper, manhaftig, manmoedig
@@ -15954,4 +15957,10 @@ ennemie             f, vijand, oppositie, bestrijder, tegenpartij
 hardis              brutaal, moedig, stoutmoedig, onverschrokken, onbevreesd, monter, vrolijk, opgewekt, vrijpostig
 gaine               f, foedraal, schede, korset, huls, omhulsel
 arsenal, arsenaux   m, arsenaal, wapenkamer, wapendepot, magazijn
-=== André Malraux --- La condition humaine --- pag. 16 bovenaan ===
+automitrailleuse    f, véhicule militaire terrestre
+passeport           m, paspoort, identiteitsbewijs, pas
+bras de chemise     m, hemdsmouw
+cribler             zeven, ziften
+tournesol           m, zonnebloem
+=== André Malraux --- La condition humaine --- pag. 19 bovenaan ===
+
