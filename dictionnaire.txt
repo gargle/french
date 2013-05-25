@@ -6259,6 +6259,7 @@ en plan             in zak en as, achterlaten
 en plein face       volle gezicht, recht in het gezicht
 en plein            recht, regelrecht
 en porte à faux     onevenwicht, in een onevenwichtige situatie, déséquilibre — (onevenwichtigheid), overhangend
+porté à faux        overhangend              
 en prendre son parti patientier, geduld
 en principe         strikt genomen, en théorie
 en priorité         spécifiquement, avant tout
@@ -7328,6 +7329,7 @@ freiner             afremmen
 frein               m, rem, mond, tong, belemmering
 frelon, frelons     m, horzel, hoornaar
 fresque             f, fresco, graffito, muurschildering, wandschildering
+fret                m, vracht, cargo, last, scheepslading, wagonlading
 fretin              m, jonge vis
 friable             brokkelig, kruimelig
 friandises          f, lekkers, snoep, snoepjes, traktatie, versnapering
@@ -8735,6 +8737,7 @@ interjection        f, tussenwerpsel
 interlocuteurs      m, gespreksgenoot, gesprekspartner
 interloqué          aangrijpen, choqueren, verdoven, vloeren
 interloquer         onthutsen, ontzetten, schokken, shockeren
+intermédiaire       m, bemiddelaar
 intermédiaire       tussenliggend, intermediair
 interminable        eindeloos, eeuwigdurend, eeuwig
 intermittence       f, onderbreking, onregelmaat
@@ -12964,6 +12967,7 @@ relâcher            laten gaan
 reléguer            barricaderen, declasseren, in rang verlagen, terugzetten
 relais              m, estafette, opvolging, stopplaats, rustplaats, postkoets, vervanging, stage
 relancer            herproberen, blijven bevragen
+relève              f, vervanging, aflossing?
 relève, se relever  overnemen, overeind krabbelen, staan onder, vallen onder, weer rechtzetten, er overheen komen
 relater, relatant   kroniek, rapporter, raconter
 relation            f, relatie, contact, verhaal, rapport
@@ -13592,6 +13596,7 @@ santé               f, gezondheid
 santal              m, sandelhout
 sante journée       f, blessed day
 sanza               f, muziekinstrument, percussieinstrument
+saoul               dronken, beschonken, zat, bezopen, ladderzat, straalbezopen
 saoulé              beschonken
 saouler             bezatten, dronken worden, zich bezuipen
 saouler la guelle   bezatten
@@ -15962,5 +15967,6 @@ passeport           m, paspoort, identiteitsbewijs, pas
 bras de chemise     m, hemdsmouw
 cribler             zeven, ziften
 tournesol           m, zonnebloem
+pistolet à crosse   m, pistool, (kolf)pistool
 === André Malraux --- La condition humaine --- pag. 19 bovenaan ===
 
