@@ -158,6 +158,7 @@ absent              m, afwezig, afwezige
 absinthe            f, absintlikeur
 absolument          beslist, ten enenmale, absoluut
 absolu              m, het geheel, absolute
+absolution          f, vergeving, vergiffenis, pardon, absolutie, biecht
 absorbant           boeiend, intrigerend, pakkend, roerend
 absorber            aanzuigen, doorslikken, wegslikken, engrossed
 abstenir, abstins, abstint, abstenu     zich onthouden
@@ -778,6 +779,7 @@ amabilités          f, liefheid, voorkomendheid, aardigheid, beminnelijkheid
 amadou              m, briquet, aansteker
 amaigri             uitgemergeld, knokig, benig
 émaillées           moffelen, ge-emailleerd
+émaillères          verfraaien, het versieren
 émail               m, email / glazuur van een tand
 amalgame            m, mengeling
 amalgamer           mixen, mengelen
@@ -1031,6 +1033,7 @@ apéro               m, aperitief, borrelhapje
 épars               verspreid, scattered
 aparté              afdwaling, terzijde, uitweiding
 épatante            belangrijk, niet slecht, indrukwekkend, groot, important
+épaté               de volume, de taille important, large (wijd, breed)               
 épaule              f, schouder
 épauler             aanleggen, meehelpen, vooruithelpen, ondersteunen
 épave               f, autowrak, ondergang, wrakstuk, wrak, flotsam, aangespoelde rommel
@@ -1452,9 +1455,8 @@ atelier             m, atelier, fabriekshal
 étendue             f, omvang, gewest, land, landschap, uitgestrektheid, verdund
 éternel             eeuwig, eeuwigdurend
 éternité            f, eeuwigheid
-éternuaient         éternuer = niezen
 éternuement         genies, het niezen
-éternuer            niezen, proesten
+éternuer, éternuaient       niezen, proesten
 éteule              f, stoppel, dakstro, dakriet
 athée               m, ateïstisch
 éthéré              etherisch
@@ -4457,7 +4459,7 @@ coups de pinceau    penseelstreken
 coups de sabre      slagen met de sabel
 coups de sonde      m, peilingen
 coup sur coup       keer op keer
-coupure             f, afsnijding, snee, snijwond, knipsel
+coupure             f, afsnijding, snee, snijwond, knipsel, splitsing, scheiding, separatie
 courage             m, de moed, dapperheid
 courûmes, courrir   najagen, achter vrouwen zitten
 couramment          vloeiend
@@ -5354,6 +5356,7 @@ dévideur            m, streamer
 déviner             gissen, raden, veronderstellen, doorzien, gokken
 dévisager           aanstaren, fixeren, staren, staren naar, turen
 déviser             losschroeven
+dévise              f, het devies, lijfspreuk, parool, wapenspreuk
 dévitalisation      f, wortelbehandeling, zenuwbehandeling
 dévoiler            onthullen, ontmaskeren
 dévolues            ten deel vallen, te beurt vallen, overgedragen, qui est, verdienste, aanschaffen, verwerven
@@ -5396,6 +5399,7 @@ de furtifs          steels
 de gisant           binnenin, binnenkant
 de gré              gaarne
 de grand matin      bijtijds, in alle vroegte, vroegtijdig
+de mauvais gré      verplicht, opgelegd
 degrés              m, graad, hevigheid, gradatie, hoekgraad, niveau, peil
 de hardis           van winterharde
 dehors bourrus      m, norse buitenkant
@@ -7608,7 +7612,7 @@ genre               m, het soort, the kind, geslacht
 genre tourmenté     m, getormenteerde aard
 gens conservateurs  conservatief
 gentiane            f, alcoholische drank
-gentilesse          aardigheid, beminnelijkheid, goedheid, vriendelijkheid
+gentilesse          f, aardigheid, beminnelijkheid, goedheid, vriendelijkheid
 gentiment           kameraadschappelijk, lieflijk, zacht, vriendschappelijk
 gerçure             f, scheuren
 gerbe               f, braken, overgeefsel, uitbraaksel, plensen van water, vonkenregen, bundel, korenschoof
@@ -10431,6 +10435,7 @@ naturaliste         m, bioloog, natuurkenner
 nature              f, aard
 naturellement       natuurlijk, uiteraard, vanzelf
 naturelle           normaal
+naturel             m, onbevangenheid, ongemaaktheid, natuurlijkheid
 natures mortes      f, stillevens
 naturopathe         m, netuurgenezer
 nœud coulant        m, lis, lus, strop
@@ -10618,7 +10623,7 @@ occasion            f, gelegenheid, kans, mogelijkheid, ruimte, aanleiding
 occasionner         aanleiding geven tot, met zich meebrengen, bewerkstellingen, teweegbrengen
 occiput             m, achterhoofd
 occulte             caché, verdekt
-occupation          f, bezigheid, bedrijvigheid, activiteit
+occupation          f, bezigheid, bedrijvigheid, activiteit, bezetting
 occurence           f, voorkomen, gebeurtenis
 occurrence          f, voorval
 ocelles             m, ringen op veer van een vogel
@@ -12821,7 +12826,7 @@ ravier              m, voorafje, voorgerecht
 raviné              gegroefd
 raviner             geul, een geul trekken
 ravin               m, bergkloof, ravijn, bergengte, afgrond
-ravi                opgetogen, verrukt, geboeid
+ravi, ravis         opgetogen, verrukt, geboeid
 ravir               buitmaken, plunderen, beroven
 réviser             herzien, opnieuw bekijken, grondig nakijken, verbeteren
 raviser             zich bedenken
@@ -14136,7 +14141,7 @@ sonde               f, sonde, dieplood, lood, meetlood, paslood, schietlood
 sonder              onderzoeken, peilen, polsen
 songe-creux         m, dromen, zich inbeelden, indenken, voorstellen, imagineren, iemand met levendige verbeelding
 songer à            think of
-songer              overwegen, beschouwen, bespiegelen, filosoferen, nadenken, denken
+songer, songêames   overwegen, beschouwen, bespiegelen, filosoferen, nadenken, denken
 songes              m, dromen, ambitie, aspiratie
 songeur             nadenkend
 songeuse            dromerig
@@ -14146,6 +14151,7 @@ sonneries           f, geklingel, klokgelui, leven, rumoer, hoornsignaal
 sonnerie trompette  f, trompetgeschal
 sonner le glas      de doodsklok doen klinken
 sonnette            f, deurbel, klok
+sonnet              m, sonnet, klinkdicht
 sonneurs            m, klokkenspeler
 sono                geluid
 sonore              diepklinkend, helder, klinkend
@@ -14435,6 +14441,7 @@ supposition         f, veronderstelling
 suppurante, suppurer        etteren, veretteren, zweren
 suppuration         f, etter
 supputer            speculeren
+supputation         f, speculatie, uitgaan van, onderstelling, veronderstelling
 suprême             laatste, hoogst
 suraiguë            schel
 suraigu             extreem scherp
@@ -14518,6 +14525,7 @@ sylphe              m, oiseau volant
 symétriquement      symmetrisch
 symbole             m, symbool, aandenken, beeldmerk, teken
 symbolique          f, étude et recherche scientifique, theorie, abstrakt, teken, zinnebeeld, symbool
+scientifique        wetenschappelijk
 sympathie           f, sympathie
 sympathiser         verbroederen
 sympoésie           f, ?
@@ -15537,6 +15545,7 @@ versant             m, berghelling, bergwand, glooiing, helling
 versé, verser       eruditie, geleerdheid, schoolkennis
 verser              stromen, vergieten
 vers luisants       m, glimwormen
+vers                m, verzen, dichtregel
 vertébral           van de ruggegraat, wervel-
 vertèbres           f, wervels
 vert-de-gris        m, roestvorming, adj. kopergroen, patina
@@ -15770,6 +15779,7 @@ vulgaire            m, laag volk
 vulgaire            ordinair, gewoon
 vulgate             f, evangelie, bijbelboek
 wagon               m, wagon van een trein
+wagon-restaurant    m, restauratiewagen
 wagonnets           m, kleine wagen, karretje
 water               m, plee, toilet, wc
 wrap                m, wrap, soort broodje
@@ -15969,6 +15979,7 @@ hardis              brutaal, moedig, stoutmoedig, onverschrokken, onbevreesd, mo
 gaine               f, foedraal, schede, korset, huls, omhulsel
 arsenal, arsenaux   m, arsenaal, wapenkamer, wapendepot, magazijn
 automitrailleuse    f, véhicule militaire terrestre
+auteur              m, auteur, schrijver
 passeport           m, paspoort, identiteitsbewijs, pas
 bras de chemise     m, hemdsmouw
 cribler             zeven, ziften
@@ -16024,4 +16035,23 @@ rarement            zelden
 phtisie             f, tuberculose
 mondanité           f, élitisme
 sujétion            f, onderwerping, slavernij, knechtschap
-=== Albert Camus --- Journaux de voyage --- pag. 15 bovenaan ===
+initiale            f, initieel, voorletter, beginletter
+notation            f, notitie, notatie
+condenser           indikken, neerslaan, verkorten
+texte               m, tekst
+nervosité           f, nervositeit, rusteloosheid
+préface             f, voorwoord, inleiding, woord vooraf
+éditeur             m, uitgever, uitgeverij
+car                 m, wagen, kar, toerwagen, touringcar
+maître d'hôtel      m, butler, chef de cuisine
+œillade             f, blik werpen, manière de diriger les yeux vers qqch
+sœur jumelle        f, tweelingzus
+obstacle            m, obstakel, obstructie, barrière, hindernis
+ambassade           f, ambassade, consulaat
+consulat            m, consulaat
+gardon              m, voorn, witvis
+abstention          f, terughoudendheid, onthouding
+angine              f, keelontsteking, keelpijn
+antichambre         f, foyer, voorportaal, vestibule
+absorption          f, opneming, absorptie, inzuiging
+=== Albert Camus --- Journaux de voyage --- pag. 23 bovenaan ===
