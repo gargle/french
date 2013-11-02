@@ -325,7 +325,7 @@ acier trempé        m, weathered steel
 éclisse             f, blessure, letsel, verwonding, wond, plaat, plaatje, filter, artefact
 éclopé, écloper     kwetsen, gekwetst
 éclos               bloeiend (bloemen)
-éclosion            f, uitbraak
+éclosion            f, uitbraak, opkomst, wording, ontstaan, ontluiken, opengaan
 écluses             sassluis, spui, sas, sluis, sluiswater
 acmé                f, climax, hoogtepunt, top, toppunt
 acnéique            acne
@@ -2439,6 +2439,7 @@ bel et bien         inderdaad
 belette             f, wezel
 bellâtre            modegek
 belle saison        f, été, printemps
+printemps           m, lente
 belligérant         m, agressief, oorlogvoerend, strijder, vechter
 belliqueux          oorlogszuchtig, strijdlustig
 belote              f, kaartspel
@@ -6566,6 +6567,7 @@ et puis             en vervolgens
 eugénisme           m, rassenveredeling
 eunuques            m, castraat, euneuch, gesnedene, haremwachter, kamerling
 euphorbes           heksenmelk, soor plant
+euphorie            f, euforie, gelukroes
 Euréka              f, Euréka
 eurent beau jeu     hadden het makkelijk
 Europe              f, Europa
@@ -7130,7 +7132,7 @@ foie gras           m, foie gras
 foie                m, lever
 foi                 f, geloof, geloofsovertuiging
 foin                m, boerendans, hooi, mépris, hooiberg
-foire               f, beurs, jaarbeurs, kermis, markt
+foire               f, beurs, jaarbeurs, kermis, markt, bazaar
 foire               f, markt, bazaar
 foireux             crappy
 fois                f, keer, maal
@@ -8367,6 +8369,7 @@ impudent, impudente    brutaal, ombeschaamd, schaamteloos, vrijpostig
 impudeur            f, oneerbaarheid, ongepastheid, onkuisheid
 impudicité          f, onkuisheid, schaamteloosheid
 impuissant          machteloos, onmachtig, impotent
+impuissance         f, onvermogen, onmacht, hulpeloosheid
 impulsion           f, drang, impuls
 impunément          ongestraft, straffeloos
 impunité            f, straffeloosheid
@@ -10864,6 +10867,7 @@ pédé                m, flikker, homo
 pédantesque         eruditie, geleerdheid, schoolkennis, tucht, discipline
 pédantisme          m, pedanterie, betweterig
 pédérastie          f, knapenliefde
+pédéraste           m, flikker, homo, homoseksueel
 PAF                 m, televisie
 pagaie              f, riem, peddel, roeispaan
 pagaille            f, zwijnestal, warboel, zooi, keet
@@ -11546,6 +11550,7 @@ pipeau              m, fluit, fluitje, herdersfluit
 pipe                f, pijp
 piqûre              f, pikuur, inspuiting, prikken, steken
 piquer              aanvallen, donderen, duvelen, prikken, snijden, stompen
+se piquer de        ?
 piquer au vif       op de tenen trappen
 piqueter            afpalen, gevlekt, spikkelachtig, se couvrier de taches
 piquet              m, piket, pin, kleerhaak, kaartspel
@@ -11762,6 +11767,7 @@ poissonnier         m, visboer
 poissons-scies      m, zaagvis, zwaardvis
 poitrail            m, borst
 poitrine            f, borst, borstkas, boezem, buste, romp, ribbenkast, bossom
+poitrinaire         m, tuberculose
 poivré              gepeperd, heet, peperig
 poivre              peperkorrelig
 poivrons            m, paprika
@@ -12198,6 +12204,7 @@ progéniture         f, afstammeling, descendent, kroost, nageslacht, telg
 progiciel           m, programma, softwarepakket
 prognathe           vooruitstekend kaaksbeen
 programmation       f, programmering
+programme           m, programma
 progrès             m, groei, voortgang, vordering, vooruitgang
 progressiste        m, vooruitstrevend, progressief
 prohiber            verbieden
@@ -16054,4 +16061,6 @@ abstention          f, terughoudendheid, onthouding
 angine              f, keelontsteking, keelpijn
 antichambre         f, foyer, voorportaal, vestibule
 absorption          f, opneming, absorptie, inzuiging
-=== Albert Camus --- Journaux de voyage --- pag. 23 bovenaan ===
+fourreur            m, bonthandelaar, pelswerker, bontwerker
+cafardeux           triest, bedroevend
+=== Albert Camus --- Journaux de voyage --- pag. 27 bovenaan ===
