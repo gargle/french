@@ -1149,6 +1149,7 @@ apporter            schaffen, toevoeren, verschaffen, voorzien van
 apport              m, inbreng, gift, bijdrage
 apposer             aangeven, aanwijzen, vasthechten
 apprêter, apprêtant aanmaken, aanstalten maken, beginnen, aanmaken, primen, aan de slag gaan
+apprêt              m, forcé, gekunsteldheid
 apprécié, apprécier behaagd
 appréciable         merkelijk
 appréciation        f, inschatting, erkenning, waardering
@@ -1487,7 +1488,7 @@ atonie              f, stijfheid, slapte, lamheid
 étouffé             gestikt, verstikt, verstikkend, versmoord, verstopt, gesmoord
 étouffante          bedompt, broeierig, verstikkend, benauwd, smoorheet
 étouffement         m, het stikken, verstikking, verstikkingsdood
-étouffer            neerslaan, supprimeren, inhouden, gesmoord, to choke, verslikken
+étouffer            smoren, wurgen, neerslaan, supprimeren, inhouden, to choke, verslikken
 étoupe              f, rafels
 étourderie          f, inattention, verstrooidheid, vergetelheid
 étourdir            afstompen, bedwelmen, suf maken, laten duizelen , verbijsteren, afstompen, dom, dwaas, onbewust
@@ -1503,7 +1504,7 @@ atout               m, troef
 étrangeté           f, nieuwigheid, onbekendheid, vreemdheid
 étranglée           gesmoord, verstikt, wurgen
 étranglement        m, beklemming, bottleneck, knelpunt, knooppunt
-étrangler           choken, smoren, wurgen, de keel dichtknijpen
+étrangler           de keel dichtknijpen, choken, smoren, wurgen
 étrave              f, steven, voorkant v.e. boot, boeg
 étreindre, étreignais          knuffelen, omklemmen
 étreinte, étreignit f, knuffel, omhelzing, omarming
@@ -2313,7 +2314,7 @@ barbelé             m, stekeldraad
 barbiche            f, kinbaardje, sik
 barbichue           met een sikje
 barbillons          weerhaak, barbeel
-barboter            plassen, poedelen, pootjebaden
+barboter            plassen, poedelen, pootjebaden, voler (prendre à autrui, stelen, roven)
 barbouillage        m, kladwerk, klodders
 barbouiller         besmeren, smeren
 barbu               baardig
@@ -3043,8 +3044,7 @@ caillots            m, klonter, stolsel
 caillou             m, kiezel, kei, grind
 caillouteuse        kiezelig
 cailloux, cailloux  m, grind, kiezel, kiezelsteen, kei
-caisse              f, geldkas, kasregister, kistje, koffer, chest
-caisses             f, koffer, krat
+caisse              f, geldkas, kasregister, kistje, koffer, chest, krat
 caissière           f, kassierster
 calé, caler         aanhouden, aflopen, bijdraaien, halthouden, stilstaan, steunen, ondersteunen
 calame              m, veer om mee te schrijven
@@ -11424,6 +11424,7 @@ peu ou prou         bij benadering, bijna, enigzins, grofweg, min of meer, nagen
 peuplades           f, stammen
 peupler             bevolken, verblijven, rondhangen
 peuples             f, massa, natie, plebs
+peuplier            m, populier
 peu raisonnable     onredelijk
 peureuse            aangstvallig, angstig, beducht, laf
 peureusement        angstig, angstvallig
@@ -12185,7 +12186,7 @@ prodigue            gul, kwistig, rijkelijk, royaal, vrijgevig
 prodiguer           kwistig uitgeven
 production          f, fabricage, productie, output, rendement, uitvoer
 productiviste       m, verhoging van de productie
-produit             m, product
+produit             m, product, opbrengst, resultaat, revenu, inkomst, inkomsten
 profanation         f, blasfemie, heiligschennis, ontheiliging, ontwijding
 profane             niet-kerkelijk, ondeskundig, leek, wereldlijk, werelds
 proféré             geslaakte (kreten, beschuldigingen)
@@ -12250,7 +12251,8 @@ propos de           voorstel
 proposition         f, aanbieding, voorstel, suggestie
 propos              m, punt, uiting, action de dire à haute voix
 proprement          eigen, netjes, proper, schoon, eigenaardig
-proprets            keurig, clean, nette
+propre              goed, juist, keurig, schoon, zuiver, raak, netjes
+proprets            proper, zindelijk, smetteloos
 propriété           f, bezit, eigendom, boerderij, goed, property
 propriétaire        m, eigenaar, bewoner
 propulsé            stuwen, bewegen
@@ -13174,7 +13176,7 @@ retardataire        m, laattijdig, achterblijver, achterblijfster, laatkomer
 retard              m, vertraging
 retard              uitgesteld
 retendre            aan te scherpe
-retenir, retenue    achterhouden, inhouden, vasthouden, tegenhouden, bijeengehouden, to retain
+retenir, retenue    achterhouden, inhouden, vasthouden, tegenhouden, bijeengehouden, to retain, bestellen, boeken
 retentir, retentissaient    schellen, weergalmen, naklinken, weerklinken, weerschalken
 retentissannt       aanhoudend, daverend, luid, luidklinkend
 retentissement      m, gedonder, gebulder, kabaal, gerommel
@@ -14482,7 +14484,7 @@ sur le coup         nu, in looppas, aanstonds, gelijk
 surlendemain        m, twee dagen later, de dag na morgen
 sur le pouce        voor onderweg, on the run
 sur les rangs       kanshebber voor
-sur le tard         tegen het einde
+sur le tard         tegen het einde, à la fin de la journée
 sur leur passage    in hun pad
 surmené             dol, gek, oververmoeid, overwerkt, overspannen
 surmenage           m, oververmoeidheid, overwerktheid
@@ -15407,6 +15409,7 @@ vallon              m, dal, vallei
 vallonné            golvend, heuvelachtig, heuvelig
 vallonnement        m, golving
 véloce              rap, snel, vlot
+vélodrome           m, wielerbaan, veledroom
 vélocité            f, vitesse, aptitude
 valoir la chandelle de moeite waard
 valoir le coup      de kosten waard
@@ -15704,6 +15707,7 @@ voûté               gebogen, gewelfd, krom, met een ronde rug
 voûte               f, boog, gewelf
 voûter              krommen, zich welven
 vociféra            razen, schreeuwen, tieren
+vociférant          schreeuwerig, luid, luidruchtig, lawaaierig
 vogue               f, bevlieging, gril, modegril, rage, stijl
 voguer              varen, zeilen?
 voie digestive      f, spijsverteringskanaal
@@ -16063,4 +16067,17 @@ antichambre         f, foyer, voorportaal, vestibule
 absorption          f, opneming, absorptie, inzuiging
 fourreur            m, bonthandelaar, pelswerker, bontwerker
 cafardeux           triest, bedroevend
-=== Albert Camus --- Journaux de voyage --- pag. 27 bovenaan ===
+cuisiner            koken, opmaken, prepareren, klaarmaken, uithoren, scherp ondervragen
+tragique            m, tragiek
+à flots             in overvloed, en grand nombre, grande quantité
+aérer               luchten, ontluchten
+argot               m, jargon, vaktaal, slang, argot, groepstaal, bargoens, boeventaal
+cottage             m, landhuis, huisje
+hospitalité         f, hospitaliteit, gastvrijheid, cordialiteit, hartelijkheid, jovialiteit
+pleurer à chaudes larmes              tranen met tuiten huilen
+achèvement          m, voltooiing, realisatie, completering, voleinding
+combustion          f, verbranding, ontbranding
+hectare             m, hectare
+refoulement         m, aller en arrière - achteruitstappen; achteruitwijken; terugwijken, van zich afschuiven, 
+concret             m, het concrete?
+=== Albert Camus --- Journaux de voyage --- pag. 35 bovenaan ===
