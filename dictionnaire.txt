@@ -1042,7 +1042,7 @@ apôtres             m, voorvechter, appostel, discipel
 épeire, épeire diadème      f, kruisspin
 épeler              spellen, schrijven
 aperçu              m, ouvrage, livre, œuvre de récit imaginé
-apercevoir, aperçu  gewaarworden, bemerken, opmerken, zien, signaleren
+apercevoir, aperçu, aperçoive   gewaarworden, bemerken, opmerken, zien, signaleren
 éperdue             verstrooid, geemotioneerd
 éperdument          van kop tot teen, geemotioneerd
 éperon              paardenspoor, rijspoor, spoor
@@ -4269,6 +4269,7 @@ contremarches       f, fait de se déplacer, action contraire ou inverse
 contre-plaque       m, staanijzer, plaathout
 contre-plongée      f, visperspectief
 contresigner        medeondertekenen, meeondertekenen
+contresens          m, malentendu, misinterpretatie, misverstand
 contretemps         m, terugslag, moeilijkheden?,
 contre toute attente    tegen alle verwachting in
 contrevenir         violer, désobéir
@@ -6582,7 +6583,7 @@ exagération         f, overdrijving, hyperbool
 exagérer            uitbreiden, vergroten, overdrijven, amplificeren
 exaltante           opwindend
 exaltation          f, opwinding, verrukking, vervoering, trance, verafgoding
-exalter             inboezemen, verheerlijken, opkikkeren, ophemelen, verkondigen, getting worked up
+exalter, exalté     inboezemen, verheerlijken, opkikkeren, ophemelen, verkondigen, getting worked up
 exaspérant          ergerlijk, verwarrend, zenuwslopend
 exaspération        f, ergernis, irritatie, verergering
 exaspére, exaspérer van zijn stuk brengen, boos maken, ergeren, tot het uiterste drijven, (iemand) irriteren
@@ -7594,7 +7595,7 @@ gavroche            rchétype du gamin de Paris
 gaze                f, gaas, verbandgaas
 gazelle             f, gazelle
 gaze                racen, vergassen, flamberen
-gazomètre           m, gashouder, gasketel
+gazomètre           m, gashouder, gasketel, réservoir fermé pour entreposer des liquides
 gazouiller          kraaien, kukelekuën, kwelen, kwetteren
 geôle               f, gevangenis, nor
 geignard            zeurderig, zeurende, zeurig
@@ -8851,6 +8852,7 @@ irréversibilité     f, onomkeerbaarheid, onherroepelijkheid
 irréversible        onomkeerbaar
 irrévocable         onherroepelijk
 irresponsabilité    f, ontoerekeningsvatbaarheid
+irrespirablel       qui n'est pas favorable, qui ne peut (ou ne doit) être
 irrigation          f, irrigatie
 irriguer            geirrigeerd, bevloeien
 irritable           heetgebakerd, heethoofdig, humeurig, lichtgeraakt, nijdig, opvliegend, prikkelbaar
@@ -11911,6 +11913,7 @@ pouffes             poefs
 pouffiasse          f, kreng, slang, del, hoer
 pouf                m, poef, zitkussen, divan, couch, hassock
 pouilleux           vol luizen
+pouillerie          f, pauvreté - armoedigheid; armoe; armoede
 pouilly-fuissé      m, vin de Bourgogne
 poulailler          m, hoenderhok, kippenhok
 poulain             hengstveulen,veulen
@@ -16080,4 +16083,12 @@ combustion          f, verbranding, ontbranding
 hectare             m, hectare
 refoulement         m, aller en arrière - achteruitstappen; achteruitwijken; terugwijken, van zich afschuiven, 
 concret             m, het concrete?
-=== Albert Camus --- Journaux de voyage --- pag. 35 bovenaan ===
+ludions             m, objet qui sert à jouer - speelgoed; speeltuig; speeltje
+trogne              f, gezicht, smoel, tronie
+cacahuéte           f, aardnoot, pindanoot
+remorquer           m, sleepboot
+surélever, surélevé verhogen, ophogen
+passarelle          f, wandelpad
+livre de chevet     m, livre lu avant le sommeil, faveur, favoriser
+admiration          f, bewondering, admiratie, achting
+=== Albert Camus --- Journaux de voyage --- pag. 41 bovenaan ===
