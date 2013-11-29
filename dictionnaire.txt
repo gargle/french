@@ -3632,7 +3632,7 @@ cheval              m, paard
 chevaucher          berijden, beklimmen, elkaar overlappen, rijden
 chevelu             behaard, harig
 chevelure           f, manen, haartooi, het haar
-chevet              hoofdeinde
+chevet              m, hoofdeinde
 cheveu              m, een haar, haartje
 cheville            f, enkel, enkelgewricht, knijper, pen, pin, wasknijper, wasspeld
 chevreaux           m, bokje, geitje
@@ -7087,6 +7087,7 @@ flancher            de moed laten zakken, de moed opgeven
 flanc               m, helling,  zijde
 flaner, flânant     slenteren, de tijd nemen
 flâner              zich doelloos voortbewegen, dreutelen, kuieren
+flânerie            f, wandeling, promenade, dwaaltocht, loopje
 flanquer            plaatsen, flankeren, afzetten, de bons geven, de laan uitsturen, eruitgooien
 flapir              flapperen?
 flapis              afgewerkt, doodmoe, hondsmoe, uitgeput
@@ -16091,4 +16092,5 @@ surélever, surélevé verhogen, ophogen
 passarelle          f, wandelpad
 livre de chevet     m, livre lu avant le sommeil, faveur, favoriser
 admiration          f, bewondering, admiratie, achting
-=== Albert Camus --- Journaux de voyage --- pag. 41 bovenaan ===
+idylle              f, idylle
+=== Albert Camus --- Journaux de voyage --- pag. 49 bovenaan ===
