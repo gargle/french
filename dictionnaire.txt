@@ -16093,4 +16093,8 @@ passarelle          f, wandelpad
 livre de chevet     m, livre lu avant le sommeil, faveur, favoriser
 admiration          f, bewondering, admiratie, achting
 idylle              f, idylle
+entrepont           m, scheepsdek, scheepsvloer, niveau d'un bâtiment (édifice, navire)
+j'ai bonne mine     I look good
+commodément         gemak, gemakkelijkheid
+à l'outre           in aanvulling op de ...
 === Albert Camus --- Journaux de voyage --- pag. 49 bovenaan ===
