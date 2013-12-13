@@ -7844,6 +7844,7 @@ grenadiers          m, granaatappelboom
 grenat foncé        donkere granaat, rouge
 grenier             m, dakkamer, korenschuur, graanschuur, graanzolder
 grenouille          f, kikker, kikvors
+grenouillère        f, rokkostuum
 grenue              getextureerde, leathery
 grièvement          serieus
 gribouiller         krabbelen, kriebelen, pennen
@@ -7937,7 +7938,7 @@ guet                m, uitkijk
 guetter             bespionneren, hoeden, omzien, oppassen, gluren, loeren, vluchtig kijken, opletten, letten op
 guetteur            m, wacht, verkenner, schildwacht
 gueuler             schreeuwen, brullen
-gueulle             f, bakkes? muil, gezicht, tronie
+gueule              f, bakkes? muil, gezicht, tronie
 guide               m, gids
 guidon              m, fietsstuur, stuur
 guignarde           lobbes, sukkel
@@ -14940,6 +14941,7 @@ tondre, tondent, tondu aansnijden, knippen, snijden, snoeien, bijsnijden, oogste
 tongs               slippers
 tonifier            sterken, versterken
 tonique             f, kwiek, levendig, fris, frisdrank
+tonitruer           schateren, briesen, loeien, razen, tieren, uithalen
 tonitruant          donderderend
 tonitruante         dondederend
 ton                 m, schakering, de toon
@@ -16097,4 +16099,8 @@ entrepont           m, scheepsdek, scheepsvloer, niveau d'un bâtiment (édifice
 j'ai bonne mine     I look good
 commodément         gemak, gemakkelijkheid
 à l'outre           in aanvulling op de ...
-=== Albert Camus --- Journaux de voyage --- pag. 49 bovenaan ===
+gaffe, gaffer       blunderen, een bok schieten, een flater slaan
+mousquetaire        m, musketier
+sourcilleux         grievend, hatelijk, opschepperig, precies, trefzeker, nauwkeurig, hoog, grijns, grimas
+vivier              m, aquarium, terrarium, vivarium
+=== Albert Camus --- Journaux de voyage --- pag. 54 onderaan ===
