@@ -1199,6 +1199,7 @@ aquarelle           f, aquarelle
 équarrisseur        m, paardenvilder
 aquatique           water-
 équatorial          equatoriaal
+équateur            m, equator, evenaar
 aqueducs            m, aquaduct
 équerre             f, tekenhaak, haak, tekendriehoek
 équestre            ruiter, paard-
@@ -3806,6 +3807,7 @@ claquer             in het slot vallen, knallen
 clarinette          f, klarinet
 clarté              f, herderheid, klaarheid, straling
 classe en termnale  f, laatstejaar middelbaar
+classe              f, klasse
 classeur            m, classeur, draagmap, archiefkast
 claudiquer          hinken
 claustration        f, beperk, isolement, gevangenschap
@@ -4655,6 +4657,7 @@ croisière           f, cruise, zeiltocht, pleziervaart
 croisillon          m, met kruisen omringd
 croissant           m, sikkel, wassende maan, afnemende maan, hoorntje, croissant
 croix               f, kruis
+Croix du Sud        f, Zuiderkruis
 croix gammée        f, swastika
 croque-morts        m, begrafenisondernemer
 croquet             m, veldspel, jeu de plein-air, jeu d'adresse où on utilise une ou des boule(s)
@@ -4939,6 +4942,7 @@ défatiger           supprimer la fagigue
 défaut              m, straf, tuchtiging, defect, fout, tekort
 défavorable         ongunstig
 défectuosité        f, gebrekkigheid, onvolkomenheid
+défection           f, overlopen, braken?
 défendre            aanhouden, behouden, houden
 défendu             verboden
 défense             f, verdegiging, verweer, afweer
@@ -5799,7 +5803,7 @@ droiture            f, rechtlijnigheid, rechtschapenheid
 dronte              m, dodo
 drosophile          f, bananenvlieg
 drosser             faire avoir un nouveau lieu à qqch, opschuiving, faire changer de place qqch, naufrage
-dru, drue, drus     snel na elkaar, baard, baardgroei, knevel, snor, dik
+dru, drue, drus     snel na elkaar, baard, baardgroei, knevel, snor, dik, dik gezaaid
 dubitative, dubitatif   twijfelachtig
 du bout des lèvres     peu
 duchesse            f, hertogin
@@ -7252,6 +7256,7 @@ fouriériste         m, socialiste, collectief
 fourmilière         f, mierenhoop
 fourmilions         m, insect, mierenleeuw
 fourmillement       m, beestjes, rillingen, de actie van krioelen, wemelen
+fourmillante        qui est en grande quantité, où il y a beaucoup de gens
 fourmiller          krioelen, wemelen, zwerm
 fourmis             f, mier
 fourmis-lions       f, doodlebugs, libelle
@@ -10391,6 +10396,7 @@ négation            f, loochening, negatie, ontkenning, verloochening
 nageoires           f, flipper, vin, zwemvlies
 nager sur place     watertrappelen
 nageur              m, bader, watersporter, zwemmer
+nage                f, watersport, sport nautique, dobberen, drijven, slag, zwemslag
 négligeable         nietig, nietsbetekenend, onbelangrijk, onbeduidend
 négligemment        achteloos
 négligent           nonchalant, onachtzaam, nalatig
@@ -11040,6 +11046,7 @@ pardon              m, de genade
 pare-brise          m, voorruit, windscherm, autoruit
 pare-feu            m, firewall, schutting voor open haard
 pareille            eender, gelijksoortig, gelijk, zulk
+sans pareille       ongeëvenaarde
 pareillement        even, idem, van het zelfde, eveneens, evenzo
 parement            m, galakleding
 péremptoire         dwingend
@@ -16104,4 +16111,10 @@ sourcilleux         grievend, hatelijk, opschepperig, precies, trefzeker, nauwke
 vivier              m, aquarium, terrarium, vivarium
 Tropique du Cancer  m, Kreeftskeerkring
 marsouin            m, bruinvis
+chorégraphie        f, choreografie
+accordéon           m, accordeon
+grisonnante         grijs, grauw, vergrijsd
+maritorne           f, servante sale ou ne donnant pas satisfaction
+anémié              f, anemie, bloedarmoede
+glèbe               f, aarde, land, landbouwland, plantage
 === Albert Camus --- Journaux de voyage --- pag. 56 onderaan ===
