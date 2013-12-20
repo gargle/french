@@ -2038,7 +2038,7 @@ carrée              uitgestrekt, uitgerekt
 à l'aube            met de dageraad, voor dag en dauw
 à la vague          in de golven, badend
 à l'avance          op voorhand, van te voren, vooraf
-à l'avant           aan de voorzijde, voorkant
+à l'avant           aan de voorzijde, voorkant, de boeg
 à l'avant           front, vooraan
 à la vérité         de waarheid
 à la veille d'en    op het punt staan
@@ -3586,8 +3586,7 @@ chœur               m, kerkkoor, koor, zangkoor, spreekkoor
 chaussée            f, rijweg, wegdek
 chausser            beslaan, schoeien, verzolen
 chausse-trape       f, valkuil, valstrik
-chaussette          f, kniekous, sok
-chaussette          f, sokken
+chaussette          f, sokken, kniekous
 chausson            m, schoeisel
 chaussures de basket   f, basketbalschoenen
 chaussures          f, schoeisel, schoen
@@ -15174,7 +15173,7 @@ treuil              m, hijskraan, lier, molen, takel, winch
 triangle            m, driehoek
 triangulaire        driedelig, driehoekig, driekantig
 trièdre             coördinaat in drie dimensies, composé de, divisé en trois éléments
-tribord             m, stuurboord?
+tribord             m, stuurboord
 tribu               f, stam, volksstam
 tribunal            m, gerecht, hof, gerechtshof, rechtscollege, tribunaal
 tribune             f, tribune, balkon, podium, verhoging
@@ -16103,4 +16102,6 @@ gaffe, gaffer       blunderen, een bok schieten, een flater slaan
 mousquetaire        m, musketier
 sourcilleux         grievend, hatelijk, opschepperig, precies, trefzeker, nauwkeurig, hoog, grijns, grimas
 vivier              m, aquarium, terrarium, vivarium
-=== Albert Camus --- Journaux de voyage --- pag. 54 onderaan ===
+Tropique du Cancer  m, Kreeftskeerkring
+marsouin            m, bruinvis
+=== Albert Camus --- Journaux de voyage --- pag. 56 onderaan ===
