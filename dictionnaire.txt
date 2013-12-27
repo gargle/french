@@ -4670,7 +4670,7 @@ crotter             kakken, ontlasten, poepen, schijten, bevuilen, vuilmaken, be
 crottin             m, mest
 croulant            warkruid, ingestort
 crouler             instorten
-croupe              f, achterlijf
+croupe              f, achterlijf, achterstel, achterdeel, kont, billen, achtersteven
 croupion            m, stuit, bips, krent, poep
 croupir, croupissent          stagneren, stilstaan (van water), wegkwijnen
 croustillant        knapperig
@@ -4889,6 +4889,7 @@ décor               m, decor, plaatje
 décortiquant, décortiquer     analyseren, doppen, afpellen, pellen, schillen, afstropen, villen
 découler            voortkomen, volgen (op), voortvloeien uit
 découpage           m, perforatie, scheiden
+découpé             afgevijld, bijgesneden, verknipt
 découper            aansnijden, afknippen, uitknippen, stand out against
 découpeur           m, cutter, voorsnijder
 décourageant        intimiderend, eng, afschikkend, ontmoedigend
@@ -9426,6 +9427,7 @@ longanimité         f, clementie, genadigheid, inschikkelijkheid, vergevensgezi
 longère             f, manier van huizenbouw, langgerekte muren
 longeant            omarmen, omstrengelen, uitstrekken rond iets
 longeron            m, spar, draagvleugel, vliegtuigvleugel
+longer, longeons    omzeilen, omarmen, omhelzen, omstrengelen, dichtbij blijven
 longiligne          lang
 longions, longer    dichtbij blijven, omstrengelen, omarmen, langslopen
 long                le long de = langs
@@ -16117,5 +16119,8 @@ grisonnante         grijs, grauw, vergrijsd
 maritorne           f, servante sale ou ne donnant pas satisfaction
 anémié              f, anemie, bloedarmoede
 glèbe               f, aarde, land, landbouwland, plantage
-foi d'animal        ?
-=== Albert Camus --- Journaux de voyage --- pag. 62 onderaan ===
+foi d'animal        un synonyme de l’expression “Jurer sur quelquechose"
+perpétuel           oneindig
+mener à bien        volbrengen, uitvoeren
+découpure           f, knipsel
+=== Albert Camus --- Journaux de voyage --- pag. 63 bovenaan ===
