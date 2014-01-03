@@ -7088,7 +7088,7 @@ flammèches          f, vonkjes
 flamme              f, vlam, wimpel
 flanc à flanc       flank aan flank, zijwand naar zijwand, côte à côte
 flancher            de moed laten zakken, de moed opgeven
-flanc               m, helling,  zijde
+flanc               m, helling,  zijde, flank
 flaner, flânant     slenteren, de tijd nemen
 flâner              zich doelloos voortbewegen, dreutelen, kuieren
 flânerie            f, wandeling, promenade, dwaaltocht, loopje
@@ -10123,7 +10123,7 @@ misérable           armoedig, armzalig
 miséreux            m, armen
 miséricorde         barmhartigheid, clementie, genade, goedheid, gratie
 miséricordieux      meedogend, barmhartig, genadig
-misère              f, deprivatie
+misère              f, deprivatie, miserie
 mis à part          apart gezet, onafhankelijk, elkaar
 mise au point       f, ontwikkeling
 mise à la retraite  f, pensionering, opzij zetten
@@ -16123,4 +16123,10 @@ foi d'animal        un synonyme de l’expression “Jurer sur quelquechose"
 perpétuel           oneindig
 mener à bien        volbrengen, uitvoeren
 découpure           f, knipsel
-=== Albert Camus --- Journaux de voyage --- pag. 63 bovenaan ===
+anarchie            f, anarchie
+kabyle              algerijns
+ininterrompu        ononderbroken
+insolemment         brutaal, schaamteloos, onbeschaamd, onbeschoft, vrijpostig, impertinent
+poète               m, dichter
+engrais             m, kunstmest, meststof, mest
+=== Albert Camus --- Journaux de voyage --- pag. 66 onderaan ===
