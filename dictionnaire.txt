@@ -2369,6 +2369,7 @@ bastonnade          f, stokslagen
 bataclan            m, lading, belasting
 batée               f, pan
 bataille            f, gevecht, slag, strijd, actie
+en bataille         décoiffé, qui n'est pas ou plus en ordre
 bétail              m, vee, grootvee, levende have, rundvee, veestapel
 bâtard              m, bastaard
 bateau de plaisance m, pleziervaartuig
@@ -5940,6 +5941,7 @@ embraser ses lèvres verzwelgen (haar lippen)
 embraser            verlichten, oplichten
 embrasser du regard overzien
 embrasser, embrasse omarmen, kussen, omhelzen
+embrassade          f, omarming, omhelzing
 embrasure           f, (deur)opening, ingang
 embrayer            koppelen
 embrocation         f, tijgerbalsem, massageolie
@@ -8197,6 +8199,7 @@ humaniste           m, humanist
 humanité            f, mensdom
 humérus             opperarmbeen
 humbles             bescheiden, nederig, onbetekenend
+humblement          nederig, deemoedig, ootmoedig
 humectation         f, bevochtiging, nattigheid
 humecter            bevochtigen
 humer               inhaleren
@@ -11662,6 +11665,7 @@ plate sur la fesse  f, hipflask
 plate               vlak, effen, flauw
 platine             blond, platinablond
 platitude           f, alledaagsheid
+latitude            f, latitude
 plat                m, schaal, gang, gerecht, schotel
 platonicienne       platonisch
 plâtré              bepleisterd, gipsen, gepleisterd
@@ -13553,6 +13557,7 @@ salle d'eau         f, badkamer
 salle de bains      f, badkamer
 salle de séjour     f, huiskamer, living
 salle d'urgence     f, noodsituatieruimte
+salle d'entraînement   f, trainingszaal
 salle               f, kamer, hal, zaal
 salmis              m, wildragoût
 salon d'essayage    m, omkleedruimte, paskamer
@@ -15602,7 +15607,7 @@ viandox             m, gezouten saus, liebig, knorr
 vibrer              puffen, ronken, vibreren, trillen
 vibrionner          vibreren
 vice de forme       m, vormfout
-vice                m, afdwaling, defect, fout, gebrek
+vice, vicieux       m, afdwaling, defect, fout, gebrek
 vicieuse, vicieux   kwaadaardig
 vicie               verontreinigd
 vicissitude         f, wisselvalligheid
@@ -15834,6 +15839,7 @@ zygomatique         wang, gelaatstrek, snuit
 mitigée             verminderd, faire devenir de moindre importance
 enfance             f, kindertijd
 nécromancie         f, dodenbezwering, duivelskunsten, zwarte kunst
+romancière          f, romancier, romanschrijfster
 fabuleusement       fabelachtig, fantastisch, geweldig, luisterrijk
 stature             f, gestalte, statuur, postuur, hoogte
 mythologie          f, mytologie, godenleer, fabelleer
@@ -16009,8 +16015,10 @@ passeport           m, paspoort, identiteitsbewijs, pas
 bras de chemise     m, hemdsmouw
 cribler             zeven, ziften
 tournesol           m, zonnebloem
+tournoi             m, competitie, concurrentie
 pistolet à crosse   m, pistool, (kolf)pistool
-boxeur              m, boxer
+boxeur              m, bokser
+boxe                f, boksen
 pierrot             m, militair, soldaat
 familiarité         f, vertrouwdheid, familiariteit, innigheid, intimiteit, bekendheid
 à pleine bouche     volle mond
@@ -16129,4 +16137,12 @@ ininterrompu        ononderbroken
 insolemment         brutaal, schaamteloos, onbeschaamd, onbeschoft, vrijpostig, impertinent
 poète               m, dichter
 engrais             m, kunstmest, meststof, mest
-=== Albert Camus --- Journaux de voyage --- pag. 66 onderaan ===
+exécutions de 36    ?
+assister en connaisseurs        ?
+biologiste          m, bioloog
+animation           f, animatie
+figure en rasoir    ?
+mettre au propre    in het net schrijven, schoonschrijven
+traductrice         f, vertaalster
+grondante           bedreigend, dreigend
+=== Albert Camus --- Journaux de voyage --- pag. 72 bovenaan ===
