@@ -3497,7 +3497,7 @@ chapelet            m, bidsnoer, paternoster, rozenkrans
 chapelier           m, hoedenmaker
 chapelle            f, kapel, bidkapel
 chapelure           f, broodkruimels, dressing, kruimel
-chapiteau           m, feesttent, circustent
+chapiteau           m, feesttent, circustent, hoofdletter, kapitaal (van kolom)
 chapitre            m, hoofdstuk, kapittel
 chéquier            m, chequeboekje
 charabia            m, kromspraak, klinkklare onzin, onzin, rotzooi
@@ -6882,7 +6882,7 @@ faribole            f, propos vain, bagatelle
 farine              f, bloem
 féroce              fel, gemeen, hevig, razend, wrede, wreed
 férocité            geweldadigheid
-farouche            eenzelvig, grim-faced
+farouche            eenzelvig, grim-faced, gemeenheid, wildheid, venijnigheid
 farouchement        ruw, geweldadig
 fascicule           m, grondtekst, oertekst, studiemateriaal, stuk, tekst, petit livre
 fascination         f, betovering, aantrekkingskracht
@@ -12266,7 +12266,7 @@ propitiatoire       dat wat ten doel heeft God genadevol, gunstig te stemmen
 proposèrent         aandragen, benoemen
 propos de           voorstel
 proposition         f, aanbieding, voorstel, suggestie
-propos              m, punt, uiting, action de dire à haute voix
+propos              m, detail, punt, uiting, action de dire à haute voix
 proprement          eigen, netjes, proper, schoon, eigenaardig
 propre              goed, juist, keurig, schoon, zuiver, raak, netjes
 proprets            proper, zindelijk, smetteloos
@@ -12613,7 +12613,7 @@ régression          f, achteruitgang, terugkeer, terugval
 réhabiliter         reclasseren, rehabiliteren
 raide               m, onbuigzaam, recht, stijf, stiffly
 raideur             f, verstijving, steilheid, steilte
-raidillon           f, omhoogklimmende weg
+raidillon           m, weg, wegvak, rijstrook, omhoogklimmende weg
 raidis, raidie, raidir      stijf worden, verstijven,  opstijven
 raidissement        verstijving, verstarring
 raidit              opstijven, stijf worden
@@ -15124,7 +15124,7 @@ transborder         overhevelen, overplaatsen, verplaatsen, overladen, overslaan
 transcendante       transcendent, belangrijk, beduidend, aanmerkelijk, gewichtig
 transcrire          calqueren, kopiëren, overtekenen, spieken, afkijken, vertalen, traduire une langue
 transcutané         door de huid binnendringen
-transes             f, trance
+transe, transes     f, trance
 transfigure         verheerlijkt, veranderen, vernieuwen, transformeren
 transgresser        breken, verbreken, verkrachten, zondigen, onteren, bezoedelen, overtreden, schenden
 transgression       f, inbreuk, misdrijf, overtreding, wetsovertreding
@@ -16145,4 +16145,10 @@ figure en rasoir    ?
 mettre au propre    in het net schrijven, schoonschrijven
 traductrice         f, vertaalster
 grondante           bedreigend, dreigend
-=== Albert Camus --- Journaux de voyage --- pag. 72 bovenaan ===
+havre               m, haven, havenstad, zeehaven
+positiviste         positivist, rationalist, verstandsmens
+positiviste         m, realist
+macumba             f, macumba
+possession          f, in bezit zijn
+aguardiente         f, boisson alcoolisée, witteke
+=== Albert Camus --- Journaux de voyage --- pag. 74 bovenaan ===
