@@ -4608,7 +4608,7 @@ creuset             m, kroes, smeltkroes
 creux, creuse       holheid, inzinking, dal, hol, loos, hollow
 creux de main       m, palm van de hand
 creux de rocher     inzinking tussen rotsen
-creux               m, uitdieping, hol
+creux               m, uitdieping, hol, inzinking, dal, hollow
 crevées             doodmoe, gestorven, hondsmoe, vermoeid, wijlen, versleten
 crevasse            f, barst, spleet
 crevasser (se)      barsten, to crack
@@ -10905,6 +10905,7 @@ paire de tenailles  f, knijper, hoeftang, schaar, tang
 paire               f, een paar
 paisibles           rustig, rustgevend, relaxerend, ontspannend
 Pakistan            m, Pakistan
+palabrer, palabrons parler beaucoup avec qqn., converser, bavarder, onderhandelen, gesprekken voeren
 palabres            f, onderhandelingen, gesprekken
 palabres            oeverloze discussie
 palais de justice   m, gerechtsgebouw, justitiepaleis
@@ -16151,4 +16152,5 @@ positiviste         m, realist
 macumba             f, macumba
 possession          f, in bezit zijn
 aguardiente         f, boisson alcoolisée, witteke
-=== Albert Camus --- Journaux de voyage --- pag. 74 bovenaan ===
+casaque             f, overjas, mantel, pardessus, mantel, jas
+=== Albert Camus --- Journaux de voyage --- pag. 75 bovenaan ===
