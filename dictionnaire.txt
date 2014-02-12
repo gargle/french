@@ -3585,6 +3585,7 @@ chaulé              gekalkt
 chaume              m, halm, stro, haksel
 chaumière           f, huisje met stooien dak
 chœur               m, kerkkoor, koor, zangkoor, spreekkoor
+en chœur            gelijktijdig, en commun, ensemble, à plusieurs
 chaussée            f, rijweg, wegdek
 chausser            beslaan, schoeien, verzolen
 chausse-trape       f, valkuil, valstrik
@@ -3706,6 +3707,7 @@ chronique           f, verhaal, story, vertelling
 chroniqueur         m, kroniekschrijver, columnist
 chrysanthèmes       m, chrysant, magriet
 chuchotement        m, gefluister
+chuchotante         fluisterend
 chuchoter           fluisteren, inblazen, toefluisteren
 chuintant           slissen
 chuintement         m, sissend, gesis
@@ -3857,8 +3859,7 @@ close               afgesloten, quiet, stil, kalm
 close par           gesloten door
 cloué               vastplakkend, nagelen, rijgen, klinken, kluisteren
 clouer              aanrijgen, rijgen, spijkeren, nagelen
-clou                m, nagel, spijker, het hoogtepunt
-clous               m, nagel, spijker, draadnagel
+clou, clous         m, nagel, spijker, draadnagel, het hoogtepunt
 cloutée             beslagen, zebra, zebrapad
 club                m, club
 cnam                m, Conservatoire national des arts et métiers
@@ -4303,6 +4304,7 @@ convoitise          f, begeerte, verlangen, wens
 convoquer           bij elkaar roepen, ontbieden, oproepen, optrommelen, samenroepen, bijeenroepen
 convulsif           krampachtig
 convulsions         f, stuiptrekkingen, stuipen
+convulser           samentrekken, schokken, agiteren, drillen, in beweging brengen, rammelen, schudden
 copain              m, maat, makker, vriend
 copie               f, a copy
 copier sur lui      afschrijven?
@@ -8405,7 +8407,7 @@ inamovible          onverbrekelijk, onveranderlijk, vast, niet verwijderbaar
 inaperçu            ongemerkt, onopgemerkt
 inappartenance      f, non-lidmaatschap
 inépuisable         onuitputtelijk, onverflauwd
-inarticulé          prononcé, articulé (son du langage)
+inarticulé          qui n'est pas, prononcé, articulé (son du langage)
 inassouvis          ontevreden
 inattaquable        onaanvechtbaar, onomstotelijk
 inattendue          onverwacht, ongedacht, onverwachts
@@ -10792,7 +10794,7 @@ or                  m, goud
 orné                rijk versierd, verfraaid
 ornementation       f, verfraaiing, versiering
 ornements           m, sierraden, siersel, decoratie
-orner               aankleden, bewerken, verfraaien, opluisteren, versieren, tooien
+orner, orné         aankleden, bewerken, verfraaien, opluisteren, versieren, tooien
 ornière             f, karrenspoor, landweg, piste, wagenspoor
 ornithorynque       m, vogelbekdier
 or                  oftewel, ofwel, ofwel... ofwel, hetzij... hetzij, but
@@ -13061,6 +13063,7 @@ renard              m, vos
 renchérir           duurder worden, hoger bieden op een veiling
 renchérissement     m, inflatie, het duurder worden
 rencoigne           in de hoek drummen? klein maken?
+rencogner           schuiven, opdringen, verdringen, wegduwen, voortdrijven, voortbewegen
 rencontre           f, samenkomst, competitie, concurrentie, tegemoet komen
 rencontres          f, ontmoeting, overleg
 rendîmes            rendre
@@ -16153,4 +16156,7 @@ macumba             f, macumba
 possession          f, in bezit zijn
 aguardiente         f, boisson alcoolisée, witteke
 casaque             f, overjas, mantel, pardessus, mantel, jas
-=== Albert Camus --- Journaux de voyage --- pag. 75 bovenaan ===
+toiture             f, dakbedekking, kap, overdekking, overkapping, abri, beschutting
+appentis            m, afdak, luifel, schuurtje, bijgebouw
+chromo              m, plaatje, litho, lithografie
+=== Albert Camus --- Journaux de voyage --- pag. 79 onderaan ===
