@@ -3943,7 +3943,7 @@ colombage           m, hout, houtwerk in muur?
 colombienne         Colombiaans
 colon               m, karteldarm, kolonist, settler
 colonnade           f, zuilengalerij, zuilengang
-colonne             f, kolom, kolonne
+colonne             f, kolom, kolonne, zuil
 colonne vertébrale  f, ruggegraat, wervelkolom
 colons              m, kolonist
 colorier            crayoneren, inkleuren, kleuren, tinten, verven, schilderen
@@ -5935,6 +5935,7 @@ embolies            f, trombose, hart en vaatziekte
 embonpoint          m, dikte, gezetheid, vetheid, zwaarlijvigheid
 embouchure          f, inham, riviermond, mondstuk (van een fluit bv)
 embouteillage       f, file, opstopping
+embouteiller        verstoppen, bottelen, inmaken
 emboutir            crashen
 embranchement       m, aftakking, splitsing
 embrasé             in brand, in lichterlaaie
@@ -10451,7 +10452,7 @@ natter              vlechten
 nattes              f, vlechtwerk?
 naturalisé          bewaren
 naturaliste         m, bioloog, natuurkenner
-nature              f, aard
+nature              f, aard, natuur (ook de natuur)
 naturellement       natuurlijk, uiteraard, vanzelf
 naturelle           normaal
 naturel             m, onbevangenheid, ongemaaktheid, natuurlijkheid
@@ -12093,7 +12094,7 @@ prétentieux         opscheppen, gezwollen, gewichtig
 prétention          f, aanmatiging, pretentie, schaamteloosheid
 prétexte            m, dekmantel, pretext, smoes, voorwendsel
 prétexter           voorwenden
-praticable          begaanbaar, passeerbaar, realiseerbaar
+praticable          begaanbaar, passeerbaar, realiseerbaar, stuk décor, décor d'un théâtre
 praticien           m, arts, dokter, medicus, beoefenaar
 pratiquer           aanbrengen, sectie verrichtenn
 prétoire            m, pretorium, hal, zaal, gerechtshof
@@ -16159,4 +16160,13 @@ casaque             f, overjas, mantel, pardessus, mantel, jas
 toiture             f, dakbedekking, kap, overdekking, overkapping, abri, beschutting
 appentis            m, afdak, luifel, schuurtje, bijgebouw
 chromo              m, plaatje, litho, lithografie
-=== Albert Camus --- Journaux de voyage --- pag. 79 onderaan ===
+irrésistible        onweerstaanbaar, onbedwingbaar, niet te stuiten, overweldigend
+rythme              m, ritme
+dyspeptique         indigestie, misselijkheid, onpasselijkheid
+cénotaphe           m, cenotaaf, tombe, graftombe, lieu où l'on place les morts
+mettre en montre    put on display
+mal engager         misfed, vastgelopen, op de verkeerde plaats
+flagrant            flagrant, op heterdaad, overduidelijk, schaamteloos, in het oog springend
+fazenda             f, fazenda
+ruée                f, gehaast, haast, spoed, drukte, agitation (personnes)
+=== Albert Camus --- Journaux de voyage --- pag. 85 midden --- 21 juillet ===
