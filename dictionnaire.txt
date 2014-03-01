@@ -8,7 +8,6 @@ aérée               spuien, wannen, luchten, in de open lucht, luchtig
 aération            verluchting, luchttoevoer
 aérien              ijlig, ijle
 aérolithe           m, meteoorsteen, meteoriet, aeroliet
-aéroport            m, luchthaven
 aérostat            m, ballon, luchtballon
 ça s'est calmé      it has calmed down
 ça tenait trop dur  it was too hard
@@ -276,6 +275,7 @@ acharnement         m, volharding, verbetenheid
 acharner            volharden, doorzetten, volhouden, zich vastbijten in, aanvallen
 écharpe             f, das, halsdoek, sjaal, sjerp
 échassier           m, steltloper, waadvogel
+échasse             f?, stelt
 achat               m, aankoop
 échauffement        opwarming
 échauffer           opwarmen, waardraaien, warmlopen
@@ -1765,7 +1765,7 @@ avalanche           f, lawine, sneeuwlawine
 avaler de travers   zich verslikken
 avaler              in zich opnemen, achteroverslaan, slikken, nemen, verorberen, vreten
 avancée             f, uitsteeksel, voorschot
-avance              f, toename, stijging
+avance              f, toename, stijging, vervroegd, avoir de l'avance
 avancer             naar voren brengen, uitbrengen, vorderen, verder komen
 événement           m, belevenis, gebeurtenis, geschiedenis, ontwikkeling, voorval
 évanescente         vergankelijk, voorbijgaand
@@ -3211,6 +3211,7 @@ carabinée           beaucoup, très, en grande quantité
 cérébrale           intellektueel
 cérébraux           celebraal, hersen-, intellectueel
 caracoler           paraderen, schrijden, steigeren
+caracoleur          m, ?
 caractère           m, aard, karakter
 caractères d'imprimerie         m, drukletters
 caractèriel         gedragsgestoord
@@ -4574,6 +4575,7 @@ crantage            m, klink, inkeeping
 crapaud-buffle      m, buffelkikker, agapad, reuzenpad
 crapaud             m, kikker, pad, waterkikker
 crépis              beplaasterd
+crépi               m, plaaster, wandbekleding
 crépissage          m, beplaasteren
 crépitante          geknetter
 crépitement         m, gekletter, getik, geknapper, trippelen, ratelen, vonken, craquelure, kraken
@@ -7120,6 +7122,7 @@ flippées            geflipt
 flipper             m, flipperkast
 flirt               m, flirt
 flocon              m, vlokje, vlok, schilfer, sneeuwvlok
+floconneuse         qui est en flocons; qui a l'aspect de flocons
 floraison           f, bloei
 flore               f, flora, gewas, plantengroei
 florescence         bloeien
@@ -7886,6 +7889,7 @@ grincer, grinçait   knarsen, raspen
 grincheux           m, azijnpissers, knorrepot
 grippage            m, stroefheid, ribbels?
 grippé, gripper     vastlopen, griep, influenza
+grippe              f, griep
 grisaille           f, grauwheid
 grisâtre            grijs, grijsachtig, grijzig
 griser              aangeschoten geraken, bedwelmen, in een roes brengen, grijs worden
@@ -11234,7 +11238,7 @@ patient             m, patient
 pétillant           bruisend
 pétillement         levenskracht, gebruis, schittering, spirit
 pétiller            fonkelen
-patiner             schaatsenrijden, schaatsen
+patiner, patiné     schaatsen, f, beslag, dépôt qui se forme sur certains objets
 patin               m, schaats, rolschaatsen
 patio               m, binnenhof, patio, terras
 pétir               hameren, beuken, bonken, knallen, dronken worden, winden laten
@@ -12094,7 +12098,8 @@ prétentieux         opscheppen, gezwollen, gewichtig
 prétention          f, aanmatiging, pretentie, schaamteloosheid
 prétexte            m, dekmantel, pretext, smoes, voorwendsel
 prétexter           voorwenden
-praticable          begaanbaar, passeerbaar, realiseerbaar, stuk décor, décor d'un théâtre
+praticable          begaanbaar, passeerbaar, realiseerbaar
+praticable          m., stuk décor, décor d'un théâtre
 praticien           m, arts, dokter, medicus, beoefenaar
 pratiquer           aanbrengen, sectie verrichtenn
 prétoire            m, pretorium, hal, zaal, gerechtshof
@@ -12900,7 +12905,7 @@ bondissant          springen, wippen, dansen, hinken
 rebord              m, drempel, vensterbank, richel, schap
 reboucher           boucher de nouveau, opnieuw (af)sluiten
 rebouteux           genezer, kwakzalver
-rebrousser          teruggaan langs, terugzoeken
+rebrousser          teruggaan langs, terugzoeken, terugwijken
 rebuffades          affront, afwijzing, belediging, insult, krenking, kwetsing
 rebutant            tegen de borst stotend, afwerend, verjagend
 rebuter             afweren, verjagen, tegen de borst stoten
@@ -16169,4 +16174,9 @@ mal engager         misfed, vastgelopen, op de verkeerde plaats
 flagrant            flagrant, op heterdaad, overduidelijk, schaamteloos, in het oog springend
 fazenda             f, fazenda
 ruée                f, gehaast, haast, spoed, drukte, agitation (personnes)
-=== Albert Camus --- Journaux de voyage --- pag. 85 midden --- 21 juillet ===
+aérogare            f, luchthaven
+aérodrome           m, luchthaven, vliegveld, landingsplaats
+aéroport            m, luchthaven
+grilleur, grilleurs m, celui qui fait griller. Les grilleurs de marrons. Cuiseur ou grilleur d'oignons
+matamore            m, opschepper, dikdoener, grootspreker
+=== Albert Camus --- Journaux de voyage --- pag. 88 onderaan --- ===
