@@ -3211,7 +3211,7 @@ carabinée           beaucoup, très, en grande quantité
 cérébrale           intellektueel
 cérébraux           celebraal, hersen-, intellectueel
 caracoler           paraderen, schrijden, steigeren
-caracoleur          m, ?
+caracoleur          m, iemand die paradeert, schrijdt
 caractère           m, aard, karakter
 caractères d'imprimerie         m, drukletters
 caractèriel         gedragsgestoord
@@ -4576,6 +4576,7 @@ crapaud-buffle      m, buffelkikker, agapad, reuzenpad
 crapaud             m, kikker, pad, waterkikker
 crépis              beplaasterd
 crépi               m, plaaster, wandbekleding
+crépir              garnir d'un crépi
 crépissage          m, beplaasteren
 crépitante          geknetter
 crépitement         m, gekletter, getik, geknapper, trippelen, ratelen, vonken, craquelure, kraken
@@ -9730,6 +9731,7 @@ ménagers            huishoudelijk
 ménager             zuinig zijn met
 manant              m, vilain
 manège              m, paardenmolen, draaimolen, acte malhonnête, schijnmanœuver
+cheval de manège    m, paard uit de paardenmolen
 manœuvre            f, ongeschoold arbeider, speelwijze, manœuvre, manipulatie
 manche              f, mouw
 manche              m, heft, hendel, handel, handgreep
@@ -12602,7 +12604,7 @@ rageur/euse         m/f, boze, kwade
 rageuse             boos
 rageusement         woedend
 régime amaigrissant m, dieet
-régime              m, bewind, regiem, leefregel, regime
+régime              m, bewind, regiem, leefregel, regime, bundel, cluster, kap, tros
 régiment            m, regiment
 région              f, gedeelte, part
 région frontalière  f, grensstreek
@@ -15010,7 +15012,7 @@ touche              f, zijlijn, toets
 toucher             m, aanraking, beroering, tast, tastzin
 touffe              f, bosje, bundel, (haar)lok
 touffeur            f, zwoel, zwoele atmosfeer
-touffu              duister, troubel, vaag, rijk begroeid, dicht begroeid
+touffu, touffue     duister, troubel, vaag, rijk begroeid, dicht begroeid
 toujours est il que     wat niet wegneemt dat
 toundra             f, toendra, mossteppe
 toupet              m, brutaliteit, onbeschaamdheid
@@ -16179,4 +16181,2355 @@ aérodrome           m, luchthaven, vliegveld, landingsplaats
 aéroport            m, luchthaven
 grilleur, grilleurs m, celui qui fait griller. Les grilleurs de marrons. Cuiseur ou grilleur d'oignons
 matamore            m, opschepper, dikdoener, grootspreker
+totem               m, totem, totempaal
+gaucho              m, cowboy, hoeder, conducteur de bétail
+courbatu            moei, vermoeid
+bananier            m, banaanboom, bananeboom
+casbah              f,      duister, troubel, vaag, rijk begroeid, dicht begroeid
+toujours est il que     wat niet wegneemt dat
+toundra             f, toendra, mossteppe
+toupet              m, brutaliteit, onbeschaamdheid
+toupie              f, draaitol, tol
+tour à tour         afwisselend, beurtelings, om en om, alternately
+tourbe              f, bosveen, heideveld, turf, veen
+tourbière           f, laagveen, moeras, moerasveen, veen, veengrond
+tourbillon          m, draaikolk, wervelwind, windhoos
+tourbillonnait, tourbillonner   omhoogwervelen, draaien, ronddraaien, tollen
+tourbilon           m, draaikolk
+tour de poitrine    m, borstomtrek
+tourelle            f, torentje
+touriste            m, toerist, vakantieganger
+tour                m, de ronde, rondom
+tourmenté           doodongerust, tobben, moeite bezorgen
+tourmentante        afpijnigen, afmartelen, plagen, pijnigen, tormenteren
+tourmente           f, angst, getob, onrust, doodongerust
+tourmenter          tormenteren, van streek brengen
+tourments           m, kwelling, torment, tortuur
+tournée             f, rondje, tournée
+tournant            m, afslag, bocht, draai, mijlpaal, wending
+tourner au ralenti  stationair draaien
+tourner au          wenden tot
+tourner             draaien, outflank
+tournicoter         fladderen rond
+tourniquet          m, draaihek
+tournoyer           cirkelen, draaien, omwentelen, spiralen, wentelen
+tournure            f, wending, zinswending, aanblik, uiterlijk, voorkomen, style litéraire
+tourtereaux         m, tortelduifjes
+tourterelle         tortelduif
+tourti              m, boubou blanc
+toussotement        m, sputteren
+toussoter           kuchen
+tout au long        van begin tot einde, langsheens
+tout au plus        alleen maar, gewoon, hoogstens, hooguit
+tout avait déferlé  everything was swept
+tout à coup         plotseling
+tout à fait         volledig, absoluut, helemaal
+tout-à-l'égout      m, riolering
+tout à l'heure      zostraks, net, aanstonds, op dit moment, in a little while, later on
+tout bas            intérieurement, inwendig, in zijn achterhoofd, van binnen, innerlijk
+tout de go          d'une manière explicite et intelligible
+tout de même        natuurlijk, zeker
+tout du moins       minstens
+tout d'un coup      plotseling, bruusk, eensklaps
+toutefois           daarentegen, echter, evenwel, niettemin, toch
+tout en dents et en graisse?
+tout en finesse     elegant
+tout envoyer promener  drop the whole thing
+toute-puissance     f, almacht, alvermogen, omnipontentie
+toutes se valaient  allemaal waard, alle zijn de moeite waard
+tout juste          exactement, péniblement, ric-rac, amper
+tout                m, geheel
+tout se sait        iedereen weet alles, niks is ongekend?
+toux                f, hoest, kuch
+toxine              f, giftige stof
+traînée             f, sleep, streep, streak
+traînant            slepend, lijzig, achterblijven, achterliggen
+traîne              f, sleep, grote lijnen
+traîner             achterop, treuzelen, slepen, rondhangen, sjorren, slepen
+traîner en longuer  aanslepen
+traîner les pieds   talmen, treuzelen, uitstellen
+traîner point       aanslepen?
+traître             trouweloos, ontrouw, m. verrader, leugen, bedrieger, leugenaar
+trêve               f, rust, pauze, staak het vuren, wapenstilstand
+trébuche            onderuitgaan, struikelen, strompelen
+trébucher           strompelen, struikelen, neerhalen, onderuithalen, struikelen
+tracée              uitstippelen
+tracas              m, moeilijkheid, moeite, moeilijkheden
+tracasser           beduvelen, irriteren, op de heupen werken
+tracasseries        kleinzielige handeling die tot moeilijkheden leidt
+trace               f, teken, spoor
+trachée-artère      f, luchtpijp
+trac                m, plankenkoorts
+traditionaliste     m, traditionalist, reactionair
+traduit en justice  voor het gerecht brengen
+trafic              m, verkeer, traffic, drukte
+trafiquer           knoeien, meesmokkelen, knoeien met
+trafiquage          m, manipulatie
+tréfond             m, ondergrond, diepten
+tragédie            f, tragedie, treurspel, calamiteit
+trahir              in de steek laten, verklikken, verraden
+trahison            f, verraad, trouweloosheid, judasstreek
+train de marchandise    m, goederentrein
+train               m, train, manière de marcher, te voet gaan
+trains de marchandises  m, goederentrein
+traité              m, verhandeling
+traite              f, ruk
+traitement          m, behandeling
+traiter             bediscussiëren, bejegenen, behandelen, handeldrijven
+traiter de          aan de orde stellen
+traites             f, ontlening, staatslening, overeenkomst, pakt, verdrag
+traite, traire      melken, uitmelken
+traiteur            m, traiteur
+trait               m, trek, gelaatstrek, lijn
+trait pour trait    trek voor trek, streek voor streek
+traitre             melken
+traits              m, trekken, penseeltrekken, lijnen
+trajectoire         f, traject, kogelbaan
+trajet              m, baan, route, weg, tocht, reis, reisroute
+trame               f, raamwerk, stramien, inslag, beeldgeometrie, lijnwerk (weefgetouw), web
+tramer              comploter, conspirer, machiner, arranger, betrokken zijn, rasteren
+tram                m, tram
+trémolo             m, tremolo, tremulant, geluid, muziek
+trémousser          trembler, secouer
+tramway             m, tram
+tranchées           f, bunker, gracht, loopgraaf
+tranchant           m, kant, zijkant, kant van iets
+tranchant           vlijmscherp, scherp
+tranché, tranchée   abrupt, afgelopen
+trancher dans le vif   to the point, snel en energiek reageren
+trancher            in plakken snijden, schaven, verschillen, onderscheiden, beëindigen, afsnijden, cut off
+trancher sur        stand out against
+tranches            f, schijf
+tranchet            het mes
+tranquillisant      m, kalmeermiddel
+tranquillité        f, beheerstheid, bedaardheid, gemoedsrust, rust
+Transat             f, trans atlantic?
+transat             m, ligstoel
+transborder         overhevelen, overplaatsen, verplaatsen, overladen, overslaan
+transcendante       transcendent, belangrijk, beduidend, aanmerkelijk, gewichtig
+transcrire          calqueren, kopiëren, overtekenen, spieken, afkijken, vertalen, traduire une langue
+transcutané         door de huid binnendringen
+transe, transes     f, trance
+transfigure         verheerlijkt, veranderen, vernieuwen, transformeren
+transgresser        breken, verbreken, verkrachten, zondigen, onteren, bezoedelen, overtreden, schenden
+transgression       f, inbreuk, misdrijf, overtreding, wetsovertreding
+transhumance        migration du bétail vers les pâturages de montage, en été
+transiger           onderhandelen, compromissen sluiten
+transistor          m, radio
+transition          f, overschakeling, overgang
+transitoire         overgangs-, overgang
+transi              verkleumd
+translucide         doorschijnend
+transmise           overgedragen
+transmuer           omzetten
+transparaître       se manifester, se révéler
+transparence        f, duidelijkheid, doorzichtigheid, klaarheid, transparantie
+transpercer         steken, opensteken, een gaatje maken in, doorsteken
+transpirer          uitzweten, transpireren, zweten
+transvaser, transvasait     decanteren, omgieten, overgieten
+transversal         dwars, horizontaal
+trépas              m, dood, einde
+trépasser           de pijp uitgaan, expireren, het loodje leggen, overlijden
+trapèze             m, zweefrek, trapezium
+trépidante          hectisch, koortsig, razend
+trépidation         f, tremor, trillingen
+trépieds            m, driepoot
+trépigner           stampen, stampvoeten
+trappe              f, valdeur
+trapu               gedrongen, dik, kort en dik, molig, plomp
+traquenard          m, valstrik
+traquer             opsporen, op de loer liggen, uitkijk staan, belagen, besluipen, to track
+trèfle              m, klaver
+trésor              m, schat, kostbaarheden, juweel
+tréteau             m, stellage, onderstel
+travé               ?
+travail scolaire    m, schooltaken, huiswerk
+traversée           f, doorkruising, oversteek
+traverser           overspannen, doorkruisen, doortrekken, doorgaan, doorwaden
+traverses           f, dwarsliggers
+traversin           m, bolster, rolkussen, nekrol, kussen
+travers             m, aanblik, uiterlijk, voorkomen (negatief)
+trôner              tronen
+treillage           m, traliewerk, schutting, omrastering
+treillis            m, latwerk, trailiewerk, rooster, gaas, stof
+tremblant           bevend, bibberig, trillend, zwak
+tremblés            m, esp, ratelaar, ratelpopulier
+tremblement         m, beving, huivering, rilling
+tremble             m, esp, espeboom
+tremblotante        beverig, seniel, trillend
+trembloter          bewegen, blikkeren, flikkeren, knipperen
+trempé              doorweekt, drijfnat, kletsnat, vol water
+trempe              f, karaktertrek, faculté de vouloir, wil, faculté de l'esprit
+tremper             doordrenken, dopen, brouwen, temperen, uitgloeien, verharden, dompelen, weken, indopen
+trentenaire         dertig jarig
+tressaille          huiveren, ineenkrimpen, ineenduiken, krullen, terugdeinzen, huiveren, ineenkrimpen
+tressaillement      m, gevoel van opwinding, kick, tremors
+tressé, tressés     gekruld, samengestrengeld, gevlochten
+tressauter          springen, schudden
+tresse              f, haarlok, krul, vlecht
+tresser             vlechten, samenstrengen
+treuil              m, hijskraan, lier, molen, takel, winch
+triangle            m, driehoek
+triangulaire        driedelig, driehoekig, driekantig
+trièdre             coördinaat in drie dimensies, composé de, divisé en trois éléments
+tribord             m, stuurboord
+tribu               f, stam, volksstam
+tribunal            m, gerecht, hof, gerechtshof, rechtscollege, tribunaal
+tribune             f, tribune, balkon, podium, verhoging
+tricher             vals spelen
+tricorne            m, punthoed, steek, driekant
+tricotage           m, breien
+tricoter            breien, rubbing together
+tricot              m, jersey, trui
+tringle             f, rail, roede, stang
+tringler            doordringen, penetreren, geslachtsgemeenschap hebben
+trinquer, trinque   klinken, salueren, toasten op, de glazen heffen
+triolisme           m, trio
+triomphe            m, eindoverwinning, overwinning, triomf
+triompher           zegevieren
+tripes              f, ingewanden
+tripoter            draaien, frutselen
+trique              f, knuppel
+triskèle            artwork
+triste sire         m, personne méprisée
+tristesse           f, droefheid, treurnis
+triste              triest, vreugdeloos, somber
+triturer            détruire, pulvériser, écraser
+trivialité          parole, phrase obscène
+trolleys            m, car, omnibus, dubbeldekker
+trombe              f, hoos, waterhoos, regenbui, stortbui, tornado, wolkbreuk, voorbijsnellen
+trompant, tromper   bedonderen, belazeren, verneuken
+trompe              f, bazuin, zenuwstreng, orgaan, weefsel
+tromperie           f, misleiding, oplichterij, fraude, gesjoemel
+tromper l'attente   wachten; verwachting; wachttijd; afwachting
+tromper la vigilance    échapper à sa surveillance
+tromper             misleiden, om de tuin leiden
+trompes de fallope  eileiders
+trompette           f, trompet
+trompeur            m, bedrieglijk, misleidend, onoprecht
+trompeuse           bedrieglijk
+tronçon             m, stukje, afgesneden stuk
+tronçonnant, tronçonner     couper en plusiers parties, en tronçons
+tronçonneuse        f, kettingzaag, boomzaag
+tronche             f, kop, bek, tronie, smoelwerk
+troncher            doordringen, penetreren, neuken
+tronc               m, boomstam, romp, torso
+tronqué             ingekort
+tropézien           saint-tropez
+trophée             m, trofee
+trotter             dribbelen, afdraven, draven, uitlopen
+trotteuse           f, secondenwijzer
+trottiner           afdraven, draven
+trottiner           waggelen, draven, afdraven
+trottoir            m, trottoir
+trouées             f, pas, bergpas, col
+troublé             duister, troebel, roerig
+troublant           bedenkelijk, storend, verontrustend, zorgelijk, zorgwekkend
+trouble             m, stoornis, tumult, ecstacy
+troubler            in beroering brengen, in verwarring brengen, van de wijs, vertroebelen
+trou d'eau          m, diep gedeelte van een rivier
+trou de taupe       m, molshoop
+trouer, troué, trouant      een gat slaan, een gat maken, to pierce
+trouille            f, angst, paniek, schrik
+trou                m, gat, gaatje, hol, holte
+troupeau            m, kudde, zwerm
+troupe              f, troepen, gezelschap, zwerm, toneelgezelschap
+troupier            m, simple soldat
+trous de cul        klootzakken
+trous d'obus        m, bomkraters
+trous               m, openingen, holtes, gaten
+trousseau           m, uitzet, sleutelbos
+trousse             f, bergmap, etui
+troussequin         m, zadelboog
+trousser            doordringen
+trouvaille          f, ontdekking, vondst
+truc des dingues    m, that's crazy
+truchement          m, tussenkomst, intermédiare
+truc                m, ding, foefje, truc, vaardigheid, zaak
+truffe              f, truffel, idioot?
+truffer             volstampen, bourrer
+truie               f, zeug
+truites             f, forel
+trypanosome         m, eencellig organisme
+T.S.F.              f, transmission sans fil, draadloos, wireless, radio
+t-shirt             m, t-shirt
+tube                m, pijp, slang, blik?
+tubercule           m, gezwel, knol, knolletje, knoop
+tuberculeux         m, die aan tuberculose lijdt
+tubulure            f, buis
+tuerie              f, doodslag
+tuile               f, dakpan, muurtegel, tegel
+tulle               m, gaas, net
+tuméfié             gezwollen, gonflé, bouffi
+tumeur              f, tumor
+tumulte             m, tumult, bedoening, kabaal, keet
+turban              m, tulband
+turbotin            m, jonge turbot, vis
+turbulence          f, luidruchtigheid, onhandelbaarheid, onstuimigheid
+turgescente         gezwollen
+tu, taire           stilzwijgen, zwijgen, verstommen
+tu, taire, taisait  achterhouden
+tutélaires          bescherm
+tutelle             f, curatele, voogdij, voogdijschap
+tu t'en faire       je zorgen maken
+tuteur              m, beheerder, privé-leraar, tutor, verzorger, voogd, guardians
+tuyau               m, buis, kanaal, slurf, slang, (uitlaat)pijp
+tuyaux d'arrosage   m, pijp om te besproeien
+tympaniser          ridiculiser en public
+tympan              m, trommelvlies, membraam, vlies
+typasonome          ?
+type                m, kerel, snuiter, typ
+typographier        typen
+tyrannosaure        m, tyrannosaurus
+ubac                m, noordkant van een berg
+ubiquité            alomtegenwoordigheid, omnipresentie
+ulcéré              zweer, zweren, etterend, mécontent
+ulcère              m, zweer
+ultérieurement      achteraf, later, nadien, toen
+ultérieur           toekomstig
+ultime              laatste, opperste, uiterste
+ululer              kreet, hululer
+un avant-goût       voorproef, voorproefje
+un bout à l'autre   het ene uiteinde naar het andere
+un bout de          een kleine stukje, een stukje
+un bout de temps    m, een lange tijd
+une berceuse        wiegeliedje, slaapliedje
+une clef au cou     joint lock, judogreep?
+une fin en soi      een doel op zich
+une fois pour toutes        eens en voor altijd
+une mauvaise passe  ziekelijk?
+une paire de bas    een paar sokken?
+une partie de pêche vissersvaartuig
+une pierre à demeure    f, een stenen overblijfsel
+une vengeance de tous les instants      een wraak van alle tijden
+une voie de garage  een zijspoor
+un gout de          een smaak van, een vleugje
+unification         f, unificatie, eenmaking
+uniforme            m, uniform
+uniment             gelijkmatig
+unir, unissent      bundelen, verbinden, (zich) verenigen
+unité centrale      f, mainframe
+unité               f, eendracht, samenhang
+unité               f, eenheid, eendracht, samenhang
+univers             m, universum, heelal, ruimte
+univoque            eenduidig
+un joli geste       een mooi gebaar
+un léger goût pour  a slight taste for
+un moment de vide   een moment van leegte
+un moment           even, eventjes
+un pas de fait précédant mille pas semblables   een gedane stap gevolgd door 1000de gelijkaardige stappen
+un peu plus         presque, een beetje meer, very nearly, bijna
+un rien de          no one, een mum van, een beetje van
+un rond de bras     a sweep of the arm
+un soir vert et or  de kleur van de avondschemering
+un train de vie     een levensstijl
+un trou au côté     a hole in his side
+urbaine             grootstedelijk, hoofdstedelijk, stads-, stedelijk, urbaan
+urbanistique        planologisch, stedebouwkundig, urbanistisch
+urbanité            beleefdheid
+urbanité            f, stadsleven
+urine               f, urine, pis
+urticaire           f, galbult, netelkoorts, netelroos
+usée, usés          gebruikt, gedragen, afgesleten, afgeleefd, versleten, verweerd, worn
+usage               m, gebruik
+usant               verslijten, sluiten, tiranniseren, sneuvelen
+user                uitslijten, verslijten
+us et coutumes      zeden en gewoonten
+usinage             m, machinale bewerking
+usiné, usiner       machinaal bewerken
+usine               f, bedrijf
+ustensible de ménage    huishoudelijk apparaat
+ustensile           m, gebruiksvoorwerp, instrument, keukengerei
+usuel               gebruikelijk, habituel
+usufruit            m, vruchtgebruik
+usure               f, moeiheid, sleet, slijtage, slijting
+usurier             m, geldschieter, woekeraar
+usurpées            usurperen, zich toeëigenen, misbruiken
+usurpateur          m, naäper, bedrieger, zwendelaar
+usurpation          f, overweldiging, vergrijp, misdaad
+utérus              m, baarmoeder
+utilisateur         m, gebruiker
+utilité             f, bruikbaarheid, handigheid, nut
+inutilité           f, overbodigheid, vergeefsheid, zinloosheid
+vêle                jongen, kalven, kalveren, werpen
+vêtement            m, kledingstuk
+vêtements collants  m, strakke kleding
+vaûtré              languit
+vêtues de ‘gunny’   la tête enveloppée dans de vieux sacs de jute
+vêtu                gekleed
+vécûmes             vivre
+vacant              open, vakant, vrij, leeg, onbemand
+vacarme             m, cacofonie, geraas, kabaal, schallen, spektakel
+vachasse            f, koe
+vache               f, koe
+vacherie            f, hatelijkheid, kwaadaardigheid
+vaciller            wankelen, wiegen, zwieren, flikkeren, knipperen
+vacoa               plant?
+vacuité             f, afwezigheid, verstrooidheid
+vadrouille          f, zwabber, afwasborstel, afwaskwast, rondwandelen, rondzwerven
+vadrouiller         rondzwerven
+va-et-vient         m, heen en weer, geste, beweging
+vagabondage         m, doling, dwaaltocht, omzwerving
+vagabonder          dolen, dwalen, landlopen, ronddwalen, rondtrekken, rondzwerven
+vagabond            m, clochard, dakloze, vagebond
+végétale            plantaardig, planten-, vegetatief
+végétation          f, vegetatie
+vageulette          f, rimpeling, rimpel
+vagin               m, vagina
+vagissements        gehuil, geloei, huiltoon
+vague               f, golf
+vaguelette          f, golfje, rimpel, rimpeling
+vaguement           onduidelijk, onscherp, schimmig, vaag, wazig, schemerig, onbepaald
+vaguemestre         m, onderofficier belast met de post
+vague               m, oneindige, ongewisse, moeilijkheid, wat niet voldoet
+vague               vaag, wazig, schemerig, onscherp, onpeilbaar, onbepaald
+véhémence           gepassioneerd, bezield, ardent, vurig, energiek
+véhément            heftige, geestdriftig, enthoesiast
+véhiculer           overbrengen
+véhicule            m, voertuig
+vaillament          vaillamment, manhaftig, moedig
+vaillance           bravoure, dapperheid, heldendom, heldenmoed
+vaillant            braaf, dapper, manhaftig, manmoedig
+vaille que vaille   op een of andere manier
+vaille              waard zijn, toekomen, verdienen
+vaincu              m, overwonnene
+vaincu              overwonnene
+vainement           ijdel, tevergeefs, voor niets
+vainqueur           m, overwinnaar
+vains               rendre vains = nutteloos maken, tevergeefs
+vain, vaine         vergeefs, vruchteloos, nutteloos
+vaisseaux           m, bloedbaan, bloedvat, schip, vaartuig, boot
+vaisselier          m, kabinet, keukenkast, buffet met bovenbouw
+vaisselle           f, aardewerk, serviesgoed, de vaat, afwas, vaatwerk
+valable             belangrijk genoeg, geldig, juist, valide, waard, waardig
+valence             f, valentiegetal (chemie), waardigheid
+valet               m, knecht
+valeur              f, waarde
+valeur plastique    f, pictorial value
+valise              f, koffer, reistas, valies
+vallée              f, dal, vallei
+vallée lunaire      f, maanlandschap
+vallon              m, dal, vallei
+vallonné            golvend, heuvelachtig, heuvelig
+vallonnement        m, golving
+véloce              rap, snel, vlot
+vélodrome           m, wielerbaan, veledroom
+vélocité            f, vitesse, aptitude
+valoir la chandelle de moeite waard
+valoir le coup      de kosten waard
+vélo                m, fiets
+vélomoteur          m, bromfiets, brommer, snorfiets, solex
+valse               f, wals
+valser              meetronen, walsen
+valu, valoir        opbrengen, toekomen, verdienen
+valve               f, klep
+vénal, vénale       bederflijk, omkoopbaar, laagheid, gemeenheid, bassesse
+vénéneux            giftig, venijnig
+vénéré              aanbeden, geprijsd, vereerd
+vénérable           eerbiedwaardig, verheven
+vénération          f, aanbidding, adoratie, afgodendienst, bewondering
+vénéré              vénérer = aanbidden, bewonderen, hoogachten, vereren, vrezen
+véniel              verontschuldigendbaar, onbelangrijk, pardonnable
+vanilliers          m, vanille, vanille-boom
+vanité              f, eigenliefde, verwaandheid
+vannerie            f, netwerk, vlechtwerkt
+vanner, vanné       versleten, plagen, zeven, ziften?
+vannes              f, buitendeur, sasdeur, schutdeur, sluisdeur, vloeddeur
+vantardise          dikdoenerij, opschepperig, trots
+vanter              bogen op, opscheppen over, prat gaan op, zegenen, uitbundig prijzen, uitdragen
+vînt                subjonctif imparfait - (it was impossible for anything) to come after 
+vépéciste           mail-order company
+vapeur              f, damp, stoom, mist
+vapeur              m, stoomboot
+vaporeuse           doorzichtig, luchtig, ragdun, transparant
+vaporiser           verstuiven
+vaquer              être en vacances, cesser, ophouden, s'appliquer, s'occuper
+vaquer à            s'occuper de
+véracité            f, eerlijkheid, waarheidsgehalte
+varangue            f, varanda
+varech, sars, sart  m, kelp
+vareuse             f, wijd vest
+véreux              aangestoken, wormig
+variation           f, variatie, veranderingen, golfbeweging, slag
+varice              f, spatader, varix
+varicelle           f, waterpokken
+varicocèle          verwijdering van de bloedvaten
+véridique           waarachtig
+variole             f, kinderpokken, pokken
+vériste             naturaliste, réaliste
+vérité              f, waarheid
+varois              uit de Var
+vècut, vivre        leven, voortleven, leven van, zich in leven houden, zijn
+vase de nuit        m, nachtpo
+vase                f, bagger, slib
+vase                m, vaas, pul
+vésicule            f, blaas, orgaan, weefsel, huidaandoening
+vasistas            f, venstertje
+vasque              f, bad, bad van fontein
+vassale             m, leenheer, leenman, vazal
+vassalité           f, vazalschap
+vassaux, vassal     m, leenheer, leenman, vazal
+vasseur             m,  levasseur?
+vaste               ruim, enorm, veelomvattend
+vétérinaire         m, dierenarts, veearts
+vaticiner           voorspellen, prédire, prophétiser
+vétille             f, bagatelle
+vétiver             soort plant
+vétuste             afgeleefd
+vaudeville          m, variété-theater, music-hall
+Vaudois             m, protestant, hérétique, ketter
+vaudoue             f, voodoo, m., commune français e, située dans le département de la Seine-et-Marne
+vaurien             m, deugniet, landloper, rakker, schooier, schurk, vagebond
+vauriens            m, vagebond, schooier, landloper
+vaut guère          is niet
+vautours            m, aal, aalt, gier, mestvocht, aasgier (vogel)
+vautré              ploeteren, zich wentelen
+vautrer             zich wentelen
+vœu, vœux           m, wens, gelofte, erewoord
+veaux               m, kalf
+vecteur             m, vektor
+veillées            avondmaal, avondmaaltijd, fin de la journée, waken, bezoek
+veille              f, de avond voor, dag voor
+veiller             opblijven, waken, toezicht houden
+veilleur            m, wachter, personne chargée de veiller
+veilleuse           f, waakvlam, spaarvlam
+veinard             m, lucky man
+veine               f, ader, laag, mijnader, luck, geluk, geest, ertsader, bloedbaan
+veine temporale     f, bloedader (hoofd)
+veineuse, veineux   ader, bloedader     
+veins               aders
+veinules            f, bladader, bloedcirculatie
+velléda blanc       whiteboard
+velléité            désir, envie, intention
+velours             m, velvet, fluweel, velours
+velouté             smoothness, fluweelachtig, romigheid
+veloutiers          palmbomen?
+velu, velue         ruig, behaard, met een vacht, qui contient qqch en grande qté
+vendéen             m, chouan
+vendange            f, goed wijnjaar
+vendanges tardives  f, late oogst, gereserveerd voor wijnen uit de Elzas
+vendeur             m, verkoper
+vendeuse            f, verkoopster
+vendre la mèche alles verklappen, de hele zaak verraden
+vengeance           f, represaille, wraak, wraakactie
+vengeresse          wraak nemend, wrekend
+vengeur             vergeldend, wraak nemen, wrekend
+venimeux            giftig, venijnig
+venir à bout        bolwerken, klaarkrijgen
+venir à l'esprit    opkomen, suggereren, zinspelen
+ventilateur         m, ventilator, waaier
+ventouse            f, ontstopper, uitloper, zuiger, zuignap
+ventre à terre      três rapidement
+ventre              m, buik
+ventricule          m, hartkamer
+ventripotent        dikbuikig
+ventru              dikbuikig
+vent, vents         m, luchtstrool, wind, windje
+ver à soie          m, zijderups
+verbosité           f, langdradigheid, breedvoerigheid, uitvoerigheid, verbositeit
+verdâtre            groenachtig
+ver de terre        m, aardworm, kunstaas, regenworm, maggot
+verdeur             m, vigueur, liberté, jong (van wijn)
+verdi               groen
+verdoyante          groen
+verge               f, geslacht, fluit
+verger              m, boomgaard, bogaard, bongerd, fruitareaal
+vergeture           f, striae
+verglas             m, ijzel
+vergogne            f, schaamte, honte, pudeur, gêne, eerbaarheid, kuisheid, onthouding, zedigheid
+vergue              f, ra (van boot)
+vermeil             rood
+vermicelle          m, vermicelli, pâtes
+vermillon           scharlaken, vermiljoen
+vermine             f, gajes, gebroed, gespuis, geteisem, ongedierte
+vermoulu            vermolmd
+vermouth            m, vermout, aperitief
+vernies             gelakt
+vernis à ongle      m, nagellak
+vernissage          m, vernissen, lakken, tentoonstelling van schilderijen
+verre filé          m, gesponnen glas
+verre               m, glas, borrel, drank, ooglens, doos, laadkist, vat, container
+verrière            f, baldakijn
+verroterie          f, delfstof, mineraal, smallwares, handelswaar, winkelwaar
+verrouiller         vergrendelen, afgrendelen, op slot
+verrou              m, grendel, slot, schuif, haan
+verrue              f, wrat
+versant du ciel     bakken uit de hemel
+versant             m, berghelling, bergwand, glooiing, helling
+versé, verser       eruditie, geleerdheid, schoolkennis
+verser              stromen, vergieten
+vers luisants       m, glimwormen
+vers                m, verzen, dichtregel
+vertébral           van de ruggegraat, wervel-
+vertèbres           f, wervels
+vert-de-gris        m, roestvorming, adj. kopergroen, patina
+vertement           brutaal, rudement
+vertes années       f, groene jaren, onervaren jaren
+verticalité         verticaliteit
+vertige             m, duizeligheid, draaiing, hoogtevrees, giddiness
+vertigineuse        draaierig, duizelingwekkend, hoogte, door belangrijkheid
+vertueuse           deugdzaam, goed, rechtschapen
+vertu               f, deugd, deugdzaamheid, verdienste, merite
+verve               f, dynamiek, levendigheid, vitaliteit
+ver, vers           m, vers(en), worm(en), maggot
+vesou               m, sap van suikerriet
+vessies             f, blaas, zwemband
+veste d'intérieur   f, kamerjas
+veste               f, jasje, jekker
+vestibule           m, gang, hal
+vestige             m, overblijfsel
+veston              m, colbert, jack, jas, jekker
+veuf                m, weduwnaar
+veule               zwak, feeble, stout, ongewerveld
+veuve               f, weduwe
+vexé                boos
+vexation            f, bron van ergernis, chagrijn, kopzorg
+vexer               beduveld, gekwetst zijn, gekrenkt, vernederd
+viable              levensvatbaar
+viagère, viager     een leven lang
+viande              f, vlees
+viandox             m, gezouten saus, liebig, knorr
+vibrer              puffen, ronken, vibreren, trillen
+vibrionner          vibreren
+vice de forme       m, vormfout
+vice, vicieux       m, afdwaling, defect, fout, gebrek
+vicieuse, vicieux   kwaadaardig
+vicie               verontreinigd
+vicissitude         f, wisselvalligheid
+victime             f, slachtoffer, getroffene, prooi
+victoire            f, overwinning, zege
+victorieux          m, de overwinnaar
+victuailles         f, eetwaar, eetwaren, kost, spijs, voedsel, vreten
+vidanger            nettoyer, purger, sortir, vider
+vidé, vider         leegmaken, opgebruiken
+vide                m, woestijn, leegte
+vide-ordures        m, stortkoker, vuilniskoker
+videur              m, buitenwipper
+vieillard           m, oude, bejaarde, grijsaard
+vieille             f, 
+vieillesse          f, de ouderdom
+vieillissante       verouderend, grijs worden
+vieillissement      vergrijzing, veroudering
+vieilli             verouderd, rijp geworden
+vieillot            ouderwets, oudachtig, ouwelijk, wizened, wijs geworden
+vie intérieure      f, innerlijke, innerlijk leven
+vielle tortue malade    f, oude gekomde, zieke
+viennoiserie        f, gebak, patisserie
+vie sauve           f, levensreddend
+vif-argent          m, kwik, kwikzilver
+vif                 kwiek, levendig, vitaal, vlug, vrolijk
+vifs                ad rem
+vigie               f, kijken, uitkijkpost, kraaennest in mast van schip
+vigilance           f, oplettendheid, vigilantie, waaksheid, waakzaamheid
+vigilant            wakker, opletttend, slapeloos, waakzaam
+vigiles             m, surveilleren, toezicht houden
+vigne               f, wijnrank
+vignes              f, wijngaard
+vigoureux           energiek, flink, heftig, krachtig, sterk
+vigueur             f, animo, drukte, opgewektheid, daadkracht, energie, hardheid
+vilaine, vilain     lelijk, ondeugend, stout, opvallend
+vil                 dreigend, laag, lelijk, onwaardig, walgelijk
+vilebrequin         m, krukas
+vilipender          belasteren, kwaadspreken
+village-club        m, vakantiedorp
+village             m, buurt, dorp, gat, gehucht
+villageois          dorpelingen
+villégiature        f, speeltuin, vakantieland
+ville               f, stad
+vinasse             f, bocht, moonshine
+vindicative, vindicatif       haatdragend, rancuneus, wraaklustig, wraakzuchtig
+vindicte            f, vergelding
+vine                f, wijnstok
+vineuse             wijnachtig, wijn-, dronken
+vingtaine           f, een twintigtal
+vin ordinaire       m, gewone wijn
+vinrent             venir
+vinssent, venir     komen
+vinyle              m, vinyl
+violacé             paars, violet
+violation           f, inbreuk, misdrijf, overtreding, schennis
+viol de mineure     m, verkrachting van minderjarigen
+violemment          fel, gewelddadig, heftig, hevig
+violence            f, geweld, grimmigheid, hevigheid
+violent             geweldadig, fel, hevig, sterk, stevig, woest
+violents            m, geweldadigers
+violer              leesgeroofd, aanranden, schenden, geweld aandoen, binnendringen, to conceal
+violette            f, viooltje (bloem), korte sluier
+violine             purper
+viol                m, aanranding, verkrachting
+violon              m, viool
+vipère              f, adder (ook voor persoon)
+virée               f, snelwandelen, wandeling, kortstondigheid
+virage              m, bochten
+virago              f, helleveeg
+virer               buigen, ruimen, van koers veranderen, wenden
+virevoltant         twirling
+virevolter          twirl, pivoter, ronddraaien
+virginité           f, maagdelijkheid
+virilité            f, viriliteit, mannelijkheid, potentie
+viril, virile       mannelijk, viriel
+virtuosité          f, virtuositeit
+virulente           kwaadaardig
+visage              m, aangezicht, snuit, toet, gezicht
+vis-à-vis           zonder iets tegenover, tegenover
+viscérale           van binnenuit komend, vanuit de ingewanden
+viscères            m, ingewanden, tout organe du crâne, du thorax ou de l'abdomen
+viser               reviser, deponeren, neerleggen, mikken, mikken op, viseren
+vis                 f, schroef, vijs
+visière             f, klep, oogscherm, vizier
+vision fugitive     f, in een flits zien
+vision              f, verschijning, visioen, droombeeld, aanschouwing
+visite              f, bezoek, bezichtiging, keuring, rondgang, rondleiding,  rondrit, rondreis
+visqueux            slijmerig
+visser              schroeven, draaien
+visseuse dévisseuse schroevendraaier
+vital               central, essentieel, hoofd-
+viticole            viticulture, wijngebied, wijnstreek
+vit                 m, fallus, fluit, geslachtsdeel
+vitrée              beglazen
+vitraux, vitrail    m, gebrandschilderd glas/raam, glas-in-loodraam
+vitre               f, venster, ruit, raam
+vitres closes       f, ramen gesloten
+vitreux, vitreuse   doorschijnend, glazig, glassy, omfloerst
+vitrifié            verglaasd
+vitrine             f, etalage
+vitupérer           verguizen
+vivaces             overblijvend, rapheid, snel, de durée longue, durable, avec vivacité
+vivacité            f, geestdrift
+vivant              m, levend wezen, être
+vive                fel
+vivifiante          kwiek, levendig, verkwikkend
+vivifier            bezielen, verfrissen, versterken, invigorating
+vivisection         f, vivisectie, dierproef
+vivre aux crochets de   parasiteren, vegeteren op
+vivre avec que dalle    live with that slab, leven met die miserie?
+vivre de            zich in leven houden met, leven van
+vivre en bonne intelligence      in goede overeenkomst, goed overeenkomen
+vivre               m, eten, voedsel, etenswaren
+vivrière            voedsel
+voûté               gebogen, gewelfd, krom, met een ronde rug
+voûte               f, boog, gewelf
+voûter              krommen, zich welven
+vociféra            razen, schreeuwen, tieren
+vociférant          schreeuwerig, luid, luidruchtig, lawaaierig
+vogue               f, bevlieging, gril, modegril, rage, stijl
+voguer              varen, zeilen?
+voie digestive      f, spijsverteringskanaal
+voie                f, baan, aanvliegroute, weg, reisroute
+voie ferrée         f, spoorweg
+voilée              omfloerst, omsluiert, verhuld
+voilà tout          ziedaar, dat is alles
+voile               f, zeil
+voile               m, laken, sluier, doodskleed, lijkwade
+voiler              omsluieren, sluieren, vermommen, versluieren, troubler, vertroebelen
+voiles d'étai       stagzeilen
+voilette            f, sluier
+voilier             m, zeilboot, zeilschip
+voilure             f, vleugel, zeilen van een schip
+voire de            même
+voirie              f, gemeentereiniging, stratenplan
+voisinage           f, buurt, omwonenden
+voisin, voisine     m, buurman, f, buurvrouw
+voiture cellulaire  f, celwagen
+voiture de mutilé   f, rolstoel?
+voiture de police   f, politiewagen
+voiture             f, koets, wagen
+voix de rainette    f, croaking voice, kikkerstem?
+voix grave          f, een diepe stem
+voix mouillée       f, tearful voice
+voix pleine         f, luide stem
+voix sourde         f, schorre stem
+volée               f, zwerm
+volée               pak slaag, pandoering, pak rammel, aframmeling
+volées d'escalier   f, trappen
+volage              grillig
+volant              m, pluimbal, shuttle
+volatiles           vluchtig, vogel, vogeltje, gevogelte
+volatiliser         faire disparaître, vervluchtigen, oplossen
+volcan              m, vulkaan, krater
+voler en éclats     in gruzelementen vliegen
+voleter             meedrijven, hangen, fladderen, afdrijven, dobberen
+volettent, voleter  fladderen, drijven, hangen, waaien
+volet, volets       m, luik
+voleur              m, dief, bandiet, boef, rover
+vol lourd           m, clumsy flight, onhandige vlucht
+volonté             f, wil, wilsuiting, zelfbeheersing, zelfcontrole, will-power
+volontaire          eigenzinnig, vrijwillig, ongevraagd, koppig, zichzelf aangedaan, bereidwillig, deliberate
+volontairement      gewild, bewust, expres
+volontiers          gaarne, met alle plezier, van harte
+voltiger            bewegen, dwarrelen, flakkeren, flikkeren, knipperen
+voltigeur           soldaat, mobile eenheid, sigaar, stinkstok
+volubile            spraakzaam
+volubilité          welbespraaktheid, welsprekendheid, eloquentie
+volume              m, boekdeel
+volupté             geilheid, lust, intense pleasure
+voluptueux          sensueel, wellustig, wulps, of pleasure
+volute              f, spiraalvorm
+Volvic              mineraalwater
+vol, vols           m, vlucht, troep, diefstal
+vomissement         m, oprisping, kotsen
+vomissures          f, braaksel, overgeefsel, kots
+vorace              begerig, hebberig, vraatzuchtig
+voracité            f, grote honger, vraatzucht
+vortex              m, draaikolk, maalstroom, windhoos
+voué                plechtig beloven, gewijd
+vouer               plechtig beloven
+vouvoiement         m, beleefdheidsvorm
+vouvoyer            met U aanspreken
+voyage              m, reis
+voyages au long cours       m, lange vaart
+voyageur            m, reiziger
+voyageurs de commerce  m, handelsreizigers
+voyant              fel, goedkoop, in prijs verlaagd, opzichtig, brilliant (weerspiegelend)
+voyou               m, bruut, guit, hooligan, misdadiger, woesteling, scroundel
+vraisemblable       waarschijnlijk
+vraisemblance       f, kans, waarschijnlijkheid
+vrille              f, boor
+vriller             wringen
+vrombir             loeien, razen, vibrerend geluid maken, brommen, ronken
+vrombissement       gebrom, geronk
+vtt                 m, vélo tout terrain, mountainbike
+vue                 f, het zicht
+vulgaire            m, laag volk
+vulgaire            ordinair, gewoon
+vulgate             f, evangelie, bijbelboek
+wagon               m, wagon van een trein
+wagon-restaurant    m, restauratiewagen
+wagonnets           m, kleine wagen, karretje
+water               m, plee, toilet, wc
+wrap                m, wrap, soort broodje
+xénophobie          f, xenofobie
+phobie              f, fobie
+yatagan             m, turks kromzwaard
+yeuse               f, steeneik
+yeux volontaires    m, tic?
+zélé                m, ambitie, vuur, geestdrift, ijver, toewijding
+zélés               ambitie, vuur, geestdrift, ijver
+zéle                ambitie, vuur, geestdrift, enthousiast
+zénith              m, zenith
+zèbrer, zébraient, zébré      strepen, doorstrepen
+zèle                m, ambitie, vuur
+zézayer             lispelen, slissen
+Zen                 m, Zen
+zeste               m, écorce, kruimel
+zigzaguer           zigzaggen
+zinc                m, zink
+zippé               ritsluiting
+zob                 m, fluit, geslachtsdeel
+zonard              m, jeune délinquant de banlieue
+zone                f, zone
+zouave              m, soldaat
+zygomatique         wang, gelaatstrek, snuit
+à quoi nous en tenir      waar wij voor staan
+mitigée             verminderd, faire devenir de moindre importance
+enfance             f, kindertijd
+nécromancie         f, dodenbezwering, duivelskunsten, zwarte kunst
+romancière          f, romancier, romanschrijfster
+fabuleusement       fabelachtig, fantastisch, geweldig, luisterrijk
+stature             f, gestalte, statuur, postuur, hoogte
+mythologie          f, mytologie, godenleer, fabelleer
+délicatesse         f, fact, fijngevoeligheid, teerheid, fijnzinnigheid
+impact              m, botsing, inslag, krachtige invloed, schok
+technique           f, handelswijze, hulpmiddel
+strictement         zuiver, strikt, strak
+mahométan           m, moslim, mohammedaan
+apathique           apatisch, lusteloos, traag
+reptation           f, kruipen, rondkruipen
+fouisseur           gravend
+fouir               graven
+Carbonifère         m, Carboon
+Trias               m, Trias
+Permien             m, Perm
+loups-garous        m, weerwolven
+vampire             m, vampier
+épouvante et surnaturel en littérature  supernatural horror in literature
+récapituler         resumeren, samenvatten, recapituleren
+en quête de         op zoek naar
+opuscule            m, petit livre, brochure, pamflet
+typologie           f, karakterschildering, typologie
+anatomie            f, lichaamsbouw, anatomie, gedaante, gestalte, lijf, verschijning
+cartonnage          m, bordpapier, karton
+gommée              gummi, gegomd, gegumd
+côtelette           f, kotelet, karbonade
+contreplaqué        m, gelaagd hout, multiplex, triplex
+fixée au scotch     met tape vastgemaakt
+caissette           f, kistje
+inconvénient        m, bezwaar, nachtzijde, schaduwkant, schaduwzijde, nadeel
+étagement           m, organisatie
+éon, éons           m, eeuwigheid, een eeuwigheid
+hallucination       f, hallucinatie, zinsbegoochelinng, waan, waanvoorstelling
+détracteur          m, criticus, deurklopper, klopper
+préexister          vooraf bestaan, voorafgaan, voorgaan
+allusion            f, hint, toespeling, zinspeling, allusie
+en tout et pour tout   'in alle en voor alle'?
+à un tel point      op het punt
+bizarrerie          f, curiositeit, eigenaardigheid, wonderlijkheid, vreemdheid, buitenissigheid
+mis en tête         in de kop gehaald
+exclusion           f, uitsluiting
+truffer, truffé     garnir (pourvoir une chose de qqch), mettre dans
+diagnostic          m, diagnose, besluit
+homosexualité       f, homofilie, homosexualiteit
+verrat              m, beer
+censure, autocensure   f, censuur, zelfcensuur             
+affirmé             beaamd, verzekerd, bevestigd
+importer            invoeren, van belang zijn
+érotisme            m, erotiek
+émoustillant        joie, blijmoedig, jolig, vreugdevol, erotisch, zinneprikkend
+technologie         f, technology
+idéologie           f, ideologie
+arrière-mondes      ?
+opportunément       gelegen, geschikt, opportuun, van pas
+chambre à air       f, binnenband
+vespéral            couchant, soir
+succéder, succèdent volgen op, leiden, resulteren, uitlopen, uitmonden, opeenvolgen
+troc                m, ruilhandel, ruiling, ruilverkeer, swap, valutaswap
+taverne             f, taverne
+ciseler             beitelen, uitbeitelen
+jade                m, jade
+cornaline           f, kornalijn, steen, gesteente, kwarts
+corail              m, koraal
+architecture        f, architectuur
+clocheton           m, haute construction, tour, kerktoren
+minaret             m, minaret
+dramaturgie         f, drama, dramatiek, dramaturgie
+dégénérescence      f, achteruitgang, dekadentie, neergang, ondergang, verdorvenheid
+tumescente          gezwollen, opgezet
+bourgeonnement      m, groei, wasdom
+préhension          f, prendre, serrer dans ses bras
+amorphe             vormloos
+orthogonale         loodrecht, orthogonaal
+gauchir             kromtrekken, scheeftrekken, werken
+clause              f, bepaling, clausule
+clause de style     f, stijlcomponent
+iodée               jood/jodium, eau de mer, pekel, pekelnat
+caquétement         m, klikken, klikklakken
+pharaon             m, farao
+prestidigitateur    m, goochelaar
+égyptologie         f, egyptologie
+sambouque           muziekinstrument?
+sistre              m, percussieinstrument
+morbide             ziekelijk, morbide, macaber, griezelig, luguber
+dissemblable        ongelijk, anders, ongelijk, ongelijkvormig, verschillend
+intérieurs          binnen-, intern, inwendig
+contrepartie        f, tegenpartij, tegenpool
+icône               f, ikoon
+vocabulaire         m, woordenlijst, vocabulaire, vocabularium, taalschat, woordenschat, lexicon, woordenboek
+onirique            imaginaire, dromerig
+Antarctique         Zuidpoolcircel
+physiologie         f, fysiologie
+ferir, féru         qui aime qqch, enthousiast, geestdriftig over
+paléontologie       f, paleontologie
+terminologie        f, naamgeving, terminologie
+élision             f, vokaal, klinker, mot - lexicale eenheid, woord
+folklore            m, folklore
+nécropole           f, begraafplaats, dodenstad
+Caroline du Nord    f, North Caroline
+topologie           f, topologie (wiskunde)
+continuum           m, continuüm
+démonologie         f, demonenleer
+objective           m?, doel, objectief
+reclus              m, eenzaat, heremiet, kluizenaar
+compte rendu        m, rapport, verslag, geschiedenis
+scalpel             m, scalpel, ontleedmes
+impressionnisme     m, impressionisme
+disproportion       f, onevenredigheid, onevenwicht, wanverhouding
+transmutation       f, transmutatie
+bavoter             kwijlen
+corégent            m, co-regent
+démence             f, verstandsverbijstering, waanzin, waanzinnigheid, zinsverbijstering, dementeren, dementie
+avant-garde         f, voorhoede, avant-garde, voorste gelid
+emergence           f, opduiken, emergentie
+plébisciter         exprimer son opinion par un vote, akkoord gaan met, goedvinden, goedkeuren, ergens achter staan
+antiquité           f, oudheid, vervlogen tijden
+propylé             m, bouwsteen
+pierre de achoppement  f, struikelblok
+achoppement         m, événement malheureux, tegengestelde, tegenovergestelde
+nonagénaire         negentigjarige
+belvédère           m, kamer, ruimte, localiteit, hof, tuin, lieu d'observation, partie supérieure d'une chose
+a contrario         integendeel, andersom, in tegendeel
+dévastatrice        verwoestend, verpletterend
+prototype           m, prototype, archetype, proefmodel
+tenir le coup       groothouden, zich flink houden, volhouden
+compromettre        compromitteren, zijn nek uitsteken
+mercantilisme       m, handelsgeest, business, commercie, koophandelsgeest
+leitmotiv           m, leitmotiv
+antisémite          m, antisemiet
+correspondant       m, correspondent, reporter, berichtgever
+miracle             m, mirakel, wonder, godswonder
+musique             f, muziek
+périclitera, péricliter failliet gaan, verkrottten, vervallen
+boutique            f, boetiek, magazijn, schop, winkel
+compétitivité       f, concurrentievermogen
+candidature         f, kandidatuur, kandidaatstelling
+dynamisme           m, dynamisme
+efficience          f, efficiency, doelmatigheid
+insuffisance        f, afwezigheid, euvel, gemis, tekort, ontoereikendheid
+compétence          f, competentie, deskundigheid, vaardigheid
+hybridité           f, vermening
+baragouine          spreken, zeggen, façon de parler
+versification       f, metriek, versleer, poëtica, poëzieleer
+irréfléchie         ondoordacht, onnadenkend
+pitécanthrope       m, un homme avec des caractéritiques de singe
+limon               m, modder, slijk, bagger
+désintégration      f, het uiteenvallen
+ichor               m, pus, etter
+débordement         m, samenstromen, toestromen, passie, hartstocht, gedrevenheid
+cataclysmique       cataclystisch, cataclymisch, natuurramp
+mongoloïde          mongol
+déportation         f, deportatie, banning, verbanning
+cyanogène           m, zenuwgas
+ségrégation         f, segregatie, scheiding
+tortionnaire        m, folteraar, kweller
+Walhalla            m, Walhalla
+stance              f, gedicht, rijmpje, vers, dichtstuk
+bombance            f, excès des plaisirs et débauche, dronkenschap, viering, vreugdefeest
+efficacité          f, doeltreffendheid, werkzaamheid, efficiency
+appetit             m, graagte, hongerigheid
+simiesque           aapachtig
+amoralité           f, amoreel, qui est sans morale
+tempêter            uitvaren tegen, tekeergaan, te keer gaan tegen, vitten op
+bifurquer           zich afsplitsen, zich aftakken, zich splitsen
+courtoisie          f, hoffelijkheid
+ennemie             f, vijand, oppositie, bestrijder, tegenpartij
+hardis              brutaal, moedig, stoutmoedig, onverschrokken, onbevreesd, monter, vrolijk, opgewekt, vrijpostig
+gaine               f, foedraal, schede, korset, huls, omhulsel
+arsenal, arsenaux   m, arsenaal, wapenkamer, wapendepot, magazijn
+automitrailleuse    f, véhicule militaire terrestre
+auteur              m, auteur, schrijver
+passeport           m, paspoort, identiteitsbewijs, pas
+bras de chemise     m, hemdsmouw
+cribler             zeven, ziften
+tournesol           m, zonnebloem
+tournoi             m, competitie, concurrentie
+pistolet à crosse   m, pistool, (kolf)pistool
+boxeur              m, bokser
+boxe                f, boksen
+pierrot             m, militair, soldaat
+familiarité         f, vertrouwdheid, familiariteit, innigheid, intimiteit, bekendheid
+à pleine bouche     volle mond
+moineau pince-sans-rire   ?
+pince-sans-rire     uitdrukkingsloos, droog
+l'humour pince-sans-rire  m, droge humor
+dégotter            découvrir par un effort de l'esprit - (vondst; opgraving), (ontdekking; vondst)
+vedette             f, rondvaartboot, plezierboot
+scoliose            f, ruggegraatsverkromming
+grattement          m, gekras, kras, geschraap, gekrabbel
+profil              m, profiel, zijaanzicht
+décréter            beslissen, ordoneren, decreteren
+renfort             m, achterban, versterking
+annamite            Annam, république socialiste du Viêt-Nam, Vietnam, Viet-nam, Viêt Nam            
+bientôt             alras, dra, haast, binnenkort, gauw, weldra, spoedig, vroeg
+brocher, brochée    versieren, aankleden, orner
+découcher           partir, quitter un lieu, se déplacer
+talapoins           m, (a)ap(en), monnik, broeder, kloosterling
+coupe-vent          m, vêtement civil masculin : haut du corps, rokkostuum, avondkostuum
+jonque              f, jonk, zeilvaartuig, zeilboot
+au pire             in het ergste geval, slechtst, ergst, het minst goed, slechtste
+amygdale            f, amandel, tonsil
+cor de chasse       m, jachthoorn
+écuyère             f, ruiter, paardrijdster
+serf                m, horige, lijfeigene, halfvrije
+pédicure            m, pedicure, voetverzorger
+plaqué              m, vertind, verguld, plaat, plaatje
+turlupin            m, grapjas, personne farceuse ou qui plaisante
+chef-lieu           m, hoofdplaats, zetel, provinciehoofdstad
+croquants           m, boer, f, boerin, landbouwer, plattelander
+fleuret             m, schermdegen, épée, zwaard, zijzwaard
+rapière             f, rapier, épée, zwaard, zijzwaard
+colichemarde        f, soort van degen, zwaard, épée
+mijoter             pruttelen, sudderen, smeulen, smoren, stoven
+ivre-noble          edel-dronken?
+pitrerie            f, absurditeit, dwaasheid, gekheid, gekkenwerk, idiotrie, potsierlijkheid
+légation            f, gezantschap, legatie
+appontement         m, aanlegsteiger, landingsbrug
+nerf, nerfs         m, zenuw, zenuwen
+roussâtre           rossig? sinaasappelkleurig
+toit à cornes       m, gehoornd dak
+cyprin              m, witvis, voorn, karper
+circulation         f, verkeer
+au reste            de plus, en plus, par surcroît
+au demeurant        de plus, anderzijds, aan de andere kant, omgekeerd
+rarement            zelden
+phtisie             f, tuberculose
+mondanité           f, élitisme
+sujétion            f, onderwerping, slavernij, knechtschap
+initiale            f, initieel, voorletter, beginletter
+notation            f, notitie, notatie
+condenser           indikken, neerslaan, verkorten
+texte               m, tekst
+nervosité           f, nervositeit, rusteloosheid
+préface             f, voorwoord, inleiding, woord vooraf
+éditeur             m, uitgever, uitgeverij
+car                 m, wagen, kar, toerwagen, touringcar
+maître d'hôtel      m, butler, chef de cuisine
+œillade             f, blik werpen, manière de diriger les yeux vers qqch
+sœur jumelle        f, tweelingzus
+obstacle            m, obstakel, obstructie, barrière, hindernis
+ambassade           f, ambassade, consulaat
+consulat            m, consulaat
+gardon              m, voorn, witvis
+abstention          f, terughoudendheid, onthouding
+angine              f, keelontsteking, keelpijn
+antichambre         f, foyer, voorportaal, vestibule
+absorption          f, opneming, absorptie, inzuiging
+fourreur            m, bonthandelaar, pelswerker, bontwerker
+cafardeux           triest, bedroevend
+cuisiner            koken, opmaken, prepareren, klaarmaken, uithoren, scherp ondervragen
+tragique            m, tragiek
+à flots             in overvloed, en grand nombre, grande quantité
+aérer               luchten, ontluchten
+argot               m, jargon, vaktaal, slang, argot, groepstaal, bargoens, boeventaal
+cottage             m, landhuis, huisje
+hospitalité         f, hospitaliteit, gastvrijheid, cordialiteit, hartelijkheid, jovialiteit
+pleurer à chaudes larmes              tranen met tuiten huilen
+achèvement          m, voltooiing, realisatie, completering, voleinding
+combustion          f, verbranding, ontbranding
+hectare             m, hectare
+refoulement         m, aller en arrière - achteruitstappen; achteruitwijken; terugwijken, van zich afschuiven, 
+concret             m, het concrete?
+ludions             m, objet qui sert à jouer - speelgoed; speeltuig; speeltje
+trogne              f, gezicht, smoel, tronie
+cacahuéte           f, aardnoot, pindanoot
+remorquer           m, sleepboot
+surélever, surélevé verhogen, ophogen
+passarelle          f, wandelpad
+livre de chevet     m, livre lu avant le sommeil, faveur, favoriser
+admiration          f, bewondering, admiratie, achting
+idylle              f, idylle
+entrepont           m, scheepsdek, scheepsvloer, niveau d'un bâtiment (édifice, navire)
+j'ai bonne mine     I look good
+commodément         gemak, gemakkelijkheid
+à l'outre           in aanvulling op de ...
+gaffe, gaffer       blunderen, een bok schieten, een flater slaan
+mousquetaire        m, musketier
+sourcilleux         grievend, hatelijk, opschepperig, precies, trefzeker, nauwkeurig, hoog, grijns, grimas
+vivier              m, aquarium, terrarium, vivarium
+Tropique du Cancer  m, Kreeftskeerkring
+marsouin            m, bruinvis
+chorégraphie        f, choreografie
+accordéon           m, accordeon
+grisonnante         grijs, grauw, vergrijsd
+maritorne           f, servante sale ou ne donnant pas satisfaction
+anémié              f, anemie, bloedarmoede
+glèbe               f, aarde, land, landbouwland, plantage
+foi d'animal        un synonyme de l’expression “Jurer sur quelquechose"
+perpétuel           oneindig
+mener à bien        volbrengen, uitvoeren
+découpure           f, knipsel
+anarchie            f, anarchie
+kabyle              algerijns
+ininterrompu        ononderbroken
+insolemment         brutaal, schaamteloos, onbeschaamd, onbeschoft, vrijpostig, impertinent
+poète               m, dichter
+engrais             m, kunstmest, meststof, mest
+exécutions de 36    ?
+assister en connaisseurs        ?
+biologiste          m, bioloog
+animation           f, animatie
+figure en rasoir    ?
+mettre au propre    in het net schrijven, schoonschrijven
+traductrice         f, vertaalster
+grondante           bedreigend, dreigend
+havre               m, haven, havenstad, zeehaven
+positiviste         positivist, rationalist, verstandsmens
+positiviste         m, realist
+macumba             f, macumba
+possession          f, in bezit zijn
+aguardiente         f, boisson alcoolisée, witteke
+casaque             f, overjas, mantel, pardessus, mantel, jas
+toiture             f, dakbedekking, kap, overdekking, overkapping, abri, beschutting
+appentis            m, afdak, luifel, schuurtje, bijgebouw
+chromo              m, plaatje, litho, lithografie
+irrésistible        onweerstaanbaar, onbedwingbaar, niet te stuiten, overweldigend
+rythme              m, ritme
+dyspeptique         indigestie, misselijkheid, onpasselijkheid
+cénotaphe           m, cenotaaf, tombe, graftombe, lieu où l'on place les morts
+mettre en montre    put on display
+mal engager         misfed, vastgelopen, op de verkeerde plaats
+flagrant            flagrant, op heterdaad, overduidelijk, schaamteloos, in het oog springend
+fazenda             f, fazenda
+ruée                f, gehaast, haast, spoed, drukte, agitation (personnes)
+aérogare            f, luchthaven
+aérodrome           m, luchthaven, vliegveld, landingsplaats
+aéroport            m, luchthaven
+grilleur, grilleurs m, celui qui fait griller. Les grilleurs de marrons. Cuiseur ou grilleur d'oignons
+matamore            m, opschepper, dikdoener, grootspreker
+totem               m, totem, totempaal
+gaucho              m, cowboy, hoeder, conducteur de bétail
+courbatu            moei, vermoeid
+bananier            m, banaanboom, bananeboom
+casbah              f,      duister, troubel, vaag, rijk begroeid, dicht begroeid
+toujours est il que     wat niet wegneemt dat
+toundra             f, toendra, mossteppe
+toupet              m, brutaliteit, onbeschaamdheid
+toupie              f, draaitol, tol
+tour à tour         afwisselend, beurtelings, om en om, alternately
+tourbe              f, bosveen, heideveld, turf, veen
+tourbière           f, laagveen, moeras, moerasveen, veen, veengrond
+tourbillon          m, draaikolk, wervelwind, windhoos
+tourbillonnait, tourbillonner   omhoogwervelen, draaien, ronddraaien, tollen
+tourbilon           m, draaikolk
+tour de poitrine    m, borstomtrek
+tourelle            f, torentje
+touriste            m, toerist, vakantieganger
+tour                m, de ronde, rondom
+tourmenté           doodongerust, tobben, moeite bezorgen
+tourmentante        afpijnigen, afmartelen, plagen, pijnigen, tormenteren
+tourmente           f, angst, getob, onrust, doodongerust
+tourmenter          tormenteren, van streek brengen
+tourments           m, kwelling, torment, tortuur
+tournée             f, rondje, tournée
+tournant            m, afslag, bocht, draai, mijlpaal, wending
+tourner au ralenti  stationair draaien
+tourner au          wenden tot
+tourner             draaien, outflank
+tournicoter         fladderen rond
+tourniquet          m, draaihek
+tournoyer           cirkelen, draaien, omwentelen, spiralen, wentelen
+tournure            f, wending, zinswending, aanblik, uiterlijk, voorkomen, style litéraire
+tourtereaux         m, tortelduifjes
+tourterelle         tortelduif
+tourti              m, boubou blanc
+toussotement        m, sputteren
+toussoter           kuchen
+tout au long        van begin tot einde, langsheens
+tout au plus        alleen maar, gewoon, hoogstens, hooguit
+tout avait déferlé  everything was swept
+tout à coup         plotseling
+tout à fait         volledig, absoluut, helemaal
+tout-à-l'égout      m, riolering
+tout à l'heure      zostraks, net, aanstonds, op dit moment, in a little while, later on
+tout bas            intérieurement, inwendig, in zijn achterhoofd, van binnen, innerlijk
+tout de go          d'une manière explicite et intelligible
+tout de même        natuurlijk, zeker
+tout du moins       minstens
+tout d'un coup      plotseling, bruusk, eensklaps
+toutefois           daarentegen, echter, evenwel, niettemin, toch
+tout en dents et en graisse?
+tout en finesse     elegant
+tout envoyer promener  drop the whole thing
+toute-puissance     f, almacht, alvermogen, omnipontentie
+toutes se valaient  allemaal waard, alle zijn de moeite waard
+tout juste          exactement, péniblement, ric-rac, amper
+tout                m, geheel
+tout se sait        iedereen weet alles, niks is ongekend?
+toux                f, hoest, kuch
+toxine              f, giftige stof
+traînée             f, sleep, streep, streak
+traînant            slepend, lijzig, achterblijven, achterliggen
+traîne              f, sleep, grote lijnen
+traîner             achterop, treuzelen, slepen, rondhangen, sjorren, slepen
+traîner en longuer  aanslepen
+traîner les pieds   talmen, treuzelen, uitstellen
+traîner point       aanslepen?
+traître             trouweloos, ontrouw, m. verrader, leugen, bedrieger, leugenaar
+trêve               f, rust, pauze, staak het vuren, wapenstilstand
+trébuche            onderuitgaan, struikelen, strompelen
+trébucher           strompelen, struikelen, neerhalen, onderuithalen, struikelen
+tracée              uitstippelen
+tracas              m, moeilijkheid, moeite, moeilijkheden
+tracasser           beduvelen, irriteren, op de heupen werken
+tracasseries        kleinzielige handeling die tot moeilijkheden leidt
+trace               f, teken, spoor
+trachée-artère      f, luchtpijp
+trac                m, plankenkoorts
+traditionaliste     m, traditionalist, reactionair
+traduit en justice  voor het gerecht brengen
+trafic              m, verkeer, traffic, drukte
+trafiquer           knoeien, meesmokkelen, knoeien met
+trafiquage          m, manipulatie
+tréfond             m, ondergrond, diepten
+tragédie            f, tragedie, treurspel, calamiteit
+trahir              in de steek laten, verklikken, verraden
+trahison            f, verraad, trouweloosheid, judasstreek
+train de marchandise    m, goederentrein
+train               m, train, manière de marcher, te voet gaan
+trains de marchandises  m, goederentrein
+traité              m, verhandeling
+traite              f, ruk
+traitement          m, behandeling
+traiter             bediscussiëren, bejegenen, behandelen, handeldrijven
+traiter de          aan de orde stellen
+traites             f, ontlening, staatslening, overeenkomst, pakt, verdrag
+traite, traire      melken, uitmelken
+traiteur            m, traiteur
+trait               m, trek, gelaatstrek, lijn
+trait pour trait    trek voor trek, streek voor streek
+traitre             melken
+traits              m, trekken, penseeltrekken, lijnen
+trajectoire         f, traject, kogelbaan
+trajet              m, baan, route, weg, tocht, reis, reisroute
+trame               f, raamwerk, stramien, inslag, beeldgeometrie, lijnwerk (weefgetouw), web
+tramer              comploter, conspirer, machiner, arranger, betrokken zijn, rasteren
+tram                m, tram
+trémolo             m, tremolo, tremulant, geluid, muziek
+trémousser          trembler, secouer
+tramway             m, tram
+tranchées           f, bunker, gracht, loopgraaf
+tranchant           m, kant, zijkant, kant van iets
+tranchant           vlijmscherp, scherp
+tranché, tranchée   abrupt, afgelopen
+trancher dans le vif   to the point, snel en energiek reageren
+trancher            in plakken snijden, schaven, verschillen, onderscheiden, beëindigen, afsnijden, cut off
+trancher sur        stand out against
+tranches            f, schijf
+tranchet            het mes
+tranquillisant      m, kalmeermiddel
+tranquillité        f, beheerstheid, bedaardheid, gemoedsrust, rust
+Transat             f, trans atlantic?
+transat             m, ligstoel
+transborder         overhevelen, overplaatsen, verplaatsen, overladen, overslaan
+transcendante       transcendent, belangrijk, beduidend, aanmerkelijk, gewichtig
+transcrire          calqueren, kopiëren, overtekenen, spieken, afkijken, vertalen, traduire une langue
+transcutané         door de huid binnendringen
+transe, transes     f, trance
+transfigure         verheerlijkt, veranderen, vernieuwen, transformeren
+transgresser        breken, verbreken, verkrachten, zondigen, onteren, bezoedelen, overtreden, schenden
+transgression       f, inbreuk, misdrijf, overtreding, wetsovertreding
+transhumance        migration du bétail vers les pâturages de montage, en été
+transiger           onderhandelen, compromissen sluiten
+transistor          m, radio
+transition          f, overschakeling, overgang
+transitoire         overgangs-, overgang
+transi              verkleumd
+translucide         doorschijnend
+transmise           overgedragen
+transmuer           omzetten
+transparaître       se manifester, se révéler
+transparence        f, duidelijkheid, doorzichtigheid, klaarheid, transparantie
+transpercer         steken, opensteken, een gaatje maken in, doorsteken
+transpirer          uitzweten, transpireren, zweten
+transvaser, transvasait     decanteren, omgieten, overgieten
+transversal         dwars, horizontaal
+trépas              m, dood, einde
+trépasser           de pijp uitgaan, expireren, het loodje leggen, overlijden
+trapèze             m, zweefrek, trapezium
+trépidante          hectisch, koortsig, razend
+trépidation         f, tremor, trillingen
+trépieds            m, driepoot
+trépigner           stampen, stampvoeten
+trappe              f, valdeur
+trapu               gedrongen, dik, kort en dik, molig, plomp
+traquenard          m, valstrik
+traquer             opsporen, op de loer liggen, uitkijk staan, belagen, besluipen, to track
+trèfle              m, klaver
+trésor              m, schat, kostbaarheden, juweel
+tréteau             m, stellage, onderstel
+travé               ?
+travail scolaire    m, schooltaken, huiswerk
+traversée           f, doorkruising, oversteek
+traverser           overspannen, doorkruisen, doortrekken, doorgaan, doorwaden
+traverses           f, dwarsliggers
+traversin           m, bolster, rolkussen, nekrol, kussen
+travers             m, aanblik, uiterlijk, voorkomen (negatief)
+trôner              tronen
+treillage           m, traliewerk, schutting, omrastering
+treillis            m, latwerk, trailiewerk, rooster, gaas, stof
+tremblant           bevend, bibberig, trillend, zwak
+tremblés            m, esp, ratelaar, ratelpopulier
+tremblement         m, beving, huivering, rilling
+tremble             m, esp, espeboom
+tremblotante        beverig, seniel, trillend
+trembloter          bewegen, blikkeren, flikkeren, knipperen
+trempé              doorweekt, drijfnat, kletsnat, vol water
+trempe              f, karaktertrek, faculté de vouloir, wil, faculté de l'esprit
+tremper             doordrenken, dopen, brouwen, temperen, uitgloeien, verharden, dompelen, weken, indopen
+trentenaire         dertig jarig
+tressaille          huiveren, ineenkrimpen, ineenduiken, krullen, terugdeinzen, huiveren, ineenkrimpen
+tressaillement      m, gevoel van opwinding, kick, tremors
+tressé, tressés     gekruld, samengestrengeld, gevlochten
+tressauter          springen, schudden
+tresse              f, haarlok, krul, vlecht
+tresser             vlechten, samenstrengen
+treuil              m, hijskraan, lier, molen, takel, winch
+triangle            m, driehoek
+triangulaire        driedelig, driehoekig, driekantig
+trièdre             coördinaat in drie dimensies, composé de, divisé en trois éléments
+tribord             m, stuurboord
+tribu               f, stam, volksstam
+tribunal            m, gerecht, hof, gerechtshof, rechtscollege, tribunaal
+tribune             f, tribune, balkon, podium, verhoging
+tricher             vals spelen
+tricorne            m, punthoed, steek, driekant
+tricotage           m, breien
+tricoter            breien, rubbing together
+tricot              m, jersey, trui
+tringle             f, rail, roede, stang
+tringler            doordringen, penetreren, geslachtsgemeenschap hebben
+trinquer, trinque   klinken, salueren, toasten op, de glazen heffen
+triolisme           m, trio
+triomphe            m, eindoverwinning, overwinning, triomf
+triompher           zegevieren
+tripes              f, ingewanden
+tripoter            draaien, frutselen
+trique              f, knuppel
+triskèle            artwork
+triste sire         m, personne méprisée
+tristesse           f, droefheid, treurnis
+triste              triest, vreugdeloos, somber
+triturer            détruire, pulvériser, écraser
+trivialité          parole, phrase obscène
+trolleys            m, car, omnibus, dubbeldekker
+trombe              f, hoos, waterhoos, regenbui, stortbui, tornado, wolkbreuk, voorbijsnellen
+trompant, tromper   bedonderen, belazeren, verneuken
+trompe              f, bazuin, zenuwstreng, orgaan, weefsel
+tromperie           f, misleiding, oplichterij, fraude, gesjoemel
+tromper l'attente   wachten; verwachting; wachttijd; afwachting
+tromper la vigilance    échapper à sa surveillance
+tromper             misleiden, om de tuin leiden
+trompes de fallope  eileiders
+trompette           f, trompet
+trompeur            m, bedrieglijk, misleidend, onoprecht
+trompeuse           bedrieglijk
+tronçon             m, stukje, afgesneden stuk
+tronçonnant, tronçonner     couper en plusiers parties, en tronçons
+tronçonneuse        f, kettingzaag, boomzaag
+tronche             f, kop, bek, tronie, smoelwerk
+troncher            doordringen, penetreren, neuken
+tronc               m, boomstam, romp, torso
+tronqué             ingekort
+tropézien           saint-tropez
+trophée             m, trofee
+trotter             dribbelen, afdraven, draven, uitlopen
+trotteuse           f, secondenwijzer
+trottiner           afdraven, draven
+trottiner           waggelen, draven, afdraven
+trottoir            m, trottoir
+trouées             f, pas, bergpas, col
+troublé             duister, troebel, roerig
+troublant           bedenkelijk, storend, verontrustend, zorgelijk, zorgwekkend
+trouble             m, stoornis, tumult, ecstacy
+troubler            in beroering brengen, in verwarring brengen, van de wijs, vertroebelen
+trou d'eau          m, diep gedeelte van een rivier
+trou de taupe       m, molshoop
+trouer, troué, trouant      een gat slaan, een gat maken, to pierce
+trouille            f, angst, paniek, schrik
+trou                m, gat, gaatje, hol, holte
+troupeau            m, kudde, zwerm
+troupe              f, troepen, gezelschap, zwerm, toneelgezelschap
+troupier            m, simple soldat
+trous de cul        klootzakken
+trous d'obus        m, bomkraters
+trous               m, openingen, holtes, gaten
+trousseau           m, uitzet, sleutelbos
+trousse             f, bergmap, etui
+troussequin         m, zadelboog
+trousser            doordringen
+trouvaille          f, ontdekking, vondst
+truc des dingues    m, that's crazy
+truchement          m, tussenkomst, intermédiare
+truc                m, ding, foefje, truc, vaardigheid, zaak
+truffe              f, truffel, idioot?
+truffer             volstampen, bourrer
+truie               f, zeug
+truites             f, forel
+trypanosome         m, eencellig organisme
+T.S.F.              f, transmission sans fil, draadloos, wireless, radio
+t-shirt             m, t-shirt
+tube                m, pijp, slang, blik?
+tubercule           m, gezwel, knol, knolletje, knoop
+tuberculeux         m, die aan tuberculose lijdt
+tubulure            f, buis
+tuerie              f, doodslag
+tuile               f, dakpan, muurtegel, tegel
+tulle               m, gaas, net
+tuméfié             gezwollen, gonflé, bouffi
+tumeur              f, tumor
+tumulte             m, tumult, bedoening, kabaal, keet
+turban              m, tulband
+turbotin            m, jonge turbot, vis
+turbulence          f, luidruchtigheid, onhandelbaarheid, onstuimigheid
+turgescente         gezwollen
+tu, taire           stilzwijgen, zwijgen, verstommen
+tu, taire, taisait  achterhouden
+tutélaires          bescherm
+tutelle             f, curatele, voogdij, voogdijschap
+tu t'en faire       je zorgen maken
+tuteur              m, beheerder, privé-leraar, tutor, verzorger, voogd, guardians
+tuyau               m, buis, kanaal, slurf, slang, (uitlaat)pijp
+tuyaux d'arrosage   m, pijp om te besproeien
+tympaniser          ridiculiser en public
+tympan              m, trommelvlies, membraam, vlies
+typasonome          ?
+type                m, kerel, snuiter, typ
+typographier        typen
+tyrannosaure        m, tyrannosaurus
+ubac                m, noordkant van een berg
+ubiquité            alomtegenwoordigheid, omnipresentie
+ulcéré              zweer, zweren, etterend, mécontent
+ulcère              m, zweer
+ultérieurement      achteraf, later, nadien, toen
+ultérieur           toekomstig
+ultime              laatste, opperste, uiterste
+ululer              kreet, hululer
+un avant-goût       voorproef, voorproefje
+un bout à l'autre   het ene uiteinde naar het andere
+un bout de          een kleine stukje, een stukje
+un bout de temps    m, een lange tijd
+une berceuse        wiegeliedje, slaapliedje
+une clef au cou     joint lock, judogreep?
+une fin en soi      een doel op zich
+une fois pour toutes        eens en voor altijd
+une mauvaise passe  ziekelijk?
+une paire de bas    een paar sokken?
+une partie de pêche vissersvaartuig
+une pierre à demeure    f, een stenen overblijfsel
+une vengeance de tous les instants      een wraak van alle tijden
+une voie de garage  een zijspoor
+un gout de          een smaak van, een vleugje
+unification         f, unificatie, eenmaking
+uniforme            m, uniform
+uniment             gelijkmatig
+unir, unissent      bundelen, verbinden, (zich) verenigen
+unité centrale      f, mainframe
+unité               f, eendracht, samenhang
+unité               f, eenheid, eendracht, samenhang
+univers             m, universum, heelal, ruimte
+univoque            eenduidig
+un joli geste       een mooi gebaar
+un léger goût pour  a slight taste for
+un moment de vide   een moment van leegte
+un moment           even, eventjes
+un pas de fait précédant mille pas semblables   een gedane stap gevolgd door 1000de gelijkaardige stappen
+un peu plus         presque, een beetje meer, very nearly, bijna
+un rien de          no one, een mum van, een beetje van
+un rond de bras     a sweep of the arm
+un soir vert et or  de kleur van de avondschemering
+un train de vie     een levensstijl
+un trou au côté     a hole in his side
+urbaine             grootstedelijk, hoofdstedelijk, stads-, stedelijk, urbaan
+urbanistique        planologisch, stedebouwkundig, urbanistisch
+urbanité            beleefdheid
+urbanité            f, stadsleven
+urine               f, urine, pis
+urticaire           f, galbult, netelkoorts, netelroos
+usée, usés          gebruikt, gedragen, afgesleten, afgeleefd, versleten, verweerd, worn
+usage               m, gebruik
+usant               verslijten, sluiten, tiranniseren, sneuvelen
+user                uitslijten, verslijten
+us et coutumes      zeden en gewoonten
+usinage             m, machinale bewerking
+usiné, usiner       machinaal bewerken
+usine               f, bedrijf
+ustensible de ménage    huishoudelijk apparaat
+ustensile           m, gebruiksvoorwerp, instrument, keukengerei
+usuel               gebruikelijk, habituel
+usufruit            m, vruchtgebruik
+usure               f, moeiheid, sleet, slijtage, slijting
+usurier             m, geldschieter, woekeraar
+usurpées            usurperen, zich toeëigenen, misbruiken
+usurpateur          m, naäper, bedrieger, zwendelaar
+usurpation          f, overweldiging, vergrijp, misdaad
+utérus              m, baarmoeder
+utilisateur         m, gebruiker
+utilité             f, bruikbaarheid, handigheid, nut
+inutilité           f, overbodigheid, vergeefsheid, zinloosheid
+vêle                jongen, kalven, kalveren, werpen
+vêtement            m, kledingstuk
+vêtements collants  m, strakke kleding
+vaûtré              languit
+vêtues de ‘gunny’   la tête enveloppée dans de vieux sacs de jute
+vêtu                gekleed
+vécûmes             vivre
+vacant              open, vakant, vrij, leeg, onbemand
+vacarme             m, cacofonie, geraas, kabaal, schallen, spektakel
+vachasse            f, koe
+vache               f, koe
+vacherie            f, hatelijkheid, kwaadaardigheid
+vaciller            wankelen, wiegen, zwieren, flikkeren, knipperen
+vacoa               plant?
+vacuité             f, afwezigheid, verstrooidheid
+vadrouille          f, zwabber, afwasborstel, afwaskwast, rondwandelen, rondzwerven
+vadrouiller         rondzwerven
+va-et-vient         m, heen en weer, geste, beweging
+vagabondage         m, doling, dwaaltocht, omzwerving
+vagabonder          dolen, dwalen, landlopen, ronddwalen, rondtrekken, rondzwerven
+vagabond            m, clochard, dakloze, vagebond
+végétale            plantaardig, planten-, vegetatief
+végétation          f, vegetatie
+vageulette          f, rimpeling, rimpel
+vagin               m, vagina
+vagissements        gehuil, geloei, huiltoon
+vague               f, golf
+vaguelette          f, golfje, rimpel, rimpeling
+vaguement           onduidelijk, onscherp, schimmig, vaag, wazig, schemerig, onbepaald
+vaguemestre         m, onderofficier belast met de post
+vague               m, oneindige, ongewisse, moeilijkheid, wat niet voldoet
+vague               vaag, wazig, schemerig, onscherp, onpeilbaar, onbepaald
+véhémence           gepassioneerd, bezield, ardent, vurig, energiek
+véhément            heftige, geestdriftig, enthoesiast
+véhiculer           overbrengen
+véhicule            m, voertuig
+vaillament          vaillamment, manhaftig, moedig
+vaillance           bravoure, dapperheid, heldendom, heldenmoed
+vaillant            braaf, dapper, manhaftig, manmoedig
+vaille que vaille   op een of andere manier
+vaille              waard zijn, toekomen, verdienen
+vaincu              m, overwonnene
+vaincu              overwonnene
+vainement           ijdel, tevergeefs, voor niets
+vainqueur           m, overwinnaar
+vains               rendre vains = nutteloos maken, tevergeefs
+vain, vaine         vergeefs, vruchteloos, nutteloos
+vaisseaux           m, bloedbaan, bloedvat, schip, vaartuig, boot
+vaisselier          m, kabinet, keukenkast, buffet met bovenbouw
+vaisselle           f, aardewerk, serviesgoed, de vaat, afwas, vaatwerk
+valable             belangrijk genoeg, geldig, juist, valide, waard, waardig
+valence             f, valentiegetal (chemie), waardigheid
+valet               m, knecht
+valeur              f, waarde
+valeur plastique    f, pictorial value
+valise              f, koffer, reistas, valies
+vallée              f, dal, vallei
+vallée lunaire      f, maanlandschap
+vallon              m, dal, vallei
+vallonné            golvend, heuvelachtig, heuvelig
+vallonnement        m, golving
+véloce              rap, snel, vlot
+vélodrome           m, wielerbaan, veledroom
+vélocité            f, vitesse, aptitude
+valoir la chandelle de moeite waard
+valoir le coup      de kosten waard
+vélo                m, fiets
+vélomoteur          m, bromfiets, brommer, snorfiets, solex
+valse               f, wals
+valser              meetronen, walsen
+valu, valoir        opbrengen, toekomen, verdienen
+valve               f, klep
+vénal, vénale       bederflijk, omkoopbaar, laagheid, gemeenheid, bassesse
+vénéneux            giftig, venijnig
+vénéré              aanbeden, geprijsd, vereerd
+vénérable           eerbiedwaardig, verheven
+vénération          f, aanbidding, adoratie, afgodendienst, bewondering
+vénéré              vénérer = aanbidden, bewonderen, hoogachten, vereren, vrezen
+véniel              verontschuldigendbaar, onbelangrijk, pardonnable
+vanilliers          m, vanille, vanille-boom
+vanité              f, eigenliefde, verwaandheid
+vannerie            f, netwerk, vlechtwerkt
+vanner, vanné       versleten, plagen, zeven, ziften?
+vannes              f, buitendeur, sasdeur, schutdeur, sluisdeur, vloeddeur
+vantardise          dikdoenerij, opschepperig, trots
+vanter              bogen op, opscheppen over, prat gaan op, zegenen, uitbundig prijzen, uitdragen
+vînt                subjonctif imparfait - (it was impossible for anything) to come after 
+vépéciste           mail-order company
+vapeur              f, damp, stoom, mist
+vapeur              m, stoomboot
+vaporeuse           doorzichtig, luchtig, ragdun, transparant
+vaporiser           verstuiven
+vaquer              être en vacances, cesser, ophouden, s'appliquer, s'occuper
+vaquer à            s'occuper de
+véracité            f, eerlijkheid, waarheidsgehalte
+varangue            f, varanda
+varech, sars, sart  m, kelp
+vareuse             f, wijd vest
+véreux              aangestoken, wormig
+variation           f, variatie, veranderingen, golfbeweging, slag
+varice              f, spatader, varix
+varicelle           f, waterpokken
+varicocèle          verwijdering van de bloedvaten
+véridique           waarachtig
+variole             f, kinderpokken, pokken
+vériste             naturaliste, réaliste
+vérité              f, waarheid
+varois              uit de Var
+vècut, vivre        leven, voortleven, leven van, zich in leven houden, zijn
+vase de nuit        m, nachtpo
+vase                f, bagger, slib
+vase                m, vaas, pul
+vésicule            f, blaas, orgaan, weefsel, huidaandoening
+vasistas            f, venstertje
+vasque              f, bad, bad van fontein
+vassale             m, leenheer, leenman, vazal
+vassalité           f, vazalschap
+vassaux, vassal     m, leenheer, leenman, vazal
+vasseur             m,  levasseur?
+vaste               ruim, enorm, veelomvattend
+vétérinaire         m, dierenarts, veearts
+vaticiner           voorspellen, prédire, prophétiser
+vétille             f, bagatelle
+vétiver             soort plant
+vétuste             afgeleefd
+vaudeville          m, variété-theater, music-hall
+Vaudois             m, protestant, hérétique, ketter
+vaudoue             f, voodoo, m., commune français e, située dans le département de la Seine-et-Marne
+vaurien             m, deugniet, landloper, rakker, schooier, schurk, vagebond
+vauriens            m, vagebond, schooier, landloper
+vaut guère          is niet
+vautours            m, aal, aalt, gier, mestvocht, aasgier (vogel)
+vautré              ploeteren, zich wentelen
+vautrer             zich wentelen
+vœu, vœux           m, wens, gelofte, erewoord
+veaux               m, kalf
+vecteur             m, vektor
+veillées            avondmaal, avondmaaltijd, fin de la journée, waken, bezoek
+veille              f, de avond voor, dag voor
+veiller             opblijven, waken, toezicht houden
+veilleur            m, wachter, personne chargée de veiller
+veilleuse           f, waakvlam, spaarvlam
+veinard             m, lucky man
+veine               f, ader, laag, mijnader, luck, geluk, geest, ertsader, bloedbaan
+veine temporale     f, bloedader (hoofd)
+veineuse, veineux   ader, bloedader     
+veins               aders
+veinules            f, bladader, bloedcirculatie
+velléda blanc       whiteboard
+velléité            désir, envie, intention
+velours             m, velvet, fluweel, velours
+velouté             smoothness, fluweelachtig, romigheid
+veloutiers          palmbomen?
+velu, velue         ruig, behaard, met een vacht, qui contient qqch en grande qté
+vendéen             m, chouan
+vendange            f, goed wijnjaar
+vendanges tardives  f, late oogst, gereserveerd voor wijnen uit de Elzas
+vendeur             m, verkoper
+vendeuse            f, verkoopster
+vendre la mèche alles verklappen, de hele zaak verraden
+vengeance           f, represaille, wraak, wraakactie
+vengeresse          wraak nemend, wrekend
+vengeur             vergeldend, wraak nemen, wrekend
+venimeux            giftig, venijnig
+venir à bout        bolwerken, klaarkrijgen
+venir à l'esprit    opkomen, suggereren, zinspelen
+ventilateur         m, ventilator, waaier
+ventouse            f, ontstopper, uitloper, zuiger, zuignap
+ventre à terre      três rapidement
+ventre              m, buik
+ventricule          m, hartkamer
+ventripotent        dikbuikig
+ventru              dikbuikig
+vent, vents         m, luchtstrool, wind, windje
+ver à soie          m, zijderups
+verbosité           f, langdradigheid, breedvoerigheid, uitvoerigheid, verbositeit
+verdâtre            groenachtig
+ver de terre        m, aardworm, kunstaas, regenworm, maggot
+verdeur             m, vigueur, liberté, jong (van wijn)
+verdi               groen
+verdoyante          groen
+verge               f, geslacht, fluit
+verger              m, boomgaard, bogaard, bongerd, fruitareaal
+vergeture           f, striae
+verglas             m, ijzel
+vergogne            f, schaamte, honte, pudeur, gêne, eerbaarheid, kuisheid, onthouding, zedigheid
+vergue              f, ra (van boot)
+vermeil             rood
+vermicelle          m, vermicelli, pâtes
+vermillon           scharlaken, vermiljoen
+vermine             f, gajes, gebroed, gespuis, geteisem, ongedierte
+vermoulu            vermolmd
+vermouth            m, vermout, aperitief
+vernies             gelakt
+vernis à ongle      m, nagellak
+vernissage          m, vernissen, lakken, tentoonstelling van schilderijen
+verre filé          m, gesponnen glas
+verre               m, glas, borrel, drank, ooglens, doos, laadkist, vat, container
+verrière            f, baldakijn
+verroterie          f, delfstof, mineraal, smallwares, handelswaar, winkelwaar
+verrouiller         vergrendelen, afgrendelen, op slot
+verrou              m, grendel, slot, schuif, haan
+verrue              f, wrat
+versant du ciel     bakken uit de hemel
+versant             m, berghelling, bergwand, glooiing, helling
+versé, verser       eruditie, geleerdheid, schoolkennis
+verser              stromen, vergieten
+vers luisants       m, glimwormen
+vers                m, verzen, dichtregel
+vertébral           van de ruggegraat, wervel-
+vertèbres           f, wervels
+vert-de-gris        m, roestvorming, adj. kopergroen, patina
+vertement           brutaal, rudement
+vertes années       f, groene jaren, onervaren jaren
+verticalité         verticaliteit
+vertige             m, duizeligheid, draaiing, hoogtevrees, giddiness
+vertigineuse        draaierig, duizelingwekkend, hoogte, door belangrijkheid
+vertueuse           deugdzaam, goed, rechtschapen
+vertu               f, deugd, deugdzaamheid, verdienste, merite
+verve               f, dynamiek, levendigheid, vitaliteit
+ver, vers           m, vers(en), worm(en), maggot
+vesou               m, sap van suikerriet
+vessies             f, blaas, zwemband
+veste d'intérieur   f, kamerjas
+veste               f, jasje, jekker
+vestibule           m, gang, hal
+vestige             m, overblijfsel
+veston              m, colbert, jack, jas, jekker
+veuf                m, weduwnaar
+veule               zwak, feeble, stout, ongewerveld
+veuve               f, weduwe
+vexé                boos
+vexation            f, bron van ergernis, chagrijn, kopzorg
+vexer               beduveld, gekwetst zijn, gekrenkt, vernederd
+viable              levensvatbaar
+viagère, viager     een leven lang
+viande              f, vlees
+viandox             m, gezouten saus, liebig, knorr
+vibrer              puffen, ronken, vibreren, trillen
+vibrionner          vibreren
+vice de forme       m, vormfout
+vice, vicieux       m, afdwaling, defect, fout, gebrek
+vicieuse, vicieux   kwaadaardig
+vicie               verontreinigd
+vicissitude         f, wisselvalligheid
+victime             f, slachtoffer, getroffene, prooi
+victoire            f, overwinning, zege
+victorieux          m, de overwinnaar
+victuailles         f, eetwaar, eetwaren, kost, spijs, voedsel, vreten
+vidanger            nettoyer, purger, sortir, vider
+vidé, vider         leegmaken, opgebruiken
+vide                m, woestijn, leegte
+vide-ordures        m, stortkoker, vuilniskoker
+videur              m, buitenwipper
+vieillard           m, oude, bejaarde, grijsaard
+vieille             f, 
+vieillesse          f, de ouderdom
+vieillissante       verouderend, grijs worden
+vieillissement      vergrijzing, veroudering
+vieilli             verouderd, rijp geworden
+vieillot            ouderwets, oudachtig, ouwelijk, wizened, wijs geworden
+vie intérieure      f, innerlijke, innerlijk leven
+vielle tortue malade    f, oude gekomde, zieke
+viennoiserie        f, gebak, patisserie
+vie sauve           f, levensreddend
+vif-argent          m, kwik, kwikzilver
+vif                 kwiek, levendig, vitaal, vlug, vrolijk
+vifs                ad rem
+vigie               f, kijken, uitkijkpost, kraaennest in mast van schip
+vigilance           f, oplettendheid, vigilantie, waaksheid, waakzaamheid
+vigilant            wakker, opletttend, slapeloos, waakzaam
+vigiles             m, surveilleren, toezicht houden
+vigne               f, wijnrank
+vignes              f, wijngaard
+vigoureux           energiek, flink, heftig, krachtig, sterk
+vigueur             f, animo, drukte, opgewektheid, daadkracht, energie, hardheid
+vilaine, vilain     lelijk, ondeugend, stout, opvallend
+vil                 dreigend, laag, lelijk, onwaardig, walgelijk
+vilebrequin         m, krukas
+vilipender          belasteren, kwaadspreken
+village-club        m, vakantiedorp
+village             m, buurt, dorp, gat, gehucht
+villageois          dorpelingen
+villégiature        f, speeltuin, vakantieland
+ville               f, stad
+vinasse             f, bocht, moonshine
+vindicative, vindicatif       haatdragend, rancuneus, wraaklustig, wraakzuchtig
+vindicte            f, vergelding
+vine                f, wijnstok
+vineuse             wijnachtig, wijn-, dronken
+vingtaine           f, een twintigtal
+vin ordinaire       m, gewone wijn
+vinrent             venir
+vinssent, venir     komen
+vinyle              m, vinyl
+violacé             paars, violet
+violation           f, inbreuk, misdrijf, overtreding, schennis
+viol de mineure     m, verkrachting van minderjarigen
+violemment          fel, gewelddadig, heftig, hevig
+violence            f, geweld, grimmigheid, hevigheid
+violent             geweldadig, fel, hevig, sterk, stevig, woest
+violents            m, geweldadigers
+violer              leesgeroofd, aanranden, schenden, geweld aandoen, binnendringen, to conceal
+violette            f, viooltje (bloem), korte sluier
+violine             purper
+viol                m, aanranding, verkrachting
+violon              m, viool
+vipère              f, adder (ook voor persoon)
+virée               f, snelwandelen, wandeling, kortstondigheid
+virage              m, bochten
+virago              f, helleveeg
+virer               buigen, ruimen, van koers veranderen, wenden
+virevoltant         twirling
+virevolter          twirl, pivoter, ronddraaien
+virginité           f, maagdelijkheid
+virilité            f, viriliteit, mannelijkheid, potentie
+viril, virile       mannelijk, viriel
+virtuosité          f, virtuositeit
+virulente           kwaadaardig
+visage              m, aangezicht, snuit, toet, gezicht
+vis-à-vis           zonder iets tegenover, tegenover
+viscérale           van binnenuit komend, vanuit de ingewanden
+viscères            m, ingewanden, tout organe du crâne, du thorax ou de l'abdomen
+viser               reviser, deponeren, neerleggen, mikken, mikken op, viseren
+vis                 f, schroef, vijs
+visière             f, klep, oogscherm, vizier
+vision fugitive     f, in een flits zien
+vision              f, verschijning, visioen, droombeeld, aanschouwing
+visite              f, bezoek, bezichtiging, keuring, rondgang, rondleiding,  rondrit, rondreis
+visqueux            slijmerig
+visser              schroeven, draaien
+visseuse dévisseuse schroevendraaier
+vital               central, essentieel, hoofd-
+viticole            viticulture, wijngebied, wijnstreek
+vit                 m, fallus, fluit, geslachtsdeel
+vitrée              beglazen
+vitraux, vitrail    m, gebrandschilderd glas/raam, glas-in-loodraam
+vitre               f, venster, ruit, raam
+vitres closes       f, ramen gesloten
+vitreux, vitreuse   doorschijnend, glazig, glassy, omfloerst
+vitrifié            verglaasd
+vitrine             f, etalage
+vitupérer           verguizen
+vivaces             overblijvend, rapheid, snel, de durée longue, durable, avec vivacité
+vivacité            f, geestdrift
+vivant              m, levend wezen, être
+vive                fel
+vivifiante          kwiek, levendig, verkwikkend
+vivifier            bezielen, verfrissen, versterken, invigorating
+vivisection         f, vivisectie, dierproef
+vivre aux crochets de   parasiteren, vegeteren op
+vivre avec que dalle    live with that slab, leven met die miserie?
+vivre de            zich in leven houden met, leven van
+vivre en bonne intelligence      in goede overeenkomst, goed overeenkomen
+vivre               m, eten, voedsel, etenswaren
+vivrière            voedsel
+voûté               gebogen, gewelfd, krom, met een ronde rug
+voûte               f, boog, gewelf
+voûter              krommen, zich welven
+vociféra            razen, schreeuwen, tieren
+vociférant          schreeuwerig, luid, luidruchtig, lawaaierig
+vogue               f, bevlieging, gril, modegril, rage, stijl
+voguer              varen, zeilen?
+voie digestive      f, spijsverteringskanaal
+voie                f, baan, aanvliegroute, weg, reisroute
+voie ferrée         f, spoorweg
+voilée              omfloerst, omsluiert, verhuld
+voilà tout          ziedaar, dat is alles
+voile               f, zeil
+voile               m, laken, sluier, doodskleed, lijkwade
+voiler              omsluieren, sluieren, vermommen, versluieren, troubler, vertroebelen
+voiles d'étai       stagzeilen
+voilette            f, sluier
+voilier             m, zeilboot, zeilschip
+voilure             f, vleugel, zeilen van een schip
+voire de            même
+voirie              f, gemeentereiniging, stratenplan
+voisinage           f, buurt, omwonenden
+voisin, voisine     m, buurman, f, buurvrouw
+voiture cellulaire  f, celwagen
+voiture de mutilé   f, rolstoel?
+voiture de police   f, politiewagen
+voiture             f, koets, wagen
+voix de rainette    f, croaking voice, kikkerstem?
+voix grave          f, een diepe stem
+voix mouillée       f, tearful voice
+voix pleine         f, luide stem
+voix sourde         f, schorre stem
+volée               f, zwerm
+volée               pak slaag, pandoering, pak rammel, aframmeling
+volées d'escalier   f, trappen
+volage              grillig
+volant              m, pluimbal, shuttle
+volatiles           vluchtig, vogel, vogeltje, gevogelte
+volatiliser         faire disparaître, vervluchtigen, oplossen
+volcan              m, vulkaan, krater
+voler en éclats     in gruzelementen vliegen
+voleter             meedrijven, hangen, fladderen, afdrijven, dobberen
+volettent, voleter  fladderen, drijven, hangen, waaien
+volet, volets       m, luik
+voleur              m, dief, bandiet, boef, rover
+vol lourd           m, clumsy flight, onhandige vlucht
+volonté             f, wil, wilsuiting, zelfbeheersing, zelfcontrole, will-power
+volontaire          eigenzinnig, vrijwillig, ongevraagd, koppig, zichzelf aangedaan, bereidwillig, deliberate
+volontairement      gewild, bewust, expres
+volontiers          gaarne, met alle plezier, van harte
+voltiger            bewegen, dwarrelen, flakkeren, flikkeren, knipperen
+voltigeur           soldaat, mobile eenheid, sigaar, stinkstok
+volubile            spraakzaam
+volubilité          welbespraaktheid, welsprekendheid, eloquentie
+volume              m, boekdeel
+volupté             geilheid, lust, intense pleasure
+voluptueux          sensueel, wellustig, wulps, of pleasure
+volute              f, spiraalvorm
+Volvic              mineraalwater
+vol, vols           m, vlucht, troep, diefstal
+vomissement         m, oprisping, kotsen
+vomissures          f, braaksel, overgeefsel, kots
+vorace              begerig, hebberig, vraatzuchtig
+voracité            f, grote honger, vraatzucht
+vortex              m, draaikolk, maalstroom, windhoos
+voué                plechtig beloven, gewijd
+vouer               plechtig beloven
+vouvoiement         m, beleefdheidsvorm
+vouvoyer            met U aanspreken
+voyage              m, reis
+voyages au long cours       m, lange vaart
+voyageur            m, reiziger
+voyageurs de commerce  m, handelsreizigers
+voyant              fel, goedkoop, in prijs verlaagd, opzichtig, brilliant (weerspiegelend)
+voyou               m, bruut, guit, hooligan, misdadiger, woesteling, scroundel
+vraisemblable       waarschijnlijk
+vraisemblance       f, kans, waarschijnlijkheid
+vrille              f, boor
+vriller             wringen
+vrombir             loeien, razen, vibrerend geluid maken, brommen, ronken
+vrombissement       gebrom, geronk
+vtt                 m, vélo tout terrain, mountainbike
+vue                 f, het zicht
+vulgaire            m, laag volk
+vulgaire            ordinair, gewoon
+vulgate             f, evangelie, bijbelboek
+wagon               m, wagon van een trein
+wagon-restaurant    m, restauratiewagen
+wagonnets           m, kleine wagen, karretje
+water               m, plee, toilet, wc
+wrap                m, wrap, soort broodje
+xénophobie          f, xenofobie
+phobie              f, fobie
+yatagan             m, turks kromzwaard
+yeuse               f, steeneik
+yeux volontaires    m, tic?
+zélé                m, ambitie, vuur, geestdrift, ijver, toewijding
+zélés               ambitie, vuur, geestdrift, ijver
+zéle                ambitie, vuur, geestdrift, enthousiast
+zénith              m, zenith
+zèbrer, zébraient, zébré      strepen, doorstrepen
+zèle                m, ambitie, vuur
+zézayer             lispelen, slissen
+Zen                 m, Zen
+zeste               m, écorce, kruimel
+zigzaguer           zigzaggen
+zinc                m, zink
+zippé               ritsluiting
+zob                 m, fluit, geslachtsdeel
+zonard              m, jeune délinquant de banlieue
+zone                f, zone
+zouave              m, soldaat
+zygomatique         wang, gelaatstrek, snuit
+à quoi nous en tenir      waar wij voor staan
+mitigée             verminderd, faire devenir de moindre importance
+enfance             f, kindertijd
+nécromancie         f, dodenbezwering, duivelskunsten, zwarte kunst
+romancière          f, romancier, romanschrijfster
+fabuleusement       fabelachtig, fantastisch, geweldig, luisterrijk
+stature             f, gestalte, statuur, postuur, hoogte
+mythologie          f, mytologie, godenleer, fabelleer
+délicatesse         f, fact, fijngevoeligheid, teerheid, fijnzinnigheid
+impact              m, botsing, inslag, krachtige invloed, schok
+technique           f, handelswijze, hulpmiddel
+strictement         zuiver, strikt, strak
+mahométan           m, moslim, mohammedaan
+apathique           apatisch, lusteloos, traag
+reptation           f, kruipen, rondkruipen
+fouisseur           gravend
+fouir               graven
+Carbonifère         m, Carboon
+Trias               m, Trias
+Permien             m, Perm
+loups-garous        m, weerwolven
+vampire             m, vampier
+épouvante et surnaturel en littérature  supernatural horror in literature
+récapituler         resumeren, samenvatten, recapituleren
+en quête de         op zoek naar
+opuscule            m, petit livre, brochure, pamflet
+typologie           f, karakterschildering, typologie
+anatomie            f, lichaamsbouw, anatomie, gedaante, gestalte, lijf, verschijning
+cartonnage          m, bordpapier, karton
+gommée              gummi, gegomd, gegumd
+côtelette           f, kotelet, karbonade
+contreplaqué        m, gelaagd hout, multiplex, triplex
+fixée au scotch     met tape vastgemaakt
+caissette           f, kistje
+inconvénient        m, bezwaar, nachtzijde, schaduwkant, schaduwzijde, nadeel
+étagement           m, organisatie
+éon, éons           m, eeuwigheid, een eeuwigheid
+hallucination       f, hallucinatie, zinsbegoochelinng, waan, waanvoorstelling
+détracteur          m, criticus, deurklopper, klopper
+préexister          vooraf bestaan, voorafgaan, voorgaan
+allusion            f, hint, toespeling, zinspeling, allusie
+en tout et pour tout   'in alle en voor alle'?
+à un tel point      op het punt
+bizarrerie          f, curiositeit, eigenaardigheid, wonderlijkheid, vreemdheid, buitenissigheid
+mis en tête         in de kop gehaald
+exclusion           f, uitsluiting
+truffer, truffé     garnir (pourvoir une chose de qqch), mettre dans
+diagnostic          m, diagnose, besluit
+homosexualité       f, homofilie, homosexualiteit
+verrat              m, beer
+censure, autocensure   f, censuur, zelfcensuur             
+affirmé             beaamd, verzekerd, bevestigd
+importer            invoeren, van belang zijn
+érotisme            m, erotiek
+émoustillant        joie, blijmoedig, jolig, vreugdevol, erotisch, zinneprikkend
+technologie         f, technology
+idéologie           f, ideologie
+arrière-mondes      ?
+opportunément       gelegen, geschikt, opportuun, van pas
+chambre à air       f, binnenband
+vespéral            couchant, soir
+succéder, succèdent volgen op, leiden, resulteren, uitlopen, uitmonden, opeenvolgen
+troc                m, ruilhandel, ruiling, ruilverkeer, swap, valutaswap
+taverne             f, taverne
+ciseler             beitelen, uitbeitelen
+jade                m, jade
+cornaline           f, kornalijn, steen, gesteente, kwarts
+corail              m, koraal
+architecture        f, architectuur
+clocheton           m, haute construction, tour, kerktoren
+minaret             m, minaret
+dramaturgie         f, drama, dramatiek, dramaturgie
+dégénérescence      f, achteruitgang, dekadentie, neergang, ondergang, verdorvenheid
+tumescente          gezwollen, opgezet
+bourgeonnement      m, groei, wasdom
+préhension          f, prendre, serrer dans ses bras
+amorphe             vormloos
+orthogonale         loodrecht, orthogonaal
+gauchir             kromtrekken, scheeftrekken, werken
+clause              f, bepaling, clausule
+clause de style     f, stijlcomponent
+iodée               jood/jodium, eau de mer, pekel, pekelnat
+caquétement         m, klikken, klikklakken
+pharaon             m, farao
+prestidigitateur    m, goochelaar
+égyptologie         f, egyptologie
+sambouque           muziekinstrument?
+sistre              m, percussieinstrument
+morbide             ziekelijk, morbide, macaber, griezelig, luguber
+dissemblable        ongelijk, anders, ongelijk, ongelijkvormig, verschillend
+intérieurs          binnen-, intern, inwendig
+contrepartie        f, tegenpartij, tegenpool
+icône               f, ikoon
+vocabulaire         m, woordenlijst, vocabulaire, vocabularium, taalschat, woordenschat, lexicon, woordenboek
+onirique            imaginaire, dromerig
+Antarctique         Zuidpoolcircel
+physiologie         f, fysiologie
+ferir, féru         qui aime qqch, enthousiast, geestdriftig over
+paléontologie       f, paleontologie
+terminologie        f, naamgeving, terminologie
+élision             f, vokaal, klinker, mot - lexicale eenheid, woord
+folklore            m, folklore
+nécropole           f, begraafplaats, dodenstad
+Caroline du Nord    f, North Caroline
+topologie           f, topologie (wiskunde)
+continuum           m, continuüm
+démonologie         f, demonenleer
+objective           m?, doel, objectief
+reclus              m, eenzaat, heremiet, kluizenaar
+compte rendu        m, rapport, verslag, geschiedenis
+scalpel             m, scalpel, ontleedmes
+impressionnisme     m, impressionisme
+disproportion       f, onevenredigheid, onevenwicht, wanverhouding
+transmutation       f, transmutatie
+bavoter             kwijlen
+corégent            m, co-regent
+démence             f, verstandsverbijstering, waanzin, waanzinnigheid, zinsverbijstering, dementeren, dementie
+avant-garde         f, voorhoede, avant-garde, voorste gelid
+emergence           f, opduiken, emergentie
+plébisciter         exprimer son opinion par un vote, akkoord gaan met, goedvinden, goedkeuren, ergens achter staan
+antiquité           f, oudheid, vervlogen tijden
+propylé             m, bouwsteen
+pierre de achoppement  f, struikelblok
+achoppement         m, événement malheureux, tegengestelde, tegenovergestelde
+nonagénaire         negentigjarige
+belvédère           m, kamer, ruimte, localiteit, hof, tuin, lieu d'observation, partie supérieure d'une chose
+a contrario         integendeel, andersom, in tegendeel
+dévastatrice        verwoestend, verpletterend
+prototype           m, prototype, archetype, proefmodel
+tenir le coup       groothouden, zich flink houden, volhouden
+compromettre        compromitteren, zijn nek uitsteken
+mercantilisme       m, handelsgeest, business, commercie, koophandelsgeest
+leitmotiv           m, leitmotiv
+antisémite          m, antisemiet
+correspondant       m, correspondent, reporter, berichtgever
+miracle             m, mirakel, wonder, godswonder
+musique             f, muziek
+périclitera, péricliter failliet gaan, verkrottten, vervallen
+boutique            f, boetiek, magazijn, schop, winkel
+compétitivité       f, concurrentievermogen
+candidature         f, kandidatuur, kandidaatstelling
+dynamisme           m, dynamisme
+efficience          f, efficiency, doelmatigheid
+insuffisance        f, afwezigheid, euvel, gemis, tekort, ontoereikendheid
+compétence          f, competentie, deskundigheid, vaardigheid
+hybridité           f, vermening
+baragouine          spreken, zeggen, façon de parler
+versification       f, metriek, versleer, poëtica, poëzieleer
+irréfléchie         ondoordacht, onnadenkend
+pitécanthrope       m, un homme avec des caractéritiques de singe
+limon               m, modder, slijk, bagger
+désintégration      f, het uiteenvallen
+ichor               m, pus, etter
+débordement         m, samenstromen, toestromen, passie, hartstocht, gedrevenheid
+cataclysmique       cataclystisch, cataclymisch, natuurramp
+mongoloïde          mongol
+déportation         f, deportatie, banning, verbanning
+cyanogène           m, zenuwgas
+ségrégation         f, segregatie, scheiding
+tortionnaire        m, folteraar, kweller
+Walhalla            m, Walhalla
+stance              f, gedicht, rijmpje, vers, dichtstuk
+bombance            f, excès des plaisirs et débauche, dronkenschap, viering, vreugdefeest
+efficacité          f, doeltreffendheid, werkzaamheid, efficiency
+appetit             m, graagte, hongerigheid
+simiesque           aapachtig
+amoralité           f, amoreel, qui est sans morale
+tempêter            uitvaren tegen, tekeergaan, te keer gaan tegen, vitten op
+bifurquer           zich afsplitsen, zich aftakken, zich splitsen
+courtoisie          f, hoffelijkheid
+ennemie             f, vijand, oppositie, bestrijder, tegenpartij
+hardis              brutaal, moedig, stoutmoedig, onverschrokken, onbevreesd, monter, vrolijk, opgewekt, vrijpostig
+gaine               f, foedraal, schede, korset, huls, omhulsel
+arsenal, arsenaux   m, arsenaal, wapenkamer, wapendepot, magazijn
+automitrailleuse    f, véhicule militaire terrestre
+auteur              m, auteur, schrijver
+passeport           m, paspoort, identiteitsbewijs, pas
+bras de chemise     m, hemdsmouw
+cribler             zeven, ziften
+tournesol           m, zonnebloem
+tournoi             m, competitie, concurrentie
+pistolet à crosse   m, pistool, (kolf)pistool
+boxeur              m, bokser
+boxe                f, boksen
+pierrot             m, militair, soldaat
+familiarité         f, vertrouwdheid, familiariteit, innigheid, intimiteit, bekendheid
+à pleine bouche     volle mond
+moineau pince-sans-rire   ?
+pince-sans-rire     uitdrukkingsloos, droog
+l'humour pince-sans-rire  m, droge humor
+dégotter            découvrir par un effort de l'esprit - (vondst; opgraving), (ontdekking; vondst)
+vedette             f, rondvaartboot, plezierboot
+scoliose            f, ruggegraatsverkromming
+grattement          m, gekras, kras, geschraap, gekrabbel
+profil              m, profiel, zijaanzicht
+décréter            beslissen, ordoneren, decreteren
+renfort             m, achterban, versterking
+annamite            Annam, république socialiste du Viêt-Nam, Vietnam, Viet-nam, Viêt Nam            
+bientôt             alras, dra, haast, binnenkort, gauw, weldra, spoedig, vroeg
+brocher, brochée    versieren, aankleden, orner
+découcher           partir, quitter un lieu, se déplacer
+talapoins           m, (a)ap(en), monnik, broeder, kloosterling
+coupe-vent          m, vêtement civil masculin : haut du corps, rokkostuum, avondkostuum
+jonque              f, jonk, zeilvaartuig, zeilboot
+au pire             in het ergste geval, slechtst, ergst, het minst goed, slechtste
+amygdale            f, amandel, tonsil
+cor de chasse       m, jachthoorn
+écuyère             f, ruiter, paardrijdster
+serf                m, horige, lijfeigene, halfvrije
+pédicure            m, pedicure, voetverzorger
+plaqué              m, vertind, verguld, plaat, plaatje
+turlupin            m, grapjas, personne farceuse ou qui plaisante
+chef-lieu           m, hoofdplaats, zetel, provinciehoofdstad
+croquants           m, boer, f, boerin, landbouwer, plattelander
+fleuret             m, schermdegen, épée, zwaard, zijzwaard
+rapière             f, rapier, épée, zwaard, zijzwaard
+colichemarde        f, soort van degen, zwaard, épée
+mijoter             pruttelen, sudderen, smeulen, smoren, stoven
+ivre-noble          edel-dronken?
+pitrerie            f, absurditeit, dwaasheid, gekheid, gekkenwerk, idiotrie, potsierlijkheid
+légation            f, gezantschap, legatie
+appontement         m, aanlegsteiger, landingsbrug
+nerf, nerfs         m, zenuw, zenuwen
+roussâtre           rossig? sinaasappelkleurig
+toit à cornes       m, gehoornd dak
+cyprin              m, witvis, voorn, karper
+circulation         f, verkeer
+au reste            de plus, en plus, par surcroît
+au demeurant        de plus, anderzijds, aan de andere kant, omgekeerd
+rarement            zelden
+phtisie             f, tuberculose
+mondanité           f, élitisme
+sujétion            f, onderwerping, slavernij, knechtschap
+initiale            f, initieel, voorletter, beginletter
+notation            f, notitie, notatie
+condenser           indikken, neerslaan, verkorten
+texte               m, tekst
+nervosité           f, nervositeit, rusteloosheid
+préface             f, voorwoord, inleiding, woord vooraf
+éditeur             m, uitgever, uitgeverij
+car                 m, wagen, kar, toerwagen, touringcar
+maître d'hôtel      m, butler, chef de cuisine
+œillade             f, blik werpen, manière de diriger les yeux vers qqch
+sœur jumelle        f, tweelingzus
+obstacle            m, obstakel, obstructie, barrière, hindernis
+ambassade           f, ambassade, consulaat
+consulat            m, consulaat
+gardon              m, voorn, witvis
+abstention          f, terughoudendheid, onthouding
+angine              f, keelontsteking, keelpijn
+antichambre         f, foyer, voorportaal, vestibule
+absorption          f, opneming, absorptie, inzuiging
+fourreur            m, bonthandelaar, pelswerker, bontwerker
+cafardeux           triest, bedroevend
+cuisiner            koken, opmaken, prepareren, klaarmaken, uithoren, scherp ondervragen
+tragique            m, tragiek
+à flots             in overvloed, en grand nombre, grande quantité
+aérer               luchten, ontluchten
+argot               m, jargon, vaktaal, slang, argot, groepstaal, bargoens, boeventaal
+cottage             m, landhuis, huisje
+hospitalité         f, hospitaliteit, gastvrijheid, cordialiteit, hartelijkheid, jovialiteit
+pleurer à chaudes larmes              tranen met tuiten huilen
+achèvement          m, voltooiing, realisatie, completering, voleinding
+combustion          f, verbranding, ontbranding
+hectare             m, hectare
+refoulement         m, aller en arrière - achteruitstappen; achteruitwijken; terugwijken, van zich afschuiven, 
+concret             m, het concrete?
+ludions             m, objet qui sert à jouer - speelgoed; speeltuig; speeltje
+trogne              f, gezicht, smoel, tronie
+cacahuéte           f, aardnoot, pindanoot
+remorquer           m, sleepboot
+surélever, surélevé verhogen, ophogen
+passarelle          f, wandelpad
+livre de chevet     m, livre lu avant le sommeil, faveur, favoriser
+admiration          f, bewondering, admiratie, achting
+idylle              f, idylle
+entrepont           m, scheepsdek, scheepsvloer, niveau d'un bâtiment (édifice, navire)
+j'ai bonne mine     I look good
+commodément         gemak, gemakkelijkheid
+à l'outre           in aanvulling op de ...
+gaffe, gaffer       blunderen, een bok schieten, een flater slaan
+mousquetaire        m, musketier
+sourcilleux         grievend, hatelijk, opschepperig, precies, trefzeker, nauwkeurig, hoog, grijns, grimas
+vivier              m, aquarium, terrarium, vivarium
+Tropique du Cancer  m, Kreeftskeerkring
+marsouin            m, bruinvis
+chorégraphie        f, choreografie
+accordéon           m, accordeon
+grisonnante         grijs, grauw, vergrijsd
+maritorne           f, servante sale ou ne donnant pas satisfaction
+anémié              f, anemie, bloedarmoede
+glèbe               f, aarde, land, landbouwland, plantage
+foi d'animal        un synonyme de l’expression “Jurer sur quelquechose"
+perpétuel           oneindig
+mener à bien        volbrengen, uitvoeren
+découpure           f, knipsel
+anarchie            f, anarchie
+kabyle              algerijns
+ininterrompu        ononderbroken
+insolemment         brutaal, schaamteloos, onbeschaamd, onbeschoft, vrijpostig, impertinent
+poète               m, dichter
+engrais             m, kunstmest, meststof, mest
+exécutions de 36    ?
+assister en connaisseurs        ?
+biologiste          m, bioloog
+animation           f, animatie
+figure en rasoir    ?
+mettre au propre    in het net schrijven, schoonschrijven
+traductrice         f, vertaalster
+grondante           bedreigend, dreigend
+havre               m, haven, havenstad, zeehaven
+positiviste         positivist, rationalist, verstandsmens
+positiviste         m, realist
+macumba             f, macumba
+possession          f, in bezit zijn
+aguardiente         f, boisson alcoolisée, witteke
+casaque             f, overjas, mantel, pardessus, mantel, jas
+toiture             f, dakbedekking, kap, overdekking, overkapping, abri, beschutting
+appentis            m, afdak, luifel, schuurtje, bijgebouw
+chromo              m, plaatje, litho, lithografie
+irrésistible        onweerstaanbaar, onbedwingbaar, niet te stuiten, overweldigend
+rythme              m, ritme
+dyspeptique         indigestie, misselijkheid, onpasselijkheid
+cénotaphe           m, cenotaaf, tombe, graftombe, lieu où l'on place les morts
+mettre en montre    put on display
+mal engager         misfed, vastgelopen, op de verkeerde plaats
+flagrant            flagrant, op heterdaad, overduidelijk, schaamteloos, in het oog springend
+fazenda             f, fazenda
+ruée                f, gehaast, haast, spoed, drukte, agitation (personnes)
+aérogare            f, luchthaven
+aérodrome           m, luchthaven, vliegveld, landingsplaats
+aéroport            m, luchthaven
+grilleur, grilleurs m, celui qui fait griller. Les grilleurs de marrons. Cuiseur ou grilleur d'oignons
+matamore            m, opschepper, dikdoener, grootspreker
+totem               m, totem, totempaal
+gaucho              m, cowboy, hoeder, conducteur de bétail
+courbatu            moei, vermoeid
+bananier            m, banaanboom, bananeboom
+casbah              f, quartier - buurt, kwartier, sectie, stadsdeel, wijk
 === Albert Camus --- Journaux de voyage --- pag. 88 onderaan --- ===
