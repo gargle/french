@@ -690,7 +690,6 @@ alèse               f, bedlinnen
 élève               m, leerling, pupil, schooljongen, gemanierd
 élèver              verheffen, verhogen, to stand
 élévation           f, elevatie, stijgkracht, verheffing
-=== Albert Camus --- Journaux de voyage --- pag. 98 bovenaan --- ===
 alcôve              f, nis, uitsparing
 alcool à brûler     m, brandspiritus
 alcoolique          m, alcoholicus
@@ -16219,3 +16218,4 @@ zonard              m, jeune délinquant de banlieue
 zone                f, zone
 zouave              m, soldaat
 zygomatique         wang, gelaatstrek, snuit
+=== Albert Camus --- Journaux de voyage --- pag. 98 bovenaan --- ===
