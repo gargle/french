@@ -159,8 +159,8 @@ absence             f, afwezigheid, verstek, ontstentenis
 absenté             afwezig, gedachteloos
 absent              m, afwezig, afwezige
 absinthe            f, absintlikeur
+absolu, absolue     m, het geheel, absolute
 absolument          beslist, ten enenmale, absoluut
-absolu              m, het geheel, absolute
 absolution          f, vergeving, vergiffenis, pardon, absolutie, biecht
 absorbant           boeiend, intrigerend, pakkend, roerend
 absorber            aanzuigen, doorslikken, wegslikken, engrossed
@@ -688,7 +688,7 @@ alèse               f, bedlinnen
 élastine            f, elastine, rekbare stof
 élastique à chaussette  m, elastiek, sokophouder
 élève               m, leerling, pupil, schooljongen, gemanierd
-élèver              verheffen, verhogen, to stand
+élèver              verheffen, verhogen, to stand, se mettre à l'extérieur de, uitkomen, buitenkomen
 élévation           f, elevatie, stijgkracht, verheffing
 alcôve              f, nis, uitsparing
 alcool à brûler     m, brandspiritus
@@ -1014,6 +1014,7 @@ anthologie          f, bloemlezing
 anthracite          m, antraciet
 anthrène            m, mijt (in tapijt)
 anthropologie       f, mensbeschouwing
+anthropophagie      f, kannibalisme
 anthropologue       m, antropoloog
 anthropomorphique   mensachtig   
 anthropomorphisme   m, denkprocess, preferentie, voorkeur
@@ -2528,8 +2529,7 @@ biais               m, handelswijze, procédé, medium
 bière               f, kist, grafkist, lijkkist, doodskist, bier, pint
 bibelots            m, armband, gadget
 bibelots            m, snuisterij, armband, gadget, hebbeding
-biberon             m, flesvoeding, voeding
-biberon             m, flesvoeding, zuigfles, papfles
+biberon             m, flesvoeding, voeding, zuigfles, papfles
 bibliothècaire      m, bibliothecaresse, bibliothecaris
 bibliothèque        f, bibliotheek
 biches              f, hinde, ree, wijfjeshert, wijfjesree
@@ -3391,6 +3391,7 @@ casser, cassé       afbreken, verpletteren, to smash
 casser la croûte    eten, een lichte maaltijd nuttigen, vergelijken
 casser la gueule    afmotten?
 casser le jeu       breken van het spel
+casser les pieds    engendrer l'ennui,
 casserole           f, braadpan, pan
 cassette            f, geldkistje, opbergkist, band, cassetteband, geluidscassette
 casseuse            f, houwer, metselaar, steengraver, steenhouwer
@@ -3907,6 +3908,7 @@ clarté              f, herderheid, klaarheid, straling
 classe en termnale  f, laatstejaar middelbaar
 classe              f, klasse
 classeur            m, classeur, draagmap, archiefkast
+classification      f, rangschikking, classificatie
 claudiquer          hinken
 clause de style     f, stijlcomponent
 clause              f, bepaling, clausule
@@ -5458,6 +5460,7 @@ détente             f, ontspanning, ontspanner, knopje van een camera
 détenteur           m, houder, titularis
 détention           f, opsluiting, arrest, bewaring, gevangenhouding, detentie
 détentrice          f, houder, houdster, titularis, toonder
+détenu              m, personne privée de liberté, gardée prisonnière, personne qui est maintenue en prison
 déterminer          overtuigen, resolveren, besluiten tot, bepalen
 déterminisme        m, determinisme
 déterrer            opbreken, aan het licht brengen, delven, graven, opgraven
@@ -6338,6 +6341,7 @@ engager la conversation       een gesprek starten
 en général          in't algemeen, gemiddeld?
 engeance            f, gebroed
 engendré            verwekken, voortplanten, zich vermenigvuldigen
+engendrer           broeden, voortbrengen, berokkenen, genereren
 engendreurs         générateur
 en germe            
 engin               m, machine
@@ -6887,7 +6891,7 @@ fâché               kwaad, boos, bezorgd, nijdig, geïrriteerd, geërgerd, op 
 fâcheux, fâcheuse   ongelukkig, sneu
 faciès              m, aangezicht, tronie, bovenkamer
 facilité            f, gebruiksgemak, aanleg, gemak, talent, gemakkelijkheid
-fécondation         f, bevruchting
+fécondation         f, bevruchting, conceptie, impregnatie, fertilisatie
 féconder            bemesten, bevruchten
 féconde             vruchtbaar
 fécondité           f, fertiliteit
@@ -8073,6 +8077,7 @@ grimace             f, grijns, bekkentrekken
 grimoire            m, vakboek, verhandeling, essay, manuel
 grimper             beklimmen, bestijgen, omhooggaan, opklauteren, stijgen, omhoogklimmenn, to go up to
 grimper en lacet    in slingeringen naar boven klimmen
+grimpette           f, mouvement doté d'une direction, klimmen, omhoog gaan, opgaan, opwaarts gaan 
 grimpeurs           m, alpinisten, klimmers
 grinçant            knarsend, knarsend en piepend, krassend
 grincement          m, geknars, gekraak
@@ -10231,6 +10236,7 @@ mensongères         leugenachtig
 mensonge            m, leugen
 mensonger           leugenachtig
 mentalement         geestelijk, mentaal
+mentalité           f, geestesgesteldheid, mentaliteit, denkwijze
 menteur             m, leugenaar
 mention             f, vermelding, citaat, tekst
 menton              m, kin, kinnebak
@@ -10319,6 +10325,7 @@ mi-courtoise        half hoffelijk
 microbe             m, microbe
 microbienne         adj., kiem, microbe
 micromanie          f, micromanie, geestesziekte waarbij de lijder meent zeer klein te zijn
+micro               m, micro, microphone
 micron              m, micron, micrometer
 microprocesseur     m, microprocessor
 mie                 f, kruimel, het zachte binnen de korst van het brood
@@ -10946,7 +10953,7 @@ oignon              m, ui
 oindre, oignait, oigner     balsemen, zalven
 oindre              zalven, balsemen, bedienen
 oiseau de proie     m, roofvogel
-oiseau              m, vogel, vogeltje
+oiseau, oiseaux     m, vogel, vogeltje
 oisifs              loos, nietsdoend
 oisillons           m, jonge vogel, nestvogel, kuiken
 oisive              loos, nietsdoend
@@ -11726,7 +11733,7 @@ peu                 m, het beetje
 peu ordinaire       ongebruikelijk
 peu ou prou         bij benadering, bijna, enigzins, grofweg, min of meer, nagenoeg
 peuplades           f, stammen
-peupler             bevolken, verblijven, rondhangen
+peupler, peuplé     bevolken, verblijven, rondhangen
 peuples             f, massa, natie, plebs
 peuplier            m, populier
 peu raisonnable     onredelijk
@@ -11898,7 +11905,7 @@ plébisciter         exprimer son opinion par un vote, akkoord gaan met, goedvin
 placé de la sorte   zo geplaatst
 placage             m, laagje
 placard             m, kast, kastje, muurkast
-place               f, plein, ter plaatse, plaats, standplaats, zitje, zetel
+place               f, plein, ter plaatse, plaats, standplaats, zitje, zetel, functie, betrekking
 placement           m, plaatsing, arbeidsbemiddeling
 placenta            m, moederkoek, baarmoederkoek, nageboorte, nawerk, placenta
 placette            f, plot, pleintje, 
@@ -12696,6 +12703,7 @@ pylône              m, hoogspanningsmast, lichtbaken
 pylône              m, hoogspanningsmast, luchtbaken
 pyromane            m, pyromaan
 pyrosphère          f, steensoort, aardkorst, film, vlies, laagje
+pythonisse          f, wichelaarster, zieneres, magiër, tovenaar
 quête               f, queeste, ollecte, geldinzameling, omhaling
 quêter              bedelen, demander un don de qqch ou d'argent
 qu'a cela ne tienne maakt niet uit, peu importe
@@ -13044,8 +13052,7 @@ rappel              m, herinnering
 rappliquer          venir, revenir
 rapporter           ophalen, doen, draaien, vermelden, verdienen, verslaan, wekken
 rapporter           terugbezorgen, rapporteren, verslag uitbrengen, inzamelen
-rapport             m, verslag, rapport
-rapports            m, betrekking, berichtgeving, connectie, story
+rapport, rapports   m, verslag, rapport, betrekking, berichtgeving, connectie, story
 rapprochement       m, toenadering, vergelijking
 rapprocher          weer vastbinden, weer vastmaken, dichterbijkomen, naderen, naken, benaderen
 répréhensible       schandalig, afkeurenswaardig
@@ -15179,7 +15186,7 @@ terre de Sienne     pigment, bruin ocre, roodachtig, in schilderkunst gebruikt
 terre d'ombre       f, bruine kleurstof, slagschaduw
 terre glaise        f, klei, kleigrond, leem, leemgrond
 terre meuble        f, losse grond
-terre-pleins        m, platform, versterkingen
+terre-plein, terre-pleins    m, platform, versterkingen
 terres              f, gronden, regio
 terrestre           aards
 terreur             f, afschuw, angst, schrik, terreur, weerzin
@@ -15959,6 +15966,7 @@ vertèbres           f, wervels
 vert-de-gris        m, roestvorming, adj. kopergroen, patina
 vertement           brutaal, rudement
 vertes années       f, groene jaren, onervaren jaren
+verticale           f, ligne (géométrie), ligne droite, chose verticale, helling?
 verticalité         verticaliteit
 vertige             m, duizeligheid, draaiing, hoogtevrees, giddiness
 vertigineuse        draaierig, duizelingwekkend, hoogte, door belangrijkheid
@@ -16218,4 +16226,5 @@ zonard              m, jeune délinquant de banlieue
 zone                f, zone
 zouave              m, soldaat
 zygomatique         wang, gelaatstrek, snuit
-=== Albert Camus --- Journaux de voyage --- pag. 98 bovenaan --- ===
+matriarcat          m, matriarchaat, moederrecht
+=== Albert Camus --- Journaux de voyage --- pag. 102 onderaan --- ===
