@@ -1539,6 +1539,7 @@ atonie              f, stijfheid, slapte, lamheid
 étoupe              f, rafels
 étourderie          f, inattention, verstrooidheid, vergetelheid
 étourdir            afstompen, bedwelmen, suf maken, laten duizelen , verbijsteren, afstompen, dom, dwaas, onbewust
+étourdi             m, dwaas, dom, idioot
 étourdissant        verbluffend, afstompen
 étourdissement      m, bedwelmen, bedwelming, versuftheid
 étourneaux          m, spreeuw
@@ -2766,6 +2767,7 @@ bouffonnant         schertsen, grappen, plagen, dire des choses plaisantes pour 
 bougainvillées      f, klimplant?
 bouger              agiteren, bewegen, opwerpen, roeren
 bouges              m, bar, habitation misérable
+habitation          f, domicile, woning, behuizing, kwartier, logies, onderkomen
 bougie              f, kaars
 bougnoule           m, neger, negerin
 bougon              boos, humeurig, kribbig, mopperig
@@ -3178,8 +3180,7 @@ cambrioleur         m, inbreker, insluiper, kraker, geveltoerist
 cambrure            f, voetholte, welving, arc, boog
 camif               f, frans postorderbedrijf
 camion de cimenterie   m, cementtruck
-camionnette         f, bestelwagen
-camionnette         f, camionnette
+camionnette         f, bestelwagen, camionnette
 camionneur          m, camionneur, trucker
 camions-bennes      m, dumper, camion
 camisole de force   f, dwangbuis, keurslijf
@@ -3721,6 +3722,7 @@ chercher du bec met de snavel doorzoeken
 chetron             f, chetron?
 cheval de manège    m, paard uit de paardenmolen
 chevalet            m, ezel, schildersezel, stut, draagbalk
+chevalerie          f, ridderlijkheid, courtoisie, galanterie, galanterieën, hoffelijkheid
 chevaline           als van een paard
 cheval              m, paard
 chevaucher          berijden, beklimmen, elkaar overlappen, rijden
@@ -3878,6 +3880,7 @@ citrouilles         f, pompoen
 civière             f, brancard
 civilisation        f, beschaving, cultuur
 clé                 f, sleutel
+clé anglaise        f, engelse sleutel
 claie               f, horde, filter, rand
 clair de la lune    m, licht van de maan
 claire-voie         daklicht, lichtbeuk
@@ -5100,8 +5103,7 @@ définition          f, definitie
 défis               m, uitdaging, trotsering, durf
 déflagration        f, ontbranding, opvlammen, verbranding
 défloré             bederven, perverteren, ontmaagden
-défoncer            diepploegen
-défoncer            inslaan, stoten, omgeploegd, stuk, broken, kapot
+défoncer, défoncé   inslaan, stoten, omgeploegd, diepploegen, stuk, broken, kapot
 défouler            afreageren
 défraîchie          aangetast, verschoten
 défricheur, défricher   cultiver, arracher, rendre une terre cultivable
@@ -6090,6 +6092,7 @@ embobiner           bepraten, bedonderen, bedriegen
 embolies            f, trombose, hart en vaatziekte
 embonpoint          m, dikte, gezetheid, vetheid, zwaarlijvigheid
 embouchure          f, inham, riviermond, mondstuk (van een fluit bv)
+embouché            faire entrer, insertie, inlassen, introduceren, invoeren, beïnvloeden
 embouteillage       f, file, opstopping
 embouteiller        verstoppen, bottelen, inmaken
 emboutir            crashen
@@ -6850,6 +6853,7 @@ exténué             uitgeput
 extérieur           m, externe
 extérioriser        belichamen
 extase              f, extase, geestvervoering
+exquise             heerlijk, exquis, exquisiet, uitgelezen, klasse, eersteklas, uitstekend, verfijnd
 extasié             extatisch, in extase, uit de bol
 extatique           opgetogen, rapsodisch
 extension           f, uitbreiding
@@ -9464,6 +9468,7 @@ lavande             f, lavendel, lavendelblauw
 lavement            m, enema, darmspoeling, wassen, faire sa toilette
 lave                m, lava, magma
 laver la tête       uitbrander
+laverer             laveren
 laver               wassen, schoonwassen, spoelen
 l'aveuglette        blindelings
 l'avis générale     algemene opinie
@@ -10981,7 +10986,7 @@ omoplate            f, schildbeen, schouderblad
 onamisme            m, onamisme, vingeren
 onéreux             duur, kostbaar, prijzig
 on était loin de    it was far removed from
-once                f, 3 gram, Engelse gewichtseenheid
+once                f, 3 gram, Engelse gewichtseenheid, sneeuwpanter, sneeuwluipaard
 onction             f, wijding, zalving, chrisma, consecratie
 onctueuse           glad, smeuïg
 onctueux            glad, smeuïg, zalvend
@@ -12355,7 +12360,7 @@ préexister          vooraf bestaan, voorafgaan, voorgaan
 préface             f, voorwoord, inleiding, woord vooraf
 préfectorale        districtsbestuur
 préfecture          f, prefectuur, politiedienst
-préfet              m, prefect, hoofd van ...
+préfet              m, prefect, hoofd van ..., maire, burgemeester
 préhension          f, prendre, serrer dans ses bras
 prairie             f, prairie, wei, grassteppe, grasvlakte
 préjudice           m, defect, nadeel, strop, verlies, afbreuk, schade, blessure
@@ -12412,6 +12417,7 @@ pratiquer           aanbrengen, sectie verrichtenn
 prétoire            m, pretorium, hal, zaal, gerechtshof
 prévaloir           prevaleren, overwinnen, neerslaan, opscheppen over
 prévenant           aandachtig, alert, attent, oplettend
+prévenance          f, voorzichtigheid, behoedzaamheid, voorkomendheid, behulpzaamheid
 prévention          f, vooringenomenheid
 prévenus            m, aangeklaagde, beklaagde, beschuldigde
 prévisible          nabij, te voorzien, vanzelfsprekend, voorspelbaa
@@ -12855,6 +12861,7 @@ racorni, racornir   ineengeschrompeld, inkrimpen, krimpen
 récréation          f, speeltijd, speeluur, recreatie
 récréative          recreatief, qui a pour fonction de divertir
 récrimination       f, tegenbeschuldigingen
+récrier             aanzoeken; vragen; aanvragen, désobéir, niet gehoorzamen; opstaan; rebelleren; revolteren
 récurer             afschrobben, schuren
 récureur            schoonmaker
 récuser             weerleggen
@@ -16214,6 +16221,7 @@ zélés               ambitie, vuur, geestdrift, ijver
 zéle                ambitie, vuur, geestdrift, enthousiast
 zénith              m, zenith
 zèbrer, zébraient, zébré      strepen, doorstrepen
+zébu                m, zeboe
 zèle                m, ambitie, vuur
 zézayer             lispelen, slissen
 Zen                 m, Zen
@@ -16227,4 +16235,7 @@ zone                f, zone
 zouave              m, soldaat
 zygomatique         wang, gelaatstrek, snuit
 matriarcat          m, matriarchaat, moederrecht
-=== Albert Camus --- Journaux de voyage --- pag. 102 onderaan --- ===
+urubu               m, roofvogel, gier, mestgier
+aubergiste          f, waardin, herbergierster
+pandanus            m, plante aquatique et de marais — waterplant; hydrofyt
+=== Albert Camus --- Journaux de voyage --- pag. 108 bovenaan --- ===
