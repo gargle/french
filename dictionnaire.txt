@@ -318,6 +318,7 @@ acier trempé        m, weathered steel
 éclairage           m, verlichting, lichtinstallatie
 éclairante          verlichtend
 éclaircir           uiteenzetten, voorlichte, uitklaren, getting thinner
+éclaircissement     m, opklaring, verklaring, verlichting
 éclairer            verlichten, belichten
 éclairer            verlichten, stralen, oplichten
 éclaireur           padvinder, talentjager, verkenner
@@ -2703,7 +2704,7 @@ borborygne          scheten laten?
 bordée              met ... randen, koers, afgezet met, omringd
 bordel              m, bordeel, bende, rotzooi
 bordereau           m, laadbrief, vrachtbrief
-border              omranden, omzomen
+border              omranden, omzomen, instoppen
 bord                m, boord, kant, rand, edge
 bordure             f, border, boordsel, rand
 borgne              eenogig, eenzijdig, onbillijk, partijdig
@@ -2844,7 +2845,7 @@ bouteille Hépar     f, fles mineraalwater
 bouter              mettre, beknibbelen, allumer, bousculer, koken?
 boutique            f, boetiek, magazijn, schop, winkel
 boutiquiers         m, detaillist, kleinhandelaar, middenstander
-bout                m, kant, stompje, top, einde
+bout, bouts         m, kant, stompje, top, einde
 boutoir             m, bijtel, snuit
 boutonner           knopen, dichtknopen, vastknopen
 boutonneuse         puistig
@@ -5478,6 +5479,7 @@ détraquement        m, ontreddering, verwarring, wanorde
 détraquer           beschadigen, verstoren, doen instorten
 détrôner            onttronen
 détrempé            doorweekt, modderig, vol water
+détremper           doorweken, durcir, tremper
 détresse            f, leed, pijn
 détriment           m, nadeel, schade
 détritus            m, afval, vuilnis, rotzooi, rommel
@@ -6127,7 +6129,7 @@ emménager           betrekken, intrekken
 emmanché            commencer
 emmanché            con, idiot, imbécile
 emmazouté           
-emmener             afhalen, meenemen
+emmener, emmène     afhalen, meenemen
 emmental            m, emmentaler
 emmerdant           vervelend
 emmerder            vervelen, embêter
@@ -6244,7 +6246,7 @@ en collants noirs   in zwarte panty's
 encolure            f, halslijn, halsuitsnijding
 encombré            encombrer, occuper à l'excès, verstopt
 encombrements       m, ballast, belemmering, hindernis, opstopping, rem
-encombrer           blokkeren, stranden, vastlopen
+encombrer           blokkeren, stranden, vastlopen, slecht functioneren
 en compréhension    in begrip
 en concertation     in overleg, samen
 en conséquence      dienovereenkomstig, dus
@@ -6963,6 +6965,7 @@ faire la cour       het hof maken
 faire la demande    van toepassing zijn
 faire la manche     een aalmoes vragen, bedelen, schooien
 faire la matière    being the subject
+faire la ronde      make one's round, circuler
 faire l'amour au pair  als koppel de liefde bedrijven
 faire la planche    zweven, op de rug zwemmen
 faire la pluie et le beau temps         autoritair verkondigen, de wet voorschrijven
@@ -8539,6 +8542,7 @@ impalpable          onvoelbaar, faible, immatériel, onzichtbaar
 impénétrabilité     ondoordringbaarheid, raadselachtigheid, ondoorgrondelijkheid
 impénétrable        bodemloos, grondeloos, onbegrijpelijk, ondoordringbaar
 impénitents         onverbeterlijk
+pénitent            m, boeteling, penitent, biechteling
 imparable           unstoppable, onvermijdbaar
 impératif           m, verplichting, plicht, drang, last, gewicht, druk
 impératif           noodzakelijk, noden, must
@@ -8804,6 +8808,7 @@ infirmière          f, verpleegkundige, verpleegster
 infirmité           f, zwakte, gebrek, handicap
 infléchir           moduleren, verbuigen
 infléchissement     m, verbuiging, shift, déviation
+déviation           f, omlegging, afdwaling, afwijking
 inflammable         ontvlambaar
 inflation           f, inflatie
 inflexion           f, verbuiging
@@ -8962,7 +8967,7 @@ intérêt             m, aangelegenheid, belang, interesse
 intéressé           m, mens, persoon
 intéressement       m, winstdeling, participatiestelsel
 intérieurement      innerlijk, inwendig, in zijn achterhoofd
-intérieur           m, binnen-, binnensdeurs, inwendig, overdekt, interieur
+intérieur           m, binnen-, binnensdeurs, inwendig, overdekt, interieur, binnenland
 intérieurs          binnen-, intern, inwendig
 intègre             pur moralement (personne)
 intelligence        f, intelligentie
@@ -9468,8 +9473,7 @@ lavande             f, lavendel, lavendelblauw
 lavement            m, enema, darmspoeling, wassen, faire sa toilette
 lave                m, lava, magma
 laver la tête       uitbrander
-laverer             laveren
-laver               wassen, schoonwassen, spoelen
+laver               wassen, schoonwassen, spoelen, laveren
 l'aveuglette        blindelings
 l'avis générale     algemene opinie
 lévitation          f, levitatie, zweven
@@ -11210,6 +11214,7 @@ paléontologie       f, paleontologie
 pâle                bleek, bleekjes, flets
 palefreniers        bruidegom, paardenverzorger, huisbediende, dienstbode, butler
 pélerinage          m, bedevaart, pelgrimstocht
+pélerin             m, bedevaartganger, pelgrim
 pâleur              f, bleekheid, fletsheid, vaalheid, patch
 pélican             m, pelikaan
 pâlichonne          bleekjes, flets, pips
@@ -12514,6 +12519,7 @@ procède             doorgaan, verder gaan
 procès              m, geding, rechtszaak, rechtsgeding, rechtszaak, strafgeding
 procès-verbal       m, proces-verbaal, bekeuring, boete, bon, handelingen, notulen, werkzaamheden
 processus           m, proces, ontwikkelingsgang, verloop
+procession          f, processie, stoet, lijfstoet, optocht
 proche              m, het nabije
 Proche-Orient       m, Midden-Oosten
 procréation         f, voortplanting
@@ -14045,6 +14051,7 @@ sauter au vol       in het luchtledige springen, aan boord springen?
 sauter à la gorge   naar de keel vliegen
 sauterelle          f, krekel, sprinkhaan
 saute-ruisseau      m, loopjongen
+sautes de sang      exaltation, opwinding
 sautiller           hinkelen, hinken, hippen, huppen, schokken
 sautoir             m, hanger (pendant)
 sauvagement         wreed, wild, woest, ruig, stout, kwaadaardig
@@ -15964,7 +15971,7 @@ verrue              f, wrat
 versant du ciel     bakken uit de hemel
 versant             m, berghelling, bergwand, glooiing, helling
 versé, verser       eruditie, geleerdheid, schoolkennis
-verser              stromen, vergieten
+verser              stromen, vergieten, faire tomber, doen vallen, bouger, déplacer, bewegen, verplaatsen
 versification       f, metriek, versleer, poëtica, poëzieleer
 vers luisants       m, glimwormen
 vers                m, verzen, dichtregel
@@ -16238,4 +16245,12 @@ matriarcat          m, matriarchaat, moederrecht
 urubu               m, roofvogel, gier, mestgier
 aubergiste          f, waardin, herbergierster
 pandanus            m, plante aquatique et de marais — waterplant; hydrofyt
-=== Albert Camus --- Journaux de voyage --- pag. 108 bovenaan --- ===
+bénéfique           heilzaam
+bouts du monde      uiteinde van de wereld
+surplis             m, koorhemd
+orchestre           m, orket, band, kapel, muziekkorps
+oiseaux-mouches     m, colibri, hummingbird
+archipleine         volledig vol, crowded
+télégraphier        telegraferen
+finir une bonne fois    concluderen, eindigen, terminate
+=== Albert Camus --- Journaux de voyage --- pag. 113 bovenaan --- ===
