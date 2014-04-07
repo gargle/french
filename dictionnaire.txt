@@ -350,7 +350,6 @@ a contrario         integendeel, andersom, in tegendeel
 écoper              hozen, scheppen, uitscheppen, opscheppen
 écorce              f, strootje, bast, boomschors, schil, schors, the bark
 écorcer             afpellen, ontschorsen, pellen
-écorcher            afpellen, afhalen, vervellen, pellen, schampen, geschaafd
 écorchures          f, schaafwond, schampschot, schaving
 écornifle           tirer un profit abusif, tirer un profit, un avantage de, excessif et trop, manger
 écoulables          
@@ -3453,7 +3452,6 @@ caverneux           hol, spelonkachtig
 cavité              f, holte, kuil, gaatje
 cawnpore            britse helm
 cône, cônes         m, conus, kegel
-côté                m, kant, zijkant
 côte                f, rib, heuvel, glooiing, kust
 côteler             geribd, aan de kant gooien?
 côtelette           f, kotelet, karbonade
@@ -4010,7 +4008,6 @@ coffret             m, geldkist, koffer
 cogito              m, redenatie, gedachtengang, gevolgtrekking
 cognac              m, cognac
 cognant             meppen, slaan, stampen
-cogner              aankloppen, kloppen, meppen, slaan, stampen, bonken op, bonzen op
 cohorte             f, menigte, schare, cohorte
 cohue               f, bombarie, drukte, gedoe, gedrang, gedruis
 coiffe              f, hoed, hoofddeksel
@@ -8102,7 +8099,6 @@ grimper en lacet    in slingeringen naar boven klimmen
 grimpette           f, mouvement doté d'une direction, klimmen, omhoog gaan, opgaan, opwaarts gaan 
 grimpeurs           m, alpinisten, klimmers
 grinçant            knarsend, knarsend en piepend, krassend
-grincement          m, geknars, gekraak
 grincer, grinçait   knarsen, raspen
 grincheux           m, azijnpissers, knorrepot
 grippage            m, stroefheid, ribbels?
@@ -10147,7 +10143,7 @@ martelée, marteler  dreunen, kloppen, slaan, stampen
 marteler            dreunen, slaan, stampen, hameren
 martial             heldhaftig
 martiens            m, marsbewoners
-martinet            m, hamer, kaarsenhouder, fouet (zweep), gierzwaluw
+martinet            m, hamer, kaarsenhouder, fouet (zweep), gierzwaluw, zwaluw
 martin              m, vogel
 martyre             m, lijder, martelaar, bloedgetuige, geloofsgetuige
 mésange             f, koolmees, mees
@@ -13134,6 +13130,7 @@ résilier            opzeggen
 résine              f, hars, resine, spiegelhars
 résistance          f, weerstand, verzet, tegenkanting, tegenweer
 résistant           duurzaam, resistent
+ras                 m, écoulement (d’un liquide), courant d’eau de mer
 ras                 m, gelijk-
 ras                 m, radeau, hier plankenvloer
 rasoir              m, mes, scheermes
@@ -16277,4 +16274,10 @@ communisme          m, communisme
 hypotendu           m, hoge bloeddruk, personne malade - zieke; lijder; ziek
 résister            tegenstreven, tegenspartelen, standhouden
 bronchite           f, bronchitis
-=== Albert Camus --- Journaux de voyage --- pag. 119 bovenaan --- ===
+cogner              bonken, bonken op, bonken tegen, bonzen, bonzen tegen, slaan, meppen
+écorcher            afpellen, villen, afschillen, vervellen, schaven, onthuiden, afstropen
+mellah              m, joods kwartier, le quartier où habitaient les résidents juifs de la ville
+côté                m, oord, plaats,lieu, limite d’un espace
+grincement          m, gekras, kattengejank, krassen, schrapen, gekraak, geknars
+colombe             f, duif
+=== Le Clézio --- Poisson d'or --- pag. 13 bovenaan --- ===
