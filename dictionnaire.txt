@@ -1696,7 +1696,7 @@ au faîte            het hoogtepunt
 au fil de           al vorderend, doorheen, overal
 au fil des jours    one day at a time
 au fond de          dans (fr), in, op de bodem, aan de andere kant
-au fond             eigenlijk, in de kern, in de grond, in iemands hart
+au fond             eigenlijk, onderin, in de kern, in de grond, in iemands hart
 au frais            cool?
 au fur et à mesure  progressivement
 augmenter           vermeerderen, groeien, uitbouwen
@@ -3257,6 +3257,7 @@ cap au nord         naar het noorden
 c.a.p cap           m, vakdiploma
 cap de diou         cap de Dieu
 CAPES               onderwijsbevoegdheid
+cape                f, mantel, cape
 céphalé             hoofd-
 cap-hornier         m,  un navire qui a franchi le cap Horn 
 capillaire          mbt haar
@@ -6867,7 +6868,7 @@ exténué             uitgeput
 extérieur           m, externe
 extérioriser        belichamen
 extase              f, extase, geestvervoering
-extasié             extatisch, in extase, uit de bol
+extasier, extasié   extatisch, in extase, uit de bol
 extatique           opgetogen, rapsodisch
 extension           f, uitbreiding
 extirper            loswrikken, loswroeten, uitwieden, wieden
@@ -7466,6 +7467,7 @@ fouriériste         m, socialiste, collectief
 fourmilière         f, mierenhoop
 fourmilions         m, insect, mierenleeuw
 fourmillante        qui est en grande quantité, où il y a beaucoup de gens
+fourmilier          m, miereneter
 fourmillement       m, beestjes, rillingen, de actie van krioelen, wemelen
 fourmiller          krioelen, wemelen, zwerm
 fourmis             f, mier
@@ -12898,7 +12900,7 @@ rédemption          f, afkoping, heil, redding, verlossing
 radiale             radius, straal-
 radiateur           m, radiator
 radicelle           f, worteltje
-radieux             fel, helder, stralend, vrolijk
+radieux, radieuse   fel, helder, stralend, vrolijk
 rédiger             bewerken, monteren, wijzigen, opstellen
 radiocommandé       radiogestuurd
 radio               m, radio-operator
@@ -12944,7 +12946,7 @@ réfuter             ontzenuwen, weerleggen
 ragaillardi         opfleuren, opkikkeren, opvrolijken
 régala, régaler     aanbieden, geven, onthalen op, tracteren, vergasten op, smikkelen, smullen van
 régate              f, zeilwedstrijd, roeiwedstrijd
-rage                f, woede, dolheid
+rage                f, woede, dolheid, modegril
 régenter            regeren
 rageur/euse         m/f, boze, kwade
 rageuse             boos
@@ -13178,6 +13180,7 @@ rétrécis            samengetrokken, versmallen
 rétrécissement      bottleneck, nauwte, versmalling
 rétracter           intrekken, zijn woorden intrekken, hier ook krimpen?, prijsgeven, laten schieten, terugtreden
 rétrogradation      f, degradatie, terugdraaien?
+rétrograde          arrière, à rebours de la mode, démodé
 rétrospective       f, overzichtstentoonstelling
 rétroviseur         m, achteruitkijkspiegel, autospiegel
 rattachement        m, aansluiting
@@ -16265,4 +16268,13 @@ zonard              m, jeune délinquant de banlieue
 zone                f, zone
 zouave              m, soldaat
 zygomatique         wang, gelaatstrek, snuit
+hydravion           m, watervliegtuig
+hydrophile          tegengestelde hydrophobe
+amphithéâtre        m, amfitheater, aula, collegezaal
+intellectuel        m, intellectueel
+catholicisme        m, catholicisme
+communisme          m, communisme
+hypotendu           m, hoge bloeddruk, personne malade - zieke; lijder; ziek
+résister            tegenstreven, tegenspartelen, standhouden
+bronchite           f, bronchitis
 === Albert Camus --- Journaux de voyage --- pag. 119 bovenaan --- ===
