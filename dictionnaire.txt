@@ -1701,8 +1701,7 @@ au fur et à mesure  progressivement
 augmenter           vermeerderen, groeien, uitbouwen
 au goulot           à la bouteille
 au gré de           believen, goeddunken, welbehagen, welgevallen
-au grand complet    volledige
-au grand complet    volledigheid, in its entirety, voltallig
+au grand complet    volledige, volledigheid, in its entirety, voltallig
 au gros soleil      out in the sun
 augure              voorbode, voorgevoel
 august, auguste     qui contient qqch en grande qté, qui possède une protection, majestueux, respect
@@ -1776,6 +1775,7 @@ autarcie            f, zelfverzorgend, zelfvoorziening
 autel               m, altaar
 au terme de         na, aan het einde van
 auteur              m, auteur, schrijver
+auto                f, auto, automobiel
 autobus             m, bus
 autocar             m, bus
 autocréation        f, automatische aanmaak van
@@ -1805,6 +1805,7 @@ autrui              anderen, others
 auvent              m, afdak, luifel, overkapping
 œuvre               f, werk, compositie, opus, stuk, toonzetting
 œuvrer              werken, agir, travailler
+travail, traveaux publics   openbare werken
 Œuvres du Mal       f, werken van het Kwaad
 aux aguets          op de uitkijk, op scherp staan, alert zijn
 aux îles Scilly     Scilly eilanden
@@ -2228,7 +2229,7 @@ Bab-El-Mandel       Bab-El-Mandeb, porte des lamentations
 babiller            babbelen, zwetsen, zeveren, kwebbelen
 babine              f, lip
 bâbord              m, bakboord
-babouche            pantoffel, slipper, slof
+babouche            f, pantoffel, slipper, slof
 babouin             m, aap, baviaan, mensaap
 bécasseaux          m, strandlopers
 bécassine           f, snip, watersnip
@@ -2457,7 +2458,7 @@ bâton               m, knuppel, slaghout, stok, paal, staf
 bâtonnet            m, cylinders
 bétonneuse          f, betonmolen
 batracien           m, amfibie
-battant             m, opening, ouverture (in een gebouw), plank
+battant             m, opening, ouverture (in een gebouw), plank, gedeelte, tafel
 batte de base-ball  f, baseball bat
 battement           m, klapperen, kloppen
 batterie            f, batterij
@@ -2751,7 +2752,7 @@ boucle              f, band, krullen, bocht, gesp
 boucler, bouclera   gespen, omgespen
 boucler l'affaire   het geval afhandelen
 boucler une ronde   afsluiten van een ronde
-boucles d'oreilles  oorbellen
+boucles d'oreilles  f, oorbellen
 bouclette           f, kleine ring, krul
 bouclier            m, schild
 bouc                m, bok
@@ -2999,6 +3000,7 @@ bruisser, bruissant ritselen, ruisen, muzzy
 bruit de pas        m, voetstap
 bruit mat           m, dof geluid
 bruits de crécelle  ratelend geluid
+bru                 f, schoondochter
 brume               f, brouillard = mist
 brumeux             mistig, nevelig
 brunâtre            gebruind
@@ -3431,7 +3433,7 @@ cœur gros           zwaar gemoed
 cauris              betaalmiddel
 cœur léger          luchtig, opgelucht hart
 cœur                m, het hart
-cœur serré          m, gebroken hart
+cœur serré          m, gebroken hart, verdrietig, bedroefd
 causalité           f, oorzakelijkheid, causaliteit
 cause               f, zaak
 causer              aandoen, veroorzaken, kwebbelen, ouwehoeren, leuteren, lullen
@@ -4646,7 +4648,7 @@ couscous            m, couscous
 cousin              m, neef
 coussinet           m, kussentjes
 coussin             m, kussen, zitkussen
-cousue, coudre, cousaient       dichtnaaien, naaien
+cousue, coudre, cousaient       dichtnaaien, naaien, beleggen, vastzetten
 couteau à palette   m, paletmes
 couteau             m, hakmes, lemmet, mes
 coutil              m, katoenstof
@@ -5124,7 +5126,7 @@ dégainer            trekken
 d'égal à égal       gelijke
 dégénérer           degenereren, achteruitgaan, ontaarden
 dégénérescence      f, achteruitgang, dekadentie, neergang, ondergang, verdorvenheid
-dégarni             kalend
+dégarni             kalend, kaal
 dégâts              m, beschadiging, schade
 dégeurpisse         de plaat poetsen, zijn biezen pakken
 dégingandé          slungelig
@@ -6588,7 +6590,7 @@ entrechoquer        kleppen, klepperen, rammelen
 entrecroisent       doorkruisen
 entrecroiser        kruisen
 entre deux âges     van middelbare leeftijd
-entrefaite          circonstance, incident
+entrefaite          f, circonstance, incident, belevenis, gebeurtenis
 entrefilet          m, aankondiging, informatie
 entregent           m, interpersoonlijke, handigheid, savoir-vivre
 entre grandes personnes   tussen grote mensen
@@ -7751,7 +7753,6 @@ géologie            f, geologie
 géomantique         voorspellingen adhv het gooien van stenen, botjes
 géomètre            m, metrologie, landmeter, wiskundige
 géométrale          qui représente un objet par ses dimensions relatives exactes
-géométrie           f, geometrie
 géométrie           f, geometrie, meetkunde
 garage              m, garage
 garagiste           m, garagist
@@ -7782,7 +7783,7 @@ garenne             soort konijn
 gérer               beheren, besturen, administreren
 gare routière       f, busstation
 gargarisait         gorgelen
-gargouillements     gorgelend
+gargouillements     m, gegorgel
 gargouillis         m, geklater
 gari                m, japans eten, gingembre
 garnement           m, bengel, duiveltje, rekel, rotjong
@@ -7908,6 +7909,7 @@ glissade            f, glijdende beweging, slip, zweefvlucht
 glissement          m, glijden, lawine, glijdende beweging
 glisser entre les doigts      glijden, glippen, wegglijden, tussen de vingers doorglippen
 glisser             glijden, slippen, uitglijden, scheren, verschuiven, rondsluipen, sluipen, toestoppen
+se glisser          schuiven, verschuiven
 glissière           f, looprail, rail, middenbermbeveiliging
 globe               m, bol, aardbol, globe
 globes oculaires    m, oogbollen
@@ -11488,8 +11490,7 @@ pas                 m, pas, trede, overloop, stoep
 père                m, vader
 passablement        redelijk
 passagère           kortstondig, vluchtig, voorbijgaand
-passage             m, doorgang, doorreis, doortocht, passage, aflevering, afgifte, jaargang
-passage             m, doorgang, gang
+passage             m, doorgang, gang, doorreis, doortocht, passage, aflevering, afgifte, jaargang
 passager            kortstondig, vluchtig, vergankelijk
 passéisme           m, hang naar het verleden
 passé               m, het verleden
@@ -11903,8 +11904,7 @@ piqueuse, piqueur   f, afmaker, angel, werkneemster, maker
 pire                m, ergste, erger, ergst
 pirogue             f, lange boot
 piroguiers          m, conducteur de pirogue
-pisé                en pisé = gebakken aarde
-pisé                leemsteen
+pisé                en pisé = gebakken aarde, leemsteen
 pisaller            m, stopgap, a last resort, worst case
 piscine             f, zwembad, bad, binnennbad, overdekt zwembad
 pis                 m, het ergste, worse
@@ -12192,6 +12192,7 @@ portable            m, gsm
 portées             f, nest jongen, actieradius, bereik
 portail             m, hek, poort, toegangshek, toegangspoort
 portant             m, set, decor (theater), pièce de bois dressée verticalement
+bien portant        puissant, énergique, en pleine santé
 port de plaisance   m, jachthaven
 porte-clé           m, sleutelhanger
 porte cochére       m, garagepoort
@@ -12830,13 +12831,12 @@ râblé               trapu, gedrongen
 raboteuse           geschaafd, glad geschaafd
 rabots              m, schaaf
 rabougri            dwerg, niet uitgegroeid
-rabrouer            onheus bejegenen
+rabrouer            snauwen, afpoeieren, vervreemden, afwijzen, afstoten, onheus bejegenen
 rébu, rébus         m, rebus, question - vraagstelling, vraag, inquisitie, navraag, verhoor
 racaille            f, schorem, tuig
 récalcitrantes      balorig, dwars, onhandelbaar, onwillig, weerbarstig
 récapituler         resumeren, samenvatten, recapituleren
-racccommoder        bijleggen, verzoenen met, verstellen, stoppen
-raccommoder         stoppen, verstellen
+raccommoder         bijleggen, verzoenen met, verstellen, stoppen
 raccompagner        escorte
 raccourci           m, binnenpad, binnenweg
 raccrocher          het gespreg afbreken, ophangen, vastklampen
@@ -13231,7 +13231,7 @@ révolu              weg
 révoquer            herroepen, ongedaan maken
 révulsé             dégoûter, répugner
 révulsèrent         teruggedrongen
-révulser            weerzinwekkend, doen walgen
+révulser            weerzinwekkend, doen walgen, inverser, draai van 180°
 rayée               gestreept
 rayer               doorstrepen, uitschrijven, doorhalen, schrappen, bekrassen
 rayon               m, straal, afdeling, plank, spaak, deel, glimp, shelve
@@ -13643,8 +13643,7 @@ ringarde            m, kachelpook, pook
 ringardes           m, kachelpook
 riposte             f, weerwoord, tegenargument, tegenzet, tegenaanval
 riposter            weerstand bieden
-rire aux éclats     bulderen, luidskeels lachen, schateren
-rire aux éclats     schaterlach, schatering
+rire aux éclats     bulderen, luidskeels lachen, schateren, schaterlach, schatering
 rire cursif         m, lopend, lachje
 rire de gorge       m, keellach? binnenmonds lachen?
 rire du bout des lèvres     to laugh with one's teeth clenched
@@ -15371,6 +15370,7 @@ topologie           f, topologie (wiskunde)
 toqué               m, geschifte, gek, waanzinnige, crackpot
 toque               f, coiffure ancienne, habit d'un magistrat
 torche              f, fakkel, toorts
+torcher             afvegen (achterwerk), essuyer
 torchis             m, maïskolf, mix van modder en twijgen
 torchon             m, afdroogdoek, wisdoek, afwaskwast
 tordant             giller, lachsucces
@@ -15649,7 +15649,6 @@ trophée             m, trofee
 Tropique du Cancer  m, Kreeftskeerkring
 trotter             dribbelen, afdraven, draven, uitlopen
 trotteuse           f, secondenwijzer
-trottiner           afdraven, draven
 trottiner           waggelen, draven, afdraven
 trottoir            m, trottoir
 trouées             f, pas, bergpas, col
@@ -16280,4 +16279,11 @@ mellah              m, joods kwartier, le quartier où habitaient les résidents
 côté                m, oord, plaats,lieu, limite d’un espace
 grincement          m, gekras, kattengejank, krassen, schrapen, gekraak, geknars
 colombe             f, duif
-=== Le Clézio --- Poisson d'or --- pag. 13 bovenaan --- ===
+calcul mental       m, hoofdrekenen
+rudiment            m, oerbeginsel, rudiment
+sauvageonne         f, être humain à mode de vie primitif, femme, petit enfant, petite fille
+belra               f, soort schoen, insteker
+fondouk             m, établissement de relais pour manger et dormir
+narguilé            m, waterpijp
+khôl                m, produit de maquillage - schoonheidsmiddel; schoonheidsprodukt; kosmetica; make-up; nagellak
+=== Le Clézio --- Poisson d'or --- pag. 28 bovenaan --- ===
