@@ -3027,7 +3027,7 @@ bulbe               m, bloembol, bol, stam, wortel van plant
 bulbe rachidien     m, hersenstam, beenmerg, merg
 bulbeuse, bulbeux   bolvormig
 bulldozer           m, bulldozer
-bulle               f, ballon, bel, blaas, luchtbel, bubble
+bulle, bulles       f, ballon, bel, blaas, luchtbel, bubble
 bulletin            m, bulletin, dienstmededeling, nieuwsbrief, rapport
 bungalow            m, bungalow
 buraliste           m, handelsman, koopman, verkoper
@@ -4027,6 +4027,7 @@ coléoptère          m, kever, tor
 coléreux            driftig, kortaangebonden
 colérique           driftig, heetgebakerd
 colère jupitérienne f, joviaanse toorn
+colère              f, boosheid, drift, nijdigheid, woede
 col cassé           m, wing-collar, vlinderdas
 col de l'utérus     m, baarmoederhals
 coleslaw            m, coleslaw, salade, chou
@@ -7007,7 +7008,7 @@ faire signer à      te ondertekenen
 faire son droit     rechten studeren
 faire son temps     zijn tijd maken, overleefd hebben
 faire sortir de ses gonds   uit zijn hengsels lichten
-faire sous lui      zich onderschijten?
+faire sous lui      zich onderschijten
 faire taire         doen zwijgen, stil doen zijn
 faire tapisserie    iets onnodig doen
 faire               tarten, uitdagen, uitlokken
@@ -9444,8 +9445,7 @@ largesses           genereuze giften, overvloed
 largeur             f, breedte
 larguer             losgooien
 l'Armée du Salut    f, Leger des Heils
-larme               f, traan
-larmes              f, drup, scheutje, traan
+larme, larmes       f, drup, scheutje, traan
 larmoyant           huilerig, tranend, tranenverwekkend
 larmoyer            dreinen, dwingen, huilen, jengelen
 larrons en foire    m, dieven (op de markt?), gauwdieven?
@@ -10326,7 +10326,7 @@ meuglement          m, boe, geloei
 meugler             loeien, bulken
 meule               f, stapel, hooihoop, slijpsteen
 meurtre             m, moord, doodslag
-meurtrière          f, opening in muur om door te vuren
+meurtrière          f, moordenares, moordenaar, killer, opening in muur om door te vuren
 meurtrier, meurtrière  dodelijk
 meurtrier           m, moordenaar
 meurtri, meurtrir   slaan, gekneusd, geblutst, bruised
@@ -11582,7 +11582,7 @@ pâture              f, beemd, grasland, wei, weiland
 paumé               f, personne pauvre, verloren
 paume               f, palm, handpalm
 paupérisation       f, verarming, verpaupering
-paupières           f, paupière = ooglid
+paupière, paupières f, ooglid
 pause-café          f, koffiepauze
 pauvrement          dun, gemeen, pover, schaars, schamel, slecht
 pauvreté            f, ontbering, tekort
@@ -16286,4 +16286,6 @@ belra               f, soort schoen, insteker
 fondouk             m, établissement de relais pour manger et dormir
 narguilé            m, waterpijp
 khôl                m, produit de maquillage - schoonheidsmiddel; schoonheidsprodukt; kosmetica; make-up; nagellak
+dessus-de-lit       m, sprei, beddesprei
+quérir              vouloir avoir, posséder qqch, navragen, essayer de découvrir (chercher)
 === Le Clézio --- Poisson d'or --- pag. 28 bovenaan --- ===
