@@ -2091,7 +2091,7 @@ azur                m, azuur, blauw
 à la rigueur        bij de meeste, de ernst, de strengheid, à la limite, nipt, op het kantje, au besoin
 à la ronde          door, rond
 à la ronde          in de omtrekt, door, rond, in de buurt
-à la sauvette       haastig, brusquement
+à la sauvette       haastig, brusquement, tersluiks
 à l'assaut          in de aanval, bestorming
 à la suite          aaneengeschakeld, achter elkaar
 à la trace          on track
@@ -4428,7 +4428,7 @@ convoi              m, konvooi, begeleiding, vrijgeleide
 convoitait, convoiter        begeren, hunkeren, verlangen, zuchten
 convoitise          f, begeerte, verlangen, wens
 convoquer           bij elkaar roepen, ontbieden, oproepen, optrommelen, samenroepen, bijeenroepen
-convulser           samentrekken, schokken, agiteren, drillen, in beweging brengen, rammelen, schudden
+convulser           samentrkken, schokken, agiteren, drillen, in beweging brengen, rammelen, schudden
 convulsif           krampachtig
 convulsions         f, stuiptrekkingen, stuipen
 convulsivement      krampachtig
@@ -4900,7 +4900,7 @@ cyprès              m, cipres, cypres
 cyprin              m, witvis, voorn, karper
 déambulaient, déambuler          se promener au hasard, ronddwalen, lopen
 débâcle             f, collaps, calamiteit, fiasco
-déballage           uitpakken
+déballage           m, uitpakken, schuldbekentenis, toegeving, schulderkenning, aveu, schuldbelijdenis
 déballer            uitpakken
 débandade           f, zware nederlaag
 débandons           vluchten
@@ -5395,6 +5395,7 @@ désapprobateur      afkeurend
 désapprobation      f, afkeuring
 désapprouver        afkeuren
 déséquilibré        m, de onevenwichtige persoon
+équilibre           m, evenwicht, balans
 déséquilibré        onevenwichtig, uit zijn evenwicht gebracht
 désarçonner         afwerpen, in verwarring brengen, puzelen, verbazen
 désargenter         iemand zijn geld afpakken
@@ -5801,7 +5802,7 @@ disperser           oplossen, uiteengaan, uiteendrijven, verspreiden
 disperser           uiteendrijven, verstuiven
 dispersion          f, verspreiding
 disponibilité       f, verlof
-disposé             bereidwillig, bereid, geordend, produced
+disposé             bereidwillig, bereid, geordend, produced, lay-outen
 disposer de         beschikken over
 disposer            ordenen, bewegen, brengen tot, schikken, rangschikken, neigen
 dispositif          m, apparaat, verbintenis, contract, inrichting, voorziening
@@ -6874,7 +6875,7 @@ extension           f, uitbreiding
 extirper            loswrikken, loswroeten, uitwieden, wieden
 extorqué            afdwingen, afpersen
 extraction          f, afkomst
-extraire, extrais   loswroeten, uittrekken
+extraire, extrais   loswroeten, uittrekken, delven, uitgraven, lospeuteren, selecteren, extraheren, verkrijgen uit
 extrait             m, uittreksel
 extrémiste          m, extremist, radicaal
 extrémité           f, einde, kant, ledematen, zijde, end, extremiteit
@@ -6967,6 +6968,7 @@ faire du gringue    séduire, courtiser, verleiden, flirten
 faire du stop       autostop, liften
 faire escale        tijdelijk halt houden, aanleggen van een schip buiten de haven
 faire faillite      failliet gaan
+faire face          aankijken, onder ogen zien, de confrontatie aangaan, aanblikken
 faire fi            negeren
 faire fort mal      slecht uitvoeren, verkeerd doen
 faire front         faire face à, résister, s'opposer, tenir
@@ -8229,7 +8231,6 @@ hachures            f, arcering
 hédoniste           m, hedonist
 hagarde             afgepeigerd, afgetobd, uitgemergeld
 haie                f, haag, hindernis, horde, sprong
-haillon             m, lomp, vod
 haillons            m, flodder, lap, lompen, lor, tod, vod
 haine               f, afkeer, afschuw, haat, gruwel, hekel
 haineux             haatdragend
@@ -10087,9 +10088,8 @@ marbrier            m, iemand die met marmer werkt
 marbrure            f, spikkel, spijsvet, vlek
 marché aux puces    m, vlooienmarkt, rommelmarkt
 marché              m, markt, afzet, actie, commercie, business
-marchande           f, handelaar, koopman, winkeljuffrouw, winkelierster
 marchandise         f, artikel, goederen, handelsgoederen
-marchand            m, handelaar, koopman
+marchand, marchande m/f, handelaar, koopman, winkeljuffrouw, winkelierster
 marche arrière      f, achteruit van versnelling
 marchepied          m, opstapje, trapladder, trapleer
 marches             f, loopvlak, opstapje, gang, trap, voortgang
@@ -12575,6 +12575,7 @@ progrès             m, groei, voortgang, vordering, vooruitgang
 progressiste        m, vooruitstrevend, progressief
 prohiber            verbieden
 proie               f, prooi, prooidier
+projectile          m, projectiel, raket
 projection          f, projectie, raming, project
 projeter            kegelen, schieten, mikken, kwakken
 projet              m, project
@@ -12984,6 +12985,7 @@ rainette            f, kikker, kleine groene kikker
 réintègrer          herstellen, herintreden
 rainure             f, groef, sleuf, gleuf, groeve
 raisin              m, druif
+raisin sec          m, rozijn, krent
 raison              f, reden
 raisonnable         redelijk, verstandig
 raisonnement        m, argumentatie, gedachtengang, redenatie, redenering
@@ -13927,6 +13929,7 @@ salle de bains      f, badkamer
 salle d'entraînement   f, trainingszaal
 salle de séjour     f, huiskamer, living
 salle d'urgence     f, noodsituatieruimte
+urgence             f, crisis, haast, noodgeval
 salle               f, kamer, hal, zaal
 salmis              m, wildragoût
 salon d'essayage    m, omkleedruimte, paskamer
@@ -14567,7 +14570,7 @@ sonore              diepklinkend, helder, klinkend
 sonore              klinkend
 soporifique         slaapverwekkend
 sorcellerie         f, duisvelskunsten, hekserij, tovenarij
-sorcier             m, tovenaar, duivelskunstenaar, magiër
+sorcier, sorcière   m/f, tovenaar, duivelskunstenaar, magiër
 sordide             vies, vuil
 sorte               f, een soort, type, mens, sterveling, individu
 sortie              f, uitstapje, uitlaatklep, uitlaat, uitgang, vrijlating, vertrek
@@ -16288,4 +16291,10 @@ narguilé            m, waterpijp
 khôl                m, produit de maquillage - schoonheidsmiddel; schoonheidsprodukt; kosmetica; make-up; nagellak
 dessus-de-lit       m, sprei, beddesprei
 quérir              vouloir avoir, posséder qqch, navragen, essayer de découvrir (chercher)
-=== Le Clézio --- Poisson d'or --- pag. 32 bovenaan --- ===
+faiseuse            f, rijmelaar, rijmelaarster, personne à l'origine de qqch, personne qui cause qqch
+piècette            f, pièce de monnaie métallique fiduciaire - geldstuk; muntstuk
+centime             m, centime, cent
+pluie               f, regen, regenval, regenbui, neerslag, hemelwater
+dévêtu              nudité — (onbedekt), enlever ce qui couvre
+colporteur          m, venter, ventster, marskramer
+=== Le Clézio --- Poisson d'or --- pag. 38 bovenaan --- ===
