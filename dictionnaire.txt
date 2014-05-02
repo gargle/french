@@ -37,8 +37,7 @@ aérostat            m, ballon, luchtballon
 être disposer       beschikbaar
 être du monde       belong to society
 être d'une adresse  slag, vlugheid
-être dupe           fooled, de dupe zijn
-être dupe           voor de gek houden
+être dupe           fooled, de dupe zijn, voor de gek gehouden
 être en droit       gerechtigd
 être en pointe      aan top zijn
 être en reste       onderdoen
@@ -196,7 +195,7 @@ acarien             m, spinachtigen, mijten, teken
 écartelé            gevierendeeld, blootleggen, uitgraven
 écarter             verwijderen, wegsturen, aan de kant gaan, openschuiven, opzij duwen, spreiden, bevrijden van
 écart               m, afwijking, deviatie, inbreuk, overtreding, uitstapje
-écœurante           walgelijk, weerzinwekkend
+écœurant, écœurante walgelijk, weerzinwekkend
 écœurement          m, walging, afkeer, afgrijzen
 écœurer             doen walgen, walgen, misselijk maken
 accablant           verpletterend
@@ -1215,8 +1214,9 @@ approvisionneur     m, koper, commerçant
 approximation       f, benadering
 appui               m, vensterbank, steun, ondersteuning, backing, suport
 appuyer             aanleunen, steunen tegen, leunen op
-après-midi          m, namiddag, miiddaguren, middag
+après-midi          m, namiddag, middaguren, middag
 âpre                bars, bitter, hard, koud, wrang, wreed
+âprement            snijdend, bitter, bijtend
 éprendre            tomber amoureux, aimer les choses, verlichten, omarmen
 âpreté              f, scherpheid, hebzucht
 épreuves            f, beproeving
@@ -1349,8 +1349,7 @@ arracher            losrukken, losscheuren, losscheuren, wegrukken
 arranger            opmaken, in orde maken, rechtzetten
 arrière-bouche      f, keelholte
 arrière-boutique    f, achterste winkelruimte
-arrière             m, achterdeel, achtereind, achterstuk, achterzijde
-arrière             m, achterste, achterdeel, achtereind
+arrière             m, achterdeel, achtereind, achterstuk, achterzijde, achterste
 arrière-mondes      ?
 arrière-pays        m, achterland
 arrière-pensée      bijbedoeling, bijgedachte, voorbehoud
@@ -4069,7 +4068,7 @@ combinaison         f, handelswijze, overall
 combinaison mécano  f, overall
 combiné             m, de hoorn
 combine             f, moyen pour parvenir à un résultat, hypocrisie, méfait, misdaad, wangedrag, oneerlijkheid
-comble              m, hoogtepunt, top, summon, 
+comble              m, hoogtepunt, top, summon, boordevol, volgehoopt
 combler             eer aandoen, in ere houden, bedelven, voldoen aan, waarmaken, tevreden stellen, bevredigen
 combustion          f, verbranding, ontbranding
 comestible          eetbaar
@@ -6589,8 +6588,7 @@ entrebâillement     m, kier
 entrebâiller, entrebâillé       op een kier zetten, yawn open
 entrechoqué         klepperen, rammelen
 entrechoquer        kleppen, klepperen, rammelen
-entrecroisent       doorkruisen
-entrecroiser        kruisen
+entrecroiser        (door)kruisen
 entre deux âges     van middelbare leeftijd
 entrefaite          f, circonstance, incident, belevenis, gebeurtenis
 entrefilet          m, aankondiging, informatie
@@ -9161,7 +9159,7 @@ j'ai de quoi me payer         ik heb genoeg om me ...
 jaillir             gulpen, gutsen, ontspringen, oogsten, opspatten, verspuiten, opwellen
 jaillissait         jaillir = ontspringen, spuiten, opwellen
 jais                m, gitzwart, roetig, git, koolzwart
-jalonner            afbakenen, afgrenzen, afperken, afzetten, afbakenen, marquage - markering 
+jalopnner            afbakenen, afgrenzen, afperken, afzetten, afbakenen, marquage - markering 
 jalons              m, baken, boei, mijlpaal, objet destiné à avertir
 jalouser            benijden, misgunnen
 jambe, jambes       f, (broeks)pijpen, benen
@@ -10573,7 +10571,7 @@ motte               f, brok, klontje, kluit
 mouchard            m, verklikker
 mouche à viande     f, blowfly
 moucherons          m, mug, steekmug
-moucher (se)        snuiten
+moucher (se)        snuiten, frapper quelqu'un, humilier, punir
 mouches             f, vlieg, kunstvlieg
 mouches plates      f, platte vliegen?
 moucheter           vlekken, stippelen, spikkelen
@@ -10710,7 +10708,7 @@ négociable          verhandelbare
 négociant           m, handelaar, dealer
 négresse            f, negerin
 négrifier           zwart maken
-négrillon           m, enfant négre
+négrillon, négrillonne    m/f, enfant négre
 négroïde            negroid
 naguère             een keer, recent, niet lang geleden
 naine               f, dwerg, lilliputter
@@ -11609,7 +11607,7 @@ peigner             kammen, uitgekamd
 peignoir            m, peignoir, bovenkleed, huisjas, kamerjas, robe, badjas, badmantel
 peiné               gepijnigd
 peinard             cushy
-peindre             beschilderen, lakken
+peindre, peignaient beschilderen, lakken
 peindre point en parlant                painting pictures with words
 peine capitale      f, doodstraf, la peine de mort
 peine               f, zorg, krachtinspanning, afstraffing, straf, vergelding, sorrow
@@ -11843,6 +11841,7 @@ pie                 f, babbelziek persoon
 pierrailles         f, puin
 pierre de achoppement  f, struikelblok
 pierre              f, steen
+pierres ponces      f, puimsteen, schuursteen
 pierreries          f, juwelen
 pierre tombale      f, grafsteen
 pierrot             m, militair, soldaat
@@ -12212,7 +12211,6 @@ porteur             m, drager
 porte-voix          m, megafoon
 portfolio           m, portefeuille, persoonlijk dossier
 portière            f, (auto)portieren, deuren
-portière            portier
 portiques           m, portiek, poortje
 port                m, haven, havenstad?
 portraitiste        m, portretschilder
@@ -13505,7 +13503,7 @@ reprendre son élan  herwinnen van zijn momentum
 reprendre son assurance            to recover his composure
 reprirent, reprendre    hervatten, heroveren, doordrijven, weer opnemen, overnemen, verdergaan, voortgaan
 reprise             f, herhaling, hervatting, herneming
-reproche            f, berisping, reprimande, terechtwijzing
+reproche            m, verwijt, berisping, reprimande, terechtwijzing
 reprocher           berispen, verwijten, aanwrijven
 reproductible       reproduceerbaar
 reproduction        f, reproductie, teling, vermenigvuldiging, verwekking
@@ -15143,6 +15141,7 @@ teinturerie         f, ververij
 teinturière         m, stoffenverver, verver
 tekteks             ?
 telle que           zo
+telle               un différent, un autre / une semblable, un même
 telles              semblable
 tellure             m, metaal, chemische groep 16
 tellurique          aards
@@ -15315,7 +15314,7 @@ tisons              m, embers, sintels
 tissage             m, weverij
 tisserand           m, wever
 tisser, tissé       vlechten
-tissu               m, doek, laken, kleed, stof
+tissu, tissus       m, doek, laken, kleed, stof
 titane              m, titaan, titanium
 titiller            prikkelen
 titre               m, titel, graad
@@ -15869,6 +15868,7 @@ vénération          f, aanbidding, adoratie, afgodendienst, bewondering
 vénéré              vénérer = aanbidden, bewonderen, hoogachten, vereren, vrezen
 véniel              verontschuldigendbaar, onbelangrijk, pardonnable
 vanilliers          m, vanille, vanille-boom
+vanille             f, vanille
 vanité              f, eigenliefde, verwaandheid
 vannerie            f, netwerk, vlechtwerkt
 vanner, vanné       versleten, plagen, zeven, ziften?
@@ -16295,6 +16295,15 @@ faiseuse            f, rijmelaar, rijmelaarster, personne à l'origine de qqch, 
 piècette            f, pièce de monnaie métallique fiduciaire - geldstuk; muntstuk
 centime             m, centime, cent
 pluie               f, regen, regenval, regenbui, neerslag, hemelwater
-dévêtu              nudité — (onbedekt), enlever ce qui couvre
+dévêtu              nudité - (onbedekt), enlever ce qui couvre
 colporteur          m, venter, ventster, marskramer
-=== Le Clézio --- Poisson d'or --- pag. 38 bovenaan --- ===
+astreinte           f, verplichting, belasting, drang, beperking
+se organiser        organiseren, vormen, op touw zetten, plannen, ordenen
+falot               m, licht, lichtbron, 
+héberger            herbergen, onderbrengen, huisvesten
+breloque            f, ornement vestimentaire, bijou, sieraad, juweel
+ambulant            ambulant, rondtrekkend, rondreizend
+attifer             toetakelen, kleden, uitdossen
+darbouka            f, percussie, slaginstrument
+je n'en faisais plus qu'à ma tête       en ik wou meer dan er enkel aan te denken?
+=== Le Clézio --- Poisson d'or --- pag. 50 bovenaan --- ===
