@@ -2855,6 +2855,7 @@ boutonner           knopen, dichtknopen, vastknopen
 boutonneuse         puistig
 boutonnière         m, knoopsgat
 boutons             m, steenpuist, puist, knop, pukkel, vetbult, bedieningsknop, drukknop, knoop (hemd)
+boutons de manchette   m, manchetknopen
 bouts de bois       m, stukken hout, kant van hout
 bouts du monde      uiteinde van de wereld
 bouvreuil           m, goudvink
@@ -7104,6 +7105,7 @@ faucher, fauché     neermaaien, gappen, jatten, stelen, wegkapen
 faucilles           f, sikkel
 faucon              m, havik, valk
 faufilant, faufiler aanrijgen, spartelen, trappelen, zich een weg banen
+se faufiler         sluipen, zich een weg banen, doorslippen, kronkelen, laten glijden, meanderen  (literary)
 faune               f, fauna, dierenrijk
 faussement          abusievelijk, bedrieglijk, frauduleus
 fausser             verwringen, manipuleren, verdraaien
@@ -7705,7 +7707,7 @@ galbe               m, ronding, goedgevormdheid, welving
 gale                f, schurft
 galerie d'art       f, kunstgalerij
 galerie de toit     f, imperiaal
-galerie             f, tunnel
+galerie             f, tunnel, galerij, gaanderij
 galeriste           m, galerijhouder
 galets              m, kei, kiezel
 galette             f, contant geld, kleingeld, wisselgeld, beschuitbol
@@ -8214,8 +8216,7 @@ habitant            m, bewoner, inwoner
 habitation          f, domicile, woning, behuizing, kwartier, logies, onderkomen
 habitat             m, behuizing, thuis, home, woning, woongelegenheid
 habiter             beslaan, bevolken, inwonen, occuperen
-habit               m, gewaad
-habits              m, kleding, gewaad, habijt, jacquet, kap, rok, kleed
+habit, habits       m, kleding, gewaad, habijt, jacquet, kap, rok, kleed
 habitude            f, gebruik, gewoonte, overlevering, traditie
 habituellement      doorgaans, gewoon, normaal, normaliter
 hâbleur             m, dikdoener, grootdoener
@@ -11273,9 +11274,7 @@ pénitent            m, boeteling, penitent, biechteling
 panka               m, ventilator
 pan                 m, flap, muur, gooiing, partie flottante d'un vêtement, mur, vertikale oppervlak
 panneau             m, beschot, uithangbord, pannel, seinbord, dashboard
-pénombre            f, halfduister
-pénombre            f, zwak licht, donkerte
-pénombre            zwak licht
+pénombre            f, halfduister, zwak licht, donkerte
 panoplie            f, wapenrek, arrangement, ordening, rangschikking
 panorama            m, panorama, zicht
 pans de mur         wandpanelen
@@ -12997,7 +12996,7 @@ réjouissante        aantrekkelijk, pikant, pittig
 rajout              m, wat toegevoegd wordt, toevoeging
 râle                m, reutel, gereutel, rochel, gerochel
 ralentissement      m, vertraging
-râler               fronsen, plooien, gasping, to gasp
+râler               kankeren, mopperen, morren, klagen, fronsen, plooien, gasping, to gasp
 rallier             bijeenroepen, optrommelen, verzamelen, zich verzamelen
 rallonge            f, uitbreiding, verlenning
 rallonger           langer worden, uitleggen, verlengen, uitrekken, rekken, strekken
@@ -13298,7 +13297,8 @@ recousu             dichtnaaien
 recouvrir           behangen, bedekken, omsluieren, afdekken, met een laag bedekken
 recracher           spuwen, uitspuwen
 recreduscence       ontspinnen, gebeuren, herhaling
-recroquevillé       huiveren, terugschrikken
+recroquevillé       huiveren, terugschrikken, krullen, ineenduiken, ineenkrimpen, ineenschrompelen, terugdeinzen
+se recroquevillé    dubbelvouwen
 recroqueviller      ineenkrimpen, huiveren, krullen, terugdeinzen, terugschrikken
 recrudescence       f, verpakken, verbreden, uitbreiden, toename, opslag
 recrue              f, nieuw lid, recruut
@@ -16308,4 +16308,6 @@ darbouka            f, percussie, slaginstrument
 je n'en faisais plus qu'à ma tête       en ik wou meer dan er enkel aan te denken?
 flanelle            flanel
 exérèse             f, opération chirurgicale - operatie, wegnemen, wegdoen, losmaken, chirurgie, spreekuur
-=== Le Clézio --- Poisson d'or --- pag. 50 bovenaan --- ===
+montre-oignon       f, zakhorloge, de style français de la fin XVIIe-début XVIIIe siècle
+fureter             snuffelen, rondsnuffelen, rondneuzen, gluren, koekeloeren, grasduinen, neuzen, snuffen
+=== Le Clézio --- Poisson d'or --- pag. 52 bovenaan --- ===
