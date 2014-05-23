@@ -1749,7 +1749,8 @@ binz                m, zooi
 biologiste          m, bioloog
 biopsie             f, biopsie
 biscotte            f, beschuit, scheepsbeschuit
-biscuits de mer     zoals soldatenkoeken
+biscuits de mer     m, zoals soldatenkoeken
+biscuit, biscuits   m, biscuit, koekje
 biseauter           afschuinen
 biseauté            afgekant, afgeschuind
 bistouri            m, ontleedmes, scalpel
@@ -1908,7 +1909,7 @@ bouchée             f, laadklep, klep, beet, hapje, hap, mondvol
 boucle              f, band, krullen, bocht, gesp
 boucler l'affaire   het geval afhandelen
 boucler une ronde   afsluiten van een ronde
-boucler, bouclera   gespen, omgespen
+boucler, bouclera   gespen, omgespen, vastklemmen, mettre dans un espace où l'on enferme
 boucles d'oreilles  f, oorbellen
 bouclette           f, kleine ring, krul
 bouclier            m, schild
@@ -2203,7 +2204,6 @@ burnous             m, boernous, overkleed
 buse                f, buizerd
 busquer             bogen, gebogen
 buste               m, borstbeeld, bovenlijf, romp
-buste               m, romp, bovenlijf
 bustier             m, b.h.
 but                 m, goal, doel, bedoeling, bestemming
 but bien arrêté     m, a solid purpose, vastbesloten, duidelijk doel
@@ -3029,7 +3029,7 @@ cinabre             rode kleur, kleurstof
 cinglante           bijtend, kokend heet, vernietigend
 cingler             striemen, erop inhakken, mokeren, smeden, koers zetten naar, stevenen naar
 cinglé              gek, getikt, losgeslagen
-cintres             m, hanger, kleerhanger
+cintre, cintres     m, hanger, kleerhanger
 cintré              gewelfd
 ciné-roman          m, fotoroman
 cinéma              m, cinema, bioscoop, film
@@ -3629,7 +3629,7 @@ coq                 m, haan, haantje, torenhaan
 coque               f, schil, schors, romp, ombouw
 coquelet            m, jonge haan
 coqueluche          f, minnaar
-coquet              aardig, flirterig, koket
+coquet, coquette    aardig, flirterig, koket
 coquettement        flirterig, koket
 coquetterie         f, behaagzucht, koketterie, flirt
 coquillages         m, schelpen
@@ -5615,7 +5615,7 @@ en équerre          hoek
 en étoile           in the shape of a star
 en étourneau        spreeuw?
 en éventail         waaiervormig
-en évidence         markeer, en vue
+en évidence         markeer, hoogtepunt, en vue
 en-tête             m, briefhoofd
 encablures          f, oude lengtemaat, +/- 200 meter, bekabeling
 encadrer            inlijsten, omgrenzen, iemand plaatsen
@@ -7098,6 +7098,7 @@ glissement          m, glijden, lawine, glijdende beweging
 glisser             glijden, slippen, uitglijden, scheren, verschuiven, rondsluipen, sluipen, toestoppen
 glisser entre les doigts      glijden, glippen, wegglijden, tussen de vingers doorglippen
 glissière           f, looprail, rail, middenbermbeveiliging
+fermeture à glissière  f, ritssluiting
 globe               m, bol, aardbol, globe
 globes oculaires    m, oogbollen
 globule             m, bloedcel, bloedlichaampje
@@ -7297,7 +7298,7 @@ grommelaient        grommeler
 grondante           bedreigend, dreigend
 gronde              aanmanen, aansporen, manen, roffelen
 grondement          m, kabaal, gebulder, gedaver, gedreun
-gronder             knorren, roffelen, rollen, dreunen, berispen
+gronder, grondez    knorren, roffelen, rollen, dreunen, berispen
 groove              m, groove
 gros                groot, gedistingeerd, prominent, dik, dikke
 gros                m, zaak, handel, verkooppunt
@@ -9475,7 +9476,7 @@ mimétisme           m, kopieergedrag
 mimétisé            flexing
 minable             m, sjofel, schurftig, vreselijk persoon, afschuwelijk, ellendig, beroerd, armzalig, vreselijk
 minaret             m, minaret
-minauder            poseren
+minauder            grijnslachen, meesmuilen, monkelen, zelfgenoegzaam glimlachen, poseren
 mince               dun, mager, slank, tenger
 mine                f, mijn, blik, expressie, gelaat, uitdrukking, staat, allure, confort, houding, gezicht, look
 miner, mina         ondergraven, ondermijnen, uithollen, tornen, mijnen leggen, saboteren
@@ -9757,6 +9758,7 @@ muscle              m, spier
 musculeuse          gespierd
 museau              m, snoet, snuit, bek
 museler             muilkorveen
+muselière           f, muilband, muilkorf, mop, vuurmond
 musette             f, danswijsje
 musicien            m, muzikant
 musique             f, muziek
@@ -10167,6 +10169,7 @@ obséquieux          onderdanig, flikflooiend
 obtempérer          obéir, gehoorzamen
 obtention           f, bemachtiging, bezitneming, toe-eigening
 obturer             vullen, afsluiten, dichtmaken, dichtdoen
+obturateur          m, sluiter (camera)
 obtus               bot, stomp
 obusier             m, mortier, houwitser
 obèse               dik, corpulent, vetzuchtig
@@ -10829,7 +10832,7 @@ perpétuelle         aanhoudend, eeuwig, eeuwigdurend, eindeloos, oneindig, leve
 perpétuer           bestendigen, vereeuwigen
 perquisitionner     zoeken, explorer, doorzoeken
 perron              m, trap, toegangstrap tot een huis
-perroquet           m, papegaai
+perroquet           m, papegaai; chose qu'on élève, dresse, fait aller vers le haut
 perruche            f, grasparkiet, parkiet, naprater
 perruque            f, pruik
 persienne           f, zonneblind, ventilatiekoepel
@@ -10985,6 +10988,7 @@ pin                 m, den, denneboom
 pin parasol         m, boom, parasol-den
 pinacle             m, torenspits
 pinasse             f, bateau et navire, barque utilisée sur les cours d'eau
+pince               f, tang, nijptang, wasknijper, knijper
 pince-nez           m, knijpbril, lorgnet, neusknijper
 pince-sans-rire     uitdrukkingsloos, droog
 pinceau             m, borstel, penseel
@@ -12116,6 +12120,7 @@ raisonnable         redelijk, verstandig
 raisonnement        m, argumentatie, gedachtengang, redenatie, redenering
 raisonner           beredeneren, argumenteren, nadenken
 rajeunir            verjongen
+rajuster            rajustement, mettre qqch dans un certain état
 rajout              m, wat toegevoegd wordt, toevoeging
 ralentissement      m, vertraging
 rallier             bijeenroepen, optrommelen, verzamelen, zich verzamelen
@@ -12424,8 +12429,7 @@ renchérir           duurder worden, hoger bieden op een veiling
 renchérissement     m, inflatie, het duurder worden
 rencogner           schuiven, opdringen, verdringen, wegduwen, voortdrijven, voortbewegen
 rencoigne           in de hoek drummen? klein maken?
-rencontre           f, samenkomst, competitie, concurrentie, tegemoet komen
-rencontres          f, ontmoeting, overleg
+rencontre           f, samenkomst, competitie, concurrentie, tegemoet komen, ontmoeting, overleg
 rendormir           opnieuw slapen
 rendre compte       rekeningschap afleggen, verslag uitbrengen
 rendre jugement     oordelen
@@ -13643,6 +13647,7 @@ simulacre           m, simulatie, doen alsof, travestie, mock
 simultanéité        f, gelijktijdigheid
 simultanéité        f, gelijktijdighheid, samenloop, coïncidentie, overeenstemming, samenvallen, toeval
 sincérité           f, oprechtheid, eerlijkheid
+sincère             eerlijk, hartelijk, openhartig, oprecht
 singe               m, aap
 singer, singeais    naapen, imiteren
 singulariser        zich onderscheiden van
@@ -14170,6 +14175,7 @@ sépulture           f, begrafenis
 séquelle            f, bijwerkingen na ziekte
 séquelles           f, effect, gevolgen, voortvloeisels
 séquestration       f, kidnapping, ontvoering, gevangenschap, arrestatie
+séquestrer          mettre dans un espace où l'on enferme, lieu, espace clos où l'on enferme des humains
 série               f, serie, reeks
 sérieux             m, sérieux, ernst
 sérum               m, serum
@@ -15786,7 +15792,7 @@ zézayer             lispelen, slissen
 échafaud            m, schavot, steiger, stelling
 échafaudage         m, steiger, stellage, stelling
 échancrure          f, bocht, inham, verdunning, ouverture, espace libre ou vide
-échancré            décolleté, ouvert
+échancré            décolleté, ouvert, couper, ouvrir
 échange             m, uitwisseling, inruilen, ruilen, omwisselen
 échanger des coups de chapeau    raising the hat
 échangeur           m, klaverblad, knooppunt, verkeerswisselaar
@@ -16101,7 +16107,7 @@ zézayer             lispelen, slissen
 épouvanté           gealarmeerd, schrik aangejaagd, geterroriseerd, horror, gruwel
 époux               m, echtgenoot
 éprendre            tomber amoureux, aimer les choses, verlichten, omarmen
-épreuves            f, beproeving
+épreuve, épreuves   f, beproeving, test, proef
 épris               verliefd
 éprise              liefhebbend, verslingerd zijn aan
 éprouvant           veel vergend, zwaar
@@ -16337,4 +16343,9 @@ zézayer             lispelen, slissen
 œuf brouillé        roerei
 œuvre               f, werk, compositie, opus, stuk, toonzetting
 œuvrer              werken, agir, travailler
-=== Le Clézio --- Poisson d'or --- pag. 61 bovenaan --- ===
+shi-tzu             m, kleine hond, shi-tzu
+cache-sexe          m, tangaslipje
+fiancer             verloven, zich verloven met
+sucrier             m, suikerpot
+buanderie           f, lieu où l'on lave du linge
+=== Le Clézio --- Poisson d'or --- pag. 74 bovenaan --- ===
