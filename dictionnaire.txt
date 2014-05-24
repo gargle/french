@@ -1086,10 +1086,9 @@ attenter            commettre un attentat
 attention           f, aandacht
 attentionné         attent, voorkomend
 attentivement       met aandacht, aandachtig
-atterrer            onthutsen
+atterrer, atterré   onthutsen, ontsteld, ontzet, van slag, van streek
 atterrir, atterrissaient        landen, belanden
 atterrissage        m, landing
-atterré             ontsteld, ontzet, van slag, van streek
 attestable          bewijsbaar
 attester            aantonen, bewijzen, getuigen, hardmaken, staven
 attifer             toetakelen, kleden, uitdossen
@@ -1588,6 +1587,7 @@ barrir              trompetten, trompetteren
 barrissement        m, trompetgeschreeuw
 barrière            f, afsluiting, heining, versperring, sluitboom
 barré               gestreept
+du bas              beneden, naar beneden, laagst gelegen
 bas                 laag
 bas                 m, kous, bodystocking
 bas de laine        wollen sokken
@@ -3197,7 +3197,7 @@ cohorte             f, menigte, schare, cohorte
 cohue               f, bombarie, drukte, gedoe, gedrang, gedruis
 coi                 tranquille et silencieux
 coiffe              f, hoed, hoofddeksel
-coiffer, coiffé     kappen, haar opmaken
+coiffer, coiffé     kappen, haar opmaken, objet couvrant la tête
 coiffeur            m, kapper, coiffeur
 coiffeuse           f, dressing-table
 coiffure            f, coupe, haardracht, hoofdtooi, kapsel
@@ -5477,7 +5477,7 @@ en déroute          op de vlucht
 en effet            precies, beslist, dat... ook, inderdaad, met zekerheid, vertrouwd, zeker
 en entier           in zijn geheel, helemaal, volledig
 en face de          tegenover
-en faction          op plicht
+en faction          op plicht, on duty
 en faire accroire   iemand voor het lapje houden
 en faire autant     hetzelfde doen
 en faire pour son compte        eraan voor zijn moeite?
@@ -5587,7 +5587,7 @@ en tas              hoop, in hopen
 en tas de loin en loin      verzamelen op de lange... ?
 en taule            in de gevangenis
 en tort             verkeerd, in fout zijn
-en tourbillonnant               like a whirlwind
+en tourbillonnant               like a whirlwind, wervelend
 en tous cas         in alle gevallen, in elk geval
 en tous points      in alle opzichten
 en tout cas         in elk geval, in ieder geval, toch, in any case
@@ -6121,7 +6121,7 @@ facilité            f, gebruiksgemak, aanleg, gemak, talent, gemakkelijkheid
 faciès              m, aangezicht, tronie, bovenkamer
 facteur             m, faktor, bestanddeel, besteller, postbode
 factice             onecht, nagemaakt, loos, blind
-faction, être de faction    de wacht houden, op wacht staan, wachtlopen
+faction, être de faction    de wacht houden, op wacht staan, wachtlopen, on duty
 factionnaire        m, schildwacht
 factuelle           daadwerkelijk, doeltreffend, effectief
 facture             f, aanrekening, rekening, factuur
@@ -10010,8 +10010,7 @@ nez                 m, neus
 niais               m, dom, onnozel, stom, stompzinnig, stupide
 niaiserie           f, flauwiteit, onzinnigheid, waanzin, zinneloosheid
 niche               f, alkoof, hondenhok, nis
-nicher              flaneren, slenteren, slapen, ophangen, nestelen
-nichée              nestelen
+nicher, nichée      flaneren, slenteren, slapen, ophangen, nestelen
 nickels             nikkel (delfstof)
 nickelé             vernikkelen
 nid                 m, nest
@@ -10666,7 +10665,7 @@ passer en fraude    smokkelen
 passer la veille    de dag doorbrengen
 passer à gué        doorwaden, waden, waden door
 passerelle          f, brug, commandobrug
-passeur             m, smokkelaar
+passeur             m, smokkelaar, veerman, pontwachter, traverser (un lieu, un obstacle)
 passion             f, passie, lijdensgeschiedenis, lijdensverhaal
 passionnément       dwepend, gepassionneerd
 passé               m, het verleden
@@ -12383,7 +12382,7 @@ reliure             f, band, boekband
 reluisaient reluire fonkelen, glanzen, glimmen
 reluisante          glimmend
 relâche             f, rustplaats, stop, verslappen, verlossen, tussenlanding, laksheid
-relâcher            laten gaan
+relâcher            laten gaan, losmaken, bevrijden, verlossen
 relève              f, vervanging, aflossing?
 relève, se relever  overnemen, overeind krabbelen, staan onder, vallen onder, weer rechtzetten, er overheen komen
 reléguer            barricaderen, declasseren, in rang verlagen, terugzetten
@@ -13174,6 +13173,7 @@ sanctifié           heilig, zalig
 sanction            f, afstraffing, bestraffing, boete, geldboete, repressie
 sanctuaire          m, heiligdom, schrijn
 sandale             f, sandaal
+sandalette          f, équipement destiné à couvrir le pied
 sandwich            m, sandwich
 sang                m, bloed
 sang-froid          m, kalmte, wilskracht, koelbloedigheid, zelfkontrole
@@ -13354,6 +13354,7 @@ se châtrent         castreren
 se cogner           botsen tegen, stoten
 se coller           rusten tegen, vleien tegen
 se consoler         troosten, vertroosten
+consoler            vertroosten, troosten, geruststellen
 se couler           vloeien, stromen
 se dispenser        onderwijzen, enseigner qqch à qqn
 se dominer          zich bedwingen, zich beheersen, zich in bedwang houden
@@ -16348,4 +16349,5 @@ cache-sexe          m, tangaslipje
 fiancer             verloven, zich verloven met
 sucrier             m, suikerpot
 buanderie           f, lieu où l'on lave du linge
-=== Le Clézio --- Poisson d'or --- pag. 74 bovenaan --- ===
+douar               m, habitation précaire ou provisoire - noodwoning
+=== Le Clézio --- Poisson d'or --- pag. 78 onderaan --- ===
