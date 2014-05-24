@@ -694,7 +694,7 @@ anomalie            f, anomalie, afwijking, afdwaling, defect, fout, gebrek
 anonymat            m, anonimiteit, naamloosheid
 anorak              m, anorak, windjack, parka
 anormal             m, abnormale, rare
-anse                f, alkoof, baai, bocht
+anse                f, alkoof, baai, bocht, handvat
 antagonisme         m, animositeit, conflict, vijandigheid, vijandschap
 antagoniste         m, tegenpartij
 antenne             f, antenne
@@ -3413,7 +3413,7 @@ confession          f, getuigenis, biecht
 confiance           f, vertrouwen
 confidence          f, ontboezeming, intimiteit, vertrouwelijke mededeling
 confident           m, intimus, vertrouweling
-confier             toevertrouwen, verstrekken, vertrouwen
+confier, confié     toevertrouwen, verstrekken, vertrouwen
 confin              aux confins = grenzen
 confins             m, grens
 confiné             nauw, opgesloten, vastzittend in
@@ -6333,7 +6333,7 @@ femelle             f, vrouwtje
 femelles            vrouwtjes-...
 femme de ménage     f, schoonmaakster, kuisvrouw
 femme de ménage     f, werkvrouw, poetsvrouw, schoonmaakster
-fendre, fendue, fendant     doorbreken, doorsteken, klieven, splijten, afrukken, barsten, piercing
+fendre, fendue, fendant     doorbreken, doorsteken, klieven, splijten, afrukken, barsten, piercing, gespleten
 fenouil             m, venkel
 fente               f, scheur, sleuf, spleet, kier, doorbraak, breuk
 fenêtre             f, venster
@@ -8820,6 +8820,7 @@ lin                 m, linnen
 lin                 m, vlas
 linceul             m, doodskleed, lijkwade, lijkkleed
 linge               m, linnen, linnengoed, strijkgoed, witte was, ondergoed, lijfgoed, onderkleding
+gros linge          m, strijkgoed, kledingstuk
 linguatule          f, soort wormpje?
 linoléum            m, linoleum, zeil
 linos               m, tapijt, kleed, vloerkleed
@@ -9803,7 +9804,6 @@ mécanique des solides  f, mechanica van vaste lichamen
 mécanisme           m, mechaniek, mechanisme, werking
 méchamment          boosaardig, gemeen, kwaadaardig
 méchanceté          f, wreedheid, gemeenheid, baldadigheid, venijnigheid
-méchanceté          gemeenheid, venijnigheid
 méchants            m, boosaardigen, onaardigen
 méchoui             m, mouton entier rôti à la broche, sur la braise.
 méconnaissable      niet te herkennen, onherkenbaar
@@ -10575,15 +10575,12 @@ pareille            eender, gelijksoortig, gelijk, zulk
 pareillement        even, idem, van het zelfde, eveneens, evenzo
 pareils             zulk, gelijksoortig, soortgelijk, gelijke
 parement            m, galakleding
-parent              m, verwant
-parent              verwant
 parenthèse          f, tussenzin
 parenthèse ludique  speels intermezzo
 parents             m, verwanten, bloedverwanten
 parenté             f, verwantschap, overeenkomst, gelijkenis
 parenté             verwant, bloedverwant, familie
-parer               afwenden, afweren
-parer               opsmukken, opluisteren, opsieren
+parer               afwenden, afweren, opsmukken, opluisteren, opsieren
 paresse             f, luiheid, gemakzucht, traagheid
 paresser            lanterfanten, luilakken, niksen, luiheid
 paresseusement      langzaam, lui, traag
@@ -14446,6 +14443,7 @@ thym                m, tijm (kruid)
 thymos              m, behoefte aan erkenning, trots
 thème               m, thema, thematiek, onderwerp
 thèse               f, thesis, proefschrift, dissertatie, stelling
+thé                 m, thee, thé
 thébaïde            f, kluis (kluizenaar) 
 théiste             theïst, croyance, m., gelovige, croyant en une religion
 théière             f, theekan, theepot
@@ -16350,4 +16348,9 @@ fiancer             verloven, zich verloven met
 sucrier             m, suikerpot
 buanderie           f, lieu où l'on lave du linge
 douar               m, habitation précaire ou provisoire - noodwoning
-=== Le Clézio --- Poisson d'or --- pag. 78 onderaan --- ===
+diabète             m, zuikerziekte, diabetes, suiker
+gangrenée           koudvuur, gangreen, versterf, afsterving
+gangrène            f, koudvuur, gangreen, afsterving
+cataplasme          m, pleister, kleefpleister, hechtpleister
+aggloméré           m, matériau de construction, handwerk, matériau utilisé en maçonnerie
+=== Le Clézio --- Poisson d'or --- pag. 81 bovenaan --- ===
