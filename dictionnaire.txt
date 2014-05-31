@@ -2153,7 +2153,7 @@ bru                 f, schoondochter
 bruine              f, motregen, stofregen
 bruire              ritselen, ruisen
 bruissement         m, gefluister, geritsel, geruis, muzzy
-bruisser, bruissant ritselen, ruisen, muzzy
+bruisser, bruissant ritselen, ruisen, muzzy, kabaal maken, qui produit un (des) son(s)
 bruit de pas        m, voetstap
 bruit mat           m, dof geluid
 bruits de crécelle  ratelend geluid
@@ -2422,7 +2422,7 @@ camp                m, het kamp, bivak, zomerkamp, vakantiekamp
 campagnard          m, boer, kinkel, pummel, plattelandsbewoner
 campagne            f, land, platteland, veldtocht, campagne, kruistocht
 campagnes           f, landschap
-campement           m, kamping, kampement
+campement           m, kamping, kampement, tentenkamp, bivak
 camphrée            kamfer
 campé, camper       bivakeren, kamperen, legeren, situé, placé
 camé                m, drugaddict, junkie
@@ -3836,7 +3836,7 @@ couscous            m, couscous
 cousin              m, neef
 coussin             m, kussen, zitkussen
 coussinet           m, kussentjes
-cousue, coudre, cousaient       dichtnaaien, naaien, beleggen, vastzetten
+cousue, coudre, cousaient       dichtnaaien, naaien, beleggen, vastzetten, vastmaken
 couteau             m, hakmes, lemmet, mes
 couteau à palette   m, paletmes
 coutil              m, katoenstof
@@ -6876,7 +6876,7 @@ fâcheux, fâcheuse   ongelukkig, sneu
 fâché               kwaad, boos, bezorgd, nijdig, geïrriteerd, geërgerd, op de tenen getrapt, strijdbaar, strijdig
 fève                f, tuinboon, boon
 fébrile             hectisch, koortsig, razend
-fébrilement         ongedurig, onrustig, rusteloos
+fébrilement         ongedurig, onrustig, rusteloos, koortsig
 fébrilité           f, koort, koortstoestand
 fécondation         f, bevruchting, conceptie, impregnatie, fertilisatie
 féconde             vruchtbaar
@@ -6933,9 +6933,8 @@ galets              m, kei, kiezel
 galette             f, contant geld, kleingeld, wisselgeld, beschuitbol
 galeuse             sjofel, schurftig, wanboel, smerig, vuilheid
 galimatias          m, absurde procedure, klinkklare onzin, koeterwaals, nonsens, onzin, wartaal
-galon               m, mouwstreep, streep (militair)
 galonner            afzetten, omboorden
-galons              m, vêtement militaire, strepen (uniform)
+galon, galons       m, vêtement militaire, mouwstreep, strepen (uniform)
 galop               m, galop
 galoper             galopperen, snel lopen
 galopins            m, schooier
@@ -7589,7 +7588,7 @@ honoraire           eervol, ere-, honorair, onbezoldigd, rustend
 honte               f, plichtbesef, schande, schaamte
 hoquet, hoquets     m, hik, snik
 horde               f, zwerm, horde
-horizon             m, grens, limiet aan een ruimte
+horizon             m, grens, limiet aan een ruimte, horizon, einder, kim
 hormis              behalve, buiten de ... gerekend
 horreur             f, afgrijzen, afschuw, horror
 hors d'atteinte     buiten bereik
@@ -12796,7 +12795,7 @@ rudiment            m, oerbeginsel, rudiment
 rue piétonnière     f, voetgangersstraat, wandelweg
 ruelle              f, doorgang, dreef, kattegat, laantje, steeg, straatje, weg
 ruer                bokken, schokken, liften
-rugir, rugissait    beren, briesen, brullen, bulderen
+rugir, rugissait, rugissant           beren, briesen, brullen, bulderen, qui produit un bruit
 rugissement         m, gebrul, geloei
 rugosité            f, ruigheid, ruwheid, taaiheid
 rugueux, rugueuse   grof, ruw, schurend
@@ -14329,7 +14328,6 @@ teinte              f, tint, hue
 teinter, teintèrent kleuren, tinten
 teints              gekleurd, getint
 teinture            f, kleursel, kleurstof, verfstof
-teinturerie         f, ververij
 teinturière         m, stoffenverver, verver
 tekteks             ?
 tel                 zulk
@@ -16353,4 +16351,10 @@ gangrenée           koudvuur, gangreen, versterf, afsterving
 gangrène            f, koudvuur, gangreen, afsterving
 cataplasme          m, pleister, kleefpleister, hechtpleister
 aggloméré           m, matériau de construction, handwerk, matériau utilisé en maçonnerie
-=== Le Clézio --- Poisson d'or --- pag. 81 bovenaan --- ===
+teinturerie         f, middenstandster, winkelhouder/houdster, lieu de travail
+zoologie            f, dierkunde, zoölogie
+fer                 m, ijzer, strijkijzer
+prête à tout        klaar voor alles
+taper dans l'œil    immédiatement être séduite
+opulent             weelderig
+=== Le Clézio --- Poisson d'or --- pag. 88 bovenaan --- ===
