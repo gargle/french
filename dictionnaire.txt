@@ -4365,6 +4365,7 @@ devis               m, kostenraming, prijsopgaaf, prijsopgave
 devise              f, spreuk, wapenspreuk, leus
 devises             f, zinspreuk, slagzin, slogan, spreuk
 devoir              danken aan
+devoir              m, huiswerk, taak, chose à faire, destinée à être faite
 devoir              m, druk, plicht, belasting, drang, taak
 dextérité           bedrevenheid
 dextérité           f, bedrevenheid, handigheid
@@ -4770,6 +4771,7 @@ déclic              m, klik, ratel, ratelaar, geratel, début, aanvang
 déclin              m, achteruitgang, eindfase, neergang, ondergang
 déclinant, déclinante  afnemend
 décliner            bezorgen, brengen, verbuigen, afglijden, luwen, vervlakken, verbuigen,
+déclinaison         f, woordbuiging, declinatie, vervoeging, uitgang
 décocha             lanceren, afschieten
 décoction           f, afkooksel, kooknat
 décoiffer           overhoop halen, zijn hoed afzetten
@@ -16023,6 +16025,7 @@ zézayer             lispelen, slissen
 énergumènes         opgewonden persoon
 énervement          m, heethoofdigheid, lichtgeraaktheid
 énigmatique         raadselachtig
+énigmatiquement     raadselachtig, enigmatisch
 énigme              f, raadsel, probleemgeval, mysterie
 énivrer             bedrinken, bedwelmen, dronken maken
 énoncer             exprimer par la parole ou par écrit
@@ -16357,4 +16360,8 @@ fer                 m, ijzer, strijkijzer
 prête à tout        klaar voor alles
 taper dans l'œil    immédiatement être séduite
 opulent             weelderig
-=== Le Clézio --- Poisson d'or --- pag. 88 bovenaan --- ===
+services culturels  m, culturele dienst
+frisotter, frisotté kroezen, friseren, kroezelen, krullen, onduleren, opkrullen, unduleren
+prendre à l'essai   op proef nemen?
+hors du commun      étonnant, wonderbaarlijk
+=== Le Clézio --- Poisson d'or --- pag. 90 onderaan --- ===
