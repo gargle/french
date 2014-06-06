@@ -1988,6 +1988,7 @@ bourricot           m, ezel
 bourru              dreigend, grof, korzelig
 bourré, bourrer     vullen, opvullen, vulsel
 bourse              f, beurs, geldbuidel, geldzak
+bourse d'études     f, studiebeurs, studietoelage, beurs
 boursier            m, beursstudent
 boursouflure        f, opgeblazendheid
 boursouflé          opgeblazen, opgezwollen
@@ -3336,6 +3337,7 @@ composer            een schikking treffen, stileren, toonzetten, componeren
 composition         f, samenstelling, combinatie, opstel (schrijven)
 composés            m, samenstelling
 comprendre          begrijpen, assimileren, bekijken, snappen
+comprendre à ma vie      mij leven begrijpen
 comprendre à demi-mot    de hint begrijpen
 compresseur         m, luchtpompt, compressor
 comprimer           ineenkrimpen, (samen)persen
@@ -16364,4 +16366,6 @@ services culturels  m, culturele dienst
 frisotter, frisotté kroezen, friseren, kroezelen, krullen, onduleren, opkrullen, unduleren
 prendre à l'essai   op proef nemen?
 hors du commun      étonnant, wonderbaarlijk
-=== Le Clézio --- Poisson d'or --- pag. 90 onderaan --- ===
+sbire               m, handlanger, soldaat
+monopole            m, monopolie
+=== Le Clézio --- Poisson d'or --- pag. 93 midden --- ===
