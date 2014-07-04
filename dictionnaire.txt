@@ -439,8 +439,7 @@ ailleurs            elders, ergens anders, op een andere plaats
 ailées              gevleugeld
 aimant              m, magneet, aantrekkingskracht
 aimanté             magnetiseren, liefdevol
-aine                f, lenden, buik
-aine                f, lies
+aine                f, lenden, buik, lies
 ainsi de suite      en zo voort
 air                 m, deuntje, tune, wijs, lucht, stemming, gezichtsuitdrukking
 air abruti          m, afgestopte gezichtuitdrukking
@@ -845,7 +844,6 @@ arabe               m, Arabisch
 arabisant           arabist
 arable              akkerbaar, ploegbaar
 arachide            f, aardnoot, apennootje, pindanoot
-araignée            f, spin
 araignée, araignées f, spin, spinnen
 araucaria           m, soort boom
 arbitraire          eigenmachtig, willekeurig, m. onbillijkheid, onrecht, willekeur, eigengerechtigheid
@@ -3573,6 +3571,7 @@ contre-jour         m, tegenlicht
 contre-plaque       m, staanijzer, plaathout
 contre-plongée      f, visperspectief
 contrebandier       m, smokkelaar
+contrebande         f, smokkelarij, smokkelwaar, smokkelhandel, sluikhandel, sluikinvoer, sluikgoed, smokkelgoed
 contrecarrer        dwarsbomen, tegenwerken, doorkruisen
 contrecœur          gereserveerd, ongaarne, tegen wil en dank, reluctantly
 contredire          tegenspreken, uitdagen, zich verzetten tegen
@@ -5193,7 +5192,7 @@ déterrer            opbreken, aan het licht brengen, delven, graven, opgraven
 détonation          f, barst, eruptie, knal, ontploffing, uitbarsting
 détonation          f, ontploffing
 détoner, détonait   afgaan, ontploffen, een geluid maken
-détour              m, omweg
+détour              m, omweg, omleiding, bocht
 détournement de     m, gijzeling, kaping, verduistering, ontvreemding
 détourner           de pas afsnijden, krombuigen, afdraaien, de rug toekeren
 détours             onoprechtheid
@@ -7297,7 +7296,7 @@ grièvement          serieus
 grognement          m, gegrom, gemor, geknor
 grogner             grommeler, knorren
 grognon             boos, chagrijnig, dreigend, duister, nors
-grommelaient        grommeler
+grommeler, grommelaient   grommen, zeuren, brommen, klagen, knorren, mopperen
 grondante           bedreigend, dreigend
 gronde              aanmanen, aansporen, manen, roffelen
 grondement          m, kabaal, gebulder, gedaver, gedreun
@@ -8011,6 +8010,7 @@ indécision          f, besluiteloosheid, onzekerheid
 indécomposable      irreducible, qui est dans un état d'unité - de pluralité
 indéfectible        solide, eeuwig, onsterfelijk
 indéfinie           ongedefinieerd, onbegrensd, onbepaald
+indéfiniment        onbegrensd, indéfini, indéterminé, infini, de façon durable
 indélicat           gedachteloos, ondoordacht, onnadenkend
 indélébile          onuitwisbaar
 indéniablement      duidelijk, evident, onbetwistbaar, onmiskenbaar
@@ -8456,7 +8456,7 @@ jeter des sorts     casts spells
 jeter les bases     déterminer par une définition, grondslagen, de basis leggen
 jeter sa main en l'air       shoot his hand in the air
 jeter à corps perdu faire en sorte de, dapper, gedurfd, gewaagd, stoutmoedig
-jeteur de sort      m, magicien
+jeteur de sort, jeteuse de sort    m, f, magicien
 jeté en flèche aveugle blindelings gegooid?
 jetée               f, havendam, golfbreker, pier
 jeu                 m, spel
@@ -9629,6 +9629,7 @@ montré              laten zien, tonen, uitdrukken
 monture             f, rijdier, rijpaard
 montée              f, aanwas, increment, vermeerdering, klim, klimpartij
 moquer              zich niet bekommeren om, zich niets aantrekken van, spotten
+moqueuse            spottend, honend
 moquette            f, tapijt, vaste vloerbedekking
 moral, moraux       m, luim, stemming, geestesgesteldheid, bui, dispositie
 morale              f, etisch, filosofie, levensbeschouwing
@@ -12156,8 +12157,8 @@ randonnées          f, wandeling, trektocht
 rang                m, graad, rang, rij, standplaats, gelid
 rang d'oignons      'uienrang'?
 rangement           m, inrichting, in orde brengen
-ranger              recht zetten, schikken, opstellen, ordenen, bewaren
-ranger              wegzetten
+ranger              recht zetten, schikken, opstellen, ordenen, bewaren, wegzetten
+se ranger           rangeren
 rangée              f, gelid, haag, rij, reeks, gelid
 ranimer             weer bijbrengen
 rançon              f, afkoopsom, bescherming, losgeld
@@ -14539,6 +14540,7 @@ tombeau, tombeaux   m, graftombe, grafkamer, mausoleum
 tomber assis        gaan zitten
 tomber des nues     uit de wolken gevallen
 tomber en cascade   neerplenzen, ploffen
+cascader            couler (pour un cours d'eau)
 tomber raide        collapse
 tomber à la renverse    achterovervallen, omstorten, omvallen
 tombereaux          m, vuilniswagen, stortkar
@@ -16368,4 +16370,7 @@ prendre à l'essai   op proef nemen?
 hors du commun      étonnant, wonderbaarlijk
 sbire               m, handlanger, soldaat
 monopole            m, monopolie
-=== Le Clézio --- Poisson d'or --- pag. 93 midden --- ===
+majeure             f, meerderjarig, volwannen
+douane              f, douane, grenswacht, douanepost
+bout du monde       m, einde van de wereld
+=== Le Clézio --- Poisson d'or --- pag. 101 bovenaan --- ===
