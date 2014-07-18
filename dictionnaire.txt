@@ -1123,7 +1123,6 @@ au bout d'un instant    na een moment, a moment later, after a moment
 au bout d'un moment     na een tijdje, na verloop van tijd
 au bout de          na verloop van
 au bout de la compte    op't einde van de rit
-au bout du compte   per slot van rekening
 au bout du compte   per slot van rekening, immers
 au bout du fil      aan de andere kant van de lijn
 au bout du pâté     aan het einde van het blok
@@ -5390,8 +5389,7 @@ empire              m, bestuur, empire, rijk, wereldrijk
 empiriquement       empirisch
 empiéter            inbreuk maken op, overtreden, schenden
 emplacement         m, plaats, lokatie, oord, oriëntatie, ruimte, plek
-emplir              beslaan, vullen, bezetten, volschenken, vol gieten, vol maken
-emplissez           vullen
+emplir, emplissez   beslaan, vullen, bezetten, volschenken, vol gieten, vol maken
 emploi              m, gebruik, gebruikmaking, utilisatie
 employé             m, werknemers
 emplâtre            stomp, vuistslag, plaaster
@@ -8404,6 +8402,7 @@ jadis               eens, eerder, vroeger
 jaillir             gulpen, gutsen, ontspringen, oogsten, opspatten, verspuiten, opwellen
 jaillissait         jaillir = ontspringen, spuiten, opwellen
 jais                m, gitzwart, roetig, git, koolzwart
+noir de jais        gitzwart, roetkleurig
 jalons              m, baken, boei, mijlpaal, objet destiné à avertir
 jalopnner            afbakenen, afgrenzen, afperken, afzetten, afbakenen, marquage - markering 
 jalouser            benijden, misgunnen
@@ -8475,7 +8474,7 @@ joliment            mooi
 jonc                m, bies, riet, rietstok, rotan
 joncher             bezaaien
 jonché              bestrooid, bedekt, bezaaid
-jonction            f, aankoppeling, samenkomst, kruispunt, kruising, samenvloeiing
+jonction            f, aankoppeling, samenkomst, kruispunt, kruising, samenvloeiing, wissel (treinsporen)
 jongleur            m, jongleur
 jonque              f, jonk, zeilvaartuig, zeilboot
 jonquilles          f, soort bloem, gelig
@@ -11756,7 +11755,7 @@ président           m, président, voorzitter
 présider            presederen, voorzitten
 présomptif          voorbestemd
 présomption         f, veronderstelling, instict
-présomptueuse       verwaand
+présomptueuse, présomptueux              verwaand
 présumé             verondersteld, inbeelden
 présupposer         veronderstellen, vooropstellen, vooronderstellen
 préséance           f, prioriteit, voorrang
@@ -13786,7 +13785,7 @@ soudé               aan elkaar gegroeid, aan elkaar gelast, dichtgegroeid, verg
 souffle             m, adem, ademtoch, windstoot
 souffle caillouteux steenachtige adem
 souffler            op adem komen, uitblazen, verklappen, blazen, wegblazen, zuchten
-soufflet            m, filmdroger, blaasbalg, slap in the face, oorveeg
+soufflet            m, filmdroger, blaasbalg, slap in the face, oorveeg, koppeling tussen wagons
 soufflé             blazen, wegblazen, puffy
 souffrance          f, kwaad, leed, lijden, nood, pijn, zeer
 souffre-douleur     m, werkezel
@@ -14313,7 +14312,7 @@ tatouage            m, tatouage
 taudis              m, kot, krot, krotwoning, zeemanslied
 taupe               f, mol
 taupinière          f, molshoop
-taureaux            m, stieren
+taureau, taureaux   m, stier, stieren
 taurillon           m, jonge stier
 taux                m, aantal, discontovoet, discontopercentage
 taux de remplissage m, fill rate
@@ -15081,6 +15080,7 @@ vampire             m, vampier
 vanille             f, vanille
 vanilliers          m, vanille, vanille-boom
 vanité              f, eigenliefde, verwaandheid
+vaniteux            ijdel, verwaand, nietig
 vanner, vanné       versleten, plagen, zeven, ziften?
 vannerie            f, netwerk, vlechtwerkt
 vannes              f, buitendeur, sasdeur, schutdeur, sluisdeur, vloeddeur
@@ -16374,4 +16374,8 @@ majeure             f, meerderjarig, volwannen
 douane              f, douane, grenswacht, douanepost
 bout du monde       m, einde van de wereld
 Espagne             Spanje
-=== Le Clézio --- Poisson d'or --- pag. 104 bovenaan --- ===
+déhanché            schuifelen, slijpen, slowen, buikschuiven
+fonara              m, hijab, sluier
+incisive            f, voortand, snijtand
+bique               f, geit, bok, oude ooi
+=== Le Clézio --- Poisson d'or --- pag. 113 bovenaan --- ===
