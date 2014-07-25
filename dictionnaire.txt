@@ -2500,7 +2500,7 @@ capotes             f, afzuigkap, condoom, dak (wagen)
 caprices            m, willekeurigheid, wispelturigheid, impuls, luim, bevlieging
 capricieux, capricieuse                 grillig, temperamentvol, wispelturig
 capsule             f, afsluitdop, sluitdop, dop, capsule, kapsel
-capter              opvangen, verstaan, grijpen
+capter, capté       opvangen, verstaan, grijpen
 capteur             m, detector, sensor, ccd
 captivant           aangrijpend, boeiend, fascinerend, pakkend
 captive             bekoren, boeien, geboeid
@@ -5768,7 +5768,7 @@ enrouer             schor maken
 enrouler            omhullen, omsluieren, strengelen
 enroulé             opgerold, gerold (zoals sigaretten)
 enrouée             hees, schor
-enrubannées         beribonned
+enrubannées         beribonned, pourvoir d'ornements ou d'accessoires
 enrôler             dienst nemen
 ensabler            begraven, verzanden
 ensanglanter        purper kleuren, doden, bloedend?
@@ -12721,7 +12721,7 @@ ronron              m, gespin
 ronronnement        m, gespin, gesnor, geraas, gegons
 ronronner           snorren, razen, gonzen, spinnen
 roquets             pugs, soort hond
-rose                f, roos
+rose                f, roos 
 roseau              m, riet, flûte de roseau
 rosicrucienne       f, rozenkruisers?
 rosier              m, rozenstruik
@@ -16378,4 +16378,4 @@ déhanché            schuifelen, slijpen, slowen, buikschuiven
 fonara              m, hijab, sluier
 incisive            f, voortand, snijtand
 bique               f, geit, bok, oude ooi
-=== Le Clézio --- Poisson d'or --- pag. 113 bovenaan --- ===
+=== Le Clézio --- Poisson d'or --- pag. 115 bovenaan --- ===
