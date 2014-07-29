@@ -302,6 +302,7 @@ adulé               cher, adorer, flatter, vereerd
 advenir             afspelen, gebeuren, geschieden, overkomen, passeren, voordoen
 adventice           qui vient en plus, ne fait pas partie du corps d'une chose, secondaire, accessoire
 adversaire          m, concurrent, tegenstander, tegenstrever
+anniversaire        m, verjaardag
 adverse             van de tegenstander
 adversité           f, tegenspoed
 advienne que pourra inch Allah
@@ -2165,8 +2166,7 @@ brusquement         abrupt, plots, plotseling, suddenly
 brusquerie          f, bitsheid, boosheid, botheid, bruuskheid, schorheid, slecht humeur
 brutal              barbaars, beestachtig, bot, bruut, grof
 brute               f, bruut, ondeskundige, agressieveling, grof, onbewerkt, crude
-bruyamment          lawaaierig, luid, luidruchtig
-bruyante            lawaaierig, luidruchtig
+bruyante, bruyamment   lawaaierig, luid, luidruchtig
 brèche              f, breuk, open plek
 brèdes              eetbare bladeren?
 brèf, brève         bondig, kort, beknopt
@@ -3014,9 +3014,8 @@ cigarette sur cigarette sigaret na sigaret
 cigarillo           m, cigarillo
 cigogne             f, ooievaar
 ciguë               f, dollekervel
-cil                 m, ooghaar, oogwimper
+cil, cils           m, ooghaar, oogwimper, wimper
 ciller              knipperen met de ogen, blinken
-cils                m, wimper
 cimaise             f, wandbekleding
 cime, cimes         f, top, tip, treetops
 ciment              m, cement
@@ -5626,7 +5625,7 @@ encanailler         perverteren
 encastré            ingebouwd, ineendrukken, inpersen, samenpersen
 encaustiquant       vernissen, glaceren
 enceinte            in verwachting, zwanger, heining, luidspreker, speaker
-enceinte            mur d'enceinte de la ville = stadswal
+enceinte            f, mur d'enceinte de la ville = stadswal
 encens              m, wierook, wierookgeur
 encenser            bewieroken, beweging van een paard
 encensoir           m, wierookvat
@@ -5834,6 +5833,7 @@ entrelacement       m, netwerk
 entrelacer          ineenstrengelen, vergroeien, verstrengelen, doorweven
 entrelacs           m, interlacing, netwerking
 entremise, entremettre  zich inlaten met
+entremetteur        m, koppelaar
 entremêlement       m, désordre, ontreddering, verwarring, wanorde
 entremêler          samengaan, samensmelten, versmelten
 entrepont           m, scheepsdek, scheepsvloer, niveau d'un bâtiment (édifice, navire)
@@ -7040,7 +7040,7 @@ germe               m, kiem, microbe, virus, ziektekiem
 germer              opkomen, schieten, uitlopen, uitschieten
 germes              m, kiem, microbe, virus, ziektekiem
 germination         f, ontkieming
-gerçure             f, scheuren
+gerçure             f, scheuren, blessure, letsel, verwonding, wond, schil, schilletje, vel, huid, pel
 gestation           zwangerschap, dracht, drachttijd
 geste               m, geste, beweging, gebaar, lichaamstaal, handeling, daad, actie, verrichting
 gesticuler          gebaren maken
@@ -7102,6 +7102,7 @@ fermeture à glissière  f, ritssluiting
 globe               m, bol, aardbol, globe
 globes oculaires    m, oogbollen
 globule             m, bloedcel, bloedlichaampje
+globuleux           bolvormig, sferisch, kogelrond
 gloire              f, beroemdheid, verheerlijking, glorie
 glorieux            m, de glorieuze
 gloriole            f, ijdelheid
@@ -13083,7 +13084,6 @@ sac de couchage     m, slaapzak
 sac de plage        m, strandzak
 sac de voyage       m, reistas, valies, plunjezak, koffer
 sac à dos           m, rugzak
-sac à main          m, damestas, handtas
 sac à main          m, handtas, damestas
 sac-poubelle        m, vuilniszak
 saccade             f, ruk, hortend, bruuske beweging
@@ -13530,7 +13530,7 @@ semblant de dérision    schijn van spot
 sembler             overkomen, blijken, lijken, schijnen
 semelle             f, schoenzool
 semence             f, sperma, zaad
-semer, semé         zaaien, uitzaaien, rondzaaien
+semer, semé         zaaien, planten, uitzaaien, rondzaaien, insemineren, distancer, leave behind, lose, shake off
 semeur              m, zaaier, zaaimachine
 semi-remorque       m, oplegger, trailer, vrachtwagencombinatie
 semonce             f, berisping
@@ -14521,7 +14521,7 @@ toile bise          écru, beige
 toile cirée         f, tafelzeil, wasdoek
 toile à voile       f, zeildoek, canvas
 toiles d'araignée   f, spinnenwebben
-toilette            f, beddegoed, kleding
+toilette            f, beddegoed, kleding, wasgelegenheid
 toiser              regarder avec défi et mépris, look someone up and down
 toison d'orr        f, gulden vlies
 toison hérissée     f, stekelige fleeche, schapenvacht
@@ -14898,6 +14898,7 @@ turgescente         gezwollen
 turlupin            m, grapjas, personne farceuse ou qui plaisante
 tutelle             f, curatele, voogdij, voogdijschap
 tuteur              m, beheerder, privé-leraar, tutor, verzorger, voogd, guardians
+guadeloupéenne      f, Antilles Françaises - Franse Antillen - îles Vierges, Leeward Islands
 tutélaires          bescherm
 tuyau               m, buis, kanaal, slurf, slang, (uitlaat)pijp
 tuyaux d'arrosage   m, pijp om te besproeien
@@ -16378,4 +16379,6 @@ déhanché            schuifelen, slijpen, slowen, buikschuiven
 fonara              m, hijab, sluier
 incisive            f, voortand, snijtand
 bique               f, geit, bok, oude ooi
-=== Le Clézio --- Poisson d'or --- pag. 115 bovenaan --- ===
+créole              m, creools
+langue-violon       f, ?
+=== Le Clézio --- Poisson d'or --- pag. 123 bovenaan --- ===
