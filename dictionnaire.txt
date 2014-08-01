@@ -2160,6 +2160,7 @@ brume               f, brouillard = mist
 brumeux             mistig, nevelig
 brunch              m, brunch, laat ontbijt
 brunette            f, brunette
+brune               geelbruin, taankleurig, bruin, iets bruin
 brunâtre            gebruind
 brusque             abrupt, bits, bruusk
 brusquement         abrupt, plots, plotseling, suddenly
@@ -3552,7 +3553,7 @@ contradicteur       m, tegenstander
 contraindre, contraignait   afdwingen, inhouden, onder druk zetten, verplichten
 contrainte          f, compulsie, druk, inperking, pressie, forced
 contraire           m, tegenovergestelde
-contrarier          dwarszitten, insulteren, tormenteren
+contrarier          dwarszitten, insulteren, tormenteren, tegenwerken, beledigen
 contrarié           misnoegd, dwars zitten
 contrariété         ergernis, deceptie, verdriet, verergering, teleurstelling
 contrariété         f, ergernis, vernedering, tegenvaller, teleurstelling, verdriet
@@ -6916,7 +6917,7 @@ gagner              bereiken
 gagner sur les deux tableaux    the best of two worlds
 gagner à la dure    dans des conditions difficiles
 gagneuse            f, winnares, overwinnares
-gai                 vrolijk, opgewekt, monter
+gai, gaie           vrolijk, opgewekt, monter
 gaiement            blijmoedig, jolig, vreugdevol, vrolijk, gelukkig, genietend, genotvol
 gaieté              f, vrolijkheid, blijmoedigheid, geestdriftig, joligheid
 gaillard, gaillarde    m, heer, manspersoon, mannetjesdier, blijmoedig, jolig, vreugdevol, blij
@@ -7270,7 +7271,7 @@ grilles             f, traliewerk, afrastering, a gate
 grilleur, grilleurs m, celui qui fait griller. Les grilleurs de marrons. Cuiseur ou grilleur d'oignons
 grillons            m, kriek, krekel
 grimace             f, grijns, bekkentrekken
-grimaçant           grijnzen, een gezicht trekken, gekke bekken trekken
+grimacer, grimaçant grijnzen, een gezicht trekken, gekke bekken trekken
 grimoire            m, vakboek, verhandeling, essay, manuel
 grimper             beklimmen, bestijgen, omhooggaan, opklauteren, stijgen, omhoogklimmenn, to go up to
 grimper en lacet    in slingeringen naar boven klimmen
@@ -7625,7 +7626,7 @@ humanisme           m, humanisme
 humaniste           m, humanist
 humanité            f, mensdom
 humblement          nederig, deemoedig, ootmoedig
-humbles             bescheiden, nederig, onbetekenend
+humble, humbles     bescheiden, nederig, onbetekenend
 humectation         f, bevochtiging, nattigheid
 humecter            bevochtigen
 humer               inhaleren
@@ -10006,6 +10007,7 @@ neurasthenique      psychische aandoening
 neurasthénie        zenuwinzinking
 neurasthéniques     zenuwpatient, zenuwinzinking
 neurone             m, zenuwcel
+neurologue          m, neuroloog, zenuwarts
 neutralité          f, neutraliteit, non-interventie, afzijdigheid
 neutre              geslachtloos, neutraal, onbevooroordeeld, onpartijdig, onvooringenomen
 neuves              nieuw, fris
@@ -12999,7 +13001,7 @@ rétablir            beredderen, gladstrijken, in orde maken, rechtzetten
 rétablissement      m, beterschap, herstel
 rétention           f, inhouding
 réticence           f, achterhouding, terughoudendheid
-réticents           onwillig
+réticents           onwillig, terughoudend
 rétine              f, netvlies, retina
 rétorquer           inbrengen tegen, objecter, démentir vivement
 rétracter           intrekken, zijn woorden intrekken, hier ook krimpen?, prijsgeven, laten schieten, terugtreden
@@ -14740,7 +14742,7 @@ trappe              f, valdeur
 trapu               gedrongen, dik, kort en dik, molig, plomp
 trapèze             m, zweefrek, trapezium
 traquenard          m, valstrik
-traquer             opsporen, op de loer liggen, uitkijk staan, belagen, besluipen, to track
+traquer, traqué     opsporen, op de loer liggen, uitkijk staan, belagen, besluipen, to track
 travail scolaire    m, schooltaken, huiswerk
 travail, travaux    m, werk
 travail, traveaux/travaux publics       openbare werken
@@ -16377,8 +16379,16 @@ bout du monde       m, einde van de wereld
 Espagne             Spanje
 déhanché            schuifelen, slijpen, slowen, buikschuiven
 fonara              m, hijab, sluier
-incisive            f, voortand, snijtand
 bique               f, geit, bok, oude ooi
 créole              m, creools
 langue-violon       f, ?
-=== Le Clézio --- Poisson d'or --- pag. 123 bovenaan --- ===
+spencer             m, coat, jasje, vestje, pardessus
+déprimé             deprimeren, teneerdrukken, demoraliseren, zwartkijken, doemdenken, down, zwaarmoedig
+scories             f, slak, metaalslak, slakken, toute chose, n'importe quoi
+pâtisson            m, légume, groente, fruit comestible
+carambole           f, fruit comestible, landbouwgewas
+mâche               f, groente, feuille alimentaire
+pissenlit           m, paardenbloem, paardebloem
+chayote             f, fluit, blaasinstrument
+came                f, verdovingsmiddel, morfine, papaverzuur, drug, stuff, verdovend middel, drugs
+=== Le Clézio --- Poisson d'or --- pag. 130 bovenaan --- ===
