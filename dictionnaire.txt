@@ -370,7 +370,7 @@ agaçant             ergerlijk, irritant, vervelend
 age                 m, leeftijd
 agence              f, agentschap, bijkantoor, bureau, dienst
 agencement          indeling, inrichting, organisatie
-agencé, agencer     organiseren
+agencé, agencer     organiseren, opkrikken; opvijzelen; verbeteren; veredelen; beter maken
 agenouillement      m, knieval
 agenouiller         een knieval doen, knielen, neerknielen, neervallen
 agent de change     m, stockbroker, beursmakelaar, wisselagent
@@ -1904,7 +1904,7 @@ bouchonner          droogwrijven
 bouchons de liège   kurken
 bouché              verstopt
 bouchée             f, laadklep, klep, beet, hapje, hap, mondvol
-boucle              f, band, krullen, bocht, gesp
+boucle, boucles     f, band, krullen, bocht, gesp
 boucler l'affaire   het geval afhandelen
 boucler une ronde   afsluiten van een ronde
 boucler, bouclera   gespen, omgespen, vastklemmen, mettre dans un espace où l'on enferme
@@ -4314,7 +4314,7 @@ des violettes       regenboogkleuren
 descendance         f, afstammeling, afkomst
 descendant          m, afstammeling
 descendre           koud maken, vermoorden, afstappen, afdalen, aflopen, naar beneden, uitstappen, uitstijgen
-descente            f, afdaling, daling, afzwaaien van een boot
+descente            f, afdaling, daling, afzwaaien van een boot, action d'essayer de découvrir (recherche)
 desiderata          m, noden, het gevraagde
 desiderata          verboden, gewenste dingen?
 desquamer           afschilferen
@@ -5433,7 +5433,7 @@ en biais            in een hoek, d'un certain placement, faire changer X de lieu
 en binôme           in paren
 en bleu ciel        blauwe hemel?
 en bombant          uitpuilend
-en boule            in de vorm van een bal
+en boule            in de vorm van een bal, opgerold
 en boutre           dhow (boot)
 en bras de chemise  in hemdsmouwen
 en bâillant         gapend
@@ -6983,6 +6983,7 @@ gargouillis         m, geklater
 gari                m, japans eten, gingembre
 garnement           m, bengel, duiveltje, rekel, rotjong
 garner le large     het ruime sop kiezen
+garni               m, logement (endroit où l'on habite)
 garnir              uitdossen, voorzien, vullen
 garniture           f, garnituur, garneersel, versiering
 garrigue            f, landschap middellandse zee
@@ -7267,7 +7268,7 @@ grillage            m, afrastering, rastering
 grillagé            latwerk, traliewerk
 griller             branden, blakeren, grillen, poffen, overwinnen, uitgerangeerd
 griller un feu rouge   door het rood rijden
-grilles             f, traliewerk, afrastering, a gate
+grille, grilles     f, traliewerk, afrastering, a gate
 grilleur, grilleurs m, celui qui fait griller. Les grilleurs de marrons. Cuiseur ou grilleur d'oignons
 grillons            m, kriek, krekel
 grimace             f, grijns, bekkentrekken
@@ -7810,6 +7811,7 @@ imperméable         m, regenjas, overjas, mantel, ondoordringbaar, waterproof
 impertinence        f, aanmatiging, brutaliteit
 impertinente        brutaal, onbeschaamd, onbeschoft, schaamteloos, irrelevant
 imperturbable       onverstoorbaar
+imper               m, regenjas
 impie               goddeloos, zondig
 impitoyable         hard, ongenadig, meedogenloos
 implacable          fel, genadeloos, hardvochtig, onverbiddelijk
@@ -8484,7 +8486,7 @@ joue aux dés        dobbelen
 jouer les doigts en l'air       de vingers in de lucht laten wriemelen
 jouer sur les deux tableaux     have it both ways
 jouer à l'aventurier          ontdekkingsreiziger spelen
-joues               f, wang
+joue, joues         f, wang
 jouet               m, speeltje
 joueur              m, speler, muzikant
 joueurs des dés     zij die met dobbelstenen spelen
@@ -8799,6 +8801,7 @@ lieu d'aisances     toilet, wc
 lieue, lieues       f, league, zeemijl
 lieux de ponte      plaats waar de vissen kuit schieten
 ligne courbe        f, kromme lijn
+rue courbe          f, gebogen straat, ronde straat
 ligne de crête      f, nok, ridgeline, ridge
 ligneux             houtachtig
 lignée              f, afkomst, afstammeling, geslacht, komaf
@@ -9128,7 +9131,7 @@ malheureux          droevig, gedoemd, jammer, ongelukkig, zonde, shame
 malice              f, boosaardigheid, kwaadaardigheid, plaagzucht, mischievousness
 malicieusement      mischievously
 malicieux           schadelijk, boosaardigheid, kwaadaardigheid
-malin               handig, glad, schalks, slim, kwaadaardig
+malin, maligne      handig, glad, schalks, slim, kwaadaardig
 malingre            delikaat, fragiel, frêle
 malle               f, bagageruim, koffer, reiskoffer
 mallette            f, aktentas, werkmap
@@ -10185,6 +10188,7 @@ occasionner         aanleiding geven tot, met zich meebrengen, bewerkstellingen,
 occiput             m, achterhoofd
 occulte             caché, verdekt
 occupation          f, bezigheid, bedrijvigheid, activiteit, bezetting
+occupant            m, personne qui occupe un local d'habitation, bewoner, huurder, inwoner
 occurence           f, voorkomen, gebeurtenis
 occurrence          f, voorval
 ocelles             m, ringen op veer van een vogel
@@ -11916,8 +11920,7 @@ pénombre            f, halfduister, zwak licht, donkerte
 pénurie             f, behoefte, gemis, honger, schaarste, tekort
 pénétration         f, penetratie, doorzicht, inzicht, oordeel, zicht
 pénétrer            binnendringen, indringen, inbreken, indringen, filteren, insluipen
-pépient             kwelen, kwetteren, sjilpen
-pépier, pétiaient   kwetteren, sjilpen, kwelen
+pépier, pétiaient, pépient  kwetteren, sjilpen, kwelen
 pépinière           f, kweekplaats, kweektuin, kwekerij
 péremptoire         dwingend
 pérenisser          rendre durable, éternel
@@ -12493,7 +12496,7 @@ replié              gevouwen
 replonger           duiken, opnieuw duiken
 reporter            opschuiven, terugdenken
 repos               m, rustigheid, kalmte, adempauze, stilstand
-reposante           kalm, rustgevend, rustig
+reposant, reposante kalm, rustgevend, rustig
 repose-pieds        m, voetbank, voetsteun
 reposer             berusten, rusten, steunen op, zich verlaten op
 repousser           wegduwen, achteruitschuiven, opschuiven, wegschuiven, weren
@@ -12563,6 +12566,7 @@ restreint           beperkt, nauw, niet algemeen toegankelijk
 restreinte          beperkt, benauwd, niet algemeen toegankelijk
 restriction         f, begrenzing, beknotting
 retard              m, vertraging
+retarder            uitstellen, vertragen, verdagen, verzetten
 retard              uitgesteld
 retardataire        m, laattijdig, achterblijver, achterblijfster, laatkomer
 retendre            aan te scherpe
@@ -12687,6 +12691,7 @@ robinsonnade        m, récit d'aventures s'inspirant de celles de Robinson Crus
 robustesse          f, flinkheid, gehardheid, robuustheid
 roc                 m, rots, groot stuk rots
 rocaille            f, steenformatie, rotspuin
+rocailleuse         steenachtig
 rocambolesque       extravagant, bizarre, drôle
 roche               f, gesteente, grenspaal, kersenpit, rots, rotsblok, steen, steenrots, steensoort, steentje
 rocher              m, rots, kei
@@ -13913,6 +13918,7 @@ station d'accueil   f, docking station
 station de montagne f, mountain resort
 station de poursuite    f, tracking station
 station-service     f, benzinepomp, benzeinepomptstation
+station de metro    f, metrostation
 stationner          parkeren, verroeren, verplaatsen
 statuaire           f, beeld
 statue              f, beeld, beeltenis
@@ -14961,6 +14967,7 @@ ultime              laatste, opperste, uiterste
 ultérieur           toekomstig
 ultérieurement      achteraf, later, nadien, toen
 ululer              kreet, hululer
+ululement           m, gehuil
 un avant-goût       voorproef, voorproefje
 un bout de          een kleine stukje, een stukje
 un bout de temps    m, een lange tijd
@@ -16391,4 +16398,10 @@ mâche               f, groente, feuille alimentaire
 pissenlit           m, paardenbloem, paardebloem
 chayote             f, fluit, blaasinstrument
 came                f, verdovingsmiddel, morfine, papaverzuur, drug, stuff, verdovend middel, drugs
-=== Le Clézio --- Poisson d'or --- pag. 130 bovenaan --- ===
+boulangerie         f, bakker, bakkerij
+supérette           f, bazar, bazaar
+osseuse             benig, knokig, broodmager, beenachtig
+filasse             rafel, franje, einde van draden, rafelig?
+flûté, flûtée       piepend
+tirer les vers du nez   uithoren
+=== Le Clézio --- Poisson d'or --- pag. 137 bovenaan --- ===
