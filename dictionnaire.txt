@@ -1481,6 +1481,7 @@ balade              f, (lange) wandeling, ommetje, omzwerving
 balader             kuieren, rondwandelen
 balafrer            hakken, vol littekens
 balafres            f, litteken, wondteken, diepe snee, snijwond
+chiotte             f, w.c., closet, plee, toilet
 balai de chiottes   m, toiletborsel
 balai-brosse        m, schrobber, schuurborstel
 balaierez, balayer  borstelen, schoonmaken, strijken, vegen, reinigen
@@ -1738,6 +1739,7 @@ bilan               m, balans
 bile                f, gal
 billard             m, biljart
 billes              f, blok hout, houtblok, knikkers, kogels, billard
+roulement à billes  op rolletjes
 billet              m, biljet, kaart, kaartje, folder, brochure
 billevesée          f, begrip, propos tenu à l'oral, onbeduidendheid, nietigheid, minder belangrijk
 bimbeloteries       f, bazar
@@ -3743,7 +3745,8 @@ couloir             m, gang, baan, overloop
 coulée              f, de stroom, het vloeien
 coup                m, slag
 coup au cœur        aanrader, warm aanbevolen, speciale aanbieding
-coup d'œil         m, oogopslag, look, swift glance
+coup d'œil          m, oogopslag, look, swift glance
+coin de l'œil       m, ooghoek
 coup d'œil circulaire     m, blik, overzicht 360 graden, to glance
 coup de canne       slag met wandelstok
 coup de feu         m, vuurgevecht, het vuur openen
@@ -5860,6 +5863,7 @@ entéléchie          f, karakter, staat, eigenschap
 entériner           toegeven, bevestigen, valider un acte par approbation juridique
 entériné            bekrachtigd, ja zeggen
 entête              hardleers, koppig, hardnekkig
+entêter             hardnekkig doorgaan met
 entêtement          eigenzinnigheid, koppigheid
 entêté              koppig, hardleers
 envahir             binnenvallen, bezetten, innemen, overweldigen
@@ -6144,6 +6148,7 @@ faille              f, breuk, open plek, fout
 faille le voir      
 failli y passer     barely made it
 faillir             avoir été sur le point de, dwalen, op het punt staan
+j'ai failli dire    ik zei bijna
 faillite            f, bankroet, failliet, faling, ineenstorting
 faim                f, honger
 fainéant            m, achterblijver, aartslui
@@ -6312,7 +6317,7 @@ fauteuil à bascule  m, schommelstoel
 fauteuil à bascule  schommelstoel
 fauve               getaand, rossig, geel
 fauve               m, taan, topaas, wild dier
-faux                f, scherp werktuig, zeis?
+faux                f, scherp werktuig, zeis, couteau
 faux, fausse        onzuiver, vals
 faux-semblants      m, aanmatiging, huichelarij, hypocrisie, namaak, illusion
 faveur              f, voordeel, begunstiging, gunst, dienst
@@ -6756,6 +6761,7 @@ frictions           f, wrijving
 frigidaire          m, frigo, driepvries
 frigo               m, ijskast
 frigorifique        koeling, koelcel, diepvries
+frigorifié          froid, koud, koel
 frileusement        shivering, bibberend, voorzichtig, koud, kil
 frileux             aarzelend, kil
 fringale            munchies, honger, apperitif, goesting
@@ -7267,6 +7273,7 @@ grignoter           eten, knabbelen, peuzelen, snoepen, knauwen
 grillage            m, afrastering, rastering
 grillagé            latwerk, traliewerk
 griller             branden, blakeren, grillen, poffen, overwinnen, uitgerangeerd
+grille-pain         m, broodrooster, tosti-apparaat, tosti-ijzer
 griller un feu rouge   door het rood rijden
 grille, grilles     f, traliewerk, afrastering, a gate
 grilleur, grilleurs m, celui qui fait griller. Les grilleurs de marrons. Cuiseur ou grilleur d'oignons
@@ -7345,8 +7352,8 @@ guano               m, guano
 guenilleux          haveloos, in lompen gekleed
 guenon              f, aap, apin
 guerre              f, oorlog
-guerrier            krijgshaftig, oorlogszuchtig, m, krijger, strijder
-guerrière           krijgshaftig, oorlogszuchtig, krijgs-
+guerrier            m, krijger, strijder
+guerrier, guerrière krijgshaftig, oorlogszuchtig, krijgs-
 guerroyer           faire la guerre, combattre
 guet                m, uitkijk
 guet-apens          m, hinderlaag, val, valstrik
@@ -10473,7 +10480,7 @@ panacher            mengelen
 panama              m, panamahoed
 pancarte            f, aanplakbiljet, affiche, plakkaat, poster
 pandanus            m, plante aquatique et de marais — waterplant; hydrofyt
-paniers             m, boodschappenmand, draagmand, tas, mand
+paniers             m, boodschappenmand, draagmand, tas, mand, vuilemmer
 paniers d'osier     m, rieten manden
 paniquard           paniekerig
 panka               m, ventilator
@@ -11249,7 +11256,7 @@ poissons-scies      m, zaagvis, zwaardvis
 poitrail            m, borst
 poitrinaire         m, tuberculose
 poitrine            f, borst, borstkas, boezem, buste, romp, ribbenkast, bossom
-poivre              peperkorrelig
+poivre              m, peper, peperkorrelig
 poivrons            m, paprika
 poivré              gepeperd, heet, peperig
 poix                f, pek
@@ -12783,7 +12790,7 @@ rouquin             m, roodbruin, roodharig
 rouspéteur          m, azijnpisser, kankeraar, zuurpruim
 rousse              ros, reddish
 rousseur            roodheid
-roussir, roussi     verzengen, schroeien, verschroeien, aanbraden
+roussir, roussi     verzengen, schroeien, verschroeien, aanbraden, verdorren
 roussâtre           rossig? sinaasappelkleurig
 routard             m, trekker met rugzak
 route               f, de route
@@ -14061,9 +14068,7 @@ sur les rangs       kanshebber voor
 sur leur passage    in hun pad
 sur pilotis         op stelten
 sur son erre        zijn eigen momentum
-sur-le-champ        in een oogopslag, onmiddellijk
-sur-le-champ        onmiddellijk, op staande voet, prompt
-sur-le-champs       in één oogopslag, onmiddellijk
+sur-le-champ(s)     in een oogopslag, onmiddellijk, op staande voet, prompt
 suraigu             extreem scherp
 suraigus            schel
 suraiguë            schel
@@ -14581,7 +14586,7 @@ torchon             m, afdroogdoek, wisdoek, afwaskwast
 tordant             giller, lachsucces
 tordre              krommen, krombuigen, trekken, verbuigen, knijpen, slingeren, spinnen, verwringen, verdraaien
 tordus, tordues     kromgebogen, verwrongen, gedraaid, krom, twisted
-tornade             dwarrelwind, storm, tornado, wervelwind, windhoos
+tornade             f, dwarrelwind, storm, tornado, wervelwind, windhoos
 torpeurs            f, rust, traagheid, slaap, inertie, lethargie
 torpille            torpederen
 torpédo             f, open touring car
@@ -16404,4 +16409,14 @@ osseuse             benig, knokig, broodmager, beenachtig
 filasse             rafel, franje, einde van draden, rafelig?
 flûté, flûtée       piepend
 tirer les vers du nez   uithoren
-=== Le Clézio --- Poisson d'or --- pag. 137 bovenaan --- ===
+gymnase             m, gymnasium, gymlokaal, gymzaal, fitnesscenter
+copieux             overvloedig, kopieus, uitgebreid, rijkelijk voorhanden, rijkelijk, hartig, kwistig, overdadig
+improviste          onverhoeds, onverwacht, onverwatchs
+régularisation      f, regularizatie
+certificat          m, certificaat
+sidérer, sidéré     omverlopen, van zijn stuk brengen/gebracht
+empresser           zèle - (ijver; vlijt), (toegewijd; nijver; naarstig; niet aflatend; noest; ijverig)
+gros mot            m, schuttingwoord, krachtterm, verwensing, godslastering, vervloeking, vloek
+rohypnol            m, rohypnol
+en voûtains         gewelfd
+=== Le Clézio --- Poisson d'or --- pag. 146 bovenaan --- ===
