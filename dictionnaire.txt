@@ -435,7 +435,7 @@ aiguiser            aanpunten, scherpen, slijpen
 aiguisé             scherp, gepunt
 aiguë               doordringend, fel, guur, schril, lang, puntig, scherp
 ailerons            m, vinnen
-ailes               f, vleugel, vlerk
+ailes               f, vleugel, vlerk, spatbord
 ailleurs            elders, ergens anders, op een andere plaats
 ailées              gevleugeld
 aimant              m, magneet, aantrekkingskracht
@@ -1620,7 +1620,7 @@ bateau pilote       m, loods
 bateau-mouche       m, rondvaartboot
 batifoler           gek doen, ravotten, stoeien, duimendraaien
 batracien           m, amfibie
-battant             m, opening, ouverture (in een gebouw), plank, gedeelte, tafel
+battant             m, opening, ouverture (in een gebouw), pièce de bois, plaat, plank, gedeelte, tafel
 batte de base-ball  f, baseball bat
 battement           m, klapperen, kloppen
 batterie            f, batterij
@@ -1890,7 +1890,7 @@ botter le derrière  kick some butt
 bottes de foin      f, hooiberg
 bottine             f, laars, rijglaars
 boubou              m, tunique, lang afrikaans kleed
-bouc                m, bok
+bouc                m, bok, bokkenbaard, geitebaard, kinbaard, sik
 boucaner            roken, roken van vlees, vis
 boucanier           m, boekanier, kaper, vrijbuiter, piraat
 bouche              f, mond, monding, kwebbel, muil, bek, bakkes
@@ -6107,7 +6107,7 @@ extrémiste          m, extremist, radicaal
 extrémité           f, einde, kant, ledematen, zijde, end, extremiteit
 exténuant           uitputtend, afjagend, afbeulend
 exténué             uitgeput
-extérieur           m, externe
+extérieur           m, externe, buitenwereld, buitenshuis, openlucht
 extérioriser        belichamen
 exubérance          f, dartelheid, uitbundigheid, uitgelatenheid
 exubérant           overdreven, overdreven sentimenteel, overvloedig, uitgelaten
@@ -6937,7 +6937,7 @@ galerie             f, tunnel, galerij, gaanderij
 galerie d'art       f, kunstgalerij
 galerie de toit     f, imperiaal
 galeriste           m, galerijhouder
-galets              m, kei, kiezel
+galet, galets       m, kei, kiezel
 galette             f, contant geld, kleingeld, wisselgeld, beschuitbol
 galeuse             sjofel, schurftig, wanboel, smerig, vuilheid
 galimatias          m, absurde procedure, klinkklare onzin, koeterwaals, nonsens, onzin, wartaal
@@ -7115,7 +7115,7 @@ gloire              f, beroemdheid, verheerlijking, glorie
 glorieux            m, de glorieuze
 gloriole            f, ijdelheid
 glotte              f, glottis, stemspleet
-glouglou            m, vraat, vreetzak, geluid, toon
+glouglou            m, vraat, vreetzak, geluid, toon, klank, geluid
 gloussement         m, gegiechel, gegrinnik, gekakel, geklok
 gloutonnement       schrokkerig, uitgehongerd
 glu                 f, vogellijm
@@ -7517,6 +7517,7 @@ hasard              m, lot, toeval
 hasarder            gokken, zich wagen aan
 hasardeuse          gevaarlijk, gedurfd, gewaagd, risicovol
 haschischins        m, iemand die hasj rookt
+haschich            m, hash
 hauban              m, stormlijn, cordage de bateau
 haussement          m, ophalen van, optrekken van, het optrekken
 haussement d'épaules   schouderophalen, schouderophaling
@@ -8478,7 +8479,7 @@ jogging             m, jogging
 joie                f, verheugenis, verheuging, lol, lust, plezier, pret
 joignant, joindre   samenbrengen, aaneensluiten, bijvoegen, toevoegen
 joigne, joindre     bijvoegen, aansluiten
-joint               m, rubber, gummi, geleding, lid
+joint               m, rubber, gummi, geleding, lid, drug, hashish, joint
 jointes             bijgevoegd, toegevoegd
 jointure            f, gewricht, verbinding, voeg
 joliment            mooi
@@ -9546,7 +9547,7 @@ misérable           armoedig, armzalig
 miséreux            m, armen
 miséricorde         barmhartigheid, clementie, genade, goedheid, gratie
 miséricordieux      meedogend, barmhartig, genadig
-miteuses            sjofel, slordig
+miteuses, miteux    sjofel, slordig
 mitigée             verminderd, faire devenir de moindre importance
 mitose              f, kerndeling
 mitoyen             aangrenzend
@@ -13099,7 +13100,7 @@ sac de plage        m, strandzak
 sac de voyage       m, reistas, valies, plunjezak, koffer
 sac à dos           m, rugzak
 sac à main          m, handtas, damestas
-sac-poubelle        m, vuilniszak
+sac(s)-poubelle     m, vuilniszak
 saccade             f, ruk, hortend, bruuske beweging
 saccadé             hortend
 saccager            opzettelijk beschadigen, molesteren
@@ -14489,7 +14490,7 @@ timoré              kleinhartig, lafhartig, zwak
 tinrent, tenir      koesteren, verdergaan, volhouden, handel drijven, leven van, doordouwen
 tintamarre          m, geraas, herrie, kabaal, kakafonie
 tintantes           rammelend, van ketenen
-tintement           belletje, gerinkel
+tintement           m, belletje, gerinkel
 tinter              kletteren, aanschellen, afgaan, bommen, galmen
 tintinnabuler       klinken, bellen
 tiquer              afkeuren, fronsen van wenkbrauwen
@@ -15119,7 +15120,7 @@ varois              uit de Var
 vase                f, bagger, slib
 vase                m, vaas, pul
 vase de nuit        m, nachtpo
-vasistas            f, venstertje
+vasistas            m, venstertje
 vasque              f, bad, bad van fontein
 vassale             m, leenheer, leenman, vazal
 vassalité           f, vazalschap
@@ -16419,4 +16420,12 @@ empresser           zèle - (ijver; vlijt), (toegewijd; nijver; naarstig; niet a
 gros mot            m, schuttingwoord, krachtterm, verwensing, godslastering, vervloeking, vloek
 rohypnol            m, rohypnol
 en voûtains         gewelfd
-=== Le Clézio --- Poisson d'or --- pag. 146 bovenaan --- ===
+yanjuc              m, spell, betovering?
+juju                m, spell, betovering?
+écossais            Schotten, schots
+cornemuse           f, doedelzak
+criminelle          f, krimineel, misdadiger
+tambour djun-djun   m, afrikaanse trommel
+sanza               f, mbira, miniatuurharp
+divan               m, divan
+=== Le Clézio --- Poisson d'or --- pag. 154 onderaan --- ===
