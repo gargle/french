@@ -6133,6 +6133,7 @@ factuelle           daadwerkelijk, doeltreffend, effectief
 facture             f, aanrekening, rekening, factuur
 faculté             f, kunnen, macht, talent, vaardigheid, vermogen
 facéties            f, plaisanterie, extravagante
+fac                 f, faculteit, universiteit, academie, lieu d'enseignement
 fadaise             f, flauwheid, flauwigheid
 fadasse             smakeloos
 fade, fades         flauw, smaakloos, laf, wee, dull
@@ -16428,4 +16429,6 @@ criminelle          f, krimineel, misdadiger
 tambour djun-djun   m, afrikaanse trommel
 sanza               f, mbira, miniatuurharp
 divan               m, divan
+étude               f, studie, onderzoek
+cité                f, agglomeratie
 === Le Clézio --- Poisson d'or --- pag. 154 onderaan --- ===
