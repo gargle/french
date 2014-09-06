@@ -492,7 +492,6 @@ aliter              te bed stellen
 alité               aan bed gekluisterd, bedlegerig
 alizé               m, passaat(winden)
 aliène, aliéner     vervreemden
-aliéner             vervreemden
 aliénés             m, gestoorden, krankzinnigen
 allaiter            borstvoeden, de borst geven, zogen
 allaiter            borstvoeging geven
@@ -11028,7 +11027,7 @@ piquets             pin, pen, piket, knijper, wasknijper
 piqueuse, piqueur   f, afmaker, angel, werkneemster, maker
 piqûre              f, pikuur, inspuiting, prikken, steken
 pire                m, ergste, erger, ergst
-pirogue             f, lange boot
+pirogue             f, lange boot, roeiboot, kano, kajak
 piroguiers          m, conducteur de pirogue
 pis                 m, het ergste, worse
 pisaller            m, stopgap, a last resort, worst case
@@ -14499,7 +14498,7 @@ tirade              f, tirade
 tirage              m, fotoreeks, editie, druk, oplage
 tirage au sort      m, loting, toss, trekking, verloting
 tirailler           trekken, slepen
-tirailleurs         afrikaans soldaat
+tirailleurs         m, infanterie, soldaat, afrikaans soldaat
 tire-au-flanc       plichtverzaker, drukker (van plicht)
 tire-bouchon        m, kurkentrekker
 tirebouchonner      oprollen, opkrommen in spiraalvorm
@@ -14697,6 +14696,7 @@ trahison            f, verraad, trouweloosheid, judasstreek
 train               m, train, manière de marcher, te voet gaan
 train de marchandise    m, goederentrein
 trains de marchandises  m, goederentrein
+trains de billes        m, vlotten van hout (transport) 
 trait               m, trek, gelaatstrek, lijn
 trait pour trait    trek voor trek, streek voor streek
 traite              f, ruk
@@ -16431,4 +16431,5 @@ sanza               f, mbira, miniatuurharp
 divan               m, divan
 étude               f, studie, onderzoek
 cité                f, agglomeratie
-=== Le Clézio --- Poisson d'or --- pag. 154 onderaan --- ===
+Wolofs              une ethnie vivant au Sénégal
+=== Le Clézio --- Poisson d'or --- pag. 157 bovenaan --- ===
