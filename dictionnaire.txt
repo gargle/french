@@ -3148,7 +3148,7 @@ close               afgesloten, quiet, stil, kalm
 close par           gesloten door
 clou, clous         m, nagel, spijker, draadnagel, het hoogtepunt
 clouer              aanrijgen, rijgen, spijkeren, nagelen
-cloutée             beslagen, zebra, zebrapad
+cloutée             beslagen (met nagels), zebra, zebrapad
 cloué               vastplakkend, nagelen, rijgen, klinken, kluisteren
 cloîtrer            insluiten, omsluiten
 club                m, club
@@ -5798,6 +5798,7 @@ enter plus avant    verder
 enterrement         m, begrafenis
 enterrer            begraven, bijzetten, ter ruste leggen
 enthousiasme        m, uitbundigheid
+enthousiaste        enthousiast, geestdriftig
 entier              absoluut, onverdeeld
 entité              f, entiteit, eenheid
 entière satisfaction   volledige tevredenheid
@@ -8452,6 +8453,7 @@ je n'en reviens pas              er niet van terug hebben, I can't get over it
 je n'y entre plus   er niet meer op in gaan?
 je n'y pouvais rien    I could not help it
 je ne lui en ai pas voulu        I did not want him
+je lui en ai voulu               to be annoyed/angry/mad at someone, resent someone for something
 je ne pus me défendre d'une admiration   I could not help feeling a certain admiration
 je ne sais que dire   ik weet niet wat te zeggen
 je ne tiens  à        ik wil niet
@@ -13841,7 +13843,7 @@ sourcilière         wenkbrauwbogen
 sourcilleux         grievend, hatelijk, opschepperig, precies, trefzeker, nauwkeurig, hoog, grijns, grimas
 sourcils            m, wenkbrauw, high brow
 sourcrire           bijdragen, contribueren, geldelijk steunen
-sourde              doof, dove, dull
+sourde              doof, dove, dull, muffled
 sourde angoisse     f, stille angst, dull anguish
 sourdement          heimelijk, de façon sourde, muffled
 sourdes             doof
@@ -16432,4 +16434,11 @@ divan               m, divan
 étude               f, studie, onderzoek
 cité                f, agglomeratie
 Wolofs              une ethnie vivant au Sénégal
-=== Le Clézio --- Poisson d'or --- pag. 157 bovenaan --- ===
+ersatz              m, surrogaat, doorslag, kopie, duplicaat
+carence             f, gebrek
+poterie             f, aardewerk, pottenbakkerij, ceramiek
+pustule             f, vin, puist, pukkel
+monoxyle            qui est d'un seul bloc
+sagaie              f, assegaai
+balustre            m, balustrade, borstwering, pedestal, kolom, zuil, pilaar
+=== Le Clézio --- Poisson d'or --- pag. 159 onderaan --- ===
