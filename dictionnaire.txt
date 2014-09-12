@@ -7326,7 +7326,7 @@ grossir             aangroeien, toenemen, groeien
 grossissement       vergroting, het vergroten, uitvergroting
 grossière           onbehouwen, bot, vulgair, cru, onbewerkt
 grossièrement       enorm, ruw, grof, bot, lomp, min-of-meer, bijna, op afstotelijke wijze
-grossièreté         f, boersheid, botheid, onbeschaafdheid
+grossièreté         f, boersheid, botheid, onbeschaafdheid, vuile woorden
 grotte              f, grot, hol, spelonk
 grouillante         kolkend
 grouillement        m, zwerm, wanorde, désordre (absence ou rupture d'ordre), verwarring, kolken
@@ -16448,4 +16448,6 @@ auréole             f, kring, aureool, stralenkrans
 petit-fils          m, kleinkind, kleinzoon
 amarante            f, amarant, kattestaart, qui est coloré d'une certaine couleur - kleurig; -kleurig
 boucherie           f, slachthuis, slager, slachting, massacre
-=== Le Clézio --- Poisson d'or --- pag. 164 bovenaan --- ===
+dépenaillés         mal habillé
+banlieusard         m, forens, pendelaar
+=== Le Clézio --- Poisson d'or --- pag. 165 bovenaan --- ===
