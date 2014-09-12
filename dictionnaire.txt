@@ -3612,6 +3612,7 @@ convié              uitgenodigd
 convocation         f, dagvaardiging, oproep
 convocation         m, oproep, dagvaarding
 convoi              m, konvooi, begeleiding, vrijgeleide
+convoyer            aandragen, brengen, verladen, nemen, maken
 convoitait, convoiter        begeren, hunkeren, verlangen, zuchten
 convoitise          f, begeerte, verlangen, wens
 convoquer           bij elkaar roepen, ontbieden, oproepen, optrommelen, samenroepen, bijeenroepen
@@ -5754,7 +5755,7 @@ enlevant, enlever   uitkrijgen, verwijderen, weghalen
 enliser             onderdompelen, vast geraken in, enlist
 enluminé            verlucht (van boeken)
 enneigé             ingesneeuwd
-ennemie             f, vijand, oppositie, bestrijder, tegenpartij
+ennemi(e)           m/f, vijand, oppositie, bestrijder, tegenpartij
 ennemis             m, vijanden
 ennui               m, gedoe, poppenkast, tamtam, verveling, zorg, verveling, trammelant, kopzorg
 ennuis de santé     m, gezondheidsproblemen
@@ -7141,6 +7142,7 @@ gonfler, se gonfler aanwassen, opzwellen, oppompen, opschroeven, opdrijven, verh
 gonflette           f, body-building
 gonflé à craquer    opgepompt tot op het barsten
 gorge               f, keel, keelgat, hals, nek, afgrond, bergkloof, bergpas, geul, boezem
+gorge serrée        f, dichtgeknepen keel
 gorger, gorgée      gevuld, volgieten, volstoppen, mondvol?
 gorgé               hals, keel
 gorgée              f, slok, teug, dronk
@@ -7378,7 +7380,7 @@ guise               f, façon, manière
 guise, en guise     façon, manière
 guitare             f, gitaar
 gunpowder           m, thé vert, groene thee
-gutturaux           keelklank
+gutturaux, guturale keelklank
 guère               amper, bijna, nauwelijks
 guère plus          weinig meer
 guère que           niks dan
@@ -12766,12 +12768,11 @@ roues               f, rad, wiel
 roues à aubes       f, waterrad, waterwielen
 rouets              m, spinnewiel
 rouf                m, abri
-rouge à lèvres      m, lippenstift
+rouge(s) à lèvres   m, lippenstift
 rougeaud            hoogrood
 rougeoiement        m, glans, het gloeien, rood worden
 rougeole            f, mazelen
 rougeoyer           vlammen, branden
-rouges à lèvres     m, lippenstift
 rouges-gorges       m, roodborstje
 rougeur             f, roodheid
 rougeâtre           bloedrood, roodachtig, rossig
@@ -16441,4 +16442,10 @@ pustule             f, vin, puist, pukkel
 monoxyle            qui est d'un seul bloc
 sagaie              f, assegaai
 balustre            m, balustrade, borstwering, pedestal, kolom, zuil, pilaar
-=== Le Clézio --- Poisson d'or --- pag. 159 onderaan --- ===
+autoroute           f, autosnelweg, expressweg, snelweg
+quatre à quatre     rapide, ijlen, haast maken, zich reppen, rennen, haastig rennen
+auréole             f, kring, aureool, stralenkrans
+petit-fils          m, kleinkind, kleinzoon
+amarante            f, amarant, kattestaart, qui est coloré d'une certaine couleur - kleurig; -kleurig
+boucherie           f, slachthuis, slager, slachting, massacre
+=== Le Clézio --- Poisson d'or --- pag. 164 bovenaan --- ===
