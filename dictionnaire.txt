@@ -5136,6 +5136,7 @@ désertique          onbewoond, verlaten, woestijnachtig
 désespoir           m, hopeloosheid, radeloosheid, vertwijfeling, wanhoop
 désespoir de cause  m, wanhoop
 désespérant         wanhopig
+désespérance        f, wanhoop, moedeloosheid, demotivatie
 désespérer          wanhopig worden, versagen, de hoop opgeven, wanhopen
 désespéré           hopeloos, radeloos, vertwijfeld, wanhopig
 déshabillage        m, uitkleding
@@ -6340,8 +6341,7 @@ fellation           f, pijpen
 felouque            felucca, boot
 femelle             f, vrouwtje
 femelles            vrouwtjes-...
-femme de ménage     f, schoonmaakster, kuisvrouw
-femme de ménage     f, werkvrouw, poetsvrouw, schoonmaakster
+femme de ménage     f, werkvrouw, poetsvrouw, schoonmaakster, kuisvrouw
 fendre, fendue, fendant     doorbreken, doorsteken, klieven, splijten, afrukken, barsten, piercing, gespleten
 fenouil             m, venkel
 fente               f, scheur, sleuf, spleet, kier, doorbraak, breuk
@@ -6739,6 +6739,7 @@ franger             garnir de frange
 franges             f, plooien, franjes, strook, tierelantijn
 franquette          f, huiselijk, in een huiselijke...
 frappant            in het oog springend, in het oog vallend, treffend
+frappante           f, in het oog springend, in het oog vallend, treffend
 frapper             teisteren, frapperen, treffen, geslagen (munt)
 fraternel           broederlijk, zusterlijk
 frayer              zich een weg banen, doorbreken, zich worstelen door
@@ -9877,14 +9878,12 @@ mélopée             f, lied, gezang, monotoon gezang
 mélèze              m, lariks, lork, lorkeboom
 mémoire             f, herinnering, geheugen
 mémoire             m, acte de commerce, factuur, rechtsgeding, document, travail universitaire
-ménagement          ontzien, voorzichtig behandelen
-ménager             ontzien, voorzichtig behandelen, voorzicht omspringen met
-ménager             zuinig zijn met
+ménage              m, huishouden, schoonmaak
+ménager, ménagé, ménagement        ontzien, voorzichtig behandelen, voorzicht omspringen met, zuinig zijn met
 ménagerie           f, cirque, lieu où vivent les animaux, hok, kooi
 ménagers            huishoudelijk
 ménagère            f, huismoeder, huisvrouw
 ménagères           huishoudelijk
-ménagé              ontzien, voorzichtig behandelen
 méner               leiden naar, voeren naar
 méoise              f, méiose, meiose
 méplat              m, vlakke plek/oppervlak
@@ -16450,4 +16449,11 @@ amarante            f, amarant, kattestaart, qui est coloré d'une certaine coul
 boucherie           f, slachthuis, slager, slachting, massacre
 dépenaillés         mal habillé
 banlieusard         m, forens, pendelaar
-=== Le Clézio --- Poisson d'or --- pag. 165 bovenaan --- ===
+squat               m, kraakpand, kraakbeweging
+rédacteur, rédactrice  m/f, redakteur, samensteller
+brûler les étappes  ?
+hégire              f, vlucht, afreis, weggaan
+pie, pies           f, ekster
+frangipane          f, dessert et pâtisserie, une crème à base d'amandes
+empiffrer           manger beaucoup
+=== Le Clézio --- Poisson d'or --- pag. 168 bovenaan --- ===
