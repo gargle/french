@@ -3560,6 +3560,7 @@ contrariété         ergernis, deceptie, verdriet, verergering, teleurstelling
 contrariété         f, ergernis, vernedering, tegenvaller, teleurstelling, verdriet
 contraste           m, contrast
 contrat type        m, type contract
+contrat             m, contract, verbinteniss, overeenkomst
 contravention       f, bekeuring, bon, boete
 contre toute attente    tegen alle verwachting in
 contre vents et marées  door dik en dun
@@ -4452,8 +4453,7 @@ disparition         f, verdwijnen, verdwijning
 disparue            f, dode, overledene, gestorvene
 dispensaire         m, ziekenboeg
 dispenser           ontslaan, vrijstellen, verkopen, toedienen, uitreiken, mettre en application, mettre en pratique
-disperser           oplossen, uiteengaan, uiteendrijven, verspreiden
-disperser           uiteendrijven, verstuiven
+disperser           oplossen, uiteengaan, uiteendrijven, verspreiden, verstuiven
 dispersion          f, verspreiding
 disponibilité       f, verlof
 disposer            ordenen, bewegen, brengen tot, schikken, rangschikken, neigen
@@ -9401,6 +9401,7 @@ mercerie            f, garen en band winkel
 merci               f, genade
 mercière            f, fourniturenhandelaar(ster), winkelier(ster)
 merder              aanmodderen, afgaan, bederven
+merde               f, stront, shit
 merdier             m, rotzooi, zoi
 merdique            afschuwelijk, enorm slecht
 merise              f, wilde kers
@@ -15960,6 +15961,8 @@ zézayer             lispelen, slissen
 égrillard           schunnig, schuin
 égrèner             faire passer entre les doigts les grains d'un chapelet de prière
 égyptologie         f, egyptologie
+égyptienne          f, egyptische
+haïtienne           f, van Haïte
 éhonté              onbeschaamd, schaamteloos
 éjaculation         f, zaadlozing
 élaboration         f, uitwerking, uitweiding
@@ -16456,4 +16459,8 @@ hégire              f, vlucht, afreis, weggaan
 pie, pies           f, ekster
 frangipane          f, dessert et pâtisserie, une crème à base d'amandes
 empiffrer           manger beaucoup
-=== Le Clézio --- Poisson d'or --- pag. 168 bovenaan --- ===
+sida                m, aids
+choléra             m, cholera
+premier rang        m, eerste rij
+Il fallait passer   Hij moest vertrekken
+=== Le Clézio --- Poisson d'or --- pag. 172 bovenaan --- ===
