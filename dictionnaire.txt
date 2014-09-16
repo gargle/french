@@ -5288,7 +5288,7 @@ efficience          f, efficiency, doelmatigheid
 effigie             f, beeltenis, afbeelding
 effiler, effilé     ontrafelen, uitrafelen, punten, rafelen, spits
 effilochent         rafelen, uitrafelen, slijten, sneuvelen
-effiloché           nagemaakt, rafelen, uitrafelen, gerafeld, uitgerafeld
+effilocher, effiloché        nagemaakt, rafelen, uitrafelen, gerafeld, uitgerafeld
 efflanqué           graatmager, slungelig
 effleurement        lichte aanraking
 effleurer, effleurant      aanroeren, toucheren, strijken langs, to occur to someone
@@ -7953,6 +7953,7 @@ inconnaissable      ongezien, qui ne peut être compris
 inconnu             m, het ongekende, vreemde, onbekende
 inconsciement       onbewust
 inconscience        f, bewusteloosheid
+inconsciente        bewusteloos, onbewust
 inconsistance       f, ongelijkheid, inconsistentie
 inconsistant        inconsistent
 incontournable      onomkoombare
@@ -9315,6 +9316,7 @@ matelassé           gestoffeerd, gewatteerd
 matelot             janmaat, dekzwabber, zeemaat, werkman, matroos
 mater               onderdrukken, uitrusten, regarder, regarder avec envie
 maternelle          f, bewaarschool, kleuterschool
+maternel            moederlijk
 mathématique        f, wiskunde
 matin               m, ochtend, de morgen
 matinale            ochtend-, vroeg
@@ -16463,4 +16465,5 @@ sida                m, aids
 choléra             m, cholera
 premier rang        m, eerste rij
 Il fallait passer   Hij moest vertrekken
-=== Le Clézio --- Poisson d'or --- pag. 172 bovenaan --- ===
+martyrologe         m, livre de la liturgie chrétienne, martelarenboek
+=== Le Clézio --- Poisson d'or --- pag. 178 bovenaan --- ===
