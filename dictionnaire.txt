@@ -3177,6 +3177,7 @@ cocktail            m, cocktail
 cocktail de crevettes  m, garnalencocktail
 cocktail lytique    m, combinaison médicamenteuse qui bloque les fonctions du système nerveux autonome
 cocotier            m, cocosboom, cocospalm
+cocon               m, cocon, kokon, pop
 codante             codering
 code                m, code
 codétenus           medegevangenen
@@ -7345,6 +7346,7 @@ gré                 m, wil
 gréement            m, zeilwerk, tuigage, tuig, takelwerk
 gréseuses           de la nature, zandsteen, keramiek
 gréseux             zanderig
+grésil              m, natte sneeuw, ijsregen
 grésillant          kraken, knapperen, knarsen, vonken, knisperen
 grésillement        m, knisperen
 gréviste            m, staker
@@ -9107,6 +9109,7 @@ majorité            meerderjarigheid
 majorité civique    f, meerderjarigheid
 majoré              toegenomen
 mal assortie        slecht passend, mismatch
+match               m, match, game, spel
 mal de signes       slechte tekenen
 mal engager         misfed, vastgelopen, op de verkeerde plaats
 mal fou             m, a terrible time
@@ -9202,6 +9205,7 @@ maniérisme          m, maniërisme, onnatuurlijkheid, gemaaktheid, gekunsteldhe
 maniérée            beschaafd, deftig, gemanieerd
 mannequin           m, ledenpop, model, paspop, mannequin
 manoir              m, mansion, villa, woning, herenhuis, kasteel
+manouche            m, gens du voyage
 manomètre           m, drukmeter, manometer, tonometer, luchtdrukmeter
 manque              m, ontbering, gemis, ontbreken
 manque              ontberen, ontbreken, missen, schorten
@@ -11888,6 +11892,7 @@ pâlichonne          bleekjes, flets, pips
 pâlir, pâlissaient  bleek worden, ontkleuren, achteruitdeinzen
 pâmé, pâmer         zich vergapen aan, bezwijmen, flauwvallen, wegraken, sending into hysterics
 pâte                f, deeg, deegwaren, caractère de l'individu, the very stuff of things
+pâte à modeler      f, boetseerklei
 pâte dentifrice     f, tandpasta
 pâteux              klef
 pâtir, pâtirait     lijden
@@ -12155,7 +12160,7 @@ rambarde            f, rail, leuning, borstwering, balustrade
 rame                f, riem, roeiriem, métro, papier, ensemble de feuilles de papier
 rameau              m, takje, twijg, wis
 ramener au réel     naar de werkelijkheid terugbrengen
-ramener, ramènent   herplaatsen, terugbrengen, terugvoeren, terugplaatsen
+ramener, ramènent   herplaatsen, terugbrengen, terugvoeren, terugplaatsen, ophalen, brengen, halen
 ramer               roeien, oproeien
 ramification        f, vertakkingen
 ramifier, ramifié   zich vertakken
@@ -12414,6 +12419,7 @@ rembarrer           shooing, iemand terug op zijn plaats zetten
 remblai             m, ophoging, vluchtheuvel, terp
 remblayer           overhellen, zich ophopen
 rembourser          terugboeken, teruggeven
+rembourrer          vullen, opvullen, stofferen, overtrekken, watteren
 rembrunir           betrekken, somber worden, versomberen
 remercier vivement  danken
 remettre            over de brug komen, aanbieden
@@ -14184,6 +14190,7 @@ séduction           f, verleiding, verlokking, bekoring
 ségrégation         f, segregatie, scheiding
 séisme              m, aarbeving, aardschok
 séjour              m, verblijf
+carte de séjour     f, verblijfsvergunning
 séjour-club         m, residence club, vakantieclub
 séjourner           bezoeken, zich ophouden
 sémillant           dartel
@@ -16466,4 +16473,9 @@ choléra             m, cholera
 premier rang        m, eerste rij
 Il fallait passer   Hij moest vertrekken
 martyrologe         m, livre de la liturgie chrétienne, martelarenboek
-=== Le Clézio --- Poisson d'or --- pag. 178 bovenaan --- ===
+punching-ball       m, punching-ball, box-ball
+compteur            m, electriciteitsteller
+chignole            f, handboor
+hommasse            f, mannelijk
+Galicienne          Galicische
+=== Le Clézio --- Poisson d'or --- pag. 181 bovenaan --- ===
