@@ -3339,6 +3339,7 @@ comprendre          begrijpen, assimileren, bekijken, snappen
 comprendre à ma vie      mij leven begrijpen
 comprendre à demi-mot    de hint begrijpen
 compresseur         m, luchtpompt, compressor
+compresse           f, compres, drukverband
 comprimer           ineenkrimpen, (samen)persen
 comprimé            m, pil
 comprise            begrepen, verstaan
@@ -4793,7 +4794,7 @@ déconcertant, déconcerter      onthutsend, van streek brengen, benevelen, besc
 déconfit, déconfire van zijn stuk brengen
 décongestionnant    
 déconnage           f, aankloterij
-déconner            aankloten, wijsmaken
+déconner            aankloten, wijsmaken, illusioneren, belazeren, bedriegen, in de maling nemen, verneuken
 décontamination     f, ontsmetting, decontaminatie
 décontenancée       trotseren, beduusd, verstomd, stomverbaasd, verwonderd
 décontracter        ontspannen
@@ -7555,7 +7556,7 @@ hectare             m, hectare
 hennissement        m, gehinnik
 henné               m, henna
 herbe rase          f, kort gras
-herbes              f, gras
+herbes              f, gras, kruiden
 herbes folles       f, onkruid
 herbes sauvages     f, wilde kruiden, onkruid?
 herbeux             herbeuses, bedekt met gras, grasrijk, grazig
@@ -9320,6 +9321,7 @@ matelassé           gestoffeerd, gewatteerd
 matelot             janmaat, dekzwabber, zeemaat, werkman, matroos
 mater               onderdrukken, uitrusten, regarder, regarder avec envie
 maternelle          f, bewaarschool, kleuterschool
+maternité           f, kraamkliniek, kraamafdeling, materniteit
 maternel            moederlijk
 mathématique        f, wiskunde
 matin               m, ochtend, de morgen
@@ -14965,6 +14967,7 @@ ténébreuse          obscuur, somber
 téraoctet           m, terrabyte
 térébinthine        f, terpentijnolie
 tétanique           tetanus, tétanos, besmetting, infectie
+tété                f, borstvoeding?
 tétaniser           spasmen
 tétanos             m, tetanus, mondklem, wondkramp
 téter               zuigen
@@ -16478,4 +16481,17 @@ compteur            m, electriciteitsteller
 chignole            f, handboor
 hommasse            f, mannelijk
 Galicienne          Galicische
-=== Le Clézio --- Poisson d'or --- pag. 181 bovenaan --- ===
+betadine            f, ontsmettingsmiddel?
+onguent             m, crème, zalf
+sauter à la corde   touwtjespringen
+sono                f, ensemble des appareils de sonorisation
+en brosse           de taille, de hauteur faible
+anis                m, anijs
+troène              m, oleaceae - massif d' arbustes - heesterperk
+thermos             f, thermos
+décret              m, decreet, uitvoering, verordening
+état civil          m, burgerlijke stand
+valoir mieux        er goed aan doen
+alphabétisation     f, alfabetisering
+retapisser          herstellen; maken; repareren, travailler le textile
+=== Le Clézio --- Poisson d'or --- pag. 186 bovenaan --- ===
