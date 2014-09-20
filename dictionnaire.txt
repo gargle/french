@@ -1893,6 +1893,7 @@ bouc                m, bok, bokkenbaard, geitebaard, kinbaard, sik
 boucaner            roken, roken van vlees, vis
 boucanier           m, boekanier, kaper, vrijbuiter, piraat
 bouche              f, mond, monding, kwebbel, muil, bek, bakkes
+bouche d'aération   f, snorkel, ventilatie
 bouche aux coins    mondhoeken
 bouche bée          f, open mond
 bouche-à-oreille    mond tot mond reclame
@@ -1985,7 +1986,7 @@ bourrer             aanstampen, volproppen, volstouwen
 bourrer le crâne    op de mouw spelden
 bourricot           m, ezel
 bourru              dreigend, grof, korzelig
-bourré, bourrer     vullen, opvullen, vulsel
+bourré, bourrer     vullen, opvullen, vulsel, dronken, zich bedrinken, zich bezatten, zich bezuipen
 bourse              f, beurs, geldbuidel, geldzak
 bourse d'études     f, studiebeurs, studietoelage, beurs
 boursier            m, beursstudent
@@ -3665,7 +3666,7 @@ cordons de souliers m, veters
 cordée              f, alpinisten, aaneengelosten met een koord
 coreligionnaires    m, geloofsgenoot
 coriace             hard als leer, moeilijk te overwinnen
-cormorans           aalscholver
+cormorans           m, aalscholver
 cornaline           f, kornalijn, steen, gesteente, kwarts
 cornaline           steen, gesteente, kornalijn
 corne               f, claxon, toeter, hoorn, verharding, eelt
@@ -3953,7 +3954,7 @@ croisement          m, kruispunt
 croisillon          m, met kruisen omringd
 croisière           f, cruise, zeiltocht, pleziervaart
 croissant           m, sikkel, wassende maan, afnemende maan, hoorntje, croissant
-croisée             f, kruis, ouverture (dans un édifice), venster
+croisée             f, kruis, ouverture (dans un édifice), venster, point de jonction ou intersection
 croix               f, kruis
 croix gammée        f, swastika
 croquants           m, boer, f, boerin, landbouwer, plattelander
@@ -7084,7 +7085,7 @@ giser               zitten, zich bevinden, uithangen, liggen
 gitan               m, zigeuner
 gitane              f, zigeunerin
 giton               m, jonge homosexueel, toyboy
-givre               rijm, rijp, ijsafzetting, mat
+givre               m, rijm, rijp, ijsafzetting, mat
 givré               mat
 glabre              onbehaard
 glace               f, spiegel, autoruit, venster
@@ -7336,8 +7337,7 @@ grouillement        m, zwerm, wanorde, désordre (absence ou rupture d'ordre), v
 grouiller           krioelen, wemelen, jachten, zich haasten
 groupe              m, groep
 gruau               m, gort, grutten, gerstepap
-grue                f, kraan, hijskraan
-grues               f, kraanvogel
+grue, grues         f, kraan, hijskraan, kraanvogel
 grumeau             m, klonter, klontje
 grumeleuse          klonterig, bult, knobbel
 grâce               f, gratie, amnestie, begenadiging, absolutie
@@ -11575,6 +11575,7 @@ problème            m, probleem
 procession          f, processie, stoet, lijfstoet, optocht
 processus           m, proces, ontwikkelingsgang, verloop
 proche              m, het nabije
+de proche en proche    lentement, peu à peu
 procréation         f, voortplanting
 procréer            voorbrengen
 procuration         f,  authorisatie, machtiging, toestemming, vergunning
@@ -15145,7 +15146,8 @@ vasseur             m,  levasseur?
 vaste               ruim, enorm, veelomvattend
 vaticiner           voorspellen, prédire, prophétiser
 vaudeville          m, variété-theater, music-hall
-vaudoue             f, voodoo, m., commune français e, située dans le département de la Seine-et-Marne
+vaudoue             voodoo, m., commune français e, située dans le département de la Seine-et-Marne
+vaudou              m, animisme, voodoo
 vaurien             m, deugniet, landloper, rakker, schooier, schurk, vagebond
 vauriens            m, vagebond, schooier, landloper
 vaut guère          is niet
@@ -16494,4 +16496,11 @@ décret              m, decreet, uitvoering, verordening
 valoir mieux        er goed aan doen
 alphabétisation     f, alfabetisering
 retapisser          herstellen; maken; repareren, travailler le textile
-=== Le Clézio --- Poisson d'or --- pag. 186 bovenaan --- ===
+jumbés              m, djembé, soort trom
+esclandre           m, rumoerigheid, luidruchtigheid, scandale
+loas                m,  créature immatérielle ou imaginaire
+rada                m, soort drum, tambour
+dresseur            m, africhter, dresseur, trainer, dresser
+capharnaûm          m, un endroit en désordre
+sniffer             snuiven, faire entrer qqch en soi
+=== Le Clézio --- Poisson d'or --- pag. 195 bovenaan --- ===
