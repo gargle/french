@@ -1827,7 +1827,7 @@ boisseau            m, oude inhoudsmaat, kraan
 boisson             f, de drank
 boisé               bebost, boomrijk, bosrijk
 boiter              hinken, manken, trekkebenen
-boiteux             kreupel, mank, slecht te been
+boiteux             kreupel, mank, slecht te been, qui n'est pas ou plus en ordre
 boitillant          licht hinken
 bol                 m, kom
 bol de salade       m, saladeschotel, slakom
@@ -9697,6 +9697,7 @@ mot                 m, woord
 mot d'ordre         m, wachtwoord
 mot des consigne    instructies, verplichting
 moteur hors bord    m, buitenboordmotor
+moteur              m, motor
 motif               m, motivering
 moto                f, moto, motorfiets
 motocyclette        f, motorrijwiel, motorfiets, motor
@@ -12094,6 +12095,7 @@ rade                f, aanlegplaats
 radeau              m, vlot (drijvend op water)
 radiale             radius, straal-
 radiateur           m, radiator
+radiateur à bain d'huile        m, radiateur de chauffage
 radicelle           f, worteltje
 radieux, radieuse   fel, helder, stralend, vrolijk
 radio               m, radio-operator
@@ -12376,6 +12378,7 @@ refuser de justesse ternauwernood weigeren
 regagner            inhalen, weer bereiken, herwinnen
 regard              m, blik, mangat, keldergat, a gaze
 regard franc        m, directe blik, eerlijk, frank, overholen, openhartig, onbedekt
+regard aigu         m, doordringende blik
 regard vague        m, starende blik
 regarder fixement   aanstaren, fixeren
 regimber            ruer, résister, weigeren
@@ -13579,6 +13582,7 @@ sentencieuse        kernachtig, ernstig, gewichtig
 senteur             f, geur, lucht, odeur, reuk
 senteurs            f, boeket, aangename geur
 sentier             m, karrenspoor, paadje, pad, spoor, traject, voetpad, wandelweg, weg
+sentier à chiens    m, hondenspoor?
 sentier battu       m, gekende paden, betreden paden
 sentiment           m, gevoel, emotie, gemoed
 sentiment d'échec   m, gevoel van mislukking
@@ -14425,6 +14429,7 @@ tergiverser         talmen
 termes              bewoording, tekst
 terminal            m, computerterminal
 terminale           f, voleinding, beëindiging
+être en termale     in het laatste jaar zitten?
 terminologie        f, naamgeving, terminologie
 termite             m, termiet
 termitière          f, mierenhoop, termietenheuvel
@@ -14935,7 +14940,7 @@ tuyaux d'arrosage   m, pijp om te besproeien
 tympan              m, trommelvlies, membraam, vlies
 tympaniser          ridiculiser en public
 typasonome          ?
-type                m, kerel, snuiter, typ
+type                m, kerel, snuiter, typ, aard, genre, soort, variëteit
 typographier        typen
 typologie           f, karakterschildering, typologie
 tyrannosaure        m, tyrannosaurus
@@ -15825,7 +15830,7 @@ zézayer             lispelen, slissen
 écartelé            gevierendeeld, blootleggen, uitgraven
 écarter             verwijderen, wegsturen, aan de kant gaan, openschuiven, opzij duwen, spreiden, bevrijden van
 écartèlement        m, vierendeling, verscheuring
-écarté              uitgespreid
+écarté              uitgespreid, verwijderd
 échafaud            m, schavot, steiger, stelling
 échafaudage         m, steiger, stellage, stelling
 échancrure          f, bocht, inham, verdunning, ouverture, espace libre ou vide
@@ -16503,4 +16508,8 @@ rada                m, soort drum, tambour
 dresseur            m, africhter, dresseur, trainer, dresser
 capharnaûm          m, un endroit en désordre
 sniffer             snuiven, faire entrer qqch en soi
-=== Le Clézio --- Poisson d'or --- pag. 195 bovenaan --- ===
+œdème               m, waterzucht, oedeem, hydropsie, zucht
+de main en main     ownership passed from hand to hand
+trailer             m, aanhangwagen, woonwagen, trailer
+frimousse           f, gelaat, aangezicht, tronie, gezicht, smoel
+=== Le Clézio --- Poisson d'or --- pag. 201 bovenaan --- ===
