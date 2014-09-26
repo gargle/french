@@ -6425,7 +6425,7 @@ figurer             voorkomen, een rol spelen, uitbeelden
 figurine            f, beeldje, figuurtje, poppetje
 figé                bezet, strak, gestold, samenkoeken, frozen
 figé de stupeur     bevroren stupor
-figée               gestold, samengekoekt, strak, bezet
+figée               gestold, samengekoekt, strak, bezet, frozen
 fil                 m, draad, sliert, waterloop, stroming
 fil de chaîne       schering, doek
 fil de fer          m, ijzerdraad
@@ -16512,4 +16512,6 @@ sniffer             snuiven, faire entrer qqch en soi
 de main en main     ownership passed from hand to hand
 trailer             m, aanhangwagen, woonwagen, trailer
 frimousse           f, gelaat, aangezicht, tronie, gezicht, smoel
-=== Le Clézio --- Poisson d'or --- pag. 201 bovenaan --- ===
+café des morts      m, koffie van de doden?
+glas                m, doodsklok
+=== Le Clézio --- Poisson d'or --- pag. 202 bovenaan --- ===
