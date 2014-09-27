@@ -8347,6 +8347,7 @@ irascible           heetgebakerd, heethoofdig
 irascible           heetgebakerd, heethoofdig, humeurig, opvliegend
 iridescente         regenboogkleurig, iriserend, opaliserend, gekleurd
 iris de roche       bloem
+iris                m, iris, regenboogvlies
 irisation           f, kleurenspel
 irisé               in de kleuren van een regenboog
 ironie              f, ironie
@@ -9951,6 +9952,7 @@ nacré               parlemoer, parelmoer
 nage                f, watersport, sport nautique, dobberen, drijven, slag, zwemslag
 nageoires           f, flipper, vin, zwemvlies
 nager sur place     watertrappelen
+nager               zwemmen, drijven, dobberen
 nageur              m, bader, watersporter, zwemmer
 naguère             een keer, recent, niet lang geleden
 nain                m, dwerg, tuinkabouter
@@ -16514,4 +16516,5 @@ trailer             m, aanhangwagen, woonwagen, trailer
 frimousse           f, gelaat, aangezicht, tronie, gezicht, smoel
 café des morts      m, koffie van de doden?
 glas                m, doodsklok
-=== Le Clézio --- Poisson d'or --- pag. 202 bovenaan --- ===
+presbyte            m, verziend, maladie de la vue - (scheelkijken; loensen)
+=== Le Clézio --- Poisson d'or --- pag. 203 bovenaan --- ===
