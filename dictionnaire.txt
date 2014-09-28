@@ -150,6 +150,7 @@ abstrait            m, abstract, theoretisch, vaag
 abstrus             duister, geheimzinnig
 absurdement         onzinning, ongerijmd, absurd
 absurdité           f, absurditeit
+abus                m, misstand, wantoestand, misbruik
 abus de             misbruik van
 abuse               misleid
 abysses             m, afgrond
@@ -5560,6 +5561,7 @@ en quatrième        in vierde
 en quelque mesure   to a degree
 en quelque sorte    in zekere zin
 en quoi             hoe
+en quoi de ce soit  in om het even wat
 en quête de         op zoek naar
 en rasant les murs  afromen, langs de muren sluipen/scheren?
 en revanche         anderzijds, aan de andere kant, daarentegen
@@ -9702,7 +9704,7 @@ moteur              m, motor
 motif               m, motivering
 moto                f, moto, motorfiets
 motocyclette        f, motorrijwiel, motorfiets, motor
-motrice             stuwkracht
+motrice             f, stuwkracht, véhicule qui tire, locomotief
 motte               f, brok, klontje, kluit
 mou, molle          slap, traag, zacht, zonder ruggegraat, slaperig
 mouchard            m, verklikker
@@ -10571,7 +10573,8 @@ par-dessus bord     overboord
 par-dessus le marché    en supplément, de plus, en plus, par surcroît
 parabole            f, parabool
 parabolique         parabolisch
-parade              f, counter
+parade              f, counter, parade
+parade funéraire    f, begrafenisstoet?
 paradis             m, paradijs, hemel, hemelrijk
 paradoxalement      paradoxaal
 paradoxe            m, paradox
@@ -11052,6 +11055,7 @@ piste               f, spoor, baan, circuit
 pister              bijhouden, spoor, spoorzoeken?
 pistoles            f, ancienne monnaie française
 pistolet à crosse   m, pistool, (kolf)pistool
+pistolet            m, pistool, vuurwapen, blaffer
 piston              m, zuiger, piston, dompelaar, stuwkracht, koperblazer
 pisé                en pisé = gebakken aarde, leemsteen
 piteux              arme, genade, mededogen, medelijden
@@ -11068,6 +11072,7 @@ pivoines            f, bloem, pioenroos
 pivoter             buigen, afsnijden, circelen, draaien
 pizzeria            f, pizzeria
 pièce               f, slaapvertrek, kamer, documenten, papieren
+pièce d'identité    f, legitimatie, identiteitsbewijs
 pièce de monnaie    f, kleingeld
 pièce à conviction  bewijsstuk
 piècette            f, pièce de monnaie métallique fiduciaire - geldstuk; muntstuk
@@ -13378,6 +13383,7 @@ se appartenir       iemands zaak zijn
 se assurer          verzekeren, overtuigen, vergewissen, verzekeren
 se attacher à       belang hechten aan
 se attendrir        ontroerd worden, vertederd worden
+attendrir           ontroeren, vertederen, vertederd worden, mals maken
 se battre les couilles  se désintéresser ou être totalement indifférent de la chose ou personne en question.
 se camper           zich oprichten, provoceren
 se carra            achteroverleunen
@@ -14545,6 +14551,7 @@ tissu, tissus       m, doek, laken, kleed, stof
 titane              m, titaan, titanium
 titiller            prikkelen
 titre               m, titel, graad
+titre de transport  m, plaatsbewijs, biljet
 titrer              titreren, blokletteren
 tituber, titubant   duizelen, waggelen, wankelen, spartelen
 tiède               halfwarm, lauw, lauwwarm, matig, vatbaar, ontvankelijk, weekhartig
@@ -16517,4 +16524,8 @@ frimousse           f, gelaat, aangezicht, tronie, gezicht, smoel
 café des morts      m, koffie van de doden?
 glas                m, doodsklok
 presbyte            m, verziend, maladie de la vue - (scheelkijken; loensen)
-=== Le Clézio --- Poisson d'or --- pag. 203 bovenaan --- ===
+urinal              m, urinaal, urinoir, pisbak, waterbak, waterglas
+cortisone           f, cortisone
+être oublié         hiaat in het geheugen, lacune in het geheugen
+sermon              m, sermoen, preek
+=== Le Clézio --- Poisson d'or --- pag. 207 midden --- ===
