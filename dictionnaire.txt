@@ -741,6 +741,7 @@ apaisé              geruststellen, tot bedaren brengen, paaien, kalmeren, lesse
 aparté              afdwaling, terzijde, uitweiding
 apathique           apatisch, lusteloos, traag
 apercevoir, aperçu, aperçoive   gewaarworden, bemerken, opmerken, zien, signaleren
+se apercevoir       gewaarworden, tot de ontdekking komen, merken, gewaarworden
 aperçu              m, ouvrage, livre, œuvre de récit imaginé
 apesanteur          f, gewichtloosheid, lichtheid
 apeuré              met angst, saisi par la peur
@@ -2042,7 +2043,7 @@ bramer              tekeer gaan, schreeuwen, roepen, gillen, tieren, uitvallen t
 branchage           m, ensemble des branches d'un arbre
 branche             f, aftakking, tak
 branchement         m, verbindingen
-brancher            schakelen
+brancher            schakelen, aansluiten, inpluggen, verbinden
 branchie            f, kieuw, kieuwspleet
 branché             levend, energiek, geladen, gloeiend
 branché à la con    ?
@@ -2731,6 +2732,7 @@ chambardement       m, omwenteling
 chambellan          m, kamerheer
 chambranles         m, deurpost
 chambre             f, kamer
+chambre à coucher   f, slaapkamer
 chambre d'angle     f, hoekkamer
 chambre de bonne    f, vliering
 chambre à air       f, binnenband
@@ -3771,6 +3773,7 @@ coup de tête        m, een gril
 coup sur coup       keer op keer
 coupable            m, beschuldigde, boosdoener, dader, schuldige
 coupantes           scherp
+être coupant        cutting edge?
 coupe               f, kop, beker, coupe, nap, oogst, teelt
 coupe-coupe         m, machette
 coupe-vent          m, vêtement civil masculin : haut du corps, rokkostuum, avondkostuum
@@ -16029,6 +16032,7 @@ haïtienne           f, van Haïte
 élucider            duiden, er achter komen, verklaren, verhelderen
 élucidé             napluizen, navlooien, op het idee komen, uitdenken,
 élucubrent, élucubrer  zich inbeelden, zich verbeelden, zich indenken, zich voorstellen
+élucubration        f, artefact, chose immatérielle
 éluder              éviter, fuir, vermijden
 élytre              m, vleugelschild, dekschild (insect)
 élève               m, leerling, pupil, schooljongen, gemanierd
