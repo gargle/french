@@ -439,6 +439,7 @@ ailerons            m, vinnen
 ailes               f, vleugel, vlerk, spatbord
 ailleurs            elders, ergens anders, op een andere plaats
 ailées              gevleugeld
+ail                 m, look, knoflook
 aimant              m, magneet, aantrekkingskracht
 aimanté             magnetiseren, liefdevol
 aine                f, lenden, buik, lies
@@ -2369,6 +2370,7 @@ calamine            f, zinc peroxyde
 calamiteux          tragiek, katastrofe, drama, ellende
 calamité            f, plaag, rampzaligheid
 calanques           f, crique, kreken, kreek
+calandre            f, snuitkever
 calcaire            kalkhoudend, krijtachtig
 calciner, calciné   verassen, charred (english), verbrand
 calcite             f, kalkspaat, mineraal, gesteente
@@ -3176,13 +3178,14 @@ cochon de lait      m, big, knorretje, speenvarken, varken(tje)
 cochonnaille        f, charchuterie, vleeswaren
 cochonnerie         f, mest, varkensstal, malpropreté, obscénité
 cochère             f, koetsier, menner, huisbediende, huisknecht
-cochére             m, koetsier, menner
+porte cochère       f, afscheiding, dranghek, slagboom, ouverture (dans un édifice), poort, deur
 cocktail            m, cocktail
 cocktail de crevettes  m, garnalencocktail
 cocktail lytique    m, combinaison médicamenteuse qui bloque les fonctions du système nerveux autonome
 cocotier            m, cocosboom, cocospalm
 cocon               m, cocon, kokon, pop
 codante             codering
+coder, codé         coderen, encrypteren, vercijferen, versleutelen, koderen
 code                m, code
 codétenus           medegevangenen
 coefficient         m, product (vermenigvuldiging), correlatie
@@ -4400,6 +4403,7 @@ diction             f, uitspraak, dictie, voordracht
 dictionnaire        m, woordenboek, lexicon, thesaurus
 dictée              f, dictée
 diffamation         f, belastering, eerroof, kleinering, smaad, verdachtmaking
+diffracter          breken
 difficulté          f, moeilijkheid, dilemma, lastigheid, kwestie
 diffuse             diffuus
 diffuser            uitzenden
@@ -4995,6 +4999,7 @@ démolir             het einde betekenen van, neerslaan, vernield, gesloopt, stu
 démolisseur         m, afbreker, 
 démon               m, demon, duivel, Beëlzebub, lucifer, mefisto, satan
 démonologie         f, demonenleer
+monosyllabe         m, eenlettergrepig woord
 démonter            demonstreren, aantonen, resulteren, hardmaken, leiden
 démontrable         aantoonbaar, aanwijsbaar, bewijsbaar
 démontrer           aantonen, bewijzen
@@ -8955,7 +8960,7 @@ louage              m, huur, transport
 louange             f, eerbetoon, lof, lofuiting, pluim
 louange             lof, loftuiting, pluim
 louangeurs          vleierig
-loubars             m, bendelid, aggressieveling, nozem
+loubars, loubards   m, bendelid, aggressieveling, nozem, vandaal, onmens, beul, wreedaard
 louche              dubieus, onzeker, suspekt, twijfelachtig, verdacht, suspicious
 louche              f, pollepel, soeplepel
 loucher             scheel kijken, scheelzien
@@ -11356,7 +11361,7 @@ portant             m, set, decor (theater), pièce de bois dressée verticaleme
 porte               f, deur, deuropening, portaal, toegang
 porte cochére       m, garagepoort
 porte palière       f, deur die op een verdieping uitgeeft
-porte-clé           m, sleutelhanger
+porte-clé, porte-clefs      m, sleutelhanger
 porte-conteneurs    m, containerschip
 porte-documents     m, aktentas, diplomatenkoffer
 porte-guigne        fetisch, amulette, mascotte, talisman
@@ -11812,7 +11817,7 @@ prévenance          f, voorzichtigheid, behoedzaamheid, voorkomendheid, behulpz
 prévenant           aandachtig, alert, attent, oplettend
 prévention          f, vooringenomenheid
 prévenus            m, aangeklaagde, beklaagde, beschuldigde
-prévisible          nabij, te voorzien, vanzelfsprekend, voorspelbaa
+prévisible          nabij, te voorzien, vanzelfsprekend, voorspelbaar
 prévisionnel        prognose, qui fait l'objet d'une étude antérieure à quelque chose
 préétabli           vooraf vastgestelde
 prêche              m, preek
@@ -11906,6 +11911,9 @@ pâlichonne          bleekjes, flets, pips
 pâlir, pâlissaient  bleek worden, ontkleuren, achteruitdeinzen
 pâmé, pâmer         zich vergapen aan, bezwijmen, flauwvallen, wegraken, sending into hysterics
 pâte                f, deeg, deegwaren, caractère de l'individu, the very stuff of things
+pistou              m, une sauce, équivalent provençal du pesto ligure, à base de basilic pilé, d'ail et d'huile d'olive
+olive               f, olijf
+sauce               f, saus
 pâte à modeler      f, boetseerklei
 pâte dentifrice     f, tandpasta
 pâteux              klef
@@ -16532,4 +16540,5 @@ urinal              m, urinaal, urinoir, pisbak, waterbak, waterglas
 cortisone           f, cortisone
 être oublié         hiaat in het geheugen, lacune in het geheugen
 sermon              m, sermoen, preek
-=== Le Clézio --- Poisson d'or --- pag. 207 midden --- ===
+obole               f, monnaie antique, monnaie ancienne, gift, begiftiging, schenking
+=== Le Clézio --- Poisson d'or --- pag. 211 bovenaan --- ===
