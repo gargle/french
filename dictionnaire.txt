@@ -1909,7 +1909,8 @@ bouchonner          droogwrijven
 bouchons de liège   kurken
 bouché              verstopt
 bouchée             f, laadklep, klep, beet, hapje, hap, mondvol
-boucle, boucles     f, band, krullen, bocht, gesp
+boucle, boucles     f, band, krullen, bocht, gesp, krinkel
+boucle musicale     f, musical loop
 boucler l'affaire   het geval afhandelen
 boucler une ronde   afsluiten van een ronde
 boucler, bouclera   gespen, omgespen, vastklemmen, mettre dans un espace où l'on enferme
@@ -2587,6 +2588,7 @@ carte postale       f, postkaart
 cartes en velin     vellum kaarten
 cartilage           m, kraakbeen, knorbeen
 carton              m, kartonnen doos, bordpapier, karton, hardboard
+carton à chaussures m, schoendoos
 carton bouilli      bordpapier
 cartonnage          m, bordpapier, karton
 cartouchières       f, patroongordel
@@ -3801,7 +3803,7 @@ coups de sonde      m, peilingen
 coupure             f, afsnijding, snee, snijwond, knipsel, splitsing, scheiding, separatie
 coupé à ras         afgezaagd
 coupée              f, brug van een schip, toegang, ingang, toegangsdeur
-cour                f, hof, achterplaats, binnenhof
+cour                f, hof, achterplaats, binnenhof, koer
 cour d'assises      f, assisenhof
 cour pavée          f, binnenkoer, binnenplaats, betegeld, geplaveide hof
 courage             m, de moed, dapperheid
@@ -4595,7 +4597,7 @@ douceâtre           zoetachtig, zoetig
 douche              f, douche, stortbad
 doudoune            f, jas
 douilles            f, patroonhuls
-douillette          behaaglijk, gezellig
+douillet, douillette   behaaglijk, gezellig
 douleur             f, lijden, droefheid, kwaad, leed, nood
 douleur             m, kwaad, pijn, zeer, leed, lijden
 douloureuse         pijnlijk, gevoelig, liefhebbend, smartelijk, zeer
@@ -5141,7 +5143,7 @@ désenchantement     m, ontgoocheling
 désenchanter        de illusie benemen, ontgoochelen
 désenchanté         ontgoochelend, gedesillusioneerd
 désengager          opt-out, losmaken
-désert              uitgestorven, verlaten
+désert              m, woestijn, uitgestorven, verlaten
 déserte             verlaten
 déserteur           m, deserteur
 désertique          onbewoond, verlaten, woestijnachtig
@@ -11478,7 +11480,7 @@ pourvoi             m, beroep (in rechtszaken)
 pourvoyeur          m, outfitter, soldat qui utilise une arme automatique
 pouser la barde     de baard laten groeien
 pouser à son terme  push tot het einde
-pousser             voordrijven (vee), omhoogschieten, uitstoten, losmaken, uitperson, tieren
+pousser             voordrijven (vee), omhoogschieten, uitstoten, losmaken, uitperson, tieren, groeien
 pousser à bout      geweld aandoen, veel vergen van
 pousses             f, aanwas, scheut
 poussette           f, buggy, go-cart, wandelwagen
@@ -13581,7 +13583,7 @@ semblant de dérision    schijn van spot
 sembler             overkomen, blijken, lijken, schijnen
 semelle             f, schoenzool
 semence             f, sperma, zaad
-semer, semé         zaaien, planten, uitzaaien, rondzaaien, insemineren, distancer, leave behind, lose, shake off
+semer, semé         zaaien, planten, uitzaaien, bezaaien, insemineren, distancer, leave behind, lose, shake off
 semeur              m, zaaier, zaaimachine
 semi-remorque       m, oplegger, trailer, vrachtwagencombinatie
 semonce             f, berisping
@@ -13835,6 +13837,7 @@ soudre              oplossen
 soudure             verenigen, lassen, hereniging
 soudé               aan elkaar gegroeid, aan elkaar gelast, dichtgegroeid, vergroeid
 souffle             m, adem, ademtoch, windstoot
+soufflerie          f, pijporgel, kerkorgel, ijzer, meetinstrument, maatglas, maatstok
 souffle caillouteux steenachtige adem
 souffler            op adem komen, uitblazen, verklappen, blazen, wegblazen, zuchten
 soufflet            m, filmdroger, blaasbalg, slap in the face, oorveeg, koppeling tussen wagons
@@ -16541,4 +16544,5 @@ cortisone           f, cortisone
 être oublié         hiaat in het geheugen, lacune in het geheugen
 sermon              m, sermoen, preek
 obole               f, monnaie antique, monnaie ancienne, gift, begiftiging, schenking
-=== Le Clézio --- Poisson d'or --- pag. 211 bovenaan --- ===
+chapka              f, coiffure de forme assez souple, mutsje; muts; hoed; kardinaalshoed; bonnet
+=== Le Clézio --- Poisson d'or --- pag. 215 bovenaan --- ===
