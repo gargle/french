@@ -1676,7 +1676,7 @@ benêt               m, debiel, domkop, domoor, uiskuiken
 bepc                diploma lager middelbaar onderwijs
 berbère             m, berbers
 bercail             m, famille, maison, lieu d'origine, abri
-berceaux            m, wieg, geboortehuis, geboorteplaats
+berceau, berceaux   m, wieg, geboortehuis, geboorteplaats
 bercer              koesteren, wiegen, schommelen
 bercés              koesteren, wiegen
 berge, berges       f, wegberm, waterzijde, rivieroever, berm
@@ -2504,7 +2504,7 @@ capitonnées         overtrokken
 caporaux, caporal   m, brigadier, corporaal
 capot               m, kap, motorkap
 capoter             over de kop gaan, terzijde schuiven
-capotes             f, afzuigkap, condoom, dak (wagen)
+capote, capotes     f, afzuigkap, condoom, dak (wagen)
 caprices            m, willekeurigheid, wispelturigheid, impuls, luim, bevlieging
 capricieux, capricieuse                 grillig, temperamentvol, wispelturig
 capsule             f, afsluitdop, sluitdop, dop, capsule, kapsel
@@ -2866,7 +2866,7 @@ chauve              haarloos, kaal
 chauves-souris      f, vleermuizen
 chaux               f, kalk
 chavirer            kantelen, kapseizen, kenteren, omslaan, omvallen, uit bed vallen, falling out, rolling (eyes)
-chaîne              f, keten, ketting, montageband, productieband
+chaîne              f, keten, ketting, montageband, productieband, muziekketen, muziekinstallatie
 chaînons            m, schakel
 chef                m, aangezicht, bek, smoel, gezicht, hoofd, leider, aanvoerder
 chef de file        m, voorvechter
@@ -7265,7 +7265,7 @@ greffe              f, ent, transplantaat
 greffe              m, griffie, gerechtshof
 greffer             enten, griffen, transplanteren, overplanten
 greffier            m, griffier
-grelot              m, fam. ratel
+grelot              m, fam. ratel, bel, torenklok
 grelots             kleine metalen klokjes
 grelottement        m, rillen
 grelotter           huiveren, beven, bibberen, rillen
@@ -7537,7 +7537,7 @@ hasarder            gokken, zich wagen aan
 hasardeuse          gevaarlijk, gedurfd, gewaagd, risicovol
 haschischins        m, iemand die hasj rookt
 haschich            m, hash
-hauban              m, stormlijn, cordage de bateau
+hauban, haubans     m, stormlijn, cordage de bateau, câble pour tendre, raidir
 haussement          m, ophalen van, optrekken van, het optrekken
 haussement d'épaules   schouderophalen, schouderophaling
 hausser             naar boven jagen, omhoogdraaien, verhogen, optrekken, ophalen (schouders)
@@ -9312,7 +9312,7 @@ maréchal            m, maarschalk
 maréchal des logis  m, officier, sergant-majoor
 maréchal-ferrant    m, hoefsmid
 marée noire         f, olielozing, polutie
-marées              f, vloed, getij, tij, watergetij, getijde
+marée, marées       f, vloed, getij, tij, watergetij, getijde
 masque              m, masker
 massacre            m, slachtpartij
 massacrer           mangelen, verknoeien, afslachten, uitmoorden, moorden
@@ -9834,6 +9834,7 @@ mâchonner           hoorbaar kauwen, smakken
 mâle                mannetjes, hij-, manspersoon
 mânes               zielen (oude Rome)
 mât                 m, scheepsmast, vlaggemast, mast, paal
+mât télé            m, televisieantennes
 mât de cocagne      glibberig gemaakte paal met bovenaan geschenken
 mâtine              f, bastaard
 mâtiné              gekruist (van dieren), métis, métissé
@@ -9967,8 +9968,7 @@ nager sur place     watertrappelen
 nager               zwemmen, drijven, dobberen
 nageur              m, bader, watersporter, zwemmer
 naguère             een keer, recent, niet lang geleden
-nain                m, dwerg, tuinkabouter
-naine               f, dwerg, lilliputter
+nain, naine         m/f, dwerg, tuinkabouter, lilliputter
 naissance           f, geboorte, aanbreken, ontstaan, opkomst, wording, begin
 naissant            opkomend, verrijzend
 nana                f, griet, stoot, stoeipoes, vrouw, wijf
@@ -11205,8 +11205,7 @@ ployer, ployé       buigen, plooien
 pluie               f, de regen, neerslag
 pluie               f, regen, regenval, regenbui, neerslag, hemelwater
 pluie battante      f, bui, hoosbui, plensbui, regenval, waterhoos, wolkbreuk
-plume               f, pen, pluim, veder, veer, vogelveer
-plumes              f, vogelveren,  pluimpje
+plume, plumes       f, pen, pluim, veder, veer, vogelveer
 plumier             m, pennenbakje, potloodvak
 plupart             f, merendeel, bijna alle, de meeste
 plus aigu           scherper
@@ -11312,6 +11311,7 @@ polytechnicien      m, afgestuurde poly-technisch onderwijs, élève ou ancien �
 polémiste           polemist
 pommade             f, smeersel, smeerzalf, zalf, zalfolie
 pomme               f, deurknop, knob
+pommes noisettes    f, boulettes de pommes de terre frites dans l'huile
 pomme d'Adam        f, adamsappel
 pommeau             broes, doucheknop, sproeidop
 pommeau             m, handvat
@@ -11391,7 +11391,7 @@ positiviste         m, realist
 positiviste         positivist, rationalist, verstandsmens
 possession          f, in bezit zijn
 possibilité         f, mogelijkheid, kans, gelegenheid
-poste               f, de Post
+poste               f, de Post, radio, tv-toestel
 poste               m, ambt, baan, positie, station
 poste de barre      m, het roer van een schip?
 poste de radio      m, radio-toestel
@@ -11977,7 +11977,7 @@ périmètre           m, buitenrand, omtrek, periferie
 périmé              niet meer geldig
 période             f, stukjes, periodes
 périphrase          f, bepaling, omschrijving, omhaal
-périphérie          f, omtrek, periferie, rand
+périphérie          f, omtrek, periferie, rand, ring
 périple             m, reis, trek, toer
 péripéties          onverwachte gebeurtenis, accident, épisode, événement
 périr, périrait, périssent      creperen, heengaan, de pijp uitgaan, kapotgaan, het loodje leggen
@@ -12008,6 +12008,7 @@ pété les plombs     freaked out
 pêche               f, visserij, visvangst
 pêche au lancer     f, hengelsport, pêche à la ligne, sportvisserij
 pêcher              vissen, hengelen
+pêchers nains       m, dwergperzikkenboom
 pêcheur             m, visser
 pêle-mêle           dooreen, door elkaar, kriskras, overhoop
 qu'a cela ne tienne maakt niet uit, peu importe
@@ -12027,7 +12028,7 @@ quadrillage         m, rooster
 quadriller          afhandelen, afwerken, vereffenen, schakeren, geruit
 quadrumane          m, vierhandig, aap
 quadrupède          vierpotig, viervoetig
-quai                m, ka, kaai, kade, perron
+quai, quais         m, ka, kaai, kade, perron
 qualité             f, kwaliteit, mate, niveau
 quantité            f, hoeveelheid
 quart               m, kwart, vierde
@@ -12816,7 +12817,7 @@ rouillé             roestbruin
 roulant, rouler     bedonderen, bedotten, afdraaien, werken, oprollen, pondering, rollen
 rouleau             m, boekrol, rol, golf
 rouleau compresseur m, stoomwals
-roulement           m, galm, gerommel, klokgelui, roffel, wiebelen
+roulement           m, galm, gerommel, klokgelui, roffel, wiebelen, geraas?
 rouler dessus       overrijden
 rouler en boudin    zoals een worst ineengedraaid
 roulettes           f, kleine wieltjes
@@ -13570,8 +13571,7 @@ sein, seins         m, borst
 seing               m, signature
 sel                 m, zout
 sel gemme           m, klipzout, steenzout
-selle               f, uitwerpselen, (fiets)zadel, leer, leder, nappa
-selle               f, zadel
+selle               f, uitwerpselen, (fiets)zadel, leer, leder, nappa, zadel
 selle d'agneau      f, lamszadel, lamsgebraad
 seller              opzadelen, zadelen
 sellette            f, harnas, kruisverhoor
@@ -14828,6 +14828,7 @@ trempe              f, karaktertrek, faculté de vouloir, wil, faculté de l'esp
 tremper             doordrenken, dopen, brouwen, temperen, uitgloeien, verharden, dompelen, weken, indopen
 trempé              doorweekt, drijfnat, kletsnat, vol water
 trentenaire         dertig jarig
+trente et unième    éénendertigste
 tressaille          huiveren, ineenkrimpen, ineenduiken, krullen, terugdeinzen, huiveren, ineenkrimpen
 tressaillement      m, gevoel van opwinding, kick, tremors
 tressauter          springen, schudden
@@ -15268,7 +15269,7 @@ vertes années       f, groene jaren, onervaren jaren
 verticale           f, ligne (géométrie), ligne droite, chose verticale, helling?
 verticalité         verticaliteit
 vertige             m, duizeligheid, draaiing, hoogtevrees, giddiness
-vertigineuse        draaierig, duizelingwekkend, hoogte, door belangrijkheid
+vertigineux, vertigineuse            draaierig, duizelingwekkend, hoogte, door belangrijkheid
 vertu               f, deugd, deugdzaamheid, verdienste, merite
 vertueuse           deugdzaam, goed, rechtschapen
 vertèbres           f, wervels
@@ -15945,7 +15946,7 @@ zézayer             lispelen, slissen
 écrit               m, tekst, leesstof, document, handschrift, épreuve d'examen scolaire
 écrite de net       in het net schrijven, voor waar schrijven?
 écriteaux           m, bord, naambord, uithangbord
-écriture            f, het schrijven
+écriture            f, het schrijven, handschrift, schrift
 écrivain            m, de schrijver, auteur
 écrié               uitroep
 écroulement         m, instorten, bezwijken, invallen
@@ -16401,7 +16402,7 @@ haïtienne           f, van Haïte
 îlot                m, eilandje, patches
 ôter, ôtant         nemen, aftrekken, snel uittrekken, verwijderen, wegnemen, ontdoen, losmaken
 Œuvres du Mal       f, werken van het Kwaad
-œil                 m, oog
+œil, yeux           m, oog
 œil beau            m, mooie ogen
 œil morne           m, oog, blik
 œil vide            m, lege blik?
@@ -16545,4 +16546,13 @@ cortisone           f, cortisone
 sermon              m, sermoen, preek
 obole               f, monnaie antique, monnaie ancienne, gift, begiftiging, schenking
 chapka              f, coiffure de forme assez souple, mutsje; muts; hoed; kardinaalshoed; bonnet
-=== Le Clézio --- Poisson d'or --- pag. 215 bovenaan --- ===
+tunnel              m, tunnel, opbouw, constructie
+archaïque           archaïsch
+fleurir             openbloeien, floreren, bloeien
+répondeur           m, antwoordapparaat
+porte coupe-feu     f, brandwerende deur
+bord                m, boord, rand, proche de la limite, surface, ...
+piratage            m, piraterij
+démasquer           ontmaskeren, betrappen, afbreken, met de grond gelijk maken
+à lanières          gevlochten?
+=== Le Clézio --- Poisson d'or --- pag. 223 bovenaan --- ===
