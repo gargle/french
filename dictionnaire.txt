@@ -2353,7 +2353,7 @@ cahier à dessin     m, tekenschrift, kleurboek
 cahier à spirale    m, spiraalschrift, spiral notebook
 cahotante           hobbelig, hortend, schokkend
 cahoter             hobbelen, slingeren, waggelen, schokken
-cahots              m, hobbels
+cahots              m, hobbels, schokken
 caicédrat           boom
 caillasse           f, sable, zandig, stenen op de grond
 cailles             f, kwartel
@@ -2615,7 +2615,7 @@ casser la croûte    eten, een lichte maaltijd nuttigen, vergelijken
 casser la gueule    afmotten?
 casser le jeu       breken van het spel
 casser les pieds    engendrer l'ennui,
-casser, cassé       afbreken, verpletteren, to smash
+casser, cassé       afbreken, verpletteren, to smash, wegscheuren, het opgeven
 casserole           f, braadpan, pan
 cassette            f, geldkistje, opbergkist, band, cassetteband, geluidscassette
 casseuse            f, houwer, metselaar, steengraver, steenhouwer
@@ -3136,8 +3136,7 @@ cliqueter           klikken, klakken, tikken
 cliquetis           m, botsing, collisie, gekletter, gerammel
 cliquètement        m, geklik
 cloaque             m, beerput
-clochard            m, clochard, landloper, vagebond
-clocharde           f, clochard
+clochard, clocharde m/f, clochard, landloper, vagebond
 cloche              f, klok, stolp, torenklok, bel
 clocher             m, kerktoren, klokkentoren
 clocheton           m, haute construction, tour, kerktoren
@@ -4958,6 +4957,7 @@ délicatement        voorzichtig, zacht
 délicatesse         f, fact, fijngevoeligheid, teerheid, fijnzinnigheid
 délices             blijdschap, vreugde, genoegen, verrukking
 délicieuse          heerlijke, sappige, smakelijke
+délicieusement      verrukkelijk, heerlijk, overheerlijk, delicieus, zalig, lekker
 délinquance         f, misdadigheid, vandalisme
 délirant            gek, stapelgek, woest, uit de bol, uitzinnig
 délire              m, waanzin, gekheid, gekte, aanvuring
@@ -5888,6 +5888,7 @@ envahissante        doordringend, opdringerig
 envahissement       m, overweldiging, binnendringen, binnenvallen
 enveloppant         omfloerst
 envelopper          verdikt, omhullen, omwikkelen, omsluieren, omsingelen
+enveloppe           f, briefomslag, enveloppe
 envenimer           etteren, veretteren, zweren
 envenimé            venijnig, giftig
 envergure           f, formaat, spanwijdte, vleugelbreedte
@@ -6105,7 +6106,7 @@ expéditif           prompt, voortvarend
 expédition          f, verzending, versturing, veldtocht, expeditie
 expéditionnaire     expeditie-, militair, verzender
 expérience consommée    f, volmaakte ervaring
-expériences         f, proeven, experimenten, ervaring
+expérience, expériences f, proeven, experimenten, ervaring
 expérimentaux       proef-
 exquise             heerlijk, exquis, exquisiet, uitgelezen, klasse, eersteklas, uitstekend, verfijnd
 exsangue            uitgeput
@@ -7487,6 +7488,7 @@ haine               f, afkeer, afschuw, haat, gruwel, hekel
 haineux             haatdragend
 halan de vache      ?
 haleine             f, ademhaling, respiratie
+odeur d'haleine     f, geur van adem
 haler               halen, meeslepen, slepen, sleuren
 haler au sec        op het droge trekken
 haletante           ademloos, buiten adem, kortademig
@@ -10276,6 +10278,7 @@ ombrelle            f, paraplu, zonnescherm, parasol
 ombrette            f, afrikaanse vogel
 ombreuse            schaduwrijk
 omelette au jambon  f, ham omelet
+jambon              m, ham, hesp
 omis                verzaken
 omission            f, verzuim, weglating
 omniscient          alwetend
@@ -11371,6 +11374,7 @@ porte-jarretelles   m, jarretelgordel
 porte-plume         m, pennehouder, petite tige au bout de laquelle on engage une plume métallique pour écrire
 porte-siège
 porte-voix          m, megafoon
+porte-bagages       m, bagagerek, bagagedrager, imperiaal, ruif, rek
 portefeuille        m, portefeuille
 portemanteau        m, klerenhanger, hanger, kapstok
 porter              onderhouden, doorstaan, verdragen
@@ -11903,7 +11907,6 @@ puérile             infantiel, kinderachtig
 puîné               nakomeling
 pyjama              m, piama, pyjama
 pylône              m, hoogspanningsmast, lichtbaken
-pylône              m, hoogspanningsmast, luchtbaken
 pyromane            m, pyromaan
 pyrosphère          f, steensoort, aardkorst, film, vlies, laagje
 pythonisse          f, wichelaarster, zieneres, magiër, tovenaar
@@ -13391,6 +13394,7 @@ se abandonner       zich overgeven aan
 se acquitter        afbetalen, zich kwijten
 se affiner          gladstrijken, langer worden
 se affronter        slaags raken
+affronter           standhouden, bezwaar hebben tegen, trotseren, dulden, gedogen, verweren, mee afrekenen
 se agiter           zich verroeren, roeren, bewegen, opjagen
 se apaiser          te sussen
 se appartenir       iemands zaak zijn
@@ -13775,6 +13779,7 @@ sommation           f, aansporing, vermaning, aanmaning, dagvaarding
 somme               f, eindbedrag, totaalbedrag
 somme toute         in totaal, al met al
 sommeil             m, rust, slaap, slaperigheid
+sommeil lourd       m, diepe slaap
 sommeil en retard   m, te weinig slaap gehad hebben
 sommeiller          doezelen, dommelen, indutten
 sommet              m, apex, spits, top, hoogste punt, kruin, climax, uitschieter
@@ -14361,6 +14366,7 @@ tas d'ordures       m, hoop, partij, opeenhoping, opeenstapeling
 tas de              m, hoopje, hoop, a swarm of
 tas de merde        m, hoopje shit
 tasse               f, tas
+tata                f, auntie, tante
 tasser, tassé       omlaagdrukken, verkleinen, ineenkrimpen, relaxen
 tatillon            m, adj., overdreven precies, pietluttig
 tatouage            m, tatouage
@@ -14631,7 +14637,7 @@ tordant             giller, lachsucces
 tordre              krommen, krombuigen, trekken, verbuigen, knijpen, slingeren, spinnen, verwringen, verdraaien
 tordus, tordues     kromgebogen, verwrongen, gedraaid, krom, twisted
 tornade             f, dwarrelwind, storm, tornado, wervelwind, windhoos
-torpeurs            f, rust, traagheid, slaap, inertie, lethargie
+torpeur, torpeurs   f, rust, traagheid, slaap, inertie, lethargie
 torpille            torpederen
 torpédo             f, open touring car
 torquémadades       ?
@@ -14702,6 +14708,7 @@ tout au plus        alleen maar, gewoon, hoogstens, hooguit
 tout avait déferlé  everything was swept
 tout bas            intérieurement, inwendig, in zijn achterhoofd, van binnen, innerlijk
 tout d'un coup      plotseling, bruusk, eensklaps
+tout droit          rechtdoor, rechttoe, rechtaan, rechuit, vooruit
 tout de go          d'une manière explicite et intelligible
 tout de même        natuurlijk, zeker
 tout du moins       minstens
@@ -14933,7 +14940,7 @@ trépidation         f, tremor, trillingen
 trépieds            m, driepoot
 trépigner           stampen, stampvoeten
 trésor              m, schat, kostbaarheden, juweel
-tréteau             m, stellage, onderstel
+tréteau             m, stellage, onderstel, appui, soutien, support matériel - steunder, steun, stut, drager, houder
 trêve               f, rust, pauze, staak het vuren, wapenstilstand
 trôner              tronen
 tu t'en faire       je zorgen maken
@@ -15782,7 +15789,7 @@ zézayer             lispelen, slissen
 à travers           doorheen
 à travers champ     dwars doorheen velden
 à tue-tête          luid, hard, de toute la force de sa voix
-à tâtons            zonder iets te zien
+à tâtons            zonder iets te zien, op de tast, groping
 à un point hallucinant       hallucinating to the point..., op een dramatisch punt
 à un tel point      op het punt
 à vau l'eau         afvoer, adrift
@@ -16555,4 +16562,7 @@ bord                m, boord, rand, proche de la limite, surface, ...
 piratage            m, piraterij
 démasquer           ontmaskeren, betrappen, afbreken, met de grond gelijk maken
 à lanières          gevlochten?
-=== Le Clézio --- Poisson d'or --- pag. 223 bovenaan --- ===
+gruger              bedonderen, belazeren, te slim af zijn, op het verkeerde been zetten
+entrecouper         cesser une action, faire cesser une action - (interruptie; het staken)
+doux                zacht, zoet, tam, gedwee, warm
+=== Le Clézio --- Poisson d'or --- pag. 228 bovenaan --- ===
