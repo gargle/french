@@ -1,4 +1,5 @@
 (en) contrebas      diep liggend
+en contrebas de     hieronder
 (se) accorder       harmoniëren, accorderen met, in overeenstemming brengen met
 (se) élancer        (af)schieten, doorsnellen, flitsen, kloppen, rennen, steken, vliegen, stormen
 ANPE                f, vdap, Agence Nationale Pour l'Emploi
@@ -1481,6 +1482,7 @@ bajoues             f, kaken, wangen
 bakélite            f, bakeliet, kunsthars
 balade              f, (lange) wandeling, ommetje, omzwerving
 balader             kuieren, rondwandelen
+se balader          doorslenteren, drentelen, flaneren, kuieren, rondslenteren, slenteren, stappen, wandelen
 balafrer            hakken, vol littekens
 balafres            f, litteken, wondteken, diepe snee, snijwond
 chiotte             f, w.c., closet, plee, toilet
@@ -2334,7 +2336,7 @@ cadi                kadi, religieuze chef (islaam)
 cadrage             m, framing, in beeld brengen
 cadran              m, wijzerplaat
 cadre               m, deel, kader
-cadrer              kloppen, sluiten
+cadrer              kloppen, sluiten, kadreren, image et représentation (visuelle) - (plaatje)
 caduque, caduc      aftands, bouwvallig, gammel, krakkemikkig, vergankelijk, wankel
 cafard              m, flapuit, kakkerlak
 cafardeux           triest, bedroevend
@@ -2422,6 +2424,7 @@ camion de cimenterie   m, cementtruck
 camionnette         f, bestelwagen, camionnette
 camionneur          m, camionneur, trucker
 camions-bennes      m, dumper, camion
+bennes              f, vuilnisauto, vuilniskar, vuilniswagen
 camisole de force   f, dwangbuis, keurslijf
 camouflage          m, camouflage
 camp                m, het kamp, bivak, zomerkamp, vakantiekamp
@@ -2532,7 +2535,7 @@ carafe              f, karaf
 carambolage         m, kettingbotsing
 caramélisé          gekarameliseerd
 carapace            f, geraamte, schild, rugschild, omhulsel, opperhuid, bewapening, schaal, schelp, schaaldier
-caravane            f, karavaan
+caravane            f, karavaan, caravan, camper
 caravelle           f, karavel, oud type boot
 carbonate           m, carbonaat, calciumcarbonaat
 carboniser          aanbranden, schroeien
@@ -3708,7 +3711,7 @@ cosmogonie          f, kosmologie
 cosse               f, dop, peul 
 cossidé             f?, nachtvlinder
 costard             m, kostuum, pak
-costauds            fors, geblokt, potig, gespierd
+costaud, costauds   fors, geblokt, potig, gespierd
 costume             m, pak, dracht, klederdracht, kledij, kostuum
 costume marin       m, matrozenpak, zeemanspak
 cote                f, kijkcijfer, waarderingscijfer, deel, flank, kant, vlak, snijvlak
@@ -7944,6 +7947,7 @@ incidemment         toevallig
 incidence           f, effect
 incident            m, incident, voorval
 incinération        f, crematie, verassing
+incinérateur        m, verbrandingsoven, crematieoven, verbrandingsinstallatie
 incinérer           cremeren, verassen
 inciser             inkepen, insnijden
 incisif             scherp
@@ -9611,7 +9615,7 @@ moignon             m, stronk, stomp
 moindre             minste
 moineau pince-sans-rire   ?
 moineau, moineaux   m, huismus, mus
-moisie              beschimmeld, muf, muffig, schimmelig
+moisi, moisie       beschimmeld, muf, muffig, schimmelig
 moisir              beschimmelen, vermolmen
 moisissure          f, beschimmeling, schimmel, mildew
 moisson             f, oogst, teelt, opbrengst
@@ -13647,6 +13651,7 @@ serrer              samenpersen, uitpersen, samendrukken, knuffelen, omarmen
 serrer la gorge     thighten the throat
 serrer les lèvres   de lippen strak op elkaar houden
 serrer à la broyer  vastpakken en heel hard samendrukken, verpletteren
+broyeur             m, molen, slijpapparaat, slijpmachine, maler
 serrure             f, knip, slot (van deur), sleutelgat
 serré               aaneengesloten, dicht op elkaar, strak
 sertis              ingelegd, ingezet
@@ -14273,6 +14278,7 @@ taboulé             m, taboulé
 tabouret            m, krukje, barkruk
 tache               f, vlek, spat, spetter
 tacher, tâchera     mikken, nastreven, proberen, besmeuren, bevlekken
+tâcheron            m, bouwvakker
 tacheter            gevlekt, bevlekken, spikkelen
 tachée              bevlekt
 tacite              impliciet, onuitgesproken, stilzwijgend
@@ -15811,7 +15817,7 @@ zézayer             lispelen, slissen
 ânier               m, ezeldrijver
 ânon                m, kleintje van de ezel
 ânonner             parler difficilement, avec hésitation
-âpre                bars, bitter, hard, koud, wrang, wreed
+âpre, âpres         bars, bitter, hard, koud, wrang, wreed
 âprement            snijdend, bitter, bijtend
 âpreté              f, scherpheid, hebzucht
 ça coule en moi     dat stroomt in mij
@@ -16565,4 +16571,6 @@ démasquer           ontmaskeren, betrappen, afbreken, met de grond gelijk maken
 gruger              bedonderen, belazeren, te slim af zijn, op het verkeerde been zetten
 entrecouper         cesser une action, faire cesser une action - (interruptie; het staken)
 doux                zacht, zoet, tam, gedwee, warm
-=== Le Clézio --- Poisson d'or --- pag. 228 bovenaan --- ===
+quignon             m, morceau, brood, mik, boterham, morceau de pain
+parpaing            m, mur selon le matériau utilisé, steen; gesteente; natuursteen; steensoort; rotsblok
+=== Le Clézio --- Poisson d'or --- pag. 231 midden --- ===
