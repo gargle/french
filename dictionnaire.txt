@@ -3066,6 +3066,7 @@ cirrhose            f, leverziekte
 ciré                wasdoek, bijenwas, lak, was, gelakt
 cirée               waxed, in de was gezet
 cisaillement        m, schuintrekken
+cisailler           ciseaux : lames croisées, pour découper - schaar, snijden, versnijden
 ciseaux             m, beitel, schaar, steenbeitel
 ciseler             beitelen, uitbeitelen
 ciselure            f, uitsnijden, beeldhouwen, drijven, ciselure
@@ -7536,7 +7537,7 @@ harmonium           m, orgel, huisorgel
 harnachement        m, paardentuig, zadelmakerij, gareel
 harnaché            (paarden) opgetuigd, getuigd
 harnais             m, harnas, tuig, gareel, pantsering
-harpe d'herbe       f, plant?
+harpe d'herbe       f, roman, Truman Capote, The Grass Harp
 hasard              m, lot, toeval
 hasarder            gokken, zich wagen aan
 hasardeuse          gevaarlijk, gedurfd, gewaagd, risicovol
@@ -8173,7 +8174,6 @@ insatiable          onstilbaar, onverzadelijk, onverzadigbaar
 insatisfait         gefrustreerd, onbevredigd, onvoldaan
 inscription         f, opschrift
 inscrire            inschrijven, lichten, opgeven, werven, faire entrer une chose dans une autre
-insect              m, insect
 insecte             m, insect
 insecte brindille   m, wandelende tak
 insectes-feuilles   m, insecten die op bladeren lijken
@@ -12403,6 +12403,7 @@ refuge              m, asiel, hol, hoop, retraite, schuilplaats, toevlucht
 refuge spa          m, dierenasiel, société protectrice des animaux
 refus               m, weigering, afschrijving, onwilligheid
 refuser de justesse ternauwernood weigeren
+comme de juste      net als van
 regagner            inhalen, weer bereiken, herwinnen
 regard              m, blik, mangat, keldergat, a gaze
 regard franc        m, directe blik, eerlijk, frank, overholen, openhartig, onbedekt
@@ -16573,4 +16574,7 @@ entrecouper         cesser une action, faire cesser une action - (interruptie; h
 doux                zacht, zoet, tam, gedwee, warm
 quignon             m, morceau, brood, mik, boterham, morceau de pain
 parpaing            m, mur selon le matériau utilisé, steen; gesteente; natuursteen; steensoort; rotsblok
-=== Le Clézio --- Poisson d'or --- pag. 231 midden --- ===
+déjection           f, stoelgang, uitwerpselen, excrementen
+méhariste           m, ruiter, personne qui monte un animal
+bandana             m, doek, bandana
+=== Le Clézio --- Poisson d'or --- pag. 235 onderaan --- ===
