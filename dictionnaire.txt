@@ -6497,6 +6497,7 @@ fixe                vast, star, starend
 fixer               fixeren, staren, staren naar, aanstaren, to settle, instellen
 fixité              f, vaste, konstantheid
 fixée au scotch     met tape vastgemaakt
+scotch              m, whisky
 fiévreusement       koortsig, koortsachtig
 fiévreux, fiévreuse    koortsachtig, koortsig
 flacon              m, flacon, flesje, zakflacon
@@ -6866,7 +6867,7 @@ fuligineuse         roetachtig
 fumer, fument       roken, dampen, wasemen
 fumerolle           f, rook, wolken
 fumet               m, aroma, parfum
-fumier              m, mest, stalmest
+fumier              m, mest, stalmest, mestvaalt, mesthoop
 fumigation          uitroking
 fumoir              m, rookhol, rookkamer, rookhol, smoking room
 fumée               f, droombeeld, damp, stoom, rook
@@ -8694,7 +8695,7 @@ langue de feu       f, vuurtongen
 langues de sable    f, zandtongen
 langueur            f, dromerigheid, lusteloosheid, willoosheid, matheid, apatie
 languissant         smachtend, kwijnend, futloos, hunkerend, slap
-lanière             f, riem, teenslipper, geselslag, zweepkoord
+lanière             f, riem, teenslipper, geselslag, zweepkoord, vlechtwerk?
 lanterne            f, lantaarn
 laper               lebberen, oplebberen, oplikken, opslobberen
 lapidé              steen, gestenigde
@@ -9262,7 +9263,7 @@ marchand, marchande m/f, handelaar, koopman, winkeljuffrouw, winkelierster
 marchandise         f, artikel, goederen, handelsgoederen
 marche arrière      f, achteruit van versnelling
 marchepied          m, opstapje, trapladder, trapleer
-marches             f, loopvlak, opstapje, gang, trap, voortgang
+marche, marches     f, loopvlak, opstapje, gang, trap, voortgang
 marché              m, markt, afzet, actie, commercie, business
 marché aux puces    m, vlooienmarkt, rommelmarkt
 mare                f, meer, poel, ven, vijver, waterpoel, wiel
@@ -10984,6 +10985,7 @@ piaf                m, vogeltje
 piaffer             stampen
 piailler            kwelen, kwetteren, piepen, sjilpen
 pianoter            tokkelen
+pianiste            m, pianist, pianospeler
 pic, pics           m, pikhouweel, bergspits
 pic-vert            m, groene specht
 pichet              m, waterkan, wijnkan, karaf
@@ -16577,4 +16579,10 @@ parpaing            m, mur selon le matériau utilisé, steen; gesteente; natuur
 déjection           f, stoelgang, uitwerpselen, excrementen
 méhariste           m, ruiter, personne qui monte un animal
 bandana             m, doek, bandana
-=== Le Clézio --- Poisson d'or --- pag. 235 onderaan --- ===
+sortable            habillé (couvert d'un vêtement), qui peut être accepté, admis, agréable
+sculpteur           m, beeldhouwer
+hall                m, hall, lounge, hal, gang, zaal
+podium              m, podium, spreekgestoelte, leerstoel, preekstoel
+barman              m, barman, barkeeper, kelner, ober
+circonci            besneden
+=== Le Clézio --- Poisson d'or --- pag. 238 bovenaan --- ===
