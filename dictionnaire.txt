@@ -5742,7 +5742,7 @@ engoncé             krap, te klein van kleding, envelopper dans qqch qui serre,
 engorgement         m, wateroverlast, obstructie, congestie, verstopping, drainage agricole
 engorger            dichtmaken; dichtstoppen; dichten; afdichten; tamponneren
 engouements         m, bevlieging, rage
-engouffrer          schrokken, verdwijnen
+engouffrer          schrokken, verdwijnen, gaan, gaan naar, entrer, indoen, invoeren
 engoulevent         m, nachtzwaluw, ratelaar
 engourdir           gevoelloos worden, verstijven, versuffen, verlammen, dazed
 engourdissement     gevoelloosheid, ongevoeligheid, stupor, daze
@@ -5984,6 +5984,7 @@ essai               m, experiment, proefwerk, try-out, proefneming, inspanning, 
 essaim              m, bijenzwerm, massa, menigte, troep, zwerm, horde
 essaimèrent         krioelen, wemelen
 essence             f, benzine, brandstof, gas, bodem, grond, hoofdzaak
+essence à briquet   f, benzine voor aanstekers
 essentiel           m, het essentiele deel
 essentiellement     in de grond, wezenlijk, hoofdzakelijk
 esseulé             verweesd
@@ -8171,6 +8172,7 @@ inquiétude          f, angst, onbehagen, nervositeit, ongerustheid
 insaisissable       ongrijpbaar, ontwijkend
 insalubre           onhygiënisch
 insanité            redeloosheid
+insanité            f, trouble de l'activité mentale, absurditeit; ongerijmdheid; incongruentie; misplaatstheid
 insatiable          onstilbaar, onverzadelijk, onverzadigbaar
 insatisfait         gefrustreerd, onbevredigd, onvoldaan
 inscription         f, opschrift
@@ -8268,6 +8270,7 @@ interlocuteurs      m, gespreksgenoot, gesprekspartner
 interloquer         onthutsen, ontzetten, schokken, shockeren
 interloqué          aangrijpen, choqueren, verdoven, vloeren
 interminable        eindeloos, eeuwigdurend, eeuwig
+intermède           m, interludium, intermezzo, tussenbedrijf, pauze, entr'acte
 intermittence       f, onderbreking, onregelmaat
 intermittents       onderbroken, met tussenpozen
 intermédiaire       m, bemiddelaar
@@ -11287,6 +11290,7 @@ poison              m, vergif
 poissait aux mains  plakkerige handen
 poissard            vulgaire, bas, qui emploie le langue du bas peuple
 poisser, poissant   dronken worden, zich bedrinken, zich bezatten, devenir sale
+poisse              f, gebrek, manque, pauvreté, armoe, armoede
 poisseuse           plakkerig
 poisson             m, vis
 poisson frit        m, gebakken vis
@@ -12508,7 +12512,7 @@ renfort             m, achterban, versterking
 renfrogner, refrogner, bouder   bedroeven, smarten, treurig maken
 renfrogné           chagrijnig, donker, dreigend, knorrig, nors, zuur
 rengager            opnieuw intekenen in het leger
-rengaine            f, slagzin, slogan
+rengaine            f, slagzin, slogan, liedje, deuntje
 rengainer           in de schede steken
 reniement           m, loochening, negatie, ontkenning
 renier              afstand doen van, afwijzen, verloochenen
@@ -14929,6 +14933,7 @@ trouvaille          f, ontdekking, vondst
 trouées             f, pas, bergpas, col
 truc                m, ding, foefje, truc, vaardigheid, zaak
 truc des dingues    m, that's crazy
+dingue              waanzinnig, gek, gekkin
 truchement          m, tussenkomst, intermédiare
 truffe              f, truffel, idioot?
 truffer             volstampen, bourrer
@@ -15076,7 +15081,7 @@ urbaine             grootstedelijk, hoofdstedelijk, stads-, stedelijk, urbaan
 urbanistique        planologisch, stedebouwkundig, urbanistisch
 urbanité            beleefdheid
 urbanité            f, stadsleven
-urgence             f, crisis, haast, noodgeval
+urgence             f, crisis, haast, noodgeval, eerstehulp
 urine               f, urine, pis
 urticaire           f, galbult, netelkoorts, netelroos
 urubu               m, roofvogel, gier, mestgier
@@ -16585,4 +16590,8 @@ hall                m, hall, lounge, hal, gang, zaal
 podium              m, podium, spreekgestoelte, leerstoel, preekstoel
 barman              m, barman, barkeeper, kelner, ober
 circonci            besneden
-=== Le Clézio --- Poisson d'or --- pag. 238 bovenaan --- ===
+rodéo               m, rodeo
+chrysler            f, chrysler (auto)
+youyou, youyous     m, bateau et navire (roeiboot, opblaasboot), cri de joie, longs cris aigus et modulés
+broiement           écraser, casser, broyer, briser
+=== Le Clézio --- Poisson d'or --- pag. 243 bovenaan --- ===
