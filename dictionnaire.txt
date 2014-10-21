@@ -4385,6 +4385,7 @@ devise              f, spreuk, wapenspreuk, leus
 devises             f, zinspreuk, slagzin, slogan, spreuk
 devoir              danken aan
 devoir              m, huiswerk, taak, chose à faire, destinée à être faite
+devoir fleuve       m, ononderbroken tekst?
 devoir              m, druk, plicht, belasting, drang, taak
 dextérité           bedrevenheid
 dextérité           f, bedrevenheid, handigheid
@@ -4557,7 +4558,6 @@ dominicaux          zondags
 dominion            m, territoire dépendant et colonie, commenwealth
 dommage             m, averij, beschadiging, schade, nadeel
 dompter             temmen
-don                 m, de gave, vermogenn
 don                 m, gave, vaardigheid, vermogen
 donner en pâture    voedsel geven
 donner l'accolade   omhelzing
@@ -4725,7 +4725,7 @@ débrouillard        m, plantrekker
 débrouiller         organiseren, proberen op te lossen, rondkomen, worstelen, zich redden
 débrouiller         proberen op te lossen, ritselen, rechtbuigen
 débusquer           verjagen, startled, opschrikken
-débâcle             f, collaps, calamiteit, fiasco
+débâcle             f, collaps, calamiteit, fiasco, catastrofe, ramp
 décacheter          brief openen, ontzegelen, resigneren
 décacheter          ontzegelen, resigneren
 décadence           f, aantasting, achteruitgang
@@ -6792,6 +6792,7 @@ frileux             aarzelend, kil
 fringale            munchies, honger, apperitif, goesting
 fringues            f, kloffie, plunje, galakledij
 friper              rimpelen, verkreukelen
+fripes              f, brocante, brocante de vêtement
 fripier             m, lommerdhouder, brocanteur
 friqué              gefortuneerd, vermogend
 frisant, friser     krullen, schampen langs, opkrullen, lichtjes raken
@@ -7038,13 +7039,14 @@ gaufre              f, wafel, aangezicht, bek
 gaufrette           f, wafeltje
 gaule               f, paal, roede, schacht, staak
 gauler              op de takken van een boom slaan
-gavais, gaver       brassen, schransen, slempen, volproppen
+gavais, gaver, gavé brassen, schransen, slempen, volproppen, vettig
 gavroche            rchétype du gamin de Paris
 gaze                f, gaas, verbandgaas
 gaze                racen, vergassen, flamberen
 gazelle             f, gazelle
 gazomètre           m, gashouder, gasketel, réservoir fermé pour entreposer des liquides
 gazouiller          kraaien, kukelekuën, kwelen, kwetteren
+gazouillis          m, gekweel, getjilp, gekwetter, lied
 geignard            zeurderig, zeurende, zeurig
 geignement          m, gezanik, gezeur
 geint, geindre, geignant        steunen, janken, bejammeren, dreinen, zeuren, grienen
@@ -7706,6 +7708,7 @@ hâter               bespoedigen, accelereren, opschieten, jachten
 hâtif               gehaast, haastig, vluchtig, zonder diepgang
 hâtivement          haastig, vluchtig, vlug
 héberger            herbergen, onderbrengen, huisvesten
+hébergement         m, kot, huisvesting, accomedatie, lodging
 hébétude            f, bedwelming, beduusd, verstomd, verwonderd
 hébétés             afwezig, suf, verdoofd, wezenloos
 hébétés             suf, wezenloos
@@ -11048,6 +11051,7 @@ pince-sans-rire     uitdrukkingsloos, droog
 pinceau             m, borstel, penseel
 pincement           m, beet, kneep
 pincer              aanhouden, arresteren, inrekenen, gevangen nemen, in muziek: tokkelen
+en pincer pour      verslingerd zijn aan, aimer, beaucoup aimer, être amoureux
 pinces              f, schaar, tang, klauw
 pincette            f, pincet, nijptang, tang, knijper
 pingouin            m, pinguin
@@ -11591,7 +11595,7 @@ prise de vues       f, camera
 prises de bec       f, ruzie, drukte, gedoe
 prison              f, gevangenis, nor, kerker
 prison dorée        f, gouden, vergulde gevangenis
-prisonnier          m, gevangene, arrestant, bajesklant
+prisonnier, prisonnière        m/f, gevangene, arrestant, bajesklant
 prisunic            Prisunic était une chaîne de magasins populaires, maintenant Monoprix
 privation           f, beroving, gemis, ontbering
 privations          f, gebrek, gemis, onthouding, ontbering
@@ -11694,6 +11698,7 @@ propre              goed, juist, keurig, schoon, zuiver, raak, netjes
 proprement          eigen, netjes, proper, schoon, eigenaardig
 proprets            proper, zindelijk, smetteloos
 propriétaire        m, eigenaar, bewoner
+propriétaire foncier   m, grondbezitter, landeigenaar, landheer
 propriété           f, bezit, eigendom, boerderij, goed, property
 propulser           aandrijven, stuwen, voortbewegen
 propulsé            stuwen, bewegen
@@ -14012,7 +14017,7 @@ strictement         zuiver, strikt, strak
 strident            bars, gillend, hard, schril, wreed
 stridulation        f, gesjirp
 strie               f, striem
-strier, striée      gegolfd, gestreept
+strier, striée      gegolfd, gestreept, onduleren, fronsen, markeren, striemen
 string              m, string
 structure           f, constructie, opbouw
 stucs               m, stucwerk, pleisterwerk
@@ -15211,7 +15216,7 @@ vedette             f, rondvaartboot, plezierboot
 veille              f, de avond voor, dag voor
 veiller             opblijven, waken, toezicht houden
 veilleur            m, wachter, personne chargée de veiller
-veilleuse           f, waakvlam, spaarvlam
+veilleuse           f, waakvlam, spaarvlam, standlichten?
 veillées            avondmaal, avondmaaltijd, fin de la journée, waken, bezoek
 veinard             m, lucky man
 veine               f, ader, laag, mijnader, luck, geluk, geest, ertsader, bloedbaan
@@ -15398,6 +15403,7 @@ virulente           kwaadaardig
 virée               f, snelwandelen, wandeling, kortstondigheid
 vis                 f, schroef, vijs
 vis-à-vis           zonder iets tegenover, tegenover
+visa                m, visa, visum
 visage              m, aangezicht, snuit, toet, gezicht
 viscères            m, ingewanden, tout organe du crâne, du thorax ou de l'abdomen
 viscérale           van binnenuit komend, vanuit de ingewanden
@@ -16594,4 +16600,10 @@ rodéo               m, rodeo
 chrysler            f, chrysler (auto)
 youyou, youyous     m, bateau et navire (roeiboot, opblaasboot), cri de joie, longs cris aigus et modulés
 broiement           écraser, casser, broyer, briser
-=== Le Clézio --- Poisson d'or --- pag. 243 bovenaan --- ===
+carcasse            f, karkas, kreng, aas, romp, geraamte
+lécheur             m, slijmbal, slijmerd, kruiper, hielenlikker, mooiprater, vleier
+verrition           f, balayage, scanning, reiniging, schoonmaakbeurt
+agate               f, agaat, kwarts
+loterie             f, loterij, verloting
+quota               m, quotum, quota
+=== Le Clézio --- Poisson d'or --- pag. 247 bovenaan --- ===
