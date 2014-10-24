@@ -1233,7 +1233,7 @@ auditeur            m, luisteraar, hoorder, toehoorder
 audition            f, het aanhoren van
 auditoire           m, gehoor, publiek, toehoorders
 augmenter           vermeerderen, groeien, uitbouwen
-augure              voorbode, voorgevoel
+augure              m, voorbode, voorgevoel
 august, auguste     qui contient qqch en grande qté, qui possède une protection, majestueux, respect
 aumône              f, aalmoes, gift, donatie
 aumônier            m, aalmoezenier
@@ -2276,6 +2276,7 @@ bêche               f, spa, spade
 bêcher              spitten, omgraven, omspitten
 bêlement            m, geblaat, gemekker
 bête                f, dier
+bêtement            stom
 bête noire          f, ergernis, kwelling, aversie
 bêtes de somme      f, werkpaarden
 bêtifier            afstompen, vervlakken, dom maken
@@ -6732,7 +6733,7 @@ foutre la paix      gerust laten
 foutre le camp      opsodemieteren, opkrassen, oprotten
 foutre les boules   pissed off, ça fait chier
 foutre les jetons   faire très peur
-foutre, foutu       verneuken
+foutre, foutu       verneuken, fucked
 foutrement          verdoemen
 foutu               bloeiend, stomme
 foyer               m, haardstede, vuurhaard, haardplaats, stookplaats, brandpunt, beeldscherpte, focus
@@ -7378,6 +7379,7 @@ grêler              hagelen, pitted, doorploegd?
 grêlon              m, hagel, hagelsteen
 guano               m, guano
 guenilleux          haveloos, in lompen gekleed
+guenille            f, vodden, lompen, flodder, lor, tod, vod, lap
 guenon              f, aap, apin
 guerre              f, oorlog
 guerrier            m, krijger, strijder
@@ -9341,7 +9343,7 @@ masturbation        f, masturbatie, zelfbevrediging
 mat                 m, bekleedsel, bedekking
 mat fou-cavalier    schaakmat
 matamore            m, opschepper, dikdoener, grootspreker
-mate                dof, mat
+mat, mate           dof, mat
 matelas             m, matras
 matelassé           gestoffeerd, gewatteerd
 matelot             janmaat, dekzwabber, zeemaat, werkman, matroos
@@ -11000,6 +11002,7 @@ pickpocket          m, zakkenroller, gauwdief
 picoler             doorzakken, drinken, pimpelen, zuipen
 picorer             pikken, met de bek pikken
 picotement          m, prikkeling, tinteling, stekel
+picoter             tintelen, prikkelen, steken, prikken
 picrique            pikrinezuur
 pie                 f, babbelziek persoon
 pied de nez         m, moquerie, lange neus
@@ -12720,6 +12723,7 @@ rigueur             f, strengheid, barheid, pinch, orde, rigour
 rillettes de lapin  konijnpastei
 rimmel              m, mascara, ogenzwart
 rincer              gorgelen, afspoelen, naspoelen, wassen
+ring                m, ring, boksring
 ringarde            m, kachelpook, pook
 ringardes           m, kachelpook
 riposte             f, weerwoord, tegenargument, tegenzet, tegenaanval
@@ -16606,4 +16610,5 @@ verrition           f, balayage, scanning, reiniging, schoonmaakbeurt
 agate               f, agaat, kwarts
 loterie             f, loterij, verloting
 quota               m, quotum, quota
-=== Le Clézio --- Poisson d'or --- pag. 247 bovenaan --- ===
+démobiliser         demobiliseren
+=== Le Clézio --- Poisson d'or --- pag. 251 bovenaan --- ===
