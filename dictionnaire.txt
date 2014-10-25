@@ -126,7 +126,7 @@ abreuver            bevochtigen, besprenkelen, besproeien, laten uitdrinken, lat
 abreuvoir           m, plaats waar dieren kunnen drinken
 abri                m, afdak, bescherming, beveiliging, garage, retraite
 abri de fortune     m, geimproviseerd onderkomen, schuilplaatsen
-abritait, abriter   herbergen, huisvesten, beschermen, onderbrengen, beschutten
+abritait, abriter   schuilen, dekking zoeken, herbergen, huisvesten, beschermen, onderbrengen, beschutten
 abroger             afgelasten, ontbinden
 abrupt              steil, sterk hellend
 abruptement         abrupt, bruusk, plots, plotseling
@@ -1161,7 +1161,7 @@ au grand complet    volledige, volledigheid, in its entirety, voltallig
 au gros soleil      out in the sun
 au gré de           believen, goeddunken, welbehagen, welgevallen
 au hasard           in het wilde weg, lukraak, willekeurig, at random
-au jour le jour     régulièrement, tous les jours, alle dagen
+au jour le jour     régulièrement, tous les jours, alle dagen, van dag tot dag
 au jugé             presque, manière de tirer (arme à feu)
 au juste            eigenlijk
 au large            voor de kust, in zee, het ruime sop
@@ -10993,6 +10993,7 @@ piaf                m, vogeltje
 piaffer             stampen
 piailler            kwelen, kwetteren, piepen, sjilpen
 pianoter            tokkelen
+piano-bar           m, bar
 pianiste            m, pianist, pianospeler
 pic, pics           m, pikhouweel, bergspits
 pic-vert            m, groene specht
@@ -11847,6 +11848,7 @@ préétabli           vooraf vastgestelde
 prêche              m, preek
 prêcher             preken, aanraden, prediken
 prêter              zich lenen tot, blootstaan, lenen, beëdigen, inaugureren
+prêter au jeu       het spel meespelen
 prêter l'oreille    luisteren, aanhoren, beluisteren, meeluisteren, toehoren
 prêter serment      beëdigen, een eed afnemen
 prêtre              m, geestelijke, dominee, pastoor, prediker
@@ -11916,7 +11918,8 @@ purger              wegzuiveren, reinigen, uitzitten
 purifier            vegen, poetsen
 pus                 m, suppuratif, etter?
 pusillanimité       f, kleinhartigheid, lafhartigheid, lafheid
-putain              f, hoer
+putain              f, hoer, prostituée
+pute                f, hoer, prostituée, prostituee, del
 putride             rot, bedorven, verrot, voos
 putréfaction        f, verrotting
 putréfier           bederven, verrotten
@@ -16569,6 +16572,7 @@ de main en main     ownership passed from hand to hand
 trailer             m, aanhangwagen, woonwagen, trailer
 frimousse           f, gelaat, aangezicht, tronie, gezicht, smoel
 café des morts      m, koffie van de doden?
+cafétéria           f, café, koffiehuis, cafetaria
 glas                m, doodsklok
 presbyte            m, verziend, maladie de la vue - (scheelkijken; loensen)
 urinal              m, urinaal, urinoir, pisbak, waterbak, waterglas
@@ -16612,4 +16616,6 @@ loterie             f, loterij, verloting
 quota               m, quotum, quota
 démobiliser         demobiliseren
 à deux sous         waardeloos, zonder waarde, rommel
-=== Le Clézio --- Poisson d'or --- pag. 251 bovenaan --- ===
+fange               f, smurrie, modder, derrie, viezigheid, slijk
+déplumer            kaal plukken, het vel over de oren trekken
+=== Le Clézio --- Poisson d'or --- pag. 258 bovenaan --- ===
