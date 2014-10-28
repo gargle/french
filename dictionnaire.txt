@@ -518,8 +518,7 @@ allusion            f, hint, toespeling, zinspeling, allusie
 alluvial, alluviale aangeslibt, alluviaal, afzetting, bezinksel, sediment
 alluvison           f, aanslibbing
 allécher            aantrekken, weglokken
-allée               f, allee, avenue, boulevard, doorgang, dreef
-allée               f, passage, steeg, straatje, wandelweg
+allée               f, allee, avenue, boulevard, doorgang, dreef, passage, steeg, straatje, wandelweg
 allégeance          f, trouw
 alléger, allège     lichter maken, verlichten, relieved
 allégrement         monter, vrolijk
@@ -1570,7 +1569,7 @@ barboter            plassen, poedelen, pootjebaden, voler (prendre à autrui, st
 barbouillage        m, kladwerk, klodders
 barbouiller         besmeren, smeren
 barbu               baardig
-bardeaux            m, beschot, muildier, muilezel, bouwmateriaal, plaat, construction d'un toit
+bardeaux            m, schalie, beschot, muildier, muilezel, bouwmateriaal, plaat, construction d'un toit
 barder              bedekken, optuigen
 barge               f, aak, bark, sleepschip
 baril               m, kruidvat, vaatje, vat
@@ -1834,10 +1833,10 @@ boisé               bebost, boomrijk, bosrijk
 boiter              hinken, manken, trekkebenen
 boiteux             kreupel, mank, slecht te been, qui n'est pas ou plus en ordre
 boitillant          licht hinken
-bol                 m, kom
+bol, bols           m, kom
 bol de salade       m, saladeschotel, slakom
 bolard
-bollard             m, aanlegijzer op de kade
+bollard             m, aanlegijzer op de kade (bolder), poller, inzinkbare paal om autoverkeer te reguleren
 bombance            f, excès des plaisirs et débauche, dronkenschap, viering, vreugdefeest
 bombardement        m, bomdardement
 bombe               f, bom
@@ -2869,7 +2868,7 @@ chaussée            f, rijweg, wegdek
 chauve              haarloos, kaal
 chauves-souris      f, vleermuizen
 chaux               f, kalk
-chavirer            kantelen, kapseizen, kenteren, omslaan, omvallen, uit bed vallen, falling out, rolling (eyes)
+chavirer, chaviré   kantelen, kapseizen, kenteren, omslaan, omvallen, uit bed vallen, falling out, rolling (eyes)
 chaîne              f, keten, ketting, montageband, productieband, muziekketen, muziekinstallatie
 chaînons            m, schakel
 chef                m, aangezicht, bek, smoel, gezicht, hoofd, leider, aanvoerder
@@ -2927,6 +2926,7 @@ chicanier           listig,  misleidend, spitsvondig, vitterig
 chiche              gierig, karig, pinnig
 chichiteuse         chichi, gemanieerd
 chicotte            f, fouet
+chien               m, hond
 chien de défense    m, watchdog
 chien de meute      m, jachthond
 chien policier      m, speurhond
@@ -3131,6 +3131,7 @@ clignant            flikkeren, knippen, knipperen
 clignement          m, knipoog
 cligner             flikkeren, knippen, knipperen
 clignotant          m, pinker, knipperlicht
+clignoter           knipperen, pinken
 clignotement        m, knippert, geknipper
 clim                f, climatisation
 climat              m, klimaat
@@ -7124,7 +7125,7 @@ glander             prendre son temps
 glaner              vergaren
 glapir              krijsen, gillen gieren
 glapissement        m, gegil, gekrijs, gil, krijs, piep
-glapissez           keffen, janken
+glapisser           keffen, janken
 glauque             bedauwd, blauwgrijs, bedroevend, smart, zeegroen
 glaçage             m, glans, glazuur
 glaçon              m, ijsblokje
@@ -8557,6 +8558,7 @@ jubilation          f, gejubel
 jubiler             gniffelen, jubelen, juichen, uitkraaien
 jucher              hoog zetten, liften
 juge d'instruction  m, rechter-commissaris
+juge de paix        m, vrederechter
 jugement            m, arrest, berechting, oordeel
 juger de            avoir une opinion, une estimation de
 jugulaire           f, halsader, deel van hoofddeksel, onder de kin gedragen
@@ -10435,6 +10437,7 @@ ourdir              samenzweren, ourdi une consiparation
 ourlet              m, inslag
 ourlé               zomen, zoom leggen in, zoom leggen op, omranden, omzomen, flap?
 oursin              m, zee-egel
+ours                m, beer, berin
 outiller            uitgerust
 outing              m, outing
 outrage             m, infamie, minachting, schanddaad, wandaad
@@ -10561,7 +10564,8 @@ papilloter          flikkeren
 papoter             babbelen, zwammen, zwetsen
 papouille           f, gekietel 
 paquebot            m, lijnboot, lijnschip, stoomboot
-paquet              m, pakket, pakje              
+paquet              m, pakket, pakje
+par paquets         in batch, in groep
 paquetage           m, bagage
 paquets de mer      zeeën
 par ailleurs        d'un autre point de vue, aan de andere kant
@@ -11006,6 +11010,7 @@ picotement          m, prikkeling, tinteling, stekel
 picoter             tintelen, prikkelen, steken, prikken
 picrique            pikrinezuur
 pie                 f, babbelziek persoon
+pied                m, voet (foot, afstand)
 pied de nez         m, moquerie, lange neus
 pied hors de la réalité   step out of reality
 pied-de-poule       m, houndstooth, ornement vestimentaire
@@ -11513,7 +11518,7 @@ poussière           f, stofdeeltje, stofje, strooizand, zandkorrel
 poussiéreuse        stoffig, grijs/grauw
 poussée             f, opwerpen, opwellen (ziekte)
 poutrelles          f, draagbalk, steunbalk
-poutres             f, balk
+poutre, poutres     f, balk
 pouvoir             m, macht, mogendheid, gezag, dominantie
 pouvoir l'un pour l'autre   we can't do anything for one another
 pouvoir par me faire   can't get used to?
@@ -13029,6 +13034,7 @@ répartition         f, verdeling
 répercussion        f, weerslag, teruggstoot, terugslag, repercussie
 répercuter          echoën
 répertorier         lijst, inschrijven in een lijst
+répertoire          m, repertoire, geheel, verzameling
 répertorié          geindexeerd
 répit               m, adempauze, korte pauze
 réplique            f, kopie, replica, repliek, reproductie
@@ -13233,6 +13239,7 @@ salle de bains      f, badkamer
 salle de séjour     f, huiskamer, living
 salmis              m, wildragoût
 salon               m, salon, living, huiskamer
+salon de première   m, eerste klasse salon
 salon d'essayage    m, omkleedruimte, paskamer
 salopard            m, bastaard, smeerlap
 salope              f, bitch, slet
@@ -15712,6 +15719,7 @@ zézayer             lispelen, slissen
 à la cuiller        met de lepel, with a spoon
 à la dent féroce    de felle tand?
 à la dérive         op drift
+j'ai connu la dérive   ik was op de dool?
 à la dérobée        heimelijkheid, heimelijk, geheim, in't geniep
 à la faveur de      opportuniteit, occasion et opportunité
 à la file           een voor een, l'un après l'autre
@@ -15957,7 +15965,7 @@ zézayer             lispelen, slissen
 écoper              hozen, scheppen, uitscheppen, opscheppen
 écorce              f, strootje, bast, boomschors, schil, schors, the bark
 écorcer             afpellen, ontschorsen, pellen
-écorcher            afpellen, villen, afschillen, vervellen, schaven, onthuiden, afstropen
+écorcher            afpellen, villen, afschillen, vervellen, schaven, onthuiden, afstropen, uitkotsen?
 écorchures          f, schaafwond, schampschot, schaving
 écornifle           tirer un profit abusif, tirer un profit, un avantage de, excessif et trop, manger
 écoulables          
@@ -15979,7 +15987,7 @@ zézayer             lispelen, slissen
 écrier              exclamation, uitschreeuwen
 écrit               m, tekst, leesstof, document, handschrift, épreuve d'examen scolaire
 écrite de net       in het net schrijven, voor waar schrijven?
-écriteaux           m, bord, naambord, uithangbord
+écriteau, écriteaux m, bord, naambord, uithangbord
 écriture            f, het schrijven, handschrift, schrift
 écrivain            m, de schrijver, auteur
 écrié               uitroep
@@ -16618,4 +16626,7 @@ démobiliser         demobiliseren
 à deux sous         waardeloos, zonder waarde, rommel
 fange               f, smurrie, modder, derrie, viezigheid, slijk
 déplumer            kaal plukken, het vel over de oren trekken
-=== Le Clézio --- Poisson d'or --- pag. 258 bovenaan --- ===
+annexe              f, aanbouw, aanbouwsel
+entrait             m, appui, steun, dag, goot, gootpijp, regenpijp
+bastonner           afranselen, knuppelen, afrossen
+=== Le Clézio --- Poisson d'or --- pag. 265 bovenaan --- ===
