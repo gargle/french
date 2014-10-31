@@ -1583,7 +1583,7 @@ barreaux            m, tralies
 barrer              versperren, wegstrepen, doorstrepen, doorhalen, schrappen
 barrer en couille   naar de kloten
 barrer, barrait     sturen, roer; besturen van een schip; afstrepen, barreren
-barrette            f, haarspeld, bonnet, hoed, hoofddeksel, lint, band
+barrette            f, haarspeld, bonnet, hoed, hoofddeksel, lint, band, plaquette de haschisch
 barrique            f, tonnetje, vat
 barrir              trompetten, trompetteren
 barrissement        m, trompetgeschreeuw
@@ -4890,7 +4890,7 @@ définition          f, definitie
 défis               m, uitdaging, trotsering, durf
 déflagration        f, ontbranding, opvlammen, verbranding
 défloré             bederven, perverteren, ontmaagden
-défoncer, défoncé   inslaan, stoten, omgeploegd, diepploegen, stuk, broken, kapot
+défoncer, défoncé   inslaan, stoten, omgeploegd, diepploegen, stuk, broken, kapot, zich drogeren
 défouler            afreageren
 défraîchie          aangetast, verschoten
 défricheur, défricher   cultiver, arracher, rendre une terre cultivable
@@ -12549,7 +12549,7 @@ rentier             m, couponknipper, rentenier
 rentrer             binnenkomen, weer binnengekomen, intrekken, to go back, terugkeren
 rentrée             f, begin van het schooljaar
 rentrée d'impôt     f, aangiftebiljet
-rentrés             terugkerend?
+rentrés             terugkerend
 renversant          duizelingwekkend, in de war brengen, van zijn stuk brengen, verbijsteren
 renverse            f, 180 graden omgekeerd
 renverser           kloppen, knoeien, neerslaan, omverwerpen, vergieten, achteroverleunen, omdraaien
@@ -13917,10 +13917,9 @@ sourcilière         wenkbrauwbogen
 sourcilleux         grievend, hatelijk, opschepperig, precies, trefzeker, nauwkeurig, hoog, grijns, grimas
 sourcils            m, wenkbrauw, high brow
 sourcrire           bijdragen, contribueren, geldelijk steunen
-sourde              doof, dove, dull, muffled
+sourde, sourdes     doof, dove, dull, muffled
 sourde angoisse     f, stille angst, dull anguish
 sourdement          heimelijk, de façon sourde, muffled
-sourdes             doof
 sourdine            en sourdine, zonder geluid, stil, geluidloos
 sourdre             opwellen
 sourds-muets        doofstom
@@ -16549,6 +16548,7 @@ sida                m, aids
 choléra             m, cholera
 premier rang        m, eerste rij
 Il fallait passer   Hij moest vertrekken
+Indien              m, Indiaan
 martyrologe         m, livre de la liturgie chrétienne, martelarenboek
 punching-ball       m, punching-ball, box-ball
 compteur            m, electriciteitsteller
@@ -16629,4 +16629,13 @@ déplumer            kaal plukken, het vel over de oren trekken
 annexe              f, aanbouw, aanbouwsel
 entrait             m, appui, steun, dag, goot, gootpijp, regenpijp
 bastonner           afranselen, knuppelen, afrossen
-=== Le Clézio --- Poisson d'or --- pag. 265 bovenaan --- ===
+à cœur joie         naar hartelust, zat
+reggae              m, reggae
+ragga               m, raggamuffin
+label               m, label, muzieklabel, label de musique, une société qui édite des disques
+amphétamine         f, amfetamine, benzedrine, pepmiddel, peppil
+scratcheur          m, scratcher (muziek)
+égéries             f, nymphe (déesse inférieure de la nature) - nimf, créature imaginaire d'aspect humain
+baladeur            m, walkman
+avoir beaucoup de menton        ruggegraat hebben?
+=== Le Clézio --- Poisson d'or --- pag. 269 onderaan --- ===
