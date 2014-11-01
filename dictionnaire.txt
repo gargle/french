@@ -5928,6 +5928,7 @@ erreur              f, fout
 errons, errer       rondtrekken
 esat                école supérieure et d'application des transmissions
 escadre             f, vloot, zeemacht
+escadrille          f, flottielje, eskader, divisie (militair), onderdeel (militair), arsenaal, collectie
 escalade            f, beklimming
 escalader           beklimmen, opklauteren, klauteren over
 escale              f, aanleghaven, pitstop, rustplaats, stop, tussenstop
@@ -9625,6 +9626,8 @@ moellon             m, arduinsteen, hardsteen
 moignon             m, stronk, stomp
 moindre             minste
 moineau pince-sans-rire   ?
+mois                m, maand
+mois de caution     m, maand huurwaarborg
 moineau, moineaux   m, huismus, mus
 moisi, moisie       beschimmeld, muf, muffig, schimmelig
 moisir              beschimmelen, vermolmen
@@ -11282,6 +11285,7 @@ point du jour       m, dageraad, aurora, morgen
 pointe              f, voorkant, toppunt, piek, punt, hoogtepunt, kaap, begin
 pointe d'orgueil    f, point of pride
 pointe délicate     f, a delicate touch
+pointe des pieds    f, tip van de tenen
 pointer             aanwijzen, richten, wijzen
 pointilleuse        overdreven precies
 pointillés          m, stippel(lijn)
@@ -16228,6 +16232,7 @@ haïtienne           f, van Haïte
 épuisement          m, afmatting, uitputting, vermoeidheid
 épuisette           f, schepnet
 épurer              polijsten, raffineren, veredelen, verrijken, zuiveren
+épuration           f, zuivering, purificatie, reiniging
 épée                f, zwaard, degen
 équanimité          f, gelijkmoedigheid
 équarrir            vierkant maken
@@ -16638,4 +16643,6 @@ scratcheur          m, scratcher (muziek)
 égéries             f, nymphe (déesse inférieure de la nature) - nimf, créature imaginaire d'aspect humain
 baladeur            m, walkman
 avoir beaucoup de menton        ruggegraat hebben?
-=== Le Clézio --- Poisson d'or --- pag. 269 onderaan --- ===
+béret               m, baret, muts, pet, alpinopet
+lustrer             inventariseren, ettre à niveau, rendre lisse, faire briller, polijsten, schoonmaken
+=== Le Clézio --- Poisson d'or --- pag. 273 bovenaan --- ===
