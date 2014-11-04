@@ -552,6 +552,7 @@ amalgame            m, mengeling
 amalgamer           mixen, mengelen
 amande              f, amandel
 amandier            m, amandel, amandelboom
+en amande           amandelachtig
 amant               liefhebbend
 amantes             f, beminde, bijvrouw, bijzit, geliefde, maitresse
 amarre              f, kabel, kabeltouw, meertouw, meertros, sleeptros, treklijn, tros
@@ -4622,7 +4623,7 @@ drainage            m, waterafloop, afvoer
 dramatiquement      dramatique, dramatisch, toneel-
 dramaturgie         f, drama, dramatiek, dramaturgie
 drame               m, toneelstuk, theaterstuk, ramp
-drap                m, beddelaken, laken, beddegoed
+drap, draps         m, beddelaken, laken, beddegoed
 drap de bain        baddoek, badhanddoek, badlaken
 drapeau             m, vlag
 dresser             opzetten, oprichten, structureren, vormgeven
@@ -5165,6 +5166,7 @@ désherber           wieden
 déshonneur          m, oneer, blamage, schandaal, schande
 déshumaniser        ontmenselijken
 déshydrater         uitdrogen, verdrogen
+déshydration        f, uitdroging
 déshérités          m, misdeelden
 désignation         aanstelling, nominatie, kandidatuur
 désigner            aanduiden, merken, laten zien, aanwijzen
@@ -6109,6 +6111,7 @@ exprimer            bekendmaken, uitdrukken
 expropriation       f, onteigening
 exproprier          onteigenen
 expulsion           f, verdrijving, verstoting, uitstoting
+expulser            verdrijven, uitzetten, uitstoten
 expédier            korte metten maken met, snel afhandelen, versturen, zenden
 expéditif           prompt, voortvarend
 expédition          f, verzending, versturing, veldtocht, expeditie
@@ -12070,6 +12073,7 @@ quaternaire         m, ére géologique
 quatuor             m, kwartet, viertal
 que jamais          dan ooit
 que je sache        that I know, that I'm aware of
+que je ne meure dans sa voiture  dat ik in zijn wagen zou sterven
 que peut-il y avoir de plus triste      what could be sadder
 quelconque          lelijk, nietszeggend, een of ander, willekeurig
 quelque chose qui cloche         iets dat niet klopt, niet juist is
@@ -13584,6 +13588,7 @@ se trouver mal      to faint, flauwvallen, slecht worden
 se turent, se taire            bedaren, dimmen, tot bedaren komen
 se user             zich inslijten
 se échapper         ontsnappen
+échapper à          ontsnappen aan
 se élever           naar boven gaan, opstijgen
 se épancher         zich laten gaan, ontboezingen, zijn hart uitstorten
 se éterniser        voortslepen
@@ -14331,7 +14336,7 @@ taloches            f, oorvijg, mep
 talon               m, hak, hiel
 talon-aiguille      m, naaldhak
 talonnette          f, binnenzool?
-talus               m, afdamming, dam, dijk, talud, zeedijk 
+talus               m, afdamming, dam, dijk, talud, zeedijk, schut, continentaal plat
 tam-tam             m, tamtam, gong
 tamarin             m, tamarindevrucht
 tamarinier          m, tamarinde, boom
@@ -16645,4 +16650,8 @@ baladeur            m, walkman
 avoir beaucoup de menton        ruggegraat hebben?
 béret               m, baret, muts, pet, alpinopet
 lustrer             inventariseren, ettre à niveau, rendre lisse, faire briller, polijsten, schoonmaken
-=== Le Clézio --- Poisson d'or --- pag. 273 bovenaan --- ===
+rhume               m, verkoudheid
+fièvre              f, koorts
+fièvre cérébro-spinale f, hersenkoorts
+cureter             opereren, opérer
+=== Le Clézio --- Poisson d'or --- pag. 276 bovenaan --- ===
