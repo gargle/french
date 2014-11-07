@@ -3932,6 +3932,7 @@ crever les yeux     voor de hand liggen
 crevette            f, garnaal, steurgarnaal
 crevées             doodmoe, gestorven, hondsmoe, vermoeid, wijlen, versleten
 cri, cris           m, schreeuw, gegier, roep, gehuil, huilbui
+cris de loups       m, wolvengehuil
 criailler           gillen, huilen, schreeuwen
 criardes            schreeuwerig
 cribler             zeven, ziften
@@ -9535,6 +9536,7 @@ mille-pattes        m, duizendpoot
 millénaire          m, millenium, duizend jaar
 millésime           m, vintage, jaar van uitgave, wijnoogst
 mimique             f, gebarenkunst, imitatie
+mimer               mime, playbacken, door gebaren uitdrukken, zich in gebarentaal uitdrukken
 mimosas             m, soort bloem
 mimétisme           m, kopieergedrag
 mimétisé            flexing
@@ -10377,7 +10379,7 @@ ordures             f, huisvuil, bocht, puin, vuil, snoeihout, vuiligheid, vuiln
 orduriers           cru, dégoûtant, abject, sordide, sale
 ordurière           schunnig
 oreille             f, oor, gehoor
-oreillers           m, hoofdkussen
+oreiller, oreillers m, hoofdkussen
 oreilles ourlées    flaporen
 oreillette          m, oorflappen (aan hoofddeksel)
 orfèvre             m, edelsmid, goudsmid, zilversmid
@@ -10743,6 +10745,7 @@ pasteur             m, herder
 pasteurisation      f, pasteurisatie
 pasticheur          m, navolger, auteur, imitateur
 pastille de mente   f, pepermunt
+pastille            f, tablet, pil
 pastoral            herderlijk, landelijk, pastoraal
 pastèque            f, watermeloen
 patatella           m, cigare de La Havane, long et mince
@@ -13924,7 +13927,7 @@ source              f, welput, bron
 sourcier            m, waarzegger, roedeloper, toekomstvoorspeller
 sourcilière         wenkbrauwbogen
 sourcilleux         grievend, hatelijk, opschepperig, precies, trefzeker, nauwkeurig, hoog, grijns, grimas
-sourcils            m, wenkbrauw, high brow
+sourcil, sourcils   m, wenkbrauw, high brow
 sourcrire           bijdragen, contribueren, geldelijk steunen
 sourde, sourdes     doof, dove, dull, muffled
 sourde angoisse     f, stille angst, dull anguish
@@ -16199,6 +16202,7 @@ haïtienne           f, van Haïte
 épine               f, doorn
 épineuses           doornachtig, stekelvormig
 épingle             f, spelden, broche
+épinglette          f, speldje, onderscheidingsteken, nametag
 épingle du jeu      spelgoed
 épingler            pennen, vastspelden, vastpinnen, vastspelden
 épiphénoméne        m, epifenomeen, ce qui se surajoute à un phénomène sans exercer sur lui aucune influence
@@ -16654,4 +16658,8 @@ rhume               m, verkoudheid
 fièvre              f, koorts
 fièvre cérébro-spinale f, hersenkoorts
 cureter             opereren, opérer
-=== Le Clézio --- Poisson d'or --- pag. 276 bovenaan --- ===
+ovale               m, ellips, eivorm, ovaal, figure à deux dimensions, figure plane - silhouette - gedaante
+prospectus          m, brochure, folder, prospectus, strooibiljet, vlugschrift
+klaxonner           klaksonneren, claxonneren, toeteren
+escalator           m, roltrap
+=== Le Clézio --- Poisson d'or --- pag. 281 bovenaan --- ===
