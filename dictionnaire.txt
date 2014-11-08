@@ -1463,7 +1463,7 @@ baguer, bagué       geringd
 baguette            f, aanwijsstok, dirigeerstok
 bagué               ring, ringetje
 baie vitrée         f, erker, groot raam, vensterraam
-baies               f, bes, kreek, baai, inham, vensterraam, glasraam, kijkglas
+baie, baies         f, bes, kreek, baai, inham, vensterraam, glasraam, kijkglas
 baignade            f, duik, het baden
 baigner, baigné     baden, wellen, een bad nemen
 baigneur            m, bader, badgast, zwemmer
@@ -3705,7 +3705,7 @@ corrompre, corrompu bederven, omkopen
 corrège             m, Corregio, de schilder
 cors                m, trompetten
 corsage             m, bloesje, blouse, bovenkleding
-corsaire            m, boekanier, kaper, vrijbuiter, zeerover
+corsaire            m, boekanier, kaper, vrijbuiter, zeerover, pantalon, lange broek, broek
 corsé               beaucoup, joyeux, blijmoedig
 cortège             m, gevolg, entourage, stoet
 corvées             f, arbeid, corvee, geploeter, gezwoeg
@@ -4349,7 +4349,7 @@ desseller           afzadelen, ontzadelen
 desserra pas les dents  zijn mond niet opendoen
 desserrer           losdoen, losmaken, losdraaien, lostrekken, losser maken, verslappen, afschroeven
 desservir           dienen, bedienen, afruimen, rendre un mauvais service à qqn.
-dessin              m, aftekening, sporen
+dessin              m, aftekening, sporen, tekening, patroon, opzet, plan, blok, plaatje, ontwerp
 dessinateur         m, vormgever, tekenaar, ontwerper, opsteller
 dessiner            aftekenen, tekenen
 dessiner à la craie    krijttekening maken
@@ -12336,6 +12336,7 @@ ravivant            rendre plus vif
 raviver             herleven
 rayer               doorstrepen, uitschrijven, doorhalen, schrappen, bekrassen
 rayon               m, straal, afdeling, plank, spaak, deel, glimp, shelve
+rayonne             f, kunstzijde, fibre textile, zijde, zij
 rayonnage           f, boekenrek, opbergrek
 rayonnement         m, glans, schijn, schijnsel, straling, vrolijkheid
 rayonner            afstralen, nagloeien, radiate
@@ -16662,4 +16663,5 @@ ovale               m, ellips, eivorm, ovaal, figure à deux dimensions, figure 
 prospectus          m, brochure, folder, prospectus, strooibiljet, vlugschrift
 klaxonner           klaksonneren, claxonneren, toeteren
 escalator           m, roltrap
-=== Le Clézio --- Poisson d'or --- pag. 281 bovenaan --- ===
+j'apporte mes quarts   ik betaal
+=== Le Clézio --- Poisson d'or --- pag. 284 midden --- ===
