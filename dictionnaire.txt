@@ -180,7 +180,7 @@ accommoder          zich verzoenen, genoegen nemen met, zich tevredenstellen met
 accompagnatrice     f, begeleider, reisleider, koerier
 accomplir           vervullen, klaarspelen, volbrengen, volledig maken
 accomplissement     m, afwerking, completering, concretisering, prestatie, voltooiing
-accord              m, accoord, afspraak
+accord              m, accoord, afspraak, akkoord
 accorder            intoneren, (af)stemmen (van muziekinstrument), toekennen, bekronen, stemming, overeenstemmen, toestaan, ondersteunen, verlenen, samenhangen
 accordéon           m, accordeon
 accoster            aanleggen, aanklampen
@@ -1911,7 +1911,7 @@ bouchonner          droogwrijven
 bouchons de liège   kurken
 bouché              verstopt
 bouchée             f, laadklep, klep, beet, hapje, hap, mondvol
-boucle, boucles     f, band, krullen, bocht, gesp, krinkel
+boucle, boucles     f, band, krullen, bocht, gesp, krinkel, loop, herhaling
 boucle musicale     f, musical loop
 boucler l'affaire   het geval afhandelen
 boucler une ronde   afsluiten van een ronde
@@ -2581,7 +2581,7 @@ carrossable         berijdbaar
 carrure             f, lichaamsbouw
 carrée              uitgestrekt, uitgerekt
 carrément           regelrecht, vierkant
-carrés              m, vierkanten, hoek, vierhoek
+carré, carrés       m, vierkanten, hoek, vierhoek
 cartable            m, schooltas
 carte bleu          f, debitcard, betaalkaart
 carte de fidélité   f, getrouwheidskaart
@@ -8674,8 +8674,7 @@ laitues             f, kropsla, sla
 lambeau             m, flarden
 lambris             m, beschot, dashboard, paneel, instrumentenbord, glasruit, houtwerk, paneelwerk
 lambrissée          betimmerd, met hout beschieten
-lame                f, blad, kling, lemmet, plaat, baren, golf, baren, lat, mes
-lame                f, bord d’un objet, randversiering, mouvement de la mer en surface - golf (zee)
+lame                f, blad, kling, lemmet, plaat, baren, golf, baren, lat, mes, bord d’un objet, randversiering
 lame de fond        f, grondzee, afwisseling, poolwisseling, variatie, verandering, vague (mouvement de l'eau)
 lame de sabre       f, kling/lemmet van een sabel, sabelkling
 lamelle             f, lat, klein stukje
@@ -11006,6 +11005,7 @@ piaf                m, vogeltje
 piaffer             stampen
 piailler            kwelen, kwetteren, piepen, sjilpen
 pianoter            tokkelen
+piano               m, piano, klavier
 piano-bar           m, bar
 pianiste            m, pianist, pianospeler
 pic, pics           m, pikhouweel, bergspits
@@ -11598,6 +11598,7 @@ primo-étoiles       f, primaire sterren
 primogéniture       f, eerstgeborenrecht
 primordiale         oorspronkelijk
 principauté         f, prinsdom, vorstendom
+principalement      inzonderheid, meestal, vooral, voornamelijk, bovenal
 principaux          belangrijkste, voornaamste, hoofd-
 principe            m, aanhef, inleiding
 printanier          lente-, voorjaars-
@@ -13965,6 +13966,7 @@ soutane             f, priestergewaad
 souteneur           m, hoerenbaas, koppelaar, pooier
 soutenir, soutint   protéger, défendre
 souterraine         f, onderaards, ondergronds, kelder-
+souterrain          m, ondergronds, kelder, trou, gat
 soutien             m, steun, steunpillaar
 soutien-gorge       m, bh
 soutins, soutenir   gereedstaan, klaarstaan, plakken, ondergaan
@@ -15412,7 +15414,7 @@ violence            f, geweld, grimmigheid, hevigheid
 violent             geweldadig, fel, hevig, sterk, stevig, woest
 violents            m, geweldadigers
 violer              leesgeroofd, aanranden, schenden, geweld aandoen, binnendringen, to conceal
-violette            f, viooltje (bloem), korte sluier
+violette            f, viooltje (bloem), korte sluier, paars, viooltje
 violine             purper
 violon              m, viool
 vipère              f, adder (ook voor persoon)
@@ -16664,4 +16666,10 @@ prospectus          m, brochure, folder, prospectus, strooibiljet, vlugschrift
 klaxonner           klaksonneren, claxonneren, toeteren
 escalator           m, roltrap
 j'apporte mes quarts   ik betaal
-=== Le Clézio --- Poisson d'or --- pag. 284 midden --- ===
+yucca               m, ordre des Liliales, yucca, yuca, struikgewasachtig
+variqueuse          spatader, uitbreident
+ivoirine            ivoor, ivoire
+soda                m, soda, sodawater, limonade
+autographe          m, handtekening, krabbel, ondertekening
+émigrant            m, emigrant, landverhuizer
+=== Le Clézio --- Poisson d'or --- pag. 287 onderaan --- ===
