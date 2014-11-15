@@ -1160,7 +1160,7 @@ au goulot           à la bouteille
 au grand complet    volledige, volledigheid, in its entirety, voltallig
 au gros soleil      out in the sun
 au gré de           believen, goeddunken, welbehagen, welgevallen
-au hasard           in het wilde weg, lukraak, willekeurig, at random
+au hasard           in het wilde weg, lukraak, willekeurig, at random, op goed geluk
 au jour le jour     régulièrement, tous les jours, alle dagen, van dag tot dag
 au jugé             presque, manière de tirer (arme à feu)
 au juste            eigenlijk
@@ -2058,6 +2058,7 @@ branle-bas          m, bouleversement, agitation, "naar uw posten"
 branlement, branler schommelen, onstabiel, rukken
 branlette           f, zelfbevrediging
 branlette espagnole titty fuck
+espagnole           m, spaans
 braquer             mikken, richten, misnoegen
 braqués             gericht, gemikt
 bras                m, arm
@@ -3699,6 +3700,7 @@ corpusculaire       atoom-, heel klein, minutieus
 corral              m, kraal
 correction          f, verbeteringen
 correspondance      f, briefwisseling, aansluiting
+corresponder        overeenkomen met
 correspondant       m, correspondent, reporter, berichtgever
 corridor            m, gang
 corrompre, corrompu bederven, omkopen
@@ -6999,8 +7001,7 @@ garage              m, garage
 garagiste           m, garagist
 garantir se         beschutten tegen
 garce               f, bitch, slet
-garde               f, bewaker, wacht, wake, begeleider, beschermer
-garde               f, wachtpost, gevolg, entourage, hofstoet, wacht, voogdij, begeleider, verzorger
+garde               f, bewaker, wacht, wachtpost, gevolg, entourage, hofstoet, wacht, voogdij, begeleider, verzorger
 garde alternée      f, co-ouderschap, wisselende bewaring
 garde-chasse        m, jachtopzichter
 garde-corps         m, reling
@@ -8466,7 +8467,7 @@ jambes flageolantes trillende, wankele, wiebelende benen
 jante               f, velg
 jappement           m, gejank, gekef
 japper, jappant     janken, keffen
-jaquette            f, rokkostuum, avondkostuum, overjas
+jaquette            f, rokkostuum, avondkostuum, overjas, cover, kaft, omslag, boekomslag
 jardin              m, tuin, hof, erf
 jardin zoologique   m, zoo
 jardin à la française  m, franse tuin
@@ -9156,7 +9157,6 @@ maladive            ziekelijk, onwel, ziek, ongesteld
 maladresse          f, lompheid, onhandigheid
 maladroit           amateuristisch, knullig, lastig, onbehendig, onhandig
 maladroitement      armzaligheid, mank, onbehendig, ondeskundig, onhandig
-maladroits          onhandig, knullig, houterig, onbeholpen
 malaise             m, onbehaaglijk gevoel
 malaise cardiaque   m, hartaanval
 malaisement         ongemakkelijk
@@ -14477,8 +14477,7 @@ tendre leur piège   hun val zetten, spannen, op de loer liggen, op de uitkijk s
 tendre à l'extrême  neigen tot het uiterste
 tendres             teder, hartelijk, liefhebbend, gevoelig
 tendresse           f, tederheid, genegenheid
-tendu               tendre, ontvouwen, openvouwen
-tendue              gespannen, strak, aangehaald, tenderen naar, benauwd, opengevouwen, uitgerokken
+tendu, tendue       tendre, gespannen, strak, aangehaald, tenderen naar, benauwd, open/ont-gevouwen, uitgerokken
 tenir               leven van, handel drijven in, houden, verknocht zijn aan
 tenir en respect    imponeren
 tenir en échec      to hold in check
@@ -16067,7 +16066,7 @@ haïtienne           f, van Haïte
 élaboration         f, uitwerking, uitweiding
 élaborer            tot stand brengen, plannen, uitwerken
 élaguer             snoeien
-élan                f, aanloop, sprong, opwekking, prikkel, plunge, impulses
+élan                m, aanloop, sprong, opwekking, prikkel, plunge, impulses
 élancement          m, klop, scheut
 élancé              slank
 élargir             verbreden
@@ -16672,4 +16671,10 @@ ivoirine            ivoor, ivoire
 soda                m, soda, sodawater, limonade
 autographe          m, handtekening, krabbel, ondertekening
 émigrant            m, emigrant, landverhuizer
-=== Le Clézio --- Poisson d'or --- pag. 287 onderaan --- ===
+fichier             m, bestand, kaartenbak, computerbestand, gegevensbestand
+alléchant           aanlokkelig, hartig, aantrekken, weglokken
+s'absenter          wegblijven
+dédicace            f, dedikatie, opdracht, dedicatie
+dédicacer           opdragen, signeren
+revanche            f, wraak
+=== Le Clézio --- Poisson d'or --- pag. 292 bovenaan --- ===
