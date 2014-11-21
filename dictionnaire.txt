@@ -439,6 +439,7 @@ aiguë               doordringend, fel, guur, schril, lang, puntig, scherp
 ailerons            m, vinnen
 ailes               f, vleugel, vlerk, spatbord
 ailleurs            elders, ergens anders, op een andere plaats
+nulle part ailleurs nergens anders
 ailées              gevleugeld
 ail                 m, look, knoflook
 aimant              m, magneet, aantrekkingskracht
@@ -519,6 +520,7 @@ alluvial, alluviale aangeslibt, alluviaal, afzetting, bezinksel, sediment
 alluvison           f, aanslibbing
 allécher            aantrekken, weglokken
 allée               f, allee, avenue, boulevard, doorgang, dreef, passage, steeg, straatje, wandelweg
+allées et venues    f, fait de se déplacer, doling, dwaaltocht, zwerftocht
 allégeance          f, trouw
 alléger, allège     lichter maken, verlichten, relieved
 allégrement         monter, vrolijk
@@ -2990,7 +2992,7 @@ chuchotement        m, gefluister
 chuchoter           fluisteren, inblazen, toefluisteren
 chuintant           slissen
 chuintement         m, sissend, gesis
-chute               f, smak, valpartij, val, tuimeling
+chute               f, smak, valpartij, val, tuimeling, fall
 chuter              afgaan, neerkletteren, sodemieteren
 chutes              f, overschot, restafval, overschot na knipwerk
 châine hi-fi        f, hifi-installatie
@@ -3007,6 +3009,7 @@ châtiment           m, afstraffing, lijfstraf, kastijding
 châtié              gekastijd, gelouterd, gestraft
 châtrer             kastreren
 chèvres bises       f, gijze geiten?
+chèvre              f, geit
 chéchia             f, coiffure cylindriqe de certaines populations d'Afrique
 chéquier            m, chequeboekje
 chérifa             f, edelvrouw
@@ -4736,7 +4739,7 @@ décacheter          brief openen, ontzegelen, resigneren
 décacheter          ontzegelen, resigneren
 décadence           f, aantasting, achteruitgang
 décadent            in verval, decadent, genotziek
-décalage            m, verschil in tijd, tijdsverschil
+décalage            m, verschil in tijd, tijdsverschil, vertraging
 décaler             verplaatsen, verschuiven, achterblijven, blijven hangen
 décalotté           gescalpeerd
 décalques           m, overdruk, grondvorm, oervorm, imitator
@@ -5198,7 +5201,7 @@ désuète             achterhaald, in onbruik, ouderwets, verouderd
 déséquilibré        m, de onevenwichtige persoon
 déséquilibré        onevenwichtig, uit zijn evenwicht gebracht
 désœuvrement        m, nietsdoen, luiheid
-désœuvrés           werkloze, qui est dépourvu d'occupation, faible moralement
+désœuvré, désœuvrés werkloze, qui est dépourvu d'occupation, faible moralement, qui n’agit pas
 détacher            losmaken, afsteken bij, afsteken tegen
 détaché             los, vrijstaand, afzonderlijk, niet vast
 détail              m, detail, kleinigheid
@@ -5897,6 +5900,7 @@ entêté              koppig, hardleers
 envahir             binnenvallen, bezetten, innemen, overweldigen
 envahissante        doordringend, opdringerig
 envahissement       m, overweldiging, binnendringen, binnenvallen
+envahisseur         m, indringer, insluiper, invaller
 enveloppant         omfloerst
 envelopper          verdikt, omhullen, omwikkelen, omsluieren, omsingelen
 enveloppe           f, briefomslag, enveloppe
@@ -7530,7 +7534,7 @@ happer, happé       vastpakken, vastnemen, met force, happen, gevangen, gecrash
 harangue            f, donderpreek, donderspeech
 haranguer           oreren, een donderpreek afsteken
 harassante          vermoeiend
-harasser            kwellen, opgejaagd, hounded
+harasser            kwellen, opgejaagd, hounded, afbeulen, verslijten, vermoeien, slijten, aflopen
 harceler            aansporen, plagen, lastigvallen
 harcelé             opgejaagd
 harcèlement         bezetenheid, gewelddaad, geweldpleging, molest, pesterij
@@ -7578,7 +7582,7 @@ hauteur du regard   f, eye level, hoogte van de blik?
 hauts-fourneaux     m, hoogoven
 havanes de passion  sigaren?
 havre               m, haven, havenstad, zeehaven
-haïk                m, robe
+haïk                m, robe (vêtement enveloppant tout le corps), vêtement féminin
 haïr                haten
 haïssable           hatelijk
 hebdomadaire        wekelijks
@@ -8227,7 +8231,7 @@ inspiration         f, inspiratie, bezieling, motor
 inspirer            aanzetten tot, oproepen, inspireren
 inspirer confiance  vertrouwen wekken
 instamment          uitdrukkelijk
-instant             m, ogenblik, korte tijd, een moment, moment
+instant             m, ogenblik, korte tijd, een moment, moment, seconde, minuut
 instantané          acuut, direct, onmiddellijk, impromptu
 instantanéisme      m, onmiddellijkheid
 instantanément      in een wip, onmiddellijk
@@ -10793,6 +10797,7 @@ pavoisé             gedrapeerd
 pavot               m, klaproos, papaver
 pavé                m, tegel, kei, kassei, bestraat, geplaveid, bestrating, betegeling, remark, opmerking
 pays                m, land
+pays natal          m, geboorteland
 pays de connaissance   m, gekend terrein, familiar ground
 paysage             m, landschap
 paysan              m, boer, plattelander, provinciaal, pummel
@@ -11283,7 +11288,6 @@ point               m, punt
 point assez         niet genoeg
 point d'obscur      m, duister punt
 point d'ouverture   aanmeldingspunt
-point de côté       m, steek in de zij
 point de côté       m, steek in de zij, douleur au thorax
 point de mire       brandpunt, richtpunt
 point de rupture    m, een breekpunt
@@ -12132,7 +12136,7 @@ rabrouer            snauwen, afpoeieren, vervreemden, afwijzen, afstoten, onheus
 rabâcher            oefenen, praktizeren, trainen
 racaille            f, schorem, tuig
 raccommoder         bijleggen, verzoenen met, verstellen, stoppen
-raccompagner        escorte
+raccompagner        escorte, escorteren, guider qqn en l'accompagnant, accompagner qqn qui s'en retourne
 raccourci           m, binnenpad, binnenweg
 raccrocher          het gespreg afbreken, ophangen, vastklampen
 race                f, volk, ras, afkomst
@@ -13138,7 +13142,7 @@ rééditer            herediteren, opnieuw uitbrengen
 réédition           f, heruitgave, herdruk
 rééducation         f, revalidatie
 réélection          f, herverkiezing
-rêches              grof, ruig, ruw
+rêche, rêches       grof, ruig, ruw, bars, dont la surface est rude au toucher
 rênes               f, leidsel, leiband, lei
 rêvasser            dagdromen
 rêve                m, droom
@@ -14659,7 +14663,7 @@ ton posé            m, een bedaarde toon
 tonalité            f, toonaard, tonaliteit
 tondeuse            f, grasmaaier
 tondre, tondent, tondu aansnijden, knippen, snijden, snoeien, bijsnijden, oogsten, houden van dieren
-tongs               slippers
+tong, tongs         f, slippers, chaussure, équipement destiné à couvrir le pied
 tonifier            sterken, versterken
 tonique             f, kwiek, levendig, fris, frisdrank
 tonitruant          donderderend
@@ -14808,7 +14812,7 @@ trajectoire         f, traject, kogelbaan
 trajet              m, baan, route, weg, tocht, reis, reisroute
 tram                m, tram
 trame               f, raamwerk, stramien, inslag, beeldgeometrie, lijnwerk (weefgetouw), web
-tramer              comploter, conspirer, machiner, arranger, betrokken zijn, rasteren
+tramer              comploter, conspirer, machiner, arranger, préparer, alliance qui agit en secret, samenzweren
 tramway             m, tram
 tranchant           m, kant, zijkant, kant van iets
 tranchant           vlijmscherp, scherp
@@ -15981,7 +15985,7 @@ j'ai connu la dérive   ik was op de dool?
 écorcher            afpellen, villen, afschillen, vervellen, schaven, onthuiden, afstropen, uitkotsen?
 écorchures          f, schaafwond, schampschot, schaving
 écornifle           tirer un profit abusif, tirer un profit, un avantage de, excessif et trop, manger
-écoulables          
+écoulables          voorkomen?
 écoulement          m, afvoer, afwatering, stroom, verloop?
 écouler             aflopen, doorlopen, vervliegen, verlopen
 écouler au-dehors   kwijtspelen
@@ -16677,4 +16681,9 @@ s'absenter          wegblijven
 dédicace            f, dedikatie, opdracht, dedicatie
 dédicacer           opdragen, signeren
 revanche            f, wraak
-=== Le Clézio --- Poisson d'or --- pag. 292 bovenaan --- ===
+parking             m, parking
+car-ferry           m, car-ferry, overzetboot
+Chleuh              m, berber Shilha people - mof? Pruis, Duits
+ammonite            f, ammoniet
+estimable           achtenswaardig, achtenswaard
+=== Le Clézio --- Poisson d'or --- einde --- ===
