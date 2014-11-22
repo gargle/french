@@ -6920,6 +6920,7 @@ futur               m, de toekomst
 fuyait, fuir        vluchten, laten uitlekken, doorlekken, doorregenen
 fuyard              vluchtelinge, voortvluchtige
 fâcheux, fâcheuse   ongelukkig, sneu
+fâcheux             m, humain, kijklustig, nieuwsgierig, randfiguur, toeschouwer, personne qui demande/importune
 fâché               kwaad, boos, bezorgd, nijdig, geïrriteerd, geërgerd, op de tenen getrapt, strijdbaar, strijdig
 fève                f, tuinboon, boon
 fébrile             hectisch, koortsig, razend
@@ -7986,7 +7987,7 @@ inconcevable        onbevattelijk, onvoorstelbaar
 inconditionnel      onvoorwaardelijk
 inconditionné       onvoorwaardelijk
 inconfort           m, ongemak, ongerief
-inconfortable       oncomfortable, ongerieflijk
+inconfortable       oncomfortable, ongerieflijk, ongemakkelijk
 incongrue           ongerijmd, onpassend
 incongruité         f, misplaatsheid, ongepastheid
 inconnaissable      ongezien, qui ne peut être compris
@@ -13204,6 +13205,7 @@ sadien              de Sade
 sadique             m, sadist
 safrane             f, wagen, Renault
 sagacité            f, scherpheid, scherpte, vernuft, verstand
+sage                verstandig, wijs, wijze, oppassend, gehoorzaam, omzichtig
 sage-femme          f, midwife, vroedvrouw
 sagement            braaf, oppassend
 sagesse             f, levenswijsheid, oordeel, wijsheid
@@ -16686,4 +16688,10 @@ car-ferry           m, car-ferry, overzetboot
 Chleuh              m, berber Shilha people - mof? Pruis, Duits
 ammonite            f, ammoniet
 estimable           achtenswaardig, achtenswaard
-=== Le Clézio --- Poisson d'or --- einde --- ===
+gorille             m, gorilla, mensaap
+genièvre            m, jenever, klare
+chargé jusqu'à la gueule        loaded to the muzzle
+bouder              negeren, onder tafel schuiven
+dépaysement         m, dépayser, exiler,
+rien ne l'entame    ne sent pas la fatigue, ne perd pas courage; nothing can divert him from his purpose
+=== Camus --- La chute --- pag. 8 onderaan --- ===
