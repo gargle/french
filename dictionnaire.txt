@@ -6921,6 +6921,7 @@ fuyait, fuir        vluchten, laten uitlekken, doorlekken, doorregenen
 fuyard              vluchtelinge, voortvluchtige
 fâcheux, fâcheuse   ongelukkig, sneu
 fâcheux             m, humain, kijklustig, nieuwsgierig, randfiguur, toeschouwer, personne qui demande/importune
+jouer les fâcheux   to be a nuisance
 fâché               kwaad, boos, bezorgd, nijdig, geïrriteerd, geërgerd, op de tenen getrapt, strijdbaar, strijdig
 fève                f, tuinboon, boon
 fébrile             hectisch, koortsig, razend
@@ -16694,4 +16695,6 @@ chargé jusqu'à la gueule        loaded to the muzzle
 bouder              negeren, onder tafel schuiven
 dépaysement         m, dépayser, exiler,
 rien ne l'entame    ne sent pas la fatigue, ne perd pas courage; nothing can divert him from his purpose
+installer           neerstrijken, zich settelen, neervlijen
+jusq'à la gueule    totalement, à ras bord, complètement
 === Camus --- La chute --- pag. 8 onderaan --- ===
