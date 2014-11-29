@@ -927,7 +927,7 @@ arrière-bouche      f, keelholte
 arrière-boutique    f, achterste winkelruimte
 arrière-mondes      ?
 arrière-pays        m, achterland
-arrière-pensée      bijbedoeling, bijgedachte, voorbehoud
+arrière-pensée      f, bijbedoeling, bijgedachte, voorbehoud
 arrière-plan        m, background, achtergrond
 arroger             zich aanmatigen, wijten
 arrondi             afgerond, ronding
@@ -3632,7 +3632,6 @@ convives            m, tafelgast, eetster, eter, gast, logé
 convivial           gezellig, hartelijk, joviaal
 convié              uitgenodigd
 convocation         f, dagvaardiging, oproep
-convocation         m, oproep, dagvaarding
 convoi              m, konvooi, begeleiding, vrijgeleide
 convoyer            aandragen, brengen, verladen, nemen, maken
 convoitait, convoiter        begeren, hunkeren, verlangen, zuchten
@@ -4888,6 +4887,7 @@ défensive           defensief, verdedigend
 déferler            rollen, binnenstromen, plenzen, stromen
 défiait, défier     alle beschrijving tarten, tarten, uitdagen, distrust
 défiance            f, wantrouwen, arwaan, wantrouwig
+défiant             argwanend, wantrouwend, wantrouwig
 déficitaire         qui ne suffit pas
 défigurer           verminken, bevlekken
 défiler             betogen, defileren
@@ -7756,7 +7756,7 @@ hôpital             m, hospitaal
 hôtel               m, hotel, herberg, logement
 hôtel particulier   m, herenhuis, kasteel, villa, woning, logement
 hôtelier            m, hoteleigenaar
-hôtes               gasten, genodigde, logée
+hôte, hôtes         m, gast, host, gastheer, gastvrouw, parasietendrager, gasten, genodigde, logée
 ibis                m, oiseau échassier - steltlopers; waadvogel; steltloper
 icarienne           uptopische beweging
 ichor               m, pus, etter
@@ -10298,7 +10298,7 @@ oléagineuses        olie, olieachtig
 ombilical           navel-
 omble chevalier     m, char, vis, zalmachtig?
 ombrage             m, lommer, verdacht
-ombrageux           dartel, frivool, grillig, schichtig, uitgelaten
+ombrageuse, ombrageux          dartel, frivool, grillig, schichtig, uitgelaten
 ombragé             beschaduwd, lommerrijk, schaduwrijk
 ombre               f, schaduw, schim, zweem
 ombre chinoise      f, silhouet
@@ -16693,8 +16693,11 @@ gorille             m, gorilla, mensaap
 genièvre            m, jenever, klare
 chargé jusqu'à la gueule        loaded to the muzzle
 bouder              negeren, onder tafel schuiven
-dépaysement         m, dépayser, exiler,
+dépaysement         m, dépayser, exiler, homesick, niet op zijn gemak, slecht op zijn gemak
 rien ne l'entame    ne sent pas la fatigue, ne perd pas courage; nothing can divert him from his purpose
 installer           neerstrijken, zich settelen, neervlijen
 jusq'à la gueule    totalement, à ras bord, complètement
-=== Camus --- La chute --- pag. 8 onderaan --- ===
+vocation            f, roeping, beroep, carrière, loopbaan, vocatie
+primate             m, mensaap, primaat
+tourner rond        functioneren, goed werken, in orde zijn
+=== Camus --- La chute --- pag. 8 bovenaan --- ===
