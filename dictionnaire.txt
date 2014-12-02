@@ -1974,7 +1974,6 @@ bouquet             m, boeket, geur
 bouquin             m, boekje
 bouquiniste         m, antikwaar, antiquaar
 bourbon             m, Bourbon
-bourdon             m, hommel
 bourdon             m, hommel, wandelstok
 bourdonnante        gonzend, razend, brommend, zoemend
 bourdonnement       m, gegons, geroezemoes, the hum
@@ -7632,6 +7631,7 @@ hommage             m, aanzien, eer, eerbetoon, hommage, hulde
 homme de main       m, handlanger
 homme à tout faire  m, manusje van alles
 homme-grenouille    m, kikvorsman, duiker
+homme d'esprit      m, personne, man of wit, intelligent man
 homonymie           f, naamgenoot, gelijkluidend
 homosexualité       f, homofilie, homosexualiteit
 homélie             f, homilie, preek, sermoen, geloofsverkondiging
@@ -11384,7 +11384,7 @@ ponte               f, geboorte, accouchement, naissance
 ponter, ponté       uitrusten, équiper un navire, bouwen, samenstellen, opbouwen
 ponton              m, kraaneiland, ponton
 ponts               m, bruggen
-popeline            soor stof
+popeline            f, soort stof
 popote              f, cantine, cuisine, mess
 populace            f, gepeupel, menigte
 population          f, populatie, bevolking
@@ -16700,4 +16700,5 @@ jusq'à la gueule    totalement, à ras bord, complètement
 vocation            f, roeping, beroep, carrière, loopbaan, vocatie
 primate             m, mensaap, primaat
 tourner rond        functioneren, goed werken, in orde zijn
-=== Camus --- La chute --- pag. 8 bovenaan --- ===
+faire sa société    
+=== Camus --- La chute --- pag. 8 onderaan --- ===
