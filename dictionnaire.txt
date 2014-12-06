@@ -6895,7 +6895,7 @@ funéraire           begrafenis
 furet               m, fret, toeschouwer, waarnemer
 fureter             snuffelen, rondsnuffelen, rondneuzen, gluren, koekeloeren, grasduinen, neuzen, snuffen
 fureteur            bemoeiziek, bemoeizuchtig, indiskreet, nieuwsgierig
-fureur              f, felheid, furie, onstuimigheid
+fureur              f, felheid, heftigheid, furie, sterkte, intensiteit, onstuimigheid
 furie               f, furie, woede, delirium, hysterie
 furoncle            m, antrax, steenpuist
 furtif, furtive     heimelijk, steels, oneerlijk, verholen
@@ -11384,7 +11384,7 @@ ponte               f, geboorte, accouchement, naissance
 ponter, ponté       uitrusten, équiper un navire, bouwen, samenstellen, opbouwen
 ponton              m, kraaneiland, ponton
 ponts               m, bruggen
-popeline            f, soort stof
+popeline            f, popeline, zijde, wol, soort stof
 popote              f, cantine, cuisine, mess
 populace            f, gepeupel, menigte
 population          f, populatie, bevolking
@@ -16701,4 +16701,8 @@ vocation            f, roeping, beroep, carrière, loopbaan, vocatie
 primate             m, mensaap, primaat
 tourner rond        functioneren, goed werken, in orde zijn
 faire sa société    
-=== Camus --- La chute --- pag. 8 onderaan --- ===
+trompe-l'œil        m, gezichtsbedrog
+fornication         f, geslachtsdaad, coïtus, copulatie, geslachtsgemeenschap, seks, vrijen
+à tort et à travers    désordre, ontreddering, verwarring, en désordre
+cartouche           f, patroon, patroonhuls
+=== Camus --- La chute --- pag. 9 midden --- ===
