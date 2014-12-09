@@ -9700,7 +9700,7 @@ montée              f, aanwas, increment, vermeerdering, klim, klimpartij
 moquer              zich niet bekommeren om, zich niets aantrekken van, spotten
 moqueuse            spottend, honend
 moquette            f, tapijt, vaste vloerbedekking
-moral, moraux       m, luim, stemming, geestesgesteldheid, bui, dispositie
+moral, moraux       m, luim, stemming, geestesgesteldheid, bui, dispositie, ethisch
 morale              f, etisch, filosofie, levensbeschouwing
 moralement          moreel, zedelijk, deugdzaam, abstract
 moralité            f, ethiek, moraal, moraliteit, zinnespel
@@ -15135,7 +15135,8 @@ ustensible de ménage    huishoudelijk apparaat
 ustensile           m, gebruiksvoorwerp, instrument, keukengerei
 usuel               gebruikelijk, habituel
 usufruit            m, vruchtgebruik
-usure               f, moeiheid, sleet, slijtage, slijting
+usure               f, moeiheid, sleet, slijtage, slijting, dette financière, verarming, verslechtering
+practiquer l'usure  woeker drijven
 usurier             m, geldschieter, woekeraar
 usurpateur          m, naäper, bedrieger, zwendelaar
 usurpation          f, overweldiging, vergrijp, misdaad
@@ -16705,4 +16706,5 @@ trompe-l'œil        m, gezichtsbedrog
 fornication         f, geslachtsdaad, coïtus, copulatie, geslachtsgemeenschap, seks, vrijen
 à tort et à travers    désordre, ontreddering, verwarring, en désordre
 cartouche           f, patroon, patroonhuls
-=== Camus --- La chute --- pag. 9 midden --- ===
+liquidation         f, liquidatie, opruiming, uitverkoop
+=== Camus --- La chute --- pag. 9 onderaan --- ===
