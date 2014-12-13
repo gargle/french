@@ -8569,6 +8569,8 @@ joyau, joyaux       m, bijou, juweel, edelsteen, sieraad
 jubilation          f, gejubel
 jubiler             gniffelen, jubelen, juichen, uitkraaien
 jucher              hoog zetten, liften
+juge                m, rechter
+juge-pénitent       m, boetedoend rechter?
 juge d'instruction  m, rechter-commissaris
 juge de paix        m, vrederechter
 jugement            m, arrest, berechting, oordeel
@@ -16670,6 +16672,7 @@ fièvre cérébro-spinale f, hersenkoorts
 cureter             opereren, opérer
 ovale               m, ellips, eivorm, ovaal, figure à deux dimensions, figure plane - silhouette - gedaante
 prospectus          m, brochure, folder, prospectus, strooibiljet, vlugschrift
+prospérité          f, welvarendheid, voorspoed, welstand, welvaren
 klaxonner           klaksonneren, claxonneren, toeteren
 escalator           m, roltrap
 j'apporte mes quarts   ik betaal
@@ -16707,4 +16710,6 @@ fornication         f, geslachtsdaad, coïtus, copulatie, geslachtsgemeenschap, 
 à tort et à travers    désordre, ontreddering, verwarring, en désordre
 cartouche           f, patroon, patroonhuls
 liquidation         f, liquidatie, opruiming, uitverkoop
-=== Camus --- La chute --- pag. 9 onderaan --- ===
+institution         f, bourgeoisie, etablissement, instelling, zaak instituut
+judicieuse          verstandig, oordeelkundig, betrouwbaar
+=== Camus --- La chute --- pag. 10 onderaan --- ===
