@@ -1554,6 +1554,7 @@ baptisé             gedoopte
 baptême             m, doop, doopsel
 baquet              m, bak, teil
 bar                 m, bar, café, kroeg
+bar à matelots      m, zeemanscafé, zeemanskroeg
 barachois           water afgescheiden van de zee door een zandduin
 baragouine          spreken, zeggen, façon de parler
 baraque             f, keetschopper? barak, keet, hut, kot, kraam
@@ -16012,6 +16013,7 @@ j'ai connu la dérive   ik was op de dool?
 écrite de net       in het net schrijven, voor waar schrijven?
 écriteau, écriteaux m, bord, naambord, uithangbord
 écriture            f, het schrijven, handschrift, schrift
+Écritures           f, bijbel, bijbelboek, Heilige Schrift, evangelie
 écrivain            m, de schrijver, auteur
 écrié               uitroep
 écroulement         m, instorten, bezwijken, invallen
@@ -16712,4 +16714,5 @@ cartouche           f, patroon, patroonhuls
 liquidation         f, liquidatie, opruiming, uitverkoop
 institution         f, bourgeoisie, etablissement, instelling, zaak instituut
 judicieuse          verstandig, oordeelkundig, betrouwbaar
-=== Camus --- La chute --- pag. 10 onderaan --- ===
+jouer au détective  detective spelen
+=== Camus --- La chute --- pag. 10 helemaal onderaan --- ===
