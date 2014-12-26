@@ -5485,6 +5485,7 @@ en collants noirs   in zwarte panty's
 en compréhension    in begrip
 en concertation     in overleg, samen
 en conséquence      dienovereenkomstig, dus
+conséquence         f, resultaat, gevolg, staartje, nasleep
 en contre-jour      in achtergrondverlichting, in tegenlicht
 en coton            van katoen
 en cours de route   langs de weg
@@ -5967,7 +5968,7 @@ escrimer            schermen
 escrimeur           m, schermer, schermmeester, schermster
 escroc              afzetter, zwendelaar
 escroquerie         f, afzetterij, bedriegerij
-esculapien
+esculapien          ?
 espace              f, tussenruimte, interval, oord, stek, localiteit
 espace              m, ruimte, ruim, afstand, verwijdering, omvang, dimensie
 espace d'un instant    voor een instant
@@ -9050,7 +9051,7 @@ luxe                m, luxe
 luzerne             f, luzerne, plant, veevoeder
 lycée               m, atheneum, lyceum, middelbaar
 lymphe              f, lymfe, weefselvocht
-lyrisme             m, lyrisme
+lyrisme             m, lyrisme, inspiratie, bevlogenheid, bezieling
 là-dessus           daarop, daarna, erop, op dit punt
 lâchant             verlaten, verlossen, lossen
 lâche               m, lafaard, lafbek, bloodaard, soepel, afraid
@@ -14252,6 +14253,7 @@ symptôme            m, symptoom, ziekteverschijnsel
 symétriquement      symmetrisch
 syncope             f, bewusteloos
 syncopé             syncoperen, bewijming, flauwte, onmacht
+syndic              m, ontvanger, curator, liquidateur
 syndicat            m, vakbond
 synthèse            f, redenering, gedachtengang
 syphilis            f, syfilis
@@ -14844,6 +14846,7 @@ transhumance        migration du bétail vers les pâturages de montage, en ét�
 transi              verkleumd
 transiger           onderhandelen, compromissen sluiten
 transistor          m, radio
+transis, transir    glacé, gelé, pénétrer de froid, froid             
 transition          f, overschakeling, overgang
 transitoire         overgangs-, overgang
 translucide         doorschijnend
@@ -16720,6 +16723,9 @@ lessiver            lavage, uitwassen, wassen
 méthodique          methode, goed gestructureerd, georganiseerd
 courtoisement       hoffelijk, hoofs, beleefd
 libertaire          m, partisan de l'anarchisme
-d'un seul amour
+d'un seul amour     uit een stuk?
 durant              lang, gedurende, in de loop van
-=== Camus --- La chute --- pag. 12 bovenaan --- ===
+trop-plein          m, overflow, overvloeiing, overloop
+décoloré            ontkleurd, verkleurd, verschoten, verbleekt
+compatriote         m, landgenoot, streekgenoot
+=== Camus --- La chute --- pag. 13 onderaan --- ===
