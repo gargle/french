@@ -3597,6 +3597,7 @@ contrebande         f, smokkelarij, smokkelwaar, smokkelhandel, sluikhandel, slu
 contrecarrer        dwarsbomen, tegenwerken, doorkruisen
 contrecœur          gereserveerd, ongaarne, tegen wil en dank, reluctantly
 contredire          tegenspreken, uitdagen, zich verzetten tegen
+sans contredit      onbetwistbaar, onmiskenbaar, onlochenbaar, onomstotelijk
 contrefaire         vervalsen, nadoen
 contrefait          namaak, nep, vertekend, vervormd
 contrefaçon         f, kopie, falsificatie, namaak
@@ -6318,7 +6319,7 @@ farfelu, farfelus   wacky, compliqué, absurde, ongerijmd
 farfouiller         rommelen, rondsnuffelen
 faribole            f, propos vain, bagatelle
 farine              f, bloem
-farouche            eenzelvig, grim-faced, gemeenheid, wildheid, venijnigheid
+farouche            eenzelvig, grim-faced, gemeenheid, wildheid, venijnigheid, méchant
 farouchement        ruw, geweldadig
 fascicule           m, grondtekst, oertekst, studiemateriaal, stuk, tekst, petit livre
 fascination         f, betovering, aantrekkingskracht
@@ -8001,7 +8002,6 @@ inconsistance       f, ongelijkheid, inconsistentie
 inconsistant        inconsistent
 incontournable      onomkoombare
 inconvenante        onbehoorlijk, onbetamelijk, ongepast
-inconvénient        m, bewaar, nadeel, schaduwkant
 inconvénient        m, bezwaar, nachtzijde, schaduwkant, schaduwzijde, nadeel
 incorporer          belichamen, inlijven
 incriminer          als schuldige aanwijzen, beschuldigen
@@ -9410,6 +9410,7 @@ maïs                m, mais
 me jouer un sale tour      me zuur opbreken, play a dirty trick
 mec                 m, gast, kerel
 mellah              m, joods kwartier, le quartier où habitaient les résidents juifs de la ville
+juif                joods
 membrane            f, membraam
 membrane            f, membraam, vlies
 membres             m, ledematen
@@ -10437,7 +10438,7 @@ ostensible          ostentatief
 ostensiblement      ostentatief
 ostentation         f, gewichtigdoenerij, pronkzucht, praalzucht
 ostraciser          boycotten
-otages              m, garant, gegijzelde, gijzelaar, gijzelaarster
+otage, otages       m, garant, gegijzelde, gijzelaar, gijzelaarster
 otaku               geobsedeerde?
 ou bien             anders, of
 ou plutôt           of liever
@@ -11598,7 +11599,7 @@ preuve              f, blijk, bewijs
 preux               moedig, ridderlijk
 priapique           van de vruchtbaarheidsgod, langdurige erectie
 prie-Dieu           m, bidstoel
-prier               afsmeken, bedelen, bidden, bitsen, schooien
+prier, prié         afsmeken, bedelen, bidden, bitsen, schooien
 primat              m, eerste doelstelling, primaat
 prime               f, bonus, incentive, leergeld, premie
 primer              vaincre, gagner une confrontation
@@ -12564,7 +12565,7 @@ renoncule           f, boterbloem
 renouer             hervatten, opnieuw aanknopen
 renouvelable        hernieuwbaar, uitrekbaar, verlengbaar
 renseignement       m, info, informatie, inlichtingen
-renseigner          berichten, inlichten, adviseren
+renseigner          berichten, inlichten, adviseren, geschoold?
 renseigné           thuis zijn in, ingelicht, geadviseerd
 rente               f, huir, kostgeld, ouderdomspensioen
 rentier             m, couponknipper, rentenier
@@ -14672,8 +14673,7 @@ tondre, tondent, tondu aansnijden, knippen, snijden, snoeien, bijsnijden, oogste
 tong, tongs         f, slippers, chaussure, équipement destiné à couvrir le pied
 tonifier            sterken, versterken
 tonique             f, kwiek, levendig, fris, frisdrank
-tonitruant          donderderend
-tonitruante         dondederend
+tonitruant, tonitruante       donderend
 tonitruer           schateren, briesen, loeien, razen, tieren, uithalen
 tonneau             m, fust, biervat, ton, vat
 tonnelle            f, pergola, prieel, tuinhuis, tuinhuisje
@@ -16715,4 +16715,11 @@ liquidation         f, liquidatie, opruiming, uitverkoop
 institution         f, bourgeoisie, etablissement, instelling, zaak instituut
 judicieuse          verstandig, oordeelkundig, betrouwbaar
 jouer au détective  detective spelen
-=== Camus --- La chute --- pag. 10 helemaal onderaan --- ===
+lessivage           m, lessiver, opkuis, de afwas, wassen
+lessiver            lavage, uitwassen, wassen
+méthodique          methode, goed gestructureerd, georganiseerd
+courtoisement       hoffelijk, hoofs, beleefd
+libertaire          m, partisan de l'anarchisme
+d'un seul amour
+durant              lang, gedurende, in de loop van
+=== Camus --- La chute --- pag. 12 bovenaan --- ===
