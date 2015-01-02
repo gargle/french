@@ -2445,6 +2445,7 @@ canadienne          f, bontmantel
 canaille            f, loeder, rotzak, schoelie, schurk, schelm, vulgar
 canaillerie         f, ploert
 canalisation        f, buizenstelsel
+canal, canaux       m, gracht, kanaal, zender, net
 canapé              m, canapé, bank
 canard              m, eend
 canarder            sniping, afschieten, beschieten, schieten op
@@ -3821,8 +3822,8 @@ courage             m, de moed, dapperheid
 couramment          vloeiend
 courant             m, stroom, routine, gebruikelijk
 courbatu            moei, vermoeid
-courbature          f, spierpijn
-courbaturé          pijnbeleving, spierpijn
+courbature          f, spierpijn, douleur, gewrichtsverstijving
+courbaturé          pijnbeleving, spierpijn, gewrichtsverstijving
 courbe parfaite     f, perfecte ronding
 courbes             f, grafieken, curve, lijn
 courbes molles      f, zachte bochten/curve
@@ -12621,7 +12622,7 @@ repères             m, indiquer un lieu, un parcours par des signaux, signal, s
 repérable           doorzoekbare
 repérage            m, lokalisatie, oriëntatie, oorsprong, plaatsbepaling, situering
 repérer             gewaarworden, in het oog krijgen, ontwarren, spotten, zien, plaatsen, een weg nemen, opvallen
-repêcher            herstellen, recover, heropvissen
+repêcher            opvissen, heropvissen, herstellen, recover
 requin              m, haai, haaivis, witte haai
 requérait, requérir behoeven, nodig hebben
 requête             f, aanvraag, zoekopdracht, vraag
@@ -13781,7 +13782,7 @@ siphon              m, kraanhals, zwanehals
 sirop d'érable      ahornsiroop
 siroter             lebberen, lurken, kleine teugjes drinken
 sirupeux            stroperig
-sirène              f, sirene
+sirène              f, sirene, sein, signaal, toeter, zeemeermin, meermin
 sisal               lijn, touw, fibre végétale
 sistre              m, percussieinstrument
 site                m, website
@@ -16712,6 +16713,7 @@ tourner rond        functioneren, goed werken, in orde zijn
 faire sa société    
 trompe-l'œil        m, gezichtsbedrog
 fornication         f, geslachtsdaad, coïtus, copulatie, geslachtsgemeenschap, seks, vrijen
+fornicateur         m, echtbreker
 à tort et à travers    désordre, ontreddering, verwarring, en désordre
 cartouche           f, patroon, patroonhuls
 liquidation         f, liquidatie, opruiming, uitverkoop
@@ -16728,4 +16730,7 @@ durant              lang, gedurende, in de loop van
 trop-plein          m, overflow, overvloeiing, overloop
 décoloré            ontkleurd, verkleurd, verschoten, verbleekt
 compatriote         m, landgenoot, streekgenoot
+à peu de frais      met erg weinig geld
+navigation          f, navigatie, zeilen, binnenvaart, scheepvaart, nautiek
+plongeon            m, fait de plonger le corps dans un liquide (eau), duiker, duik, plons
 === Camus --- La chute --- pag. 13 onderaan --- ===
