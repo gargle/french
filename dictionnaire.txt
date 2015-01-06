@@ -8596,8 +8596,9 @@ jusqu'au bout       tot op het laatst
 jusqu'au cou        absoluut, volledig, helemaal
 justaucorps         m, bodysuit, wambuis
 juste               matig, nipt, passend, klein, juist
+justesse            f, correctheid, juistheid, rechtvaardigheid
 justement           net, pas, zojuist, billijk, eerlijk, fair, rechtvaardig
-justice             f, gerecht, justitie, rechtspraak
+justice             f, gerecht, justitie, rechtspraak, redelijkheid, gerechtigheid
 justicier           m, functionaris, staatsambtenaar
 justifier           verantwoorden, rechtvaardigen, zich verantwoorden, zich rechtvaardigen
 juteux              déliceus, genotvol, sappig, smeuig
@@ -9213,7 +9214,7 @@ mamelons            m, tepels
 mammifères          m, borst, zoogdier
 manaf               m/f, inboorling? "nègres marrons"
 manant              m, vilain
-manche              f, mouw
+manche, manches     f, mouw, mouwen
 manche              m, heft, hendel, handel, handgreep
 manchons            m, manchet, mof, schoot, in de vorm van cylinder
 manchot             m, eenarmig
@@ -10607,6 +10608,7 @@ par la suite        achteraf, daarna, later, nadien, toen
 par le menu         in geuren en kleuren, tot in de kleinste details
 par le passé        het verleden
 par ma foi          volgens mij?
+ma foi              f, mijn geloof, volgens mij?
 par monts et par vaux   over berg en dal
 par pudeur          gevoel van fatsoen
 par ricochet        op zijn beurt
@@ -10927,7 +10929,7 @@ perspective         f, perspectief, beeld, verwachting
 perspicace          bewust, opmerkzaam, scherpzinnig
 perspicacité        beleving, inzicht, perceptie
 persuader           overtuigen, ompraten, convince
-persuasion          f, overreding, overredingskracht
+persuasion          f, overreding, overredingskracht, overhaling
 persévérance        f, volharding
 persévérant         volhoudend, taai, volhardend
 pertinence          f, belang, betekenis, relevantie
@@ -16734,4 +16736,7 @@ compatriote         m, landgenoot, streekgenoot
 navigation          f, navigatie, zeilen, binnenvaart, scheepvaart, nautiek
 plongeon            m, fait de plonger le corps dans un liquide (eau), duiker, duik, plons
 frimeur             m, patser, lefgozer, opschepper, grootspreker, dikdoener, showoff
-=== Camus --- La chute --- pag. 21 bovenaan --- ===
+abusive, abusif     schadelijk, qualificatif de défaut du caractère, méchant, désagréable
+le cœur sur les manches         le cœur sur les main, être généreux
+du dehors           van de buitenkant
+=== Camus --- La chute --- pag. 16 pdf bovenaan --- ===
