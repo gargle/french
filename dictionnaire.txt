@@ -10814,7 +10814,7 @@ montgolfière        f, heteluchtbalon, luchtbalon
 monticule           m, heuvel, hoop
 mont, monts         m, berg, gebergte
 montrant du doigt   wijzend
-montre à savonnette jachtpaard, horloge, klokje
+montre à savonnette f, jachtpaard, horloge, klokje
 montre bracelet     f, polshorloge, bracelet-montre
 montré              laten zien, tonen, uitdrukken
 montre-oignon       f, zakhorloge, de style français de la fin XVIIe-début XVIIIe siècle
@@ -16763,4 +16763,6 @@ crible              m, zeef
 chouquette          f, gâteau et biscuit sucrés, gebak, taart, koek
 passer au crible    zeven, ziften
 jours               m, leven, ses jours ne sont pas en danger
+jus                 m, sap
+jus de fruit        m, fruitsap
 === Camus --- La chute --- pag. 16 pdf bovenaan --- ===
