@@ -16762,4 +16762,5 @@ raz-de-marée        m, stormvloed, stormtij, vloedgolf, tsunami
 crible              m, zeef
 chouquette          f, gâteau et biscuit sucrés, gebak, taart, koek
 passer au crible    zeven, ziften
+jours               m, leven, ses jours ne sont pas en danger
 === Camus --- La chute --- pag. 16 pdf bovenaan --- ===
