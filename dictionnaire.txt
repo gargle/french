@@ -7377,7 +7377,7 @@ fiasque             f, flesje
 fibre de lin serrées   strakke vlas vezels
 fibre               f, draad, vezel
 ficeler             knevelen, afbinden, vastbinden
-ficelle             f, veter, bindgaren, bindtouw, snoer, touw, touwtje
+ficelle             f, veter, bindgaren, bindtouw, snoer, touw, touwtje, brood, mik
 fiche               f, fiche, formulier
 fiché               genoeg zijn, toereikend zijn, volstaan, leggen, plaatsen, aanleggen, zetten
 ficher              plaatsen, smakken, smijten, wurmen in
@@ -16752,4 +16752,10 @@ zone                f, zone
 zoologie            f, dierkunde, zoölogie
 zouave              m, soldaat
 zygomatique         wang, gelaatstrek, snuit
+soprano             m/f, sopraan
+pervenche           f, personne établissant des contraventions (stationnement)
+œnologue            m, wijnkenner
+opéra               m, opera
+agrafeuse           f, nietjesmachine
+toxicomane          m, drugsverslaafde
 === Camus --- La chute --- pag. 16 pdf bovenaan --- ===
