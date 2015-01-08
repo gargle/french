@@ -7916,7 +7916,7 @@ galerie             f, tunnel, galerij, gaanderij
 galeriste           m, galerijhouder
 galet, galets       m, kei, kiezel
 galette             f, contant geld, kleingeld, wisselgeld, beschuitbol
-galeuse             sjofel, schurftig, wanboel, smerig, vuilheid
+galeux, galeuse     sjofel, schurftig, wanboel, smerig, vuilheid
 Galicienne          Galicische
 galimatias          m, absurde procedure, klinkklare onzin, koeterwaals, nonsens, onzin, wartaal
 galon, galons       m, vêtement militaire, mouwstreep, strepen (uniform)
