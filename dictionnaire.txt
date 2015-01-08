@@ -16760,5 +16760,6 @@ agrafeuse           f, nietjesmachine
 toxicomane          m, drugsverslaafde
 raz-de-marée        m, stormvloed, stormtij, vloedgolf, tsunami
 crible              m, zeef
+chouquette          f, gâteau et biscuit sucrés, gebak, taart, koek
 passer au crible    zeven, ziften
 === Camus --- La chute --- pag. 16 pdf bovenaan --- ===
