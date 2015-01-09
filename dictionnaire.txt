@@ -11439,8 +11439,7 @@ ornithorynque       m, vogelbekdier
 or                  oftewel, ofwel, ofwel... ofwel, hetzij... hetzij, but
 orpailleur          m, goudzoeker
 orphelinat          m, weeshuis
-orpheline           f, wees
-orphelin            m, wees
+orphelin, orpheline m/f, wees
 orteils             m, vinger, teen
 orthogonale         loodrecht, orthogonaal
 ortie               f, brandnetel
@@ -16767,4 +16766,5 @@ jus                 m, sap
 jus de fruit        m, fruitsap
 appréhender         denken, zich bezinnen, nadenken, opkijken tegen, opzien tegen, aanhouden, inrekenen
 planquer            cacher qqch ou qqn, oppotten, opsparen, potten
+le jeu en vaut la chandelle     het sop is de kool wel waard, le jeu n'en vaut pas la chandelle
 === Camus --- La chute --- pag. 16 pdf bovenaan --- ===
