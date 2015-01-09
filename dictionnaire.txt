@@ -3099,7 +3099,7 @@ charnel, charnelle  sensueel, plaiser sexuel, copulatie, geslachtsdaad, parinsda
 charnière           f, scharnier
 charnier            m, massagraf
 charnu              vlezig, te zwaar
-charognard          m, aasgier
+charognard          m, aasgier, vautour
 charogne            f, slachtafval, aas
 charpentes          f, geraamte, houtwerk, karkas, skelet
 charpentier         m, timmerman
@@ -4602,7 +4602,7 @@ déclencher          aan de gang krijgen, aanwakkeren, ontketenen
 déclic              m, klik, ratel, ratelaar, geratel, début, aanvang
 déclinaison         f, woordbuiging, declinatie, vervoeging, uitgang
 déclinant, déclinante  afnemend
-décliner            bezorgen, brengen, verbuigen, afglijden, luwen, vervlakken, verbuigen,
+décliner            bezorgen, brengen, verbuigen, afglijden, luwen, vervlakken, verbuigen, décliner ses noms, se présenter
 déclin              m, achteruitgang, eindfase, neergang, ondergang
 décocha             lanceren, afschieten
 décoction           f, afkooksel, kooknat
@@ -13934,7 +13934,7 @@ retraite aux flambeaux  f, défilé
 retraite            f, aftocht, schuilplaats, afmars, pensioen
 retraité            m, gepensioneerde
 retranchement       m, loopgravenstelsel
-retrancher          zich verschansen
+retrancher          zich verschansen, abriter, beschutten, mettre à l’abri, s’isoler, se séparer des autres
 retranscrite        overschrijven
 rétrécir            samentrekken, versmallen, krimpen
 rétrécis            samengetrokken, versmallen
@@ -16145,8 +16145,8 @@ truc des dingues    m, that's crazy
 truchement          m, tussenkomst, intermédiare
 truc                m, ding, foefje, truc, vaardigheid, zaak
 truffe              f, truffel, idioot?
-truffer, truffé     garnir (pourvoir une chose de qqch), mettre dans
-truffer             volstampen, bourrer
+truffer, truffé     garnir (pourvoir une chose de qqch), mettre dans, rendu plein de qqch, plein
+truffer             volstampen, bourrer, beaucoup, très, en grande quantité
 truie               f, zeug
 truites             f, forel
 trypanosome         m, eencellig organisme
@@ -16765,4 +16765,6 @@ passer au crible    zeven, ziften
 jours               m, leven, ses jours ne sont pas en danger
 jus                 m, sap
 jus de fruit        m, fruitsap
+appréhender         denken, zich bezinnen, nadenken, opkijken tegen, opzien tegen, aanhouden, inrekenen
+planquer            cacher qqch ou qqn, oppotten, opsparen, potten
 === Camus --- La chute --- pag. 16 pdf bovenaan --- ===
