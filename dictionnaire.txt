@@ -1567,7 +1567,7 @@ aviation            f, luchtvaart
 avide               happig, gretig, begerig, geil
 à vide              leeg, empty
 avidement           begerig, geil, gretig, gulzig, eagerly
-avidité             graagte, begerigheid
+avidité             f, graagte, begerigheid, hebzucht, gierigheid
 avilir              degraderen
 avilissante         mensonwaardig
 avilissement        m, vernedering, événement malheureux
@@ -7495,6 +7495,7 @@ flapis              afgewerkt, doodmoe, hondsmoe, uitgeput
 flaques             f, plas, poel, vocht, nattigheid, water, voetbad, pool
 flasques            kwabbig, slap, flabby
 flatteurs           complimenteus, flatterend, vleiend
+flatter             vleien, flatteren, flemen, gatlikken, kontlikken
 flatulence          f, winderigheid, flatulentie
 fléau               m, doem, vervloeking, vloek
 fléau               m, doem, vloek
@@ -7564,6 +7565,7 @@ foncière            grond, grondbezittend
 foncièrement        eigenlijk, in de grond, in wezen
 foncier             grond-, grondbezittend, land-, vastgoed
 fonctionnaire       m, ambtenaar
+fonction            f, funktie, betrekking, baan, ambt
 fonctionnalisme     m, functionalisme
 fondamentale        fundamenteel, belangrijk, primair
 fondateur           m, grondlegger, bedenker, stichter, oprichter
@@ -12603,6 +12605,7 @@ potable             drinkbaar, accepteerbaar
 potager             f, moestuin
 potageurs, jardin potager   groentebed, groentetuin, kruidentuin, moestuin
 pot-au-feu          m, stoofpot, stoofschotel
+pod-de-vin          m, smeergeld, omkoopsom, zwijggeld, steekpenning
 pot de départ       m, afscheidsborrel
 poteau              m, deurpost, galg, doelpaal, paal, post (van tent), boom, pols, stijl stok
 potelé              mollig, rond
@@ -13482,7 +13485,7 @@ recommandant        op het hart drukken
 recommandations     f, richtlijnen, instructie
 recommandé          aanbevolen
 recommencé          met een schone lei beginnen, tabula rasa maken, hervatten, opnieuw beginnen
-récompense          beloning, prijs, schadeloosstelling, vergoeding
+récompense          f, beloning, prijs, schadeloosstelling, vergoeding, eerbetoon
 recomposer          herformuleren, parafraseren, anders formuleren
 recomposition       f, wedersamenstelling, herbezetting, nieuwe samenstelling
 recompter           hertellen
@@ -13878,7 +13881,7 @@ resservir           servir de nouveau
 ressort de cassé    m, gebroken veer
 ressortir           opvallen, ressorteren onder
 ressortissants      m, onderdaan, staatsburger
-ressort             m, veer, springveer, hoofdmotief, gezagsgebied
+ressort             m, veer, springveer, hoofdmotief, gezagsgebied, jurisdictie
 ressouder           opnieuw aan elkaar groeien
 ressource           f, medium, middel, remedie, weg
 ressurgir           avoir lieu à nouveau, weer opduiken
@@ -15610,6 +15613,7 @@ tendu, tendue       tendre, gespannen, strak, aangehaald, tenderen naar, benauwd
 ténèbres            f, duisternis, mist
 ténébreuse          obscuur, somber
 tenir à l'œil       in het oog houden
+tenir lieu          effectuer une tâche, une action particulière; remplacer
 tenir en échec      to hold in check
 tenir en respect    imponeren
 tenir le coup       groothouden, zich flink houden, volhouden
@@ -16767,4 +16771,5 @@ jus de fruit        m, fruitsap
 appréhender         denken, zich bezinnen, nadenken, opkijken tegen, opzien tegen, aanhouden, inrekenen
 planquer            cacher qqch ou qqn, oppotten, opsparen, potten
 le jeu en vaut la chandelle     het sop is de kool wel waard, le jeu n'en vaut pas la chandelle
-=== Camus --- La chute --- pag. 16 pdf bovenaan --- ===
+orthoptère          m, insekt (o.a. krekel, sprinkhanen)
+=== Camus --- La chute --- pag. 17 pdf bovenaan --- ===
