@@ -411,6 +411,7 @@ agoniser            zieltogen, op sterven na dood zijn, creperen, de dood voor o
 à gorge déployée    heartily, to break into loud ...
 agrafe              f, bevestigingsmiddel, haak, clip
 agrafer             vastmaken, vasthaken
+agrafeuse           f, nietjesmachine
 à grand-peine       pijnlijk, ongerief, met moeite
 à gransde eau        met water
 agréé               geaccepteerd, erkend
@@ -968,6 +969,7 @@ apprèciable         merkelijk
 appréciation        f, inschatting, erkenning, waardering
 apprécié, apprécier behaagd
 apprécier           hoogachten, waarderen, zien
+appréhender         denken, zich bezinnen, nadenken, opkijken tegen, opzien tegen, aanhouden, inrekenen
 appréhendre         duchten, als een berg opzien tegen, opzien tegen
 appréhension        f, argwaan, bang voorgevoel, drempelvrees, wantrouwen, bezorgdheid, achterdocht, gevoel
 apprenti maçon      m, leerling metselaar
@@ -3282,6 +3284,7 @@ chouchou            groente?
 chouette            f, nachtuil, uil
 chou                f, koolsla
 chou                m, gezicht
+chouquette          f, gâteau et biscuit sucrés, gebak, taart, koek
 choux palmistes     m, koolpalm, le cœur de palmier frais 
 choya, choyer       vertroetelen
 choyer              troetelen, bederven, bemoederen, in de watten leggen
@@ -4277,6 +4280,7 @@ crever les yeux     voor de hand liggen
 crevette            f, garnaal, steurgarnaal
 criailler           gillen, huilen, schreeuwen
 criardes            schreeuwerig
+crible              m, zeef
 cribler             zeven, ziften
 cri, cris           m, schreeuw, gegier, roep, gehuil, huilbui
 crier               brullen, gillen, grommen, afroepen
@@ -6854,6 +6858,7 @@ et puis             en vervolgens
 être constraint     being forced, verplicht zijn om
 être coupant        cutting edge?
 être dans la bonne voie         op het juiste spoor zijn
+être débordé        verdrinken, verzuipen, stikken 
 être de loin        verreweg, weg
 être de mèche       onder een hoedje spelen
 être de mise dans   passend zijn in / worden ingesteld
@@ -9529,6 +9534,7 @@ journalier          m, dagloner
 journal, journeaux  m, krant, blad, courant, agenda, journaal, dagboek
 journée             f, dag
 jours de canicule   hondsdagen, hittegolf
+jours               m, leven, ses jours ne sont pas en danger
 joute               f, steekspel, toernooi
 jouvence            f, verjonging
 joyau, joyaux       m, bijou, juweel, edelsteen, sieraad
@@ -9559,6 +9565,8 @@ jurer               vloeken, zweren, ketteren
 jurisprudence       f, rechtswetenschap
 jurons              m, krachtterm, vervloekin, verwensing, vloek
 jusant              m, springtij?
+jus de fruit        m, fruitsap
+jus                 m, sap
 jusq'à la gueule    totalement, à ras bord, complètement
 jusqu'au bout       tot op het laatst
 jusqu'au cou        absoluut, volledig, helemaal
@@ -11283,6 +11291,7 @@ odyssée             f, odyssee, tocht, reis
 œil morne           m, oog, blik
 œil vide            m, lege blik?
 œil, yeux           m, oog
+œnologue            m, wijnkenner
 œud                 m, greppel, ravijn
 œuf brouillé        roerei
 œuvre               f, werk, compositie, opus, stuk, toonzetting
@@ -11360,6 +11369,7 @@ opacité             f, ondoorzichtigheid
 opacité             ondoorzichtigheid
 O.P.A.              f, offre publique d'achat
 opaque              opaak, dicht, ondoorschijnend, ondoorzichtig
+opéra               m, opera
 opérateur           m, operator (zoals in gsm operator)
 opérer              ageren, doen, uitvoeren, handelend optreden, te werk gaan
 opérette            f, operette
@@ -11773,6 +11783,7 @@ passé               m, het verleden
 passeport           m, paspoort, identiteitsbewijs, pas
 passer à gué        doorwaden, waden, waden door
 passer au brou      langs de schil?
+passer au crible    zeven, ziften
 passer des coups de fil       telefoon plegen
 passer de tout appoint      zonder extra
 passerelle          f, brug, commandobrug
@@ -12048,6 +12059,7 @@ pertinent           geneigd, goed, geschikt, juist, passend, ter zake doend, toe
 pertuisane          f, wapen, gelijkt op hellebaard
 perturbé            beroeren, in de war brengen, troebleren, verontrusten, verstoren
 perturber           afleiden, in de war brengen, ontregelen, troebleren
+pervenche           f, personne établissant des contraventions (stationnement)
 perversité          f, perversiteit, slechtheid, onrecht
 pesamment           gewichtig
 pesanteur           f, gewicht, zwaarheid
@@ -12322,6 +12334,7 @@ plane               plat, vlak
 planer              zweefvliegen, zweven, glijden
 planète             f, planeet
 plan                m, plan, plattegrond, hoofdlijn, vlak, plat, grondtekening, tekening, lay-out
+planquer            cacher qqch ou qqn, oppotten, opsparen, potten
 plantain            m, bakbanaan
 plante              f, voetzool, plant, zool, zeetong
 planter             plaatsen, planten, prikken, steken
@@ -12883,6 +12896,7 @@ prise de vues       f, camera
 prise               f, buit, bezet, inbezitneming, inneming, toe-eigening, stopcontact
 prise               f, top, kraan, robinet
 pris en défaut      betrapt
+pris en étau        gevangen in een bankschroef
 prises de bec       f, ruzie, drukte, gedoe
 prison dorée        f, gouden, vergulde gevangenis
 prison              f, gevangenis, nor, kerker
@@ -13414,6 +13428,7 @@ rayonne             f, kunstzijde, fibre textile, zijde, zij
 rayonnement         m, glans, schijn, schijnsel, straling, vrolijkheid
 rayonner            afstralen, nagloeien, radiate
 rayure              f, streep, streepjes
+raz-de-marée        m, stormvloed, stormtij, vloedgolf, tsunami
 raz                 m, courant d'eau de mer, vloedgolf, tsunami, stormvloed
 réacteur            m, reactor
 réaction            f, reactie, weerstand, tegendruk
@@ -13526,7 +13541,7 @@ recul               m, achteruitgang, terugslag
 reçu                m?, bonnetje, ontvangsbewijs
 récurer             afschrobben, schuren
 récureur            schoonmaker
-récuser             weerleggen
+récuser             afvallen, in de steek laten, laten zitten, verlaten, réagir par une action contraire, weerleggen 
 récycler            bijscholen, herscholen, nascholen, omscholen
 rédacteur, rédactrice  m/f, redakteur, samensteller
 reddition           f, overgave, capitulatie
@@ -13541,7 +13556,7 @@ redondance          f, overbodigheid, overtolligheid, redundantie
 redonner            herstellen
 redoutable          schrikwekkend, vreselijk, verschrikkelijk, erg, geducht, angstwekkend
 redouté             duchten, opkijken tegen
-redouter            opkijken tegen, opzien tegen, vrezen, zich zorgen maken
+redouter            duchten, opkijken tegen, opzien tegen, vrezen, zich zorgen maken
 redressement        m, herstel
 redresser           corrigeren, verbeteren, beter maken, zich oprichten
 réductrice          adapter, arrangeur, verdeelstekker, verkleiner, verminderen
@@ -15004,6 +15019,7 @@ sono                geluid
 sonore              diepklinkend, helder, klinkend
 sonore              klinkend
 soporifique         slaapverwekkend
+soprano             m/f, sopraan
 sorcellerie         f, duisvelskunsten, hekserij, tovenarij
 sorcier, sorcière   m/f, tovenaar, duivelskunstenaar, magiër
 sordide             vies, vuil
@@ -15924,6 +15940,7 @@ tout juste          exactement, péniblement, ric-rac, amper
 tout                m, geheel
 tout se sait        iedereen weet alles, niks is ongekend?
 toux                f, hoest, kuch
+toxicomane          m, drugsverslaafde
 toxine              f, giftige stof
 tracas              m, moeilijkheid, moeite, moeilijkheden
 tracasser           beduvelen, irriteren, op de heupen werken
@@ -16752,19 +16769,4 @@ zone                f, zone
 zoologie            f, dierkunde, zoölogie
 zouave              m, soldaat
 zygomatique         wang, gelaatstrek, snuit
-soprano             m/f, sopraan
-pervenche           f, personne établissant des contraventions (stationnement)
-œnologue            m, wijnkenner
-opéra               m, opera
-agrafeuse           f, nietjesmachine
-toxicomane          m, drugsverslaafde
-raz-de-marée        m, stormvloed, stormtij, vloedgolf, tsunami
-crible              m, zeef
-chouquette          f, gâteau et biscuit sucrés, gebak, taart, koek
-passer au crible    zeven, ziften
-jours               m, leven, ses jours ne sont pas en danger
-jus                 m, sap
-jus de fruit        m, fruitsap
-appréhender         denken, zich bezinnen, nadenken, opkijken tegen, opzien tegen, aanhouden, inrekenen
-planquer            cacher qqch ou qqn, oppotten, opsparen, potten
 === Camus --- La chute --- pag. 16 pdf bovenaan --- ===
