@@ -2663,7 +2663,6 @@ campé, camper       bivakeren, kamperen, legeren, situé, placé
 campement           m, kamping, kampement, tentenkamp, bivak
 camphrée            kamfer
 camp                m, het kamp, bivak, zomerkamp, vakantiekamp
-=== Camus --- La chute --- pag. 17 pdf bovenaan --- ===
 canadienne          f, bontmantel
 canaille            f, loeder, rotzak, schoelie, schurk, schelm, vulgar
 canaillerie         f, ploert
@@ -16775,3 +16774,4 @@ zone                f, zone
 zoologie            f, dierkunde, zoölogie
 zouave              m, soldaat
 zygomatique         wang, gelaatstrek, snuit
+=== Camus --- La chute --- pag. 17 pdf bovenaan --- ===
