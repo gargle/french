@@ -16773,5 +16773,6 @@ zonard              m, jeune délinquant de banlieue
 zone                f, zone
 zoologie            f, dierkunde, zoölogie
 zouave              m, soldaat
-zygomatique         wang, gelaatstrek, snuit
+zygomatique         m, muscle des lèvres
+tenir lieu          remplacer qqn ou qqch, vervanging, effectuer une tâche, une action particulière
 === Camus --- La chute --- pag. 17 pdf bovenaan --- ===
