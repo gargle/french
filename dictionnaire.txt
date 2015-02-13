@@ -12773,6 +12773,7 @@ préliminaire        m, inleidend, voorafgaand, openend, voor-, voorafgaand
 prématuré           vroeg, voorbarig
 pré                 m, beemd, gransland, hooiland
 préméditation       f, voorbedachtbeid, met voorbedachten rade
+prémonition         f, voorgevoel
 prémédité           met voorbedachte rade
 premier rang        m, eerste rij
 prémunir            bewapenen, bewaken
@@ -16776,4 +16777,5 @@ zouave              m, soldaat
 zygomatique         m, muscle des lèvres
 tenir lieu          remplacer qqn ou qqch, vervanging, effectuer une tâche, une action particulière
 avoir la pêche      être plein d'énergie et d'entrain, être en forme
+broussard           m, type de végétation, type de végétation, brousse
 === Camus --- La chute --- pag. 17 pdf bovenaan --- ===
