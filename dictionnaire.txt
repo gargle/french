@@ -1000,6 +1000,7 @@ après-midi          m, namiddag, middaguren, middag
 à propos            terloops, trouwens, overigens, op tijd, ruim op tijd, toepasselijkheid
 à proprement parler       strikt genomen
 apte                capabel iets uit te voeren, d'exercer, de pratiquer
+exercer             beoefenen, uitoefenen
 aptitude            f, aanleg, capabiliteit, capaciteit, flair, natuurlijkheid
 apuré               geloosd, vérifier un compte
 apurement           m, verklaring, boekhouding juist verklaren
@@ -6339,6 +6340,7 @@ en quoi             hoe
 enraciner           diepgeworteld, wortelen, beklijven, aanslaan, aangaan
 en rasant les murs  afromen, langs de muren sluipen/scheren?
 enrayer             stoppen, afremmen, neerslaan
+enrager             bulderen, loeien, razen, tieren
 en résille          maas, haakwerk, net
 en résumé           bondig, in't kort, om kort te gaan
 en revanche         anderzijds, aan de andere kant, daarentegen
@@ -7431,11 +7433,10 @@ file indienne       f, rij
 filer à la française   s'éclipser discrètement, op zijn frans wegkomen/er vandoorgaan
 filer un mauvais coton  être dans une mauvaise situation
 filet d'eau         m, straaltje water
-filet               m, net, visnet, lende, lendestuk, vangnet, schepnet
+filet               m, net, visnet, lende, lendestuk, vangnet, schepnet, bagagerek, bagagenet
 filets d'air        airstream
 filets d'anchois    m, ansovis filets
 filets de hareng    m, haring filets
-filets              m, visnet, netten
 filial              kinderlijk
 filiation           f, afkomst, afstamming
 filière             f, kanaal, net, zender, spinneweb, spinrag
@@ -9710,6 +9711,7 @@ largesses           genereuze giften, overvloed
 largeur             f, breedte
 larguer             losgooien
 l'Armée du Salut    f, Leger des Heils
+salutiste           m, armée du Salut, Leger des Heils
 larme, larmes       f, drup, scheutje, traan
 larmoyant           huilerig, tranend, tranenverwekkend
 larmoyer            dreinen, dwingen, huilen, jengelen
@@ -12621,6 +12623,7 @@ potable             drinkbaar, accepteerbaar
 potager             f, moestuin
 potageurs, jardin potager   groentebed, groentetuin, kruidentuin, moestuin
 pot-au-feu          m, stoofpot, stoofschotel
+pot-de-vin          m, omkoopsom, steekgeld, zwijggeld, smeergeld, steekpenningen, steekpenning
 pot de départ       m, afscheidsborrel
 poteau              m, deurpost, galg, doelpaal, paal, post (van tent), boom, pols, stijl stok
 potelé              mollig, rond
@@ -16778,4 +16781,6 @@ zygomatique         m, muscle des lèvres
 tenir lieu          remplacer qqn ou qqch, vervanging, effectuer une tâche, une action particulière
 avoir la pêche      être plein d'énergie et d'entrain, être en forme
 broussard           m, type de végétation, type de végétation, brousse
-=== Camus --- La chute --- pag. 17 pdf bovenaan --- ===
+veulerie            f, absence de volonté et d'énergie, apathie
+concitoyen          m, stadgenoot, stadgenote, medeburger
+=== Camus --- La chute --- pag. 18 pdf bovenaan --- ===
