@@ -6063,6 +6063,7 @@ encadrer            inlijsten, omgrenzen, iemand plaatsen
 encaisser           être l'objet de qqch de non désiré
 encaisser           ondergaan, pikken, lopen, gaan, boxed in, mettre à l'intérieur de
 en calèche          voiture en cheval
+calèche             f, rijtuig, voiture en cheval
 encanailler         perverteren
 encan               veiling
 encastré            ingebouwd, ineendrukken, inpersen, samenpersen
@@ -9866,10 +9867,10 @@ liaisonner          gebonde,  verbonden
 liane               f, klimplant, liaan
 liant               beminnelijkheid, aardigheid, mildheid, goedheid
 liasse              f, bundel
-libeller            uitschrijven
-libellé             uitgeschreven
+libeller, libellé   uitschrijven, uitgeschreven
 libellules          f, juffertje, libel, waterjuffer
 libéralisme         m, liberalisme
+libéralité          f, aantrekkelijkheid, vrijgevigheid, gulheid, acte de bonté, qualité du caractère
 libéral             m, liberaal, vrijzinnig
 libération          f, bevrijding, vrijlating
 libérer             vrijmaken, bevrijden
@@ -16784,4 +16785,6 @@ broussard           m, type de végétation, type de végétation, brousse
 veulerie            f, absence de volonté et d'énergie, apathie
 concitoyen          m, stadgenoot, stadgenote, medeburger
 placer en voyage    in het bagagerek plaatsen?
-=== Camus --- La chute --- pag. 18 pdf halfweg --- ===
+entresol            m, tussenverdiep, insteekkamertje, niveau d'un bâtiment
+pénéplaine          f, laagvlakte, vlak gebied, vlak land, plaine (étendue plane du relief à faible altitude)
+=== Camus --- La chute --- pag. 19 pdf bovenaan --- ===
