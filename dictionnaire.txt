@@ -8958,6 +8958,7 @@ inconnu             m, het ongekende, vreemde, onbekende
 inconsciement       onbewust
 inconscience        f, bewusteloosheid
 inconsciente        bewusteloos, onbewust
+inconscient         m, personne atteinte de trouble mental - geesteszieke
 inconsistance       f, ongelijkheid, inconsistentie
 inconsistant        inconsistent
 incontournable      onomkoombare
@@ -14105,7 +14106,7 @@ roche               f, gesteente, grenspaal, kersenpit, rots, rotsblok, steen, s
 rocher              m, rots, kei
 rocher              m, rots, kei, klip
 rochers à fleur d'eau   overspoelde rotsen
-rocheuse            rotsachtig
+rocheux, rocheuse   rotsachtig
 roc                 m, rots, groot stuk rots
 rôdent, rôder       rondsluipen, op buit uit zijn, zweven, samenscholen, prowl
 rodéo               m, rodeo
@@ -15142,6 +15143,7 @@ souteneur           m, hoerenbaas, koppelaar, pooier
 soutenir, soutint   protéger, défendre
 souterraine         f, onderaards, ondergronds, kelder-
 souterrain          m, ondergronds, kelder, trou, gat
+soute               f, coupé, compartiment, treincoupé, fuselage d'avion
 soutien-gorge       m, bh
 soutien             m, steun, steunpillaar
 soutins, soutenir   gereedstaan, klaarstaan, plakken, ondergaan
@@ -16787,4 +16789,7 @@ concitoyen          m, stadgenoot, stadgenote, medeburger
 placer en voyage    in het bagagerek plaatsen?
 entresol            m, tussenverdiep, insteekkamertje, niveau d'un bâtiment
 pénéplaine          f, laagvlakte, vlak gebied, vlak land, plaine (étendue plane du relief à faible altitude)
+couvreur            m, dakdekker, rietdekker, looddekker, dekker
+tourneur            m, bankwerker, draaier
+avoir front         faire en sorte de, audace - (dapper; gedurfd; gewaagd; stoutmoedig)
 === Camus --- La chute --- pag. 19 pdf bovenaan --- ===
