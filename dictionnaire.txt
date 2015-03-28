@@ -4027,7 +4027,7 @@ costaud, costauds   fors, geblokt, potig, gespierd
 costume marin       m, matrozenpak, zeemanspak
 costume             m, pak, dracht, klederdracht, kledij, kostuum
 coteaux             m, helling
-cote                f, kijkcijfer, waarderingscijfer, deel, flank, kant, vlak, snijvlak
+cote                f, kijkcijfer, waarderingscijfer, deel, flank, kant, vlak, snijvlak, hoogtelijn op kaart
 côte                f, rib, heuvel, glooiing, kust
 côteler             geribd, aan de kant gooien?
 côtelette           f, kotelet, karbonade
@@ -6060,8 +6060,7 @@ en brosse           de taille, de hauteur faible
 encablures          f, oude lengtemaat, +/- 200 meter, bekabeling
 en cachette         clandestien, geheim, stiekem, heimelijk, in't geniep
 encadrer            inlijsten, omgrenzen, iemand plaatsen
-encaisser           être l'objet de qqch de non désiré
-encaisser           ondergaan, pikken, lopen, gaan, boxed in, mettre à l'intérieur de
+encaisser           être l'objet de qqch de non désiré, ondergaan, lopen, gaan, boxed in, mettre à l'intérieur de
 en calèche          voiture en cheval
 calèche             f, rijtuig, voiture en cheval
 encanailler         perverteren
@@ -10773,7 +10772,7 @@ moineau, moineaux   m, huismus, mus
 moineau pince-sans-rire   ?
 mois de caution     m, maand huurwaarborg
 moisi, moisie       beschimmeld, muf, muffig, schimmelig
-moisir              beschimmelen, vermolmen
+moisir, moisissait  beschimmelen, vermolmen
 moisissure          f, beschimmeling, schimmel, mildew
 mois                m, maand
 moisson             f, oogst, teelt, opbrengst
@@ -12758,6 +12757,7 @@ précurseurs         m, modernist, voorloper, voorouder
 prédatrice, prédateur   f, roofdier
 prédécesseur        m, voorganger, voorgangster, voorloper, voorouder
 prédicateur         m, zedenpreker, prediker
+prédication         f, action de prêcher, un sermon, homélie
 prédiction          f, voorspelling
 prédilection        f, preferentie, voorkeur, voorliefde, zwak
 prédire             orakelen, profeteren, voorspellen, voorzeggen
@@ -15143,7 +15143,7 @@ souteneur           m, hoerenbaas, koppelaar, pooier
 soutenir, soutint   protéger, défendre
 souterraine         f, onderaards, ondergronds, kelder-
 souterrain          m, ondergronds, kelder, trou, gat
-soute               f, coupé, compartiment, treincoupé, fuselage d'avion
+soute               f, coupé, compartiment, treincoupé, fuselage d'avion, laadruim
 soutien-gorge       m, bh
 soutien             m, steun, steunpillaar
 soutins, soutenir   gereedstaan, klaarstaan, plakken, ondergaan
@@ -16792,4 +16792,7 @@ pénéplaine          f, laagvlakte, vlak gebied, vlak land, plaine (étendue pl
 couvreur            m, dakdekker, rietdekker, looddekker, dekker
 tourneur            m, bankwerker, draaier
 avoir front         faire en sorte de, audace - (dapper; gedurfd; gewaagd; stoutmoedig)
-=== Camus --- La chute --- pag. 19 pdf bovenaan --- ===
+spéléologue         m, speleoloog
+avoir le front      audace, dapper, gedurfd, gewaagd, stoutmoedig, oser
+à la cote           niveau, hoogtelijn op kaart
+=== Camus --- La chute --- pag. 20 pdf bovenaan --- ===
