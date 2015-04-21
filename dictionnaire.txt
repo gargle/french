@@ -206,7 +206,7 @@ a contrario         integendeel, andersom, in tegendeel
 à coups de marteau  hamerslagen
 à-coups             schok
 à coups secs        m, droge tikken
-à coup sûr          zeker
+à coup sûr          zeker, vraiment, zekerheid, d'une manière certaine
 à couture           naaien
 acquarium           m, aquarium
 acquéreur           m, afnemen, opkoper
@@ -2251,7 +2251,7 @@ boulon              m, bout, schroefbout
 boulonné            vastgeschroefd
 boulottes           kort en dik, mollig, rond
 bouquet             m, boeket, geur
-bouquiniste         m, antikwaar, antiquaar
+bouquiniste         m, antikwaar, antiquaar, boekhandelaar, boekverkoper
 bouquin             m, boekje
 bourbon             m, Bourbon
 bourdon             m, hommel, wandelstok
@@ -2386,7 +2386,7 @@ brillamment         briljant, helder, knap, schitterend, sprankelend
 brillantes          glanzig, glimmend
 brillantine         f, brillantine
 briller             glanzen, afstraling, glimmen, gloren, schitteren, stralen, fonkelen
-brimade             f, ontgroening, doop, chagrijn, beproeving
+brimade             f, ontgroening, doop, chagrijn, beproeving, ongemak, onaangenaamheid, railler quelqu'un
 brin de paile       strohalm, strootje
 brindilles          f, tak, wis, fijn, twijgen, teen, stengel
 brin                m, halm, spriet, strohalm, strootje
@@ -4664,7 +4664,7 @@ décrochement        écart de niveau entre deux terrains
 décrocher           loshaken, loskoppelen, afhaken, naar beneden halen, slagen
 décroiser           uncross (legs)
 décroissante        dalend
-décroître           achteruitgaan, minderen, teruglopen, verminderen
+décroître, décroissait  achteruitgaan, minderen, teruglopen, verminderen
 décrue              f, overstroming
 décryptement        m, decodering
 déculotter          zijn broek uittrekken
@@ -7959,6 +7959,7 @@ garçonn             m, garçon
 garde alternée      f, co-ouderschap, wisselende bewaring
 garde-chasse        m, jachtopzichter
 garde-corps         m, reling
+garde-fou           m, balustrade, borstwering, leuning, trapleuning
 garde-côtes         kustwacht
 garde               f, bewaker, wacht, wachtpost, gevolg, entourage, hofstoet, wacht, voogdij, begeleider, verzorger
 garderie            m, bewaarschool, kinderopvang
@@ -8528,7 +8529,7 @@ hâtivement          haastig, vluchtig, vlug
 hauban, haubans     m, stormlijn, cordage de bateau, câble pour tendre, raidir
 haussement d'épaules   schouderophalen, schouderophaling
 haussement          m, ophalen van, optrekken van, het optrekken
-hausser             naar boven jagen, omhoogdraaien, verhogen, optrekken, ophalen (schouders)
+hausser, haussant   naar boven jagen, omhoogdraaien, verhogen, optrekken, ophalen (schouders)
 hautain             hautain, hooghartig, hoogmoedig, laatdunkend, avec hauteur
 haut-de-forme, haut de forme      m, hoge hoed, kachelpijp, cilinderhoed
 haut du pavé        overhand
@@ -12743,6 +12744,7 @@ précipitamment      haastig, halsoverkop, overhaastig
 précipitation       f, bruuskheid, drukte, gehaast, gejakker, spoed
 précipiter dans la crainte        fill with fear
 précipiter          zich haasten, opschieten, meeslepen, to hurl, gooien, uitstorten
+précipité           gehaast
 précise             accuraat, precies, exact, nauwkeurig, zelfverzekerd
 préciser connaissances          extend knowledge
 préciser en toutes lettres       in alle detail verduidelijken, volledig uitschrijven
@@ -14926,7 +14928,7 @@ singulièrement      bijzonder, eigenheid, eigen, belang, relevantie, importanti
 singulière, singulier      bizar, curieux, vreemd, typisch
 sinistre            bars, akelig, vreselijk, grimmig, donker, somber
 sinistré            geteisterd
-sinon               of, zo niet
+sinon               of, zo niet, anders, in het andere geval, in plaats van
 sinue, sinuer       zigzaggen, kronkelen
 sinueuse            bochtig, kronkelend, gekromd
 sinus               m, neusholte
@@ -16796,3 +16798,8 @@ spéléologue         m, speleoloog
 avoir le front      audace, dapper, gedurfd, gewaagd, stoutmoedig, oser
 à la cote           niveau, hoogtelijn op kaart
 === Camus --- La chute --- pag. 20 pdf bovenaan --- ===
+brime, brimer       faire subir des épreuves vexatoires, et parfois de mauvais traitements, bullying, pesten?
+vexatoire           qui offense
+volte-face          f, draai van 180°
+joyeusement         vrolijk, jolig, vreugdevol, gelukkig, genietend
+=== Camus --- La chute --- pag. 26 pdf bovenaan --- ===
