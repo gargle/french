@@ -880,7 +880,6 @@ apathique           apatisch, lusteloos, traag
 à peine             amper, bijna, nauwelijks
 apercevoir, aperçu, aperçoive   gewaarworden, bemerken, opmerken, zien, signaleren
 aperçu              m, ouvrage, livre, œuvre de récit imaginé
-apéritif            m, aperitief
 apéritif            m, aperitief, borrelhapje, entree, voorafje, voorgerecht
 apéro               m, aperitief, borrelhapje
 à perpétuité        in eeuwigheid
@@ -1852,6 +1851,8 @@ bâtisse             f, aanbouw, constructie
 bâtisseur           m, bouwer
 bât                 m, pakzadel, scheenzadel
 bâton               m, knuppel, slaghout, stok, paal, staf
+bâtonnier           m, pleiter, avocat, advokaat, pleitbezorger
+bâtonnat            m, pleiter, avocat, advokaat, pleitbezorger
 bâtonnet            m, cylinders
 batracien           m, amfibie
 battant             m, opening, ouverture (in een gebouw), pièce de bois, plaat, plank, gedeelte, tafel
@@ -2908,6 +2909,7 @@ cavalier            m, paardrijder, rijder, ruiter, begeleider
 caveau              m, grafkelder, kelder
 cave                f, kelder
 cavernes            f, grot, hol, spelonk
+homme des cavernes  m, holbewoner, holemens, grotbewoner
 caverneux           hol, spelonkachtig
 cavité              f, holte, kuil, gaatje
 cawnpore            britse helm
@@ -5078,6 +5080,7 @@ déserte             verlaten
 désertique          onbewoond, verlaten, woestijnachtig
 désert              m, woestijn, uitgestorven, verlaten
 de service          van dienst, dienstdoend
+servitude           f, dienstbaarheid, dwangarbeid, slavernij
 désespérance        f, wanhoop, moedeloosheid, demotivatie
 désespérant         wanhopig
 désespéré           hopeloos, radeloos, vertwijfeld, wanhopig
@@ -5344,7 +5347,7 @@ discutailleur       m, argumentatieve
 disert              spraakzaam
 disette             f, honger, hongersnood
 disgrâce            f, infamie, schandelijke daad, schandaal, schaamte, schande, ongunst, ongenade
-disgracieux         onaantrekkelijk
+disgracieux, disgracié  laid, lelijk, onaantrekkelijk
 disjointe           uit elkaar, van elkaar
 disloquer           losschieten, losspringen, ontwrichten
 disparate           ongelijksoortige
@@ -7239,6 +7242,7 @@ fantasmé            verzonnen, gefantaseerd, ingebeeld
 fantassin           m, infanterist, fuselier, lansknecht
 fantomatique        spookachtig
 fantôme             m, spook, geest, fantoom
+faraud              m, personne qui parle beaucoup, prétentieux, vantard, opschepper, dikdoener, grootdoener
 faramineux          enorme
 farce               f, practical joke
 farcie, farcir      opgevuld
@@ -7765,6 +7769,7 @@ fréquentation       f, gezelschap, omgang
 frère cadet         jongere broer, middle brother
 frère               m, broer
 fresque             f, fresco, graffito, muurschildering, wandschildering
+frétiller           wriemelen, schudden, kwispelstaarten, kwispelen, met de staart kwispelen, heen en weer bewegen
 frétillant          dartel
 frétillement        m, het schudden, kwispeling, wiebeling
 fretin              m, jonge vis
@@ -12186,6 +12191,7 @@ pièce à conviction  bewijsstuk
 pièce de monnaie    f, kleingeld
 pièce d'identité    f, legitimatie, identiteitsbewijs
 pièce               f, slaapvertrek, kamer, documenten, papieren
+pièce unique        f, eenspersoonskamer?
 piécette            f, kleingeld
 piècette            f, pièce de monnaie métallique fiduciaire - geldstuk; muntstuk
 pied de nez         m, moquerie, lange neus
@@ -16802,4 +16808,9 @@ brime, brimer       faire subir des épreuves vexatoires, et parfois de mauvais 
 vexatoire           qui offense
 volte-face          f, draai van 180°
 joyeusement         vrolijk, jolig, vreugdevol, gelukkig, genietend
-=== Camus --- La chute --- pag. 26 pdf bovenaan --- ===
+baryton             m, bariton, baritonzanger
+romance             f, ballade (muziekwerk, muziekje), ridderroman, romance, draairichting
+phénol              m, carbol, carbolzuur, fenol
+en catimini         heimelijk
+franciscain         m, Franciscaan, bedelmonnik, ordre et congrégation d'hommes
+=== Camus --- La chute --- pag. 23 pdf bovenaan --- ===
