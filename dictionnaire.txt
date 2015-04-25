@@ -601,7 +601,7 @@ aller-retour        m, heen en weer, retour
 allez savoir        go figure
 alliage             m, legering
 alliance            f, alliantie, bondgenootschap, huwelijk, trouwring
-allié               m, bondgenoot, geallieerd
+allié               m, bondgenoot, geallieerd, unir des personnes, des familles par les liens du mariage
 allocations         f, bijslag, arbeidsongeschikbeidsuitkering
 allocution          f, redevoering, toespraak
 allonger            langer maken, uitstrekken
@@ -2483,6 +2483,7 @@ buée                f, nattigheid, waterdamp, duizeligheid
 bue                 gedronken, opgedronken
 buffet              m, kast, buffet, dressoir
 buisson             m, heester, struik, struikgewas
+buisson ardent      m, vuurdoorn, vuurdoren, struikgewasachtig
 bulbe               m, bloembol, bol, stam, wortel van plant
 bulbe rachidien     m, hersenstam, beenmerg, merg
 bulbeuse, bulbeux   bolvormig
@@ -16813,4 +16814,6 @@ romance             f, ballade (muziekwerk, muziekje), ridderroman, romance, dra
 phénol              m, carbol, carbolzuur, fenol
 en catimini         heimelijk
 franciscain         m, Franciscaan, bedelmonnik, ordre et congrégation d'hommes
-=== Camus --- La chute --- pag. 23 pdf bovenaan --- ===
+branlabas           m, ensemble des préparatifs et des dispositions qui permettent l'engagement du combat
+faire balle         ?
+=== Camus --- La chute --- pag. 21 pdf paragraaf onderaan nog te lezen --- ===
