@@ -1097,6 +1097,7 @@ arquer, arquait     krommen, zich welven
 arrachement         m, uitscheuring
 arracher            losrukken, losscheuren, losscheuren, wegrukken
 arranger            opmaken, in orde maken, rechtzetten
+se arranger         opkalefateren, oppassen, opschikken, verzorgen
 arrêt de cars       m, stopplaats van autobussen
 arrêtées            verordend
 arrêter son émotion to restrain her emotion
@@ -3636,7 +3637,7 @@ compétence          f, competentie, deskundigheid, vaardigheid
 compétitivité       f, concurrentievermogen
 complaire, complu   likken, strooplikken, vlijen, être en joie, vreugde, blijdschap, se réjouir
 complaisamment      avec complaisance
-complaisance        f, inschikkelijkheid, behulpzaam, dienstvaardig, hulpvaardig, kindliness
+complaisance        f, opschepper, grootspreker, inschikkelijkheid, behulpzaam, dienstvaardig, hulpvaardig
 complaisant         bereidwillig, toeschikkelijk
 complaissamment     vlijend
 complet, complet-veston         m, colbertkostuum, kostuum, pak
@@ -4967,7 +4968,7 @@ dépité              verongelijkt
 dépit               m, irritatie, gepikeerdheid
 déplacement         m, transport, vervoer, beweging, verplaatsing
 déplacé             niet op zijn plaats, onjuist, misplaatst
-de plain-pied       walk-in
+de plain-pied       walk-in, op één verdieping
 déplaire, déplu     mishagen, niet aanstaan, niet bevallen, ontevreden
 déplaisante         gemeen, lastig, smerig, vies
 déplanter           omplanter, verplanten, to remove
@@ -16804,7 +16805,6 @@ avoir front         faire en sorte de, audace - (dapper; gedurfd; gewaagd; stout
 spéléologue         m, speleoloog
 avoir le front      audace, dapper, gedurfd, gewaagd, stoutmoedig, oser
 à la cote           niveau, hoogtelijn op kaart
-=== Camus --- La chute --- pag. 20 pdf bovenaan --- ===
 brime, brimer       faire subir des épreuves vexatoires, et parfois de mauvais traitements, bullying, pesten?
 vexatoire           qui offense
 volte-face          f, draai van 180°
@@ -16820,4 +16820,5 @@ déployer            uitslaan, openspreiden, ontplooien, afrollen, ontwikkelen, 
 expier, expiaient   boeten, boeten voor, bloeden
 édénique            paradijselijk, édéniquement, paradisiaquement
 en prise directe    ?
-=== Camus --- La chute --- pag. 21 pdf paragraaf onderaan nog te lezen --- ===
+arrangement         m, schikking, organisatie, regeling, overeenkomst
+=== Camus --- La chute --- pag. 21 pdf bovenaan --- ===
