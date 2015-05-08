@@ -1177,7 +1177,7 @@ asséner             knuppel, een stoot geven, porren
 assener un coup een stoot geven, porren
 assentiment         m, goedkeuring, instemming, jawoord, toestemming
 asseoir             neerzetten, neerzitten, plaatsnemen, zetelen
-asservir            tot slaaf maken
+asservir            tot slaaf maken, verplichten, zich verplichten tot
 asservissement      m, gevangenschap, slavernij
 assesseurs          adjoint van een rechter
 assez tôt           snel genoeg
@@ -1367,7 +1367,7 @@ au dernier degré    laatste graad, hoogste graad
 au-dessous de la vérité     lager dan de waarheid, beneath
 au-dessus           voorbij, boven
 au détour de        aan het begin van
-au-devant           à la rencontre
+au-devant           à la rencontre, tegemoet
 audience            f, luisterzitting, consultatie, rechtszitting
 audimat             m, kijkcijfers
 auditeur            m, luisteraar, hoorder, toehoorder
@@ -3572,6 +3572,7 @@ combinaison mécano  f, overall
 combine             f, moyen pour parvenir à un résultat, hypocrisie, méfait, misdaad, wangedrag, oneerlijkheid
 combiné             m, de hoorn
 comble              m, hoogtepunt, top, summon, boordevol, volgehoopt
+être comblé         être heureux - gelukkig zijn
 combler             eer aandoen, in ere houden, bedelven, voldoen aan, waarmaken, tevreden stellen, bevredigen
 combustion          f, verbranding, ontbranding
 comédie             f, komedie, game
@@ -4968,7 +4969,7 @@ dépité              verongelijkt
 dépit               m, irritatie, gepikeerdheid
 déplacement         m, transport, vervoer, beweging, verplaatsing
 déplacé             niet op zijn plaats, onjuist, misplaatst
-de plain-pied       walk-in, op één verdieping
+de plain-pied       walk-in, op één verdieping, au même niveau, ou d'accès facile, sur le même plan, également
 déplaire, déplu     mishagen, niet aanstaan, niet bevallen, ontevreden
 déplaisante         gemeen, lastig, smerig, vies
 déplanter           omplanter, verplanten, to remove
@@ -16819,6 +16820,6 @@ faire balle         ?
 déployer            uitslaan, openspreiden, ontplooien, afrollen, ontwikkelen, loswikkelen, uitrollen
 expier, expiaient   boeten, boeten voor, bloeden
 édénique            paradijselijk, édéniquement, paradisiaquement
-en prise directe    ?
+en prise directe    en contact avec la réalité
 arrangement         m, schikking, organisatie, regeling, overeenkomst
-=== Camus --- La chute --- pag. 21 pdf bovenaan --- ===
+=== Camus --- La chute --- pag. 22 pdf bovenaan --- ===
