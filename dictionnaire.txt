@@ -2334,7 +2334,7 @@ branchie            f, kieuw, kieuwspleet
 brandir             slingeren, swingen
 brandon             m, brandstof
 branlante           bouwvallig, krakkemikkig, verloederd, vervallen, wankel
-branle-bas          m, bouleversement, agitation, "naar uw posten"
+branle-bas, branlebas           m, bouleversement, agitation, "naar uw posten"
 branlement, branler schommelen, onstabiel, rukken
 branlette espagnole titty fuck
 branlette           f, zelfbevrediging
@@ -12844,6 +12844,7 @@ préservatif         m, condoom
 préservé, préserver behoed, vrijgewaard tegen, gespaard van
 préserver de        behoeden voor, vrijwaren tegen
 président           m, président, voorzitter
+président du conseil   chef et haut dignitaire, ministre - minister; ministerschap
 présider            presederen, voorzitten
 prés                m, veld, akker, beemd
 présomptif          voorbestemd
@@ -16635,7 +16636,7 @@ visa                m, visa, visum
 vis-à-vis           zonder iets tegenover, tegenover
 viscérale           van binnenuit komend, vanuit de ingewanden
 viscères            m, ingewanden, tout organe du crâne, du thorax ou de l'abdomen
-viser               reviser, deponeren, neerleggen, mikken, mikken op, viseren
+viser, visent       reviser, deponeren, neerleggen, mikken, mikken op, viseren
 vis                 f, schroef, vijs
 visière             f, klep, oogscherm, vizier
 vision fugitive     f, in een flits zien
@@ -16816,10 +16817,13 @@ phénol              m, carbol, carbolzuur, fenol
 en catimini         heimelijk
 franciscain         m, Franciscaan, bedelmonnik, ordre et congrégation d'hommes
 branlabas           m, ensemble des préparatifs et des dispositions qui permettent l'engagement du combat
-faire balle         ?
+le mot qui fait balle  het woord als kogel
 déployer            uitslaan, openspreiden, ontplooien, afrollen, ontwikkelen, loswikkelen, uitrollen
 expier, expiaient   boeten, boeten voor, bloeden
 édénique            paradijselijk, édéniquement, paradisiaquement
 en prise directe    en contact avec la réalité
 arrangement         m, schikking, organisatie, regeling, overeenkomst
-=== Camus --- La chute --- pag. 22 pdf bovenaan --- ===
+Bazaine             ?
+à temps perdu       temps libre, distractions et loisirs
+domestique          m/f, knecht, huisbediende, dienaar, dienares, dienstmeisje, huishoudhulp
+=== Camus --- La chute --- pag. 25 pdf bovenaan --- ===
