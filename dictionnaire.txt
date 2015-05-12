@@ -3039,7 +3039,7 @@ champ de courses    m, atletiekbaan, baan, circuit, omloop, parcour
 champ d'herbes      grasveld
 champenoise         de Champagne
 champignon          m, paddestoel, champignon
-champ               m, baan, circuit, invloedssfeer, akker, veld
+champ               m, baan, circuit, invloedssfeer, akker, veld, smalle kant van een kist
 chancelante         aangeslagen, aarzelend, onvast, wankel
 chanceler, chancela duizelen, hompelen, strompelen, wankelen
 chancelèrent        duizelen, slingeren, strompelen, wankelen, wiebelen
@@ -3124,6 +3124,7 @@ chasse-mouche       soort bezem, borstel, om vliegen weg te jagen
 chasseresse         f, chasse, chasser, courir, pourchasser
 chasser             jagen, opjagen, verjagen, wegjagen
 chasseur alpin      m, infanterist, soldaat
+chasseur de         m, personne qui recherche avec ardeur et ténacité
 chaste              kuis
 chasteté            f, kuisheid, onthouding
 châtaignier         m, kastanjeboom
@@ -15980,6 +15981,7 @@ trafic              m, verkeer, traffic, drukte
 trafiquage          m, manipulatie
 trafiquer           knoeien, meesmokkelen, knoeien met
 tragédie            f, tragedie, treurspel, calamiteit
+tragédienne         f, treurspeldichter
 tragique            m, tragiek
 trahir              in de steek laten, verklikken, verraden
 trahison            f, verraad, trouweloosheid, judasstreek
@@ -16826,4 +16828,4 @@ arrangement         m, schikking, organisatie, regeling, overeenkomst
 Bazaine             ?
 à temps perdu       temps libre, distractions et loisirs
 domestique          m/f, knecht, huisbediende, dienaar, dienares, dienstmeisje, huishoudhulp
-=== Camus --- La chute --- pag. 25 pdf bovenaan --- ===
+=== Camus --- La chute --- pag. 28 pdf bovenaan --- ===
