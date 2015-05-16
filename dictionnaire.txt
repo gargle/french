@@ -16283,7 +16283,7 @@ zézayer             lispelen, slissen
 échauffer           opwarmen, waardraaien, warmlopen
 échauffourée        f, riot, ordeverstoring, vechtpartij
 échec               m, schaak, mislukking, storing
-échelle             f, schaal
+échelle             f, schaal, ladder
 échelonnement       m, een rij vormen, uitspreiden,  spreiden, faseren, verspreiden
 échelonner          een rij vormen, uitspreiden,  spreiden, faseren, verspreiden
 échelons            m, sport (ladder)
@@ -16838,4 +16838,6 @@ zézayer             lispelen, slissen
 œuvre               f, werk, compositie, opus, stuk, toonzetting
 œuvrer              werken, agir, travailler
 parti-pris          m, vooroordeel, prejudicie, bias, partijdigheid, partijschap, bevooroordelen
-=== Camus --- La chute --- pag. 29 pdf onderaan --- ===
+convaincante        overtuigend, steekhoudend, krachtig, glad
+communiqué          m, persbericht, communiqué
+=== Camus --- La chute --- pag. 30 pdf onderaan --- ===
