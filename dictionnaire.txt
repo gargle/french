@@ -3501,6 +3501,7 @@ condamnation        f, veroordeling, terechtwijzing
 condamner           dichtmaken, dichtstoppen, veroordeeld, afkeuren, laken, afkraken, beoordelen, punir
 condenser           indikken, neerslaan, verkorten
 condescendre        zich verwaardigen, zich waardig achten
+condescendance      f, laatdunkendheid
 condiment           m, kruiderij, specerij
 condisciples        m, compagnon d'études, camerade, compagnon, copain
 condition           f, omstandigheid, toestand, vereiste
@@ -6589,6 +6590,7 @@ fiel                m, gal
 fiente              f, uitwerpselen
 fientes de poule    kippenmest
 fier                faire confiance, geloven, vertrouwen
+ne vous y fiez pas  do not trust
 fiesta              f, feest, feestelijkheid, festiviteit
 fifres              m, fluit
 fige                doodstil
@@ -11866,7 +11868,7 @@ primordiale         oorspronkelijk
 principalement      inzonderheid, meestal, vooral, voornamelijk, bovenal
 principauté         f, prinsdom, vorstendom
 principaux          belangrijkste, voornaamste, hoofd-
-principe            m, aanhef, inleiding
+principe            m, aanhef, inleiding, principe
 printanier          lente-, voorjaars-
 printemps           m, lente
 pris au piège       gevangen
@@ -13558,7 +13560,7 @@ salpingo-ovariectomie   f, bekken, castratie
 salpêtre            m, salpeter
 saltimbanques       m, kunstenmaker
 salubre             gezond, heilzaam, verstanding, puur
-salut               m, redding
+salut               m, redding, groet
 salutaire           heilzaam, gezond, verstandig
 salutiste           m, armée du Salut, Leger des Heils
 salves              f, uitbarstingen
@@ -16840,4 +16842,9 @@ zézayer             lispelen, slissen
 parti-pris          m, vooroordeel, prejudicie, bias, partijdigheid, partijschap, bevooroordelen
 convaincante        overtuigend, steekhoudend, krachtig, glad
 communiqué          m, persbericht, communiqué
-=== Camus --- La chute --- pag. 30 pdf onderaan --- ===
+compensation        f, compensatie, tegemoetkoming, beloning, vergoeding, schadeloosstelling
+où donner de la tête   where to head
+froussard           laf, opgewonden, bangig, angstvallig, bangelijk, beducht, schichtig, vreesachtig
+imbattable          onoverwinnelijk, onverslaanbaar
+lapsus              m, verspreking
+=== Camus --- La chute --- pag. 31 pdf onderaan --- ===
