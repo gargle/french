@@ -6908,6 +6908,7 @@ foutu               bloeiend, stomme
 foyer               m, haardstede, vuurhaard, haardplaats, stookplaats, brandpunt, beeldscherpte, focus
 fracas              m, gekletter, gerammel, herrie, kabaal
 fracasser           intrappen, vermorzelen
+fracassant          vermorzelend, kapotvallend, neerstortend, stortend, crashend
 fraces de fer       gekletter van ijzer
 fracture du crâne   f, schedelfractuur, schedelbreuk
 fracturer           breken
@@ -8224,6 +8225,7 @@ indisposé           naar, onposselijk, onwel, ongesteld
 indissociable       onlosmakelijk
 indissoluble        onverbrekelijk, onveranderd
 indistinct          onduidelijk
+distinctement       duidelijk, hoorbaar
 individu            m, knul, snuiter, sujet
 indocile            onbedwingbaar, ongezeglijk, ontembaar
 indolence           gemakzucht, luiheid, indolentie, lusteloosheid
@@ -8559,6 +8561,7 @@ inédite             onuitgegeven, ongepubliceerd, wat niet is, qui est nouveau
 inégalable          ongeëvenaard, unbeatable
 inégalité           f, ongelijkheid
 inéluctable         onafwendbaar, onontkoombaar, onvermijdelijk
+inéluctabilité      f?, de onvermijdelijkheid
 inéluctablement     onafwendbaar, onvermijdbaar, onvermijdelijk
 inépuisable         onuitputtelijk, onverflauwd
 inévitable          onontkoombaar, onvermijdelijk
@@ -10820,7 +10823,7 @@ par bribes          in flarden
 par conséquent      bijgevolg, daarom, derhalve, dienovereenkomstig, dientengevolge, zodoende
 par contenance      door 'capaciteit', door zijn houding?
 par cœur            vanbuiten
-par degrés          stapsgewijs
+par degrés          stapsgewijs, graduellement
 par défi            out of defiance, als uitdaging
 par endroits        lokaal, hier en daar, here and there
 par essence         in essentie
@@ -16847,4 +16850,7 @@ où donner de la tête   where to head
 froussard           laf, opgewonden, bangig, angstvallig, bangelijk, beducht, schichtig, vreesachtig
 imbattable          onoverwinnelijk, onverslaanbaar
 lapsus              m, verspreking
-=== Camus --- La chute --- pag. 31 pdf onderaan --- ===
+refrain             m, refrein, keerdicht
+chère               duur, geliefd, kostbaar, waardevol, prijzig
+villégiature        f, vakantieplaats, vakantieoord, recreatiegebied, recreatieoord; zich verplaatsen, op reis
+=== Camus --- La chute --- pag. 32 pdf bovenaan --- ===
