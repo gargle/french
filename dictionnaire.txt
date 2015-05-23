@@ -9338,7 +9338,7 @@ magistrat           m, magistraat, rechter, jurist
 magistrat d'instruction    m, onderzoeksrechter
 magistrat instructeur      m, onderzoeksrechter
 magma               m, mengeling
-magnanimes          grootmoedig
+magnanime           grootmoedig
 magnanimité         f, groothartigheid, grootmoedigheid
 magnétisme          m, magnetisme
 magnétophone        m, tape-recorder, bandopnemer
@@ -10175,7 +10175,7 @@ méprise             f, malentendu, misvatting, misverstand, minachting ongenoeg
 mépriser            verafschuwen, minachten, neerkijken op
 méridien            m, meridiaan, positiebepaling
 mérite              m, verdienste, credit
-méritoire           verdienstelijk, waardig
+méritoire           verdienstelijk, waardig, waard
 mésange             f, koolmees, mees
 mésaventure         f, accident, ongeluk, ongeval, tegenspoed
 mésentériques       m, darmvlees
@@ -12995,7 +12995,8 @@ revêtement          m, bekleding, vloerbedekking, verharding, laag
 revêtu, revêtir     aankleden, kleden, bekleden, verharden, bestraten, faire paraître, dressed, to take on
 rez-de-chaussée     m, gelijkvloers
 reçu                m?, bonnetje, ontvangsbewijs
-rhabiller           heraandoen
+rhabiller           heraandoen, opnieuw aankleden
+se rhabiller        go fuck yourself?
 rhinocéros          m, neushoorn
 rhododendron        m, rhododendron
 rhombe              m, ruit
@@ -16690,7 +16691,7 @@ zézayer             lispelen, slissen
 étiquette           f, etiket
 étirer              gaan, komen, uitstrekken, rekken, uitrekken, zich strekken, ontvouwen, going slack
 étoffe              f, doek, goederen, kleed, laken, stof, weefsel
-étoffer             uitbreiden, garnir d'étoffe
+étoffer             uitbreiden, garnir d'étoffe, vatbaarheid
 étoile              f, ster, splash, spikkel, vlekje
 étoile des vents    f, kompas, windrichting
 étoile filante      f, meteoor, bolide, vallende ster
@@ -16853,4 +16854,5 @@ lapsus              m, verspreking
 refrain             m, refrein, keerdicht
 chère               duur, geliefd, kostbaar, waardevol, prijzig
 villégiature        f, vakantieplaats, vakantieoord, recreatiegebied, recreatieoord; zich verplaatsen, op reis
-=== Camus --- La chute --- pag. 32 pdf bovenaan --- ===
+pleutrerie          f, nerveusheid, zenuwachtigheid, bangigheid, angst, schrik, lafheid, kleinhartigheid
+=== Camus --- La chute --- pag. 33 pdf bovenaan --- ===
