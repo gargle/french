@@ -2468,7 +2468,7 @@ calvaire            m, kruisweg, lijdensweg
 calvitie            f, kaalhoofdigheid
 calèche             f, koets, bak
 calèche             f, rijtuig, voiture en cheval
-calé, caler         aanhouden, aflopen, bijdraaien, halthouden, stilstaan, steunen, ondersteunen
+calé, caler         aanhouden, aflopen, bijdraaien, halthouden, stilstaan, steunen, s’arrêter brusquement
 camarade            m, vriend, maat, buddy
 camarade d'atelier  m, collega
 camaron             m, rivierkreeft
@@ -4056,7 +4056,7 @@ critère             m, criterium, maatstaf, norm, peil, toetssteen
 croassement         m, gekras, krassen
 croc-en-jambe       pootje lappen
 crocher             platleggen, stilleggen
-crochet             m, haakwerk, prothèse (haak)
+crochet             m, haakwerk, prothèse (haak), vuistslag, stomp
 crochus             haakvormig, hoekig
 crocodile           m, krokodil
 crocs               m, slagtand, hoektand
@@ -5241,6 +5241,7 @@ dériver             op drift zijn, afdrijven, afleiden van, meedrijven, voortvl
 dérivé              drift, afdrijven, bedekken, meedrijven, afleiden, aberratie
 dérober             teruggaan op, de boot afhouden, stelen, wegkapen, escape, verstoppen, ontsnappen
 dérouiller          schuren (roest wegnemen)
+dérouillé           f, donner de bonnes manières à, dégrossir, pak rammel geven?
 déroulement         m, zich afspelen, duur, tijdsduur, toedracht, voortduring, voortgang
 dérouler            afwikkelen, ontrollen, openrollen, uitrollen, zich afspelen, to unwind
 déroutant           raadselachtig, verduisteren, verwarren, verbijsteren
@@ -8568,7 +8569,6 @@ inévitable          onontkoombaar, onvermijdelijk
 iodée               jood/jodium, eau de mer, pekel, pekelnat
 ipé                 m, boom, zeer stabiel en duurzaam hout, meestal uit Brazilië, gele bloemen
 irascibilité        gemeenlijkheid, knorrigheid, prikkelbaarheid
-irascible           heetgebakerd, heethoofdig
 irascible           heetgebakerd, heethoofdig, humeurig, opvliegend
 iridescente         regenboogkleurig, iriserend, opaliserend, gekleurd
 iris                m, iris, regenboogvlies
@@ -10620,7 +10620,7 @@ orduriers           cru, dégoûtant, abject, sordide, sale
 ordurière           schunnig
 oreille             f, oor, gehoor
 oreiller, oreillers m, hoofdkussen
-oreilles ourlées    flaporen
+oreilles ourlées    f, flaporen
 oreillette          m, oorflappen (aan hoofddeksel)
 orfèvre             m, edelsmid, goudsmid, zilversmid
 orfèvrerie          f, zilver, zilversmid
@@ -12309,6 +12309,7 @@ pérorer             uitweiden over
 pérégrination       f, dwaaltocht, omzwerving
 pétale              m, bloemblad, kroonblad, bloemblaadjes
 pétarade            f, reeks ontploffingen (van een motor)
+pétarader           exploser, eruptie, uitbarsten, losbarsten, produire un son vibré
 pétard              m, rotje, voetzoeker
 pétasse             f, jeune femme, hoer
 péter               dronken worden, een scheet laten, beuken, bonken, klappen
@@ -12996,7 +12997,7 @@ revêtu, revêtir     aankleden, kleden, bekleden, verharden, bestraten, faire p
 rez-de-chaussée     m, gelijkvloers
 reçu                m?, bonnetje, ontvangsbewijs
 rhabiller           heraandoen, opnieuw aankleden
-se rhabiller        go fuck yourself?
+se rhabiller        go fuck yourself, aller se faire foutre
 rhinocéros          m, neushoorn
 rhododendron        m, rhododendron
 rhombe              m, ruit
@@ -13909,10 +13910,10 @@ se échapper         ontsnappen
 se élever           naar boven gaan, opstijgen
 se épancher         zich laten gaan, ontboezingen, zijn hart uitstorten
 se éterniser        voortslepen
-se évertuer à       proberen
+se évertuer à       proberen, faire aussi bien que l'on peut
 seau à ordures      m, vuilnisemmer
 seau, seaux         m, emmer, schuit, putemmer, schepbak
-sec                 dried up, opgedroogd
+sec                 dried up, opgedroogd, rude, abrupt, décharné, nerveux, osseux
 seconde             f, seconde
 secouer             afschudden, schudden, bewegen, schokken, tossen, rammelen, pull together
 secourir, secourt   helpen, bijstaan
@@ -16855,4 +16856,8 @@ refrain             m, refrein, keerdicht
 chère               duur, geliefd, kostbaar, waardevol, prijzig
 villégiature        f, vakantieplaats, vakantieoord, recreatiegebied, recreatieoord; zich verplaatsen, op reis
 pleutrerie          f, nerveusheid, zenuwachtigheid, bangigheid, angst, schrik, lafheid, kleinhartigheid
-=== Camus --- La chute --- pag. 33 pdf bovenaan --- ===
+se emmener à pied et à cheval       se moquer de, envoyer promener, ne tenir aucun compte de
+après coup          achterna, naderhand
+sagouin             m, singe, aap, personne sale, smeerlap
+raclée              f, aframmeling, afranseling, pandoering, slaag, pak slaag
+=== Camus --- La chute --- pag. 35 pdf bovenaan --- ===
