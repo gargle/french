@@ -10,7 +10,7 @@ Angleterre          Engeland
 Antarctique         Zuidpoolcircel
 Bab-El-Mandel       Bab-El-Mandeb, porte des lamentations
 Bar-Tabac           m, bar-tabac
-Bazaine             ?
+Bazaine             French general and from 1864, a Marshal of France
 Bricot              m, apéritif
 Byrrh               m, a blend of red wine and quinine or tonic water
 CAPES               onderwijsbevoegdheid
@@ -2437,6 +2437,7 @@ calcaire            kalkhoudend, krijtachtig
 calciner, calciné   verassen, charred (english), verbrand
 calcite             f, kalkspaat, mineraal, gesteente
 calcul mental       m, hoofdrekenen
+calcul              m, rekenen, berekening, calculatie
 calcédoine          f, kwarts, edelsteen
 cale                f, dok, stapel, laadruim, onderruim, scheepsruim
 calebasse           f, kalebas
@@ -16859,5 +16860,8 @@ pleutrerie          f, nerveusheid, zenuwachtigheid, bangigheid, angst, schrik, 
 se emmener à pied et à cheval       se moquer de, envoyer promener, ne tenir aucun compte de
 après coup          achterna, naderhand
 sagouin             m, singe, aap, personne sale, smeerlap
+on me trouvait du charme      ze vonden me charmant
 raclée              f, aframmeling, afranseling, pandoering, slaag, pak slaag
-=== Camus --- La chute --- pag. 35 pdf bovenaan --- ===
+prendre l'air       sortir hors de chez soi, aller se promener
+gangster            m, gangster
+=== Camus --- La chute --- pag. 36 pdf onderaan --- ===
