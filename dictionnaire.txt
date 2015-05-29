@@ -4240,8 +4240,9 @@ côtoyant            lopen langs, varen langs
 côté                m, oord, plaats,lieu, limite d’un espace
 cœur                m, het hart
 cœur de cible       m, kerndoelgroep
-cœur gros           zwaar gemoed
-cœur léger          luchtig, opgelucht hart
+cœur gros           m, zwaar gemoed
+cœur sec            m, personne méchante, personne cruelle
+cœur léger          m, luchtig, opgelucht hart
 cœur serré          m, gebroken hart, verdrietig, bedroefd
 d'abord             in de eerste, in de eerste plaats
 d'affilé            de een na de ander?
@@ -12604,6 +12605,7 @@ raté                gezakt, mislukt, fiasco, flop
 rauque              rauw, hees, schor, husky
 ravager             ernstig beschadigen, teisteren
 ravageur            destructeur, dévastateur
+ravageuse           f, femme séduisante, qui aime se faire désirer
 ravalement          reinigen
 ravaler, déprécier  degraderen
 ravalé              vernederd
@@ -16864,4 +16866,5 @@ on me trouvait du charme      ze vonden me charmant
 raclée              f, aframmeling, afranseling, pandoering, slaag, pak slaag
 prendre l'air       sortir hors de chez soi, aller se promener
 gangster            m, gangster
-=== Camus --- La chute --- pag. 36 pdf onderaan --- ===
+congénitale         aangeboren
+=== Camus --- La chute --- pag. 38 pdf bovenaan --- ===
