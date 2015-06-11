@@ -3640,7 +3640,7 @@ contentement        m, genoegen, ingenomenheid, tevredenheid
 contenter           tevredenstellen, genoegen nemen met
 contentieux         m, procesvoering, procédure judiciaire
 contenu             m, inhoud
-conter              vertellen, verhalen, opzeggen, uitbrengen
+conter, conterez    vertellen, verhalen, opzeggen, uitbrengen
 contestataire       m, maatschappijcritisch, protesteerder
 contestataires      m, protesteerder, protesteerster
 conteur             m, verteller
@@ -6058,6 +6058,7 @@ envisager           overwegen, nadenken over, zich inbeelden, zich verbeelden
 envol               m, vlucht
 envoler             voorbijvliegen, vliegen, verlopen, vervlieden
 envolés             vliegen, stijgen
+envolées            f, douw, zet, duw, inspiratie, bevlogenheid, bezieling
 envoyé              m, afgezant, gezant
 envoûtement         m, bezwering
 envoûté             betoverd, bezweerd, bewitched
@@ -7040,6 +7041,7 @@ fugue               f, vlucht
 fuguer              weglopen, vluchten
 fugueuse            weggelopen
 fuir, fuyant, fuyait    vluchten, ontvluchten, uitbreken, glibberig, doorsijpelen, mijden, ontlopen
+faux-fuyant         m, mal représenter, fausseté, mensonge - leugen, onwaarheid 
 fuite               f, vlucht, ontsnapping
 fulgurante          bliksemsnel, schitterend, snelheid, tempo, kwiek, rap
 fulguration         f, donderslag, coup de tonnerre, éclair et foudre, inslag, blikseminslag
@@ -12764,7 +12766,7 @@ relier              verbinden, in verband brengen, verenigen, linken, ingebonden
 religion            f, geloof, godsdienst
 reliure             f, band, boekband
 reluisaient reluire fonkelen, glanzen, glimmen
-reluisante          glimmend
+reluisante          glimmend, fonkelend, glanzend, reluire
 relâche             f, rustplaats, stop, verslappen, verlossen, tussenlanding, laksheid
 relâcher            laten gaan, losmaken, bevrijden, verlossen
 relève              f, vervanging, aflossing?
@@ -16870,4 +16872,6 @@ congénitale         aangeboren
 en peine de         ressentir cruellement le manque de quelque chose
 attirance           f, aantrekking, aantrekkingskracht, bekoorlijkheid, begeerlijkheid
 brûler les planches jouer avec un entrain, une chaleur communicatifs
-=== Camus --- La chute --- pag. 39 pdf bovenaan --- ===
+a point de part     nothing to do with
+geôlier             m, gevangenisbewaarder, cipier
+=== Camus --- La chute --- pag. 42 pdf bovenaan --- ===
