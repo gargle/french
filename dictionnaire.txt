@@ -3415,7 +3415,7 @@ compatriote         m, landgenoot, streekgenoot
 compenser           goed boeren, in het leven slagen, compenseren, schadeloosstellen
 complaire, complu   likken, strooplikken, vlijen, être en joie, vreugde, blijdschap, se réjouir
 complaisamment      avec complaisance
-complaisance        f, opschepper, grootspreker, inschikkelijkheid, behulpzaam, dienstvaardig, hulpvaardig
+complaisance        f, opschepper, grootspreker, inschikkelijkheid, behulpzaam, hulpvaardig, vriendjespolitiek
 complaisant         bereidwillig, toeschikkelijk
 complaissamment     vlijend
 complet marron      m, bruin pak
@@ -3706,7 +3706,7 @@ contussioner        kneuzen
 convalescence       f, herstel, herstelperiode, revalidatie
 convalescent        m, herstellend patient
 convenable          achtenswaardig, gepast, geschikt, behoorlijk
-convenance          f, betamelijkheid, conventie, fatsoen, wellevendheid
+convenance          f, betamelijkheid, conventie, fatsoen, wellevendheid, opportunisme, gepastheid
 convention          f, formaliteit, overeenkomst, pakt, stramien, traktaat, verdrag
 convergent          convergerend
 conversation        f, gesprek, babbeltje
@@ -6056,7 +6056,7 @@ environner          être situé autour
 environs            m, entourage, milieu, omgeving, omstreken, geburen
 envisager           overwegen, nadenken over, zich inbeelden, zich verbeelden
 envol               m, vlucht
-envoler             voorbijvliegen, vliegen, verlopen, vervlieden
+envoler             voorbijvliegen, vliegen, verlopen, vervlieden, slijten
 envolés             vliegen, stijgen
 envolées            f, douw, zet, duw, inspiratie, bevlogenheid, bezieling
 envoyé              m, afgezant, gezant
@@ -7818,6 +7818,7 @@ homonymie           f, naamgenoot, gelijkluidend
 homosexualité       f, homofilie, homosexualiteit
 homélie             f, homilie, preek, sermoen, geloofsverkondiging
 honneurs            m, eerbewijzen
+honneur             m, eer
 honnête             passend, eerlijk, reasonable
 honnêtement         eerlijk, eerzaam, oprecht
 honorabilité        f, goede reputatie
@@ -8207,6 +8208,7 @@ indication          f, aanduiding, indicatie, inlichting
 indicatrice         m, verklikker, aangever, aanbrengen, verrader, klikspaan
 indice              m, aanduiding, aanwijzing, kapstop, niveau, tarief, index
 indicible           onuitsprekelijk
+différer            afwijken van, schelen van, verschillen van
 indiffère           onverschillig
 indifféremment      onverschillig, matig, onbelangrijk
 indifférence        f, ongeïnteresseerdheid
@@ -15908,7 +15910,7 @@ vue                 f, het zicht
 vulgaire            m, laag volk
 vulgaire            ordinair, gewoon
 vulgate             f, evangelie, bijbelboek
-vècut, vivre        leven, voortleven, leven van, zich in leven houden, zijn
+vècut, vivre, vécussent           leven, voortleven, leven van, zich in leven houden, zijn
 vécûmes             vivre
 végétale            plantaardig, planten-, vegetatief
 végétation          f, vegetatie
@@ -16449,7 +16451,7 @@ zézayer             lispelen, slissen
 élevé               gemanieerd, opgevoed, grootgebracht, hoog, groot
 éliminer            vernielen
 élimé               afgedragen
-élire, élit         besluiten, herkiezen, kiezen, uitverkiezen, verkiezen
+élire, élit, élisais    besluiten, herkiezen, kiezen, uitverkiezen, verkiezen
 élision             f, vokaal, klinker, mot - lexicale eenheid, woord
 élite               f, elite
 élixir              m, kruidenaftreksel, toverdrank
@@ -16874,4 +16876,6 @@ attirance           f, aantrekking, aantrekkingskracht, bekoorlijkheid, begeerli
 brûler les planches jouer avec un entrain, une chaleur communicatifs
 a point de part     nothing to do with
 geôlier             m, gevangenisbewaarder, cipier
-=== Camus --- La chute --- pag. 42 pdf bovenaan --- ===
+stérilité           f, onvruchtbaarheid, steriliteit
+digression          f, afdwalen, uitweiding, digressie
+=== Camus --- La chute --- pag. 42 pdf onderaan --- ===
