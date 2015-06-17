@@ -6920,7 +6920,6 @@ fractures           f, breuk, fraktuur
 fragilisé           verzwakt
 fragment            m, beetje, brok, brokstuk, flard, eindje, tikkeltje, vleugje
 fragmentation       f, fragmentatie, verdeling, splitsing
-fraiche             fris
 frais               m, eten
 fraises             f, aardbeien
 fraisier            m, aardbeiplant
@@ -6943,7 +6942,7 @@ frapper             teisteren, frapperen, treffen, geslagen (munt)
 fraternel           broederlijk, zusterlijk
 frayer              zich een weg banen, doorbreken, zich worstelen door
 frayeur             f, ontzetting, schrik, verschrikking
-fraîche             fris, koel, verkwikkend, dronken
+fraîche             fris, koel, verkwikkend, dronken, levendig, kwiek
 fraîcheur           f, frisheid, ijzigheid, kalmte, koelte, koude, verhoudheid
 fredonner           cronen, neuriën, zacht zingen
 frein               m, rem, mond, tong, belemmering
@@ -13536,7 +13535,8 @@ saisir              begrijpen, bevatten, (aan)grijpen, graaien, uitdenken, uitvi
 saisir au vol       de vlucht nemen
 saisir l'opportunité        van de gelegenheid gebruik maken
 saisissant          aanpakken, vasthouden, pakken, vangen
-saisissante         aandoenlijk, aangrijpend, treffend, ontroerend
+saisissement        m, beduusd, verstomd, stomverbaasd
+saisissante         aandoenlijk, aangrijpend, treffend, ontroerend, boeiend
 saison              f, seizoen
 saisonnier          m, seizoensarbeider
 salaire             m, salaris, bezoldiging, gage
@@ -14145,6 +14145,7 @@ solliciter          verzoeken, vragen om
 solliciteur         personne qui sollicite une faveur
 sollicitude         f, bezorgdheid, bekommering, zorgzaamheid
 sombrer             ondergang, afzakken, kelderen, ondergaan, zakken, zinken
+sombre              donker, onverlicht, duister, mistroostig, naargeestig
 sommaire            oppervlakkig
 sommairement        kort en bondig, simpel
 sommation           f, aansporing, vermaning, aanmaning, dagvaarding
@@ -16878,4 +16879,4 @@ a point de part     nothing to do with
 geôlier             m, gevangenisbewaarder, cipier
 stérilité           f, onvruchtbaarheid, steriliteit
 digression          f, afdwalen, uitweiding, digressie
-=== Camus --- La chute --- pag. 42 pdf onderaan --- ===
+=== Camus --- La chute --- pag. 44 pdf bovenaan --- ===
