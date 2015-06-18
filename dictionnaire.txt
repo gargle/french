@@ -14246,8 +14246,8 @@ soupape             f, ventiel, klep, luchtklep
 souper              avondeten, souper
 soupeser            met de hand wegen
 soupir              m, zucht, gezucht, sigh
-soupirail           venstertje, opening, kijkgat
-soupirant           huwelijkskandidaat, vrijer
+soupirail           m, venstertje, opening, kijkgat
+soupirant           m, huwelijkskandidaat, vrijer
 soupiraux           m, ventilatoren, raam, venster
 soupirer            zuchten, smachten, verzuchten
 soupâmes            opeten?
@@ -16544,6 +16544,7 @@ zézayer             lispelen, slissen
 épar                m, situé entre deux espaces, tussenruimte, interval, dwarsbalk, horizontaal stuk
 éparge              f, spaartegoed
 épargne-logement    f, geldsom, woonst, spaarrekening met bevoorrechte interestvoet voor leenkrediet voor woonst
+épargner            sparen, besparen, besparen op
 éparpillement       m, het verspreiden, verstrooiing
 éparpiller          uitstrooien, verstrooien, verspreiden, uiteenstoven
 éparpillé           strooien, uiteengaan, verstrooien
@@ -16879,4 +16880,8 @@ a point de part     nothing to do with
 geôlier             m, gevangenisbewaarder, cipier
 stérilité           f, onvruchtbaarheid, steriliteit
 digression          f, afdwalen, uitweiding, digressie
-=== Camus --- La chute --- pag. 44 pdf bovenaan --- ===
+de poupée           qui est de taille ou d'envergure très petite
+encaustique         f, meubelwas, politoer, boenwas, poetsmiddel, wasbeits
+scepticisme         m, scepsis, skepsis, scepticisme
+contrition          f, gewetensangst, gewetensnood, gewetenswroeging, wroeging
+=== Camus --- La chute --- pag. 46 pdf onderaan --- ===
