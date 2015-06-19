@@ -11515,6 +11515,7 @@ pluvieux, pluvieuse     buiig, regenachtig
 plâtre              m, afdruk, gietsel, vorm, gips, kalk
 plâtré              bepleisterd, gipsen, gepleisterd
 plébisciter         exprimer son opinion par un vote, akkoord gaan met, goedvinden, goedkeuren, ergens achter staan
+plébéien            gewoon, plebejisch
 plénipotentiaires   gevolmachtigd, gedelegeerde
 plénipotentiare     gevolmachtigd
 plénitude           f, volledigheid
@@ -12488,7 +12489,7 @@ raidit              opstijven, stijf worden
 raie                f, scheiding, haarscheiding, rog, rogvis, streep, streek
 rail                m, rail van spoorweg
 raillements         bijeenkomsten
-railler             belachelijk maken, de draak steken met
+railler, raillé     belachelijk maken, de draak steken met
 raillerie           f, hoongelach, parodie, scherts
 railleur            m, grapjas
 railleur            spottend
@@ -13101,7 +13102,7 @@ roman               m, roman
 romance             f, ballade (muziekwerk, muziekje), ridderroman, romance, draairichting
 romancière          f, romancier, romanschrijfster
 romanesque          m, romantiek, romanesk
-rompirent, rompre   afbreken, afscheuren, stoppen, beëindigen, ophouden, interrumperen, in de rede vallen, breken
+rompirent, rompre, rompt          afbreken, afscheuren, beëindigen, interrumperen, in de rede vallen, breken
 ronces              f, braamstruik
 rond                m, cirkel, bol, ringvormig, rond, ronde, a patch
 ronde               f, de ronde, wedren
@@ -16884,4 +16885,5 @@ de poupée           qui est de taille ou d'envergure très petite
 encaustique         f, meubelwas, politoer, boenwas, poetsmiddel, wasbeits
 scepticisme         m, scepsis, skepsis, scepticisme
 contrition          f, gewetensangst, gewetensnood, gewetenswroeging, wroeging
-=== Camus --- La chute --- pag. 46 pdf onderaan --- ===
+aristocratie        f, aristocratie, hogere stand, beau monde
+=== Camus --- La chute --- pag. 47 pdf bovenaan --- ===
