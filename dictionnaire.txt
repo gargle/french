@@ -4182,6 +4182,7 @@ cunéiforme          wigvormig, spijkerschrift
 cupidité            f, begeerlijkheid, begerigheid, hebzucht, inhaligheid
 curatelle           f, beheerder, curator, erfopvolging
 curer               uitmesten, uitwassen
+cure                f, kuur
 curetage            m, chirurgische ingreep, overtijdbehandeling
 cureter             opereren, opérer
 curieux événements  merkwaardige/vreemde gebeurtenissen
@@ -4981,7 +4982,7 @@ dédire              woorden terug intrekken, verloochenen
 dédommager          betalen en ontslaan, bijleggen, schadeloosstellen, compenseren
 déduire             afleiden, deduceren, herleiden, oplossen, to deduce
 déesse              f, godin, godheid
-défaillances        f, flauwte, fout, onmacht, failing
+défaillances        f, fout, flauwte, onmacht, failing
 défaillante         bij gebreke
 défaillir           bezwijken, flauwvallen, kapot gaan, stukgaan
 défaire             losknopen, ontsluiten, openbreken, rafelen, uitpakken
@@ -11988,6 +11989,7 @@ prophéties          f, proftie, godsspraak, voorspelling
 propice             genadig, gunstig, veelbelovend, waarschijnlijk
 propitiatoire       dat wat ten doel heeft God genadevol, gunstig te stemmen
 propos              m, detail, punt, uiting, action de dire à haute voix
+propos de table     m, propos
 propos de           voorstel
 proposition         f, aanbieding, voorstel, suggestie
 proposèrent         aandragen, benoemen
@@ -14255,7 +14257,7 @@ soupâmes            opeten?
 soupçon d'amertume  m, hint van bitterheid
 soupçonner          inbeelden, aannemen, wanen, verbeelden
 soupçonneux         suspicious, achterdochtig
-soupçons            m, achterdocht, argwaan, wantrouwen, verdenking, hoop, hint
+soupçon, soupçons   m, achterdocht, argwaan, wantrouwen, verdenking, hoop, hint
 souquer             sleepboot, roeien, tirer sur les avirons
 source              f, welput, bron
 sourcier            m, waarzegger, roedeloper, toekomstvoorspeller
@@ -16397,6 +16399,7 @@ zézayer             lispelen, slissen
 édification         f, vorming, bouw
 édifice             m, gebouw
 édifier, édifiant   opbouwen, stichten
+édifié              verlicht, verbeterd, geinformeerd
 édile               m, hooggeplaatste
 édimbourg           Edinburgh
 éditeur             m, uitgever, uitgeverij
@@ -16886,4 +16889,7 @@ encaustique         f, meubelwas, politoer, boenwas, poetsmiddel, wasbeits
 scepticisme         m, scepsis, skepsis, scepticisme
 contrition          f, gewetensangst, gewetensnood, gewetenswroeging, wroeging
 aristocratie        f, aristocratie, hogere stand, beau monde
+si peu que ce soit  même une toute petite quantité
+dompteur            m, temmer, dompteur, trainer
+gueuleton           m, repas, viering, vreugdefeest, excessif et trop
 === Camus --- La chute --- pag. 47 pdf bovenaan --- ===
