@@ -3880,7 +3880,7 @@ coupe               f, kop, beker, coupe, nap, oogst, teelt
 coupe-coupe         m, machette
 coupe-vent          m, vêtement civil masculin : haut du corps, rokkostuum, avondkostuum
 coupelle            f, toetsbeker, glas, drinkglas
-couper              overtroeven bij kaartspel
+couper              overtroeven bij kaartspel, snijden, knippen, afbreken
 couper court        ingekort, doen ophouden, afstoppen
 couperet            m, hakmes, slagersmes
 couperosé, couperosée   vlekkerig, kladderig, vol vlekken
