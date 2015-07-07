@@ -1,4 +1,4 @@
-(en) contrebas      diep liggend
+t(en) contrebas      diep liggend
 (se) accorder       harmoniëren, accorderen met, in overeenstemming brengen met
 (se) élancer        (af)schieten, doorsnellen, flitsen, kloppen, rennen, steken, vliegen, stormen
 ANPE                f, vdap, Agence Nationale Pour l'Emploi
@@ -16892,4 +16892,5 @@ aristocratie        f, aristocratie, hogere stand, beau monde
 si peu que ce soit  même une toute petite quantité
 dompteur            m, temmer, dompteur, trainer
 gueuleton           m, repas, viering, vreugdefeest, excessif et trop
-=== Camus --- La chute --- pag. 47 pdf bovenaan --- ===
+désaccorder         faire devenir qqch en mauvais état, schade toebrengen
+=== Camus --- La chute --- pag. 47 pdf onderaan --- ===
