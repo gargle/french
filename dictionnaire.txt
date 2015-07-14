@@ -2266,7 +2266,7 @@ buste               m, borstbeeld, bovenlijf, romp
 bustier             m, b.h.
 but                 m, goal, doel, bedoeling, bestemming
 but bien arrêté     m, a solid purpose, vastbesloten, duidelijk doel
-buta, buter         grenzen, grenzen aan, rebelleren, niet gehoorzamen, er genoeg van krijgen?, running into
+buta, buter         grenzen, grenzen aan, rebelleren, , running into, vermoorden, moorden, van kant maken
 butin               m, smokkelwaar, roofgoed, sluikgoed, buit
 butoir, butoirs     m, outil de travail du cuir, outil du maréchal-ferrant, nez d'un animal, museau, snoet, snuit
 butte               f, heuvel, heuveltje, terp, wierde
@@ -4061,6 +4061,7 @@ crochet             m, haakwerk, prothèse (haak), vuistslag, stomp
 crochus             haakvormig, hoekig
 crocodile           m, krokodil
 crocs               m, slagtand, hoektand
+croc-en-jambe       pootje lichten, iemand laten struikelen
 croisement          m, kruispunt
 croisillon          m, met kruisen omringd
 croisière           f, cruise, zeiltocht, pleziervaart
@@ -16893,4 +16894,5 @@ si peu que ce soit  même une toute petite quantité
 dompteur            m, temmer, dompteur, trainer
 gueuleton           m, repas, viering, vreugdefeest, excessif et trop
 désaccorder         faire devenir qqch en mauvais état, schade toebrengen
-=== Camus --- La chute --- pag. 47 pdf onderaan --- ===
+mondain, mondaine   werelds, mondain
+=== Camus --- La chute --- pag. 48 pdf bovenaan --- ===
