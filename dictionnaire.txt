@@ -6777,7 +6777,7 @@ fondamentale        fundamenteel, belangrijk, primair
 fondateur           m, grondlegger, bedenker, stichter, oprichter
 fondation           f, stichting
 fondement           m, fundament, hoeksteen, grondvest
-fonder, fondée      funderen, grondvesten, oprichten, stichten
+fonder, fondée      funderen, grondvesten, oprichten, stichten, samensmelten, smelten, gieten
 fondouk             m, établissement de relais pour manger et dormir
 fondre              aanvallen, dooien, samensmelten, springen, opgaan, funderen, smelten, versmelten, wegsmelten
 fondre en larmes    in huilen uitbarsten, in tranen uitbarsten
@@ -9237,7 +9237,7 @@ lubrique            geil, ontuchtig, wellustig
 lucanes             m, cerf-volant, vliegend hert
 lucarne             f, dakraam
 lucide              duidelijk, klaar, scherpzinnig
-lucidité            helderheid, klaarheid
+lucidité            f, helderheid, klaarheid, helderheid, duidelijkheid, begrijpelijkheid, bevattelijkheid
 luciole             f, glimworm, lichtkever, vuurvliegje
 ludions             m, objet qui sert à jouer - speelgoed; speeltuig; speeltje
 ludique             ludiek, speels, spel-
@@ -16816,6 +16816,7 @@ zézayer             lispelen, slissen
 être hors d'état    niet bij machte zijn om, niet in staat
 être nanti          in het bezit zijn van
 être obligé         behoren, dienen, hoeven, moeten
+obliger             dwingen, noodzaken, opdringen, van dienst zijn, verplichten, zich verplichten tot
 être oublié         hiaat in het geheugen, lacune in het geheugen
 être partante       deel uit te maken
 être point lui      hem niet worden
@@ -16895,4 +16896,6 @@ dompteur            m, temmer, dompteur, trainer
 gueuleton           m, repas, viering, vreugdefeest, excessif et trop
 désaccorder         faire devenir qqch en mauvais état, schade toebrengen
 mondain, mondaine   werelds, mondain
-=== Camus --- La chute --- pag. 48 pdf bovenaan --- ===
+d'autre part        anderzijds, aan de andere kant, daarentegen
+absous, absoudre    absolutie geven, ontheffen, vergeven, vrijspreken, absolveren, rechtvaardigen              
+=== Camus --- La chute --- pag. 49 pdf bovenaan --- ===
