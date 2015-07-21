@@ -10860,7 +10860,7 @@ par-dessus bord     overboord
 par-dessus le marché    en supplément, de plus, en plus, par surcroît
 parabole            f, parabool
 parabolique         parabolisch
-parade              f, counter, parade
+parade              f, counter, parade, optocht, defilé, corso
 parade funéraire    f, begrafenisstoet?
 paradis             m, paradijs, hemel, hemelrijk
 paradoxalement      paradoxaal
