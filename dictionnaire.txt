@@ -13513,6 +13513,7 @@ safrane             f, wagen, Renault
 sagacité            f, scherpheid, scherpte, vernuft, verstand
 sagaie              f, assegaai
 sage                verstandig, wijs, wijze, oppassend, gehoorzaam, omzichtig
+sage                m, raadgever, goeroe, wijze
 sage-femme          f, midwife, vroedvrouw
 sagement            braaf, oppassend
 sagesse             f, levenswijsheid, oordeel, wijsheid
@@ -13744,7 +13745,7 @@ scories             f, slak, metaalslak, slakken, toute chose, n'importe quoi
 scorpion            m, schorpioen
 scotch              m, whisky
 scratcheur          m, scratcher (muziek)
-scribe              m, schriftgeleerde
+scribe              m, schriftgeleerde, afschrijver, kopiïst
 scrupule            m, gewetensbezwaar, exaggerated degree
 scrupuleusement     nauwgezet, strikt
 scrute              doorbladeren, doorgronden, doorhebben, doorkijken
@@ -16898,4 +16899,8 @@ désaccorder         faire devenir qqch en mauvais état, schade toebrengen
 mondain, mondaine   werelds, mondain
 d'autre part        anderzijds, aan de andere kant, daarentegen
 absous, absoudre    absolutie geven, ontheffen, vergeven, vrijspreken, absolveren, rechtvaardigen              
+naïvement           naïef, onnozel, op naïeve wijze, week, teer, teerhartig, liefhebbend   
+faire appel de quelque chose        beroep doen op iets
+fripon              m, deugniet, schavuit, guit, olijkerd, schalk, schelm
+expiper             beantwoorden, antwoord geven, ontzenuwen, tegenspreken
 === Camus --- La chute --- pag. 49 pdf bovenaan --- ===
