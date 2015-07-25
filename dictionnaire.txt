@@ -14542,7 +14542,7 @@ surréaliste         m, surrealist
 surs d'être soi     sure to be home, zichzelf zijn
 sursaut             schrikbeweging, schok, schrik, schrikreactie
 sursauter           gaan staan, opstaan, opschrikken, opspringen, schrikken
-sursis              gratie, uitstel, verlet, vertraging, termijn
+sursis              m, gratie, uitstel, verlet, vertraging, termijn
 surveillance        f, bewaking, supervisie, surveillance, toezicht
 surveillant         m, begeleider, opzichter
 survie              f, overleving
@@ -16902,5 +16902,7 @@ absous, absoudre    absolutie geven, ontheffen, vergeven, vrijspreken, absolvere
 naïvement           naïef, onnozel, op naïeve wijze, week, teer, teerhartig, liefhebbend   
 faire appel de quelque chose        beroep doen op iets
 fripon              m, deugniet, schavuit, guit, olijkerd, schalk, schelm
-expiper             beantwoorden, antwoord geven, ontzenuwen, tegenspreken
-=== Camus --- La chute --- pag. 49 pdf bovenaan --- ===
+exciper             beantwoorden, antwoord geven, ontzenuwen, tegenspreken
+réclamation         f, klacht, reklamatie, reclamatie, drooglegging, terugvordering
+entretenir, entretiendrez      onderhouden, in stand houden, bewaren, koesteren
+=== Camus --- La chute --- pag. 50 pdf --- C'est si vrai --- ===
