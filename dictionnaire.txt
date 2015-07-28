@@ -6394,7 +6394,7 @@ faire parvenir à    verzenden, aankomen, opdagen, staan, vallen, tot een vergel
 faire peu de cas    geringachten
 faire retour sur soi   introspectie, examining himself, to think about it
 faire sa pelote     zich ten koste van anderen verrijken, opstapelen, accumuleren
-faire sa société    
+faire sa société    een bedrijf/zaak oprichten?    
 faire semblant      doen alsof, pretending
 faire signer à      te ondertekenen
 faire son droit     rechten studeren
@@ -14118,7 +14118,7 @@ sobriquet           bijnaam, scheldnaam, schimpnaam, spotnaam
 sobriété            f, ernst, matigheid, nuchterheid, zelfbeheersing
 sociabilité         f, aardigheid, beminnelijkheid, gezelligheid
 social              m, het sociale
-société             f, maatschappij, bedrijf
+société             f, maatschappij, bedrijf, gezelschap
 socle               m, sokkel, standaard, voet
 soda                m, soda, sodawater, limonade
 sofa                m, sofa, zetel, bank, canapé
@@ -14205,6 +14205,7 @@ sortilèges          toverij
 sortir              voorspruiten, vrijgeven
 sortir clé          escape toets
 sortir de limbes    out of limbo
+limbes              m, voorgeborchte, voorgeborchte der hel, limbo, vagevuur
 sortir par les yeux niet meer kunnen uitstaan
 sosie               m, dubbelganger
 sotisse             f, onzin
@@ -16905,4 +16906,9 @@ fripon              m, deugniet, schavuit, guit, olijkerd, schalk, schelm
 exciper             beantwoorden, antwoord geven, ontzenuwen, tegenspreken
 réclamation         f, klacht, reklamatie, reclamatie, drooglegging, terugvordering
 entretenir, entretiendrez      onderhouden, in stand houden, bewaren, koesteren
-=== Camus --- La chute --- pag. 50 pdf --- C'est si vrai --- ===
+fussions            être, subjonctif imparfait
+admet, admettre     toelaten, toegeven, binnenlaten
+apprendre, apprissent         leren, aanleren, onderrichten, bijbrengen, onderwijzen, instrueren
+opprimer            benauwen, verdrukken, onderdrukken, neerslaan
+désintéressement    m, onbaatzuchtigheid, onzelfzuchtigheid, zelfopoffering, ongeinteresseerdheid, onverschilligheid
+=== Camus --- La chute --- pag. 51 pdf --- bovenaan --- ===
