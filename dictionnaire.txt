@@ -5451,7 +5451,7 @@ effondrement        m, collaps, dip, inzinking, kruimelen
 effondrer, effondré instorten, inzakken, bezwijken
 efforcer            inspannen, weren
 effort              m, moeite, inspanning
-effort de la volonté              m, wilsinspanning
+effort de la volonté, à force de volonté        m, wilsinspanning
 effraction          f, braak, huisbraak, inbreuk
 effraie             f, bosuil, kerkuil, torenuil
 effrayant           afschrikwekkend, vreselijk, enorm
@@ -7353,6 +7353,7 @@ gonflement          m, opzwelling, zwelling, buil, built
 gonfler, se gonfler aanwassen, opzwellen, oppompen, opschroeven, opdrijven, verhogen, déplaire, agacer, opbollen
 gonflette           f, body-building
 gonflé à craquer    opgepompt tot op het barsten
+à craquer           opgepompt, tot op het barsten, vol, barstensvol
 gorge               f, keel, keelgat, hals, nek, afgrond, bergkloof, bergpas, geul, boezem
 gorge serrée        f, dichtgeknepen keel
 gorger, gorgée      gevuld, volgieten, volstoppen, mondvol?
@@ -8437,7 +8438,7 @@ instituteur         m, leraar
 institution         f, bourgeoisie, etablissement, instelling, zaak instituut
 institutrice        f, onderwijzeres, lerares
 instruction         f, opbouwing, vooronderzoek
-instruire           mettre une cause, une affaire civile ou criminelle en état d'être jugée
+instruire           mettre une cause, une affaire civile ou criminelle en état d'être jugée, onderwijzen, opleiden
 instruit            opvoeden, geleerd
 instrument          m, instrument
 insu                inconnu, ongewisse
@@ -10539,6 +10540,7 @@ ombilical           navel-
 omble chevalier     m, char, vis, zalmachtig?
 ombrage             m, lommer, verdacht
 ombrageuse, ombrageux          dartel, frivool, grillig, schichtig, uitgelaten
+frivolité           f, frivoliteit, wuftheid, oppervlakkigheid, luchtigheid
 ombragé             beschaduwd, lommerrijk, schaduwrijk
 ombre               f, schaduw, schim, zweem
 ombre chinoise      f, silhouet
@@ -15684,7 +15686,7 @@ verticalité         verticaliteit
 vertige             m, duizeligheid, draaiing, hoogtevrees, giddiness
 vertigineux, vertigineuse            draaierig, duizelingwekkend, hoogte, door belangrijkheid
 vertu               f, deugd, deugdzaamheid, verdienste, merite
-vertueuse           deugdzaam, goed, rechtschapen
+vertueux, vertueuse deugdzaam, goed, rechtschapen
 vertèbres           f, wervels
 vertébral           van de ruggegraat, wervel-
 verve               f, dynamiek, levendigheid, vitaliteit
@@ -16402,7 +16404,7 @@ zézayer             lispelen, slissen
 édenté              tandeloos
 édification         f, vorming, bouw
 édifice             m, gebouw
-édifier, édifiant   opbouwen, stichten
+édifier, édifiant   opbouwen, stichten, geestverheffend, hartverheffend, verheffend
 édifié              verlicht, verbeterd, geinformeerd
 édile               m, hooggeplaatste
 édimbourg           Edinburgh
@@ -16912,4 +16914,5 @@ admet, admettre     toelaten, toegeven, binnenlaten
 apprendre, apprissent         leren, aanleren, onderrichten, bijbrengen, onderwijzen, instrueren
 opprimer            benauwen, verdrukken, onderdrukken, neerslaan
 désintéressement    m, onbaatzuchtigheid, onzelfzuchtigheid, zelfopoffering, ongeinteresseerdheid, onverschilligheid
-=== Camus --- La chute --- pag. 52 pdf --- bovenaan --- ===
+civique             burger-, stads-, stedelijk
+=== Camus --- La chute --- pag. 53 pdf --- bovenaan --- ===
