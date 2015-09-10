@@ -564,7 +564,7 @@ aléatoire           onzeker, toevallig, willekeurig
 amabilités          f, liefheid, voorkomendheid, aardigheid, beminnelijkheid
 amadou              m, briquet, aansteker
 amaigri             uitgemergeld, knokig, benig
-amalgame            m, mengeling
+amalgame            m, mengeling, mix, jungle, oerwoud, rommel
 amalgamer           mixen, mengelen
 amande              f, amandel
 amandier            m, amandel, amandelboom
@@ -4824,7 +4824,7 @@ déblayer            duidelijk, dat wat blokkeert verwijderen
 déboire             m, tegenslag
 déboiser            ontbladeren, ontbossen, vellen
 débonnaire          joviaal
-débordement         m, samenstromen, toestromen, passie, hartstocht, gedrevenheid
+débordement         m, samenstromen, toestromen, passie, hartstocht, gedrevenheid, eerzucht, ambitie, begeerte
 déborder            overlopen van, druppelen, morsen, overlopen, overkoken
 débordés            m, overstelpten, overwerkten
 débotter            zijn laarzen uittrekken
@@ -6695,6 +6695,7 @@ flaques             f, plas, poel, vocht, nattigheid, water, voetbad, pool
 flasques            kwabbig, slap, flabby
 flatter             vleien, flatteren, flemen, gatlikken, kontlikken
 flatteurs           complimenteus, flatterend, vleiend
+flatteuse           fleemster, vleier, vleister
 flatulence          f, winderigheid, flatulentie
 fleur de chair      bloem van vlees?
 fleurdelisé         kruisvorm, qualificatif d'une forme de croix
@@ -8374,6 +8375,7 @@ inouï               bovenmatig, buitengewoon, onovertroffen
 inqualifiable       onuitsprekelijke
 inquiet             bang, beducht, bezorgd, ongerust, schichtig, van streek
 inquisiteur         m, onderzoeker, ondervrager
+inquisition         f, geloofsonderzoek, inquisitie, getuigenverhoor
 inquiète            bang, beducht, bezorgd, dartel, ongerust
 inquiétant          bedenkelijk, bezorgd, spookachtig, verontrustend
 inquiéter           afleiden, beroeren, ontregelen, troebleren, verontrusten, stoppen
@@ -9417,6 +9419,7 @@ malice              f, boosaardigheid, kwaadaardigheid, plaagzucht, mischievousn
 malicieusement      mischievously
 malicieux           schadelijk, boosaardigheid, kwaadaardigheid
 malin, maligne      handig, glad, schalks, slim, kwaadaardig
+malignité           f, malin, chose défavorable, gravité (pour une maladie, une blessure)
 malingre            delikaat, fragiel, frêle
 malle               f, bagageruim, koffer, reiskoffer
 mallette            f, aktentas, werkmap
@@ -9610,7 +9613,7 @@ matériel            stoffelijk
 matériel de couchage    slaapzak
 matériel de fortune materiële rijkdom
 matériellement      materieel, stoffelijk
-maudire             verdoemen, vermaledijen, vervloeken, verwensen
+maudire, maudissant verdoemen, vermaledijen, vervloeken, verwensen
 maudit              ellendig, verdomd, vervloekt
 maudite             verdomd, vervloekt
 maugréer, maugréant          jammeren, kankeren, kermen, kreunen, steunen, zuchten
@@ -12232,7 +12235,7 @@ putride             rot, bedorven, verrot, voos
 putréfaction        f, verrotting
 putréfier           bederven, verrotten
 puéricultrice       f, kinderverpleegkundige
-puérile             infantiel, kinderachtig
+puéril, puérile     infantiel, kinderachtig
 puîné               nakomeling
 pyjama              m, piama, pyjama
 pylône              m, hoogspanningsmast, lichtbaken
@@ -16536,7 +16539,6 @@ zézayer             lispelen, slissen
 énigmatiquement     raadselachtig, enigmatisch
 énigme              f, raadsel, probleemgeval, mysterie
 énivrer             bedrinken, bedwelmen, dronken maken
-énoncer             exprimer par la parole ou par écrit
 énoncer             uitspreken, exprimer par la parole ou par écrit
 énoncé              m, zeggen, uitspraak
 énucléés            ontdoen van iets, verwijderen
@@ -16916,4 +16918,10 @@ opprimer            benauwen, verdrukken, onderdrukken, neerslaan
 désintéressement    m, onbaatzuchtigheid, onzelfzuchtigheid, zelfopoffering, ongeinteresseerdheid, onverschilligheid
 civique             burger-, stads-, stedelijk
 canevas             m, handwerkje, borduurkunst, naaldkunst, pièce de théâtre
-=== Camus --- La chute --- pag. 54 pdf --- bovenaan --- ===
+recette             f, recept, opbrengst, inkomsten, ontvanst
+antécédent          m, antecedent, verleden
+communiant          m, communicant
+bénit, bénite       gezegend, gewijd, geheiligd
+eau bénite          f, wijwater
+exposer aux regards expose oneself to the view, dévoiler, onthullen, ontmaskeren
+=== Camus --- La chute --- pag. 56 pdf --- midden --- ===
