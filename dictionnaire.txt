@@ -16316,7 +16316,7 @@ zézayer             lispelen, slissen
 échelons            m, sport (ladder)
 écheveaux           m, klos, kluwen, streng
 échevelé            warrelig, irrégulier, qui n'est pas ou plus en ordre
-échine              f, ruggegraat, lendenen
+échine              f, ruggegraat, lendenen, rugleuning, achterste
 échiner             zich vermoeien, de ruggegraat uitmaken van
 échoir, échut       te beurt vallen, ten deel vallen, tegen het lijf lopen, opdiepen, ontdekken, stoten op
 échoppes            f, winkeltje
@@ -16924,4 +16924,6 @@ communiant          m, communicant
 bénit, bénite       gezegend, gewijd, geheiligd
 eau bénite          f, wijwater
 exposer aux regards expose oneself to the view, dévoiler, onthullen, ontmaskeren
-=== Camus --- La chute --- pag. 56 pdf --- midden --- ===
+méritante, méritant waardig, waard, gewaardeerd, verdienstelijk
+malconfort          m, ongemak
+=== Camus --- La chute --- pag. 58 pdf --- bovenaan --- ===
