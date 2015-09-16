@@ -1013,7 +1013,7 @@ assemblée nationale f, tweede kamer
 assener             een stoot geven, porren
 assener un coup een stoot geven, porren
 assentiment         m, goedkeuring, instemming, jawoord, toestemming
-asseoir             neerzetten, neerzitten, plaatsnemen, zetelen
+asseoir, asseyons   neerzetten, neerzitten, plaatsnemen, zetelen
 asservir            tot slaaf maken, verplichten, zich verplichten tot
 asservissement      m, gevangenschap, slavernij
 assesseurs          adjoint van een rechter
@@ -7595,6 +7595,7 @@ guilde              f, gilde
 guilleret           monter, opgewekt, vrolijk
 guillotine          f, guillotine, schavot
 guindé              preuts, formal
+guinder             adopter un certain comportement, plechtig, plechtstatig, gekunsteld
 guirlande           f, bloemenkrans, bloemslinger, krans
 guise               f, façon, manière
 guise, en guise     façon, manière
@@ -15179,6 +15180,7 @@ tranchées           f, bunker, gracht, loopgraaf
 tranquillisant      m, kalmeermiddel
 tranquillité        f, beheerstheid, bedaardheid, gemoedsrust, rust
 transat             m, ligstoel
+transatlantiques    m, zitmeubel, zitting, stoelzitting, chose qui peut être pliée
 transborder         overhevelen, overplaatsen, verplaatsen, overladen, overslaan
 transcendante       transcendent, belangrijk, beduidend, aanmerkelijk, gewichtig
 transcrire          calqueren, kopiëren, overtekenen, spieken, afkijken, vertalen, traduire une langue
@@ -16927,4 +16929,4 @@ exposer aux regards expose oneself to the view, dévoiler, onthullen, ontmaskere
 méritante, méritant waardig, waard, gewaardeerd, verdienstelijk
 malconfort          m, ongemak
 rebiffer            désobéir, niet gehoorzamen, opstaan, rebelleren, revolteren
-=== Camus --- La chute --- pag. 58 pdf --- bovenaan --- ===
+=== Camus --- La chute --- pag. 59 pdf --- bovenaan --- ===
