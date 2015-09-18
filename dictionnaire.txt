@@ -4002,7 +4002,7 @@ craquelé            opengescheurd
 craquement          m, kraken, luidruchtigheid, rumoerigheid
 craquer             knersen, knappen, barsten
 craquette           kraken
-crasse              f, smerigheid, viezigheid, vuilheid
+crasse              f, smerigheid, viezigheid, vuilheid, ignorant, not open-minded
 crasseux            armzalig, onaardig, onfris, onzindelijk, smerig, smoezelig, vuil, zwart
 cratère             m, bomgat, krater, maankrater
 cravache            f, gesel, karwats, zweep, zweepslag, rijzweep
@@ -7595,7 +7595,7 @@ guilde              f, gilde
 guilleret           monter, opgewekt, vrolijk
 guillotine          f, guillotine, schavot
 guindé              preuts, formal
-guinder             adopter un certain comportement, plechtig, plechtstatig, gekunsteld
+guinder             adopter un certain comportement, plechtig, plechtstatig, gekunsteld, stijf, stijve (dikke) nek
 guirlande           f, bloemenkrans, bloemslinger, krans
 guise               f, façon, manière
 guise, en guise     façon, manière
@@ -14849,6 +14849,7 @@ tente               f, tent
 tenter              verleiden, verlokken, verzoeken
 tentures            f, wandkleed, wandtapijt, gobelin, zonnewering
 tenue               f, uniform (leger)
+avoir de la tenue   avoir de la correction, du soin, du savoir-vivre, standing hebben
 terasser            neerslaan, neervellen
 tergiversation      f, uitstel
 tergiversent        er omheen draaien
@@ -16929,4 +16930,4 @@ exposer aux regards expose oneself to the view, dévoiler, onthullen, ontmaskere
 méritante, méritant waardig, waard, gewaardeerd, verdienstelijk
 malconfort          m, ongemak
 rebiffer            désobéir, niet gehoorzamen, opstaan, rebelleren, revolteren
-=== Camus --- La chute --- pag. 59 pdf --- bovenaan --- ===
+=== Camus --- La chute --- pag. 60 pdf --- bovenaan --- ===
