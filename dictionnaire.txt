@@ -430,7 +430,8 @@ aguet               m, alert
 aguicheur           verlokkelijk
 ahurir              onstellen
 ahuris              verbouwereerd, ontsteld, astounded
-aicatrice           f, litteken, wondteken
+ahurie              f, personne dont l'attitude exprime la stupeur
+cicatrice           f, litteken, wondteken
 aide                f, hulp
 aide soignante      f, verzorgster
 aigle               f, adelaar, arend, havik
@@ -642,7 +643,7 @@ amputation          f, amputatie
 amputé              verwijderd van, weggenomen
 ampérage            m, stroomsterkte
 amuse-bouche        m, borrelhapje, hartigheid
-amuse-gueulle       aperitief, entree, voorafje, voorgerecht
+amuse-gueulle       aperitief, entree voorafje, voorgerecht
 amygdale            f, amandel, tonsil
 amère               bitter, verbitterd, zuur
 amèrement           bitter
@@ -5986,6 +5987,7 @@ entrave             barrière, balast, hindernis, rem, obstakel
 entraver            afstoppen, verhinderen, bemoeilijken
 entravé             geboeid, geketend, belemmeren
 entraînement        m, bijscholing, oefening, training, aanvuring, feeststemming
+entraînante         meeslepend, bezwerend
 entraîner           slepen, sleuren, begeleiden, betrekken, met zich meebrengen
 entraîner à l'ordinaire     sweep other people off their feet
 entraînée           veroorzaken, bewerkstelligen, ensceneren, mengen
