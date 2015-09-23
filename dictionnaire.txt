@@ -9548,7 +9548,7 @@ marquer un temps    pauzeren
 marquis             m, markies
 marqué              duidelijk, scherp, omlijnd, uitgesproken
 marraine            f, doopmoeder, peetoom
-marrant             grappig
+marrant             grappig, enig, plezierig, leuk, aangenaam
 marre               moe, beu
 marrer              lachen
 marriage de complaisance    verstandshuwelijk
