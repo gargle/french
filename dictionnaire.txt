@@ -6020,7 +6020,7 @@ entrer dans des colères blanches   in witte woede ontsteken
 entresol            m, tussenverdiep, insteekkamertje, niveau d'un bâtiment
 entretenir          gaande houden, hebben, houden, in stand houden
 entretenue          onderhouden
-entretien           m, onderhoud, zorg, gesprek
+entretien           m, onderhoud, zorg, gesprek, schoonmaken, nettoyage
 entretien d'embauche    m, sollicitatiegesprek
 entrevoir, entrevu  een glimp opvangen, zien
 entropie            f, entropie, wanorde
@@ -16932,4 +16932,6 @@ exposer aux regards expose oneself to the view, dévoiler, onthullen, ontmaskere
 méritante, méritant waardig, waard, gewaardeerd, verdienstelijk
 malconfort          m, ongemak
 rebiffer            désobéir, niet gehoorzamen, opstaan, rebelleren, revolteren
+centre aéré         m, organisme destiné aux jeunes pendant les vacances
+réunion             f, treffen, ontmoeting, samenkomst, assemblée, vergadering
 === Camus --- La chute --- pag. 60 pdf --- bovenaan --- ===
