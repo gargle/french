@@ -1917,11 +1917,10 @@ bordure             f, border, boordsel, rand
 bordée              met ... randen, koers, afgezet met, omringd
 borgne              eenogig, eenzijdig, onbillijk, partijdig
 borie               f, kleine hut
-borne               f, steen, korte paal, mijlpaal
+borne, bornes       f, steen, korte paal, verkeerspaaltjes, mijlpaal
 borne fontaine      f, brandkraan
 borne internet      f, internet kiosk
 borner              zich beperken tot, limiteren
-bornes              f, korte paal, verkeerspaaltjes, mijlpaal
 borné               stupid, dom, hardnekkig, koppig
 boréale             noord-, noordelijk
 bosquet             m, bosje, kreupelbos, struikgewas
@@ -16219,7 +16218,7 @@ zézayer             lispelen, slissen
 à tout reconnoitre  alles bekennen
 à toute allure      jagend
 à toute bride       op volle snelheid
-à travers           doorheen
+à travers           doorheen, by way of, by means of, through
 à travers champ     dwars doorheen velden
 à tue-tête          luid, hard, de toute la force de sa voix
 à tâtons            zonder iets te zien, op de tast, groping
