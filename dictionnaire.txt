@@ -6852,6 +6852,7 @@ fouetteur           m, geselaar
 fouffes             f, bosje, bundel, dot, korenschoof, pluk, pol, schoof
 foufou              fufu, deegwaar
 foufoune            f, kut, schaamspleet
+fougasse            f, sorte de gâteau, pain à croûte - landmijn, booby-trap, mine terrestre
 fougueuse           hardnekkig, levendig, temperamentvol, onstuimig, flink, geestdriftig
 fougère             f, varen, sporenplant
 fouille, foueilles  f, creux ou cavité dans le sol, un terrain, opgraving, speurtocht
@@ -16934,4 +16935,5 @@ malconfort          m, ongemak
 rebiffer            désobéir, niet gehoorzamen, opstaan, rebelleren, revolteren
 centre aéré         m, organisme destiné aux jeunes pendant les vacances
 réunion             f, treffen, ontmoeting, samenkomst, assemblée, vergadering
+chapon              m, kapoen, gecastreerde haan
 === Camus --- La chute --- pag. 60 pdf --- bovenaan --- ===
