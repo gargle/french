@@ -6603,7 +6603,7 @@ fiesta              f, feest, feestelijkheid, festiviteit
 fifres              m, fluit
 fige                doodstil
 figer               samenkoeken, stollen, verstijven
-figue               f, vijg
+figue, figues       f, vijg
 figuier             m, vijf, vijgeboom
 figurant            m, figurant
 figuration          f, figuratie, copie, dessin, reproduction
@@ -16936,4 +16936,6 @@ rebiffer            désobéir, niet gehoorzamen, opstaan, rebelleren, revoltere
 centre aéré         m, organisme destiné aux jeunes pendant les vacances
 réunion             f, treffen, ontmoeting, samenkomst, assemblée, vergadering
 chapon              m, kapoen, gecastreerde haan
+pignons de pin      m, pijnboompit
+pignon              m, pijnboompit
 === Camus --- La chute --- pag. 60 pdf --- bovenaan --- ===
