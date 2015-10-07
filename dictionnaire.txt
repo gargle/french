@@ -6019,7 +6019,7 @@ entrer dans des colères blanches   in witte woede ontsteken
 entresol            m, tussenverdiep, insteekkamertje, niveau d'un bâtiment
 entretenir          gaande houden, hebben, houden, in stand houden
 entretenue          onderhouden
-entretien           m, onderhoud, zorg, gesprek
+entretien           m, onderhoud, zorg, gesprek, schoonmaken, nettoyage
 entretien d'embauche    m, sollicitatiegesprek
 entrevoir, entrevu  een glimp opvangen, zien
 entropie            f, entropie, wanorde
@@ -6602,7 +6602,7 @@ fiesta              f, feest, feestelijkheid, festiviteit
 fifres              m, fluit
 fige                doodstil
 figer               samenkoeken, stollen, verstijven
-figue               f, vijg
+figue, figues       f, vijg
 figuier             m, vijf, vijgeboom
 figurant            m, figurant
 figuration          f, figuratie, copie, dessin, reproduction
@@ -6851,6 +6851,7 @@ fouetteur           m, geselaar
 fouffes             f, bosje, bundel, dot, korenschoof, pluk, pol, schoof
 foufou              fufu, deegwaar
 foufoune            f, kut, schaamspleet
+fougasse            f, sorte de gâteau, pain à croûte - landmijn, booby-trap, mine terrestre
 fougueuse           hardnekkig, levendig, temperamentvol, onstuimig, flink, geestdriftig
 fougère             f, varen, sporenplant
 fouille, foueilles  f, creux ou cavité dans le sol, un terrain, opgraving, speurtocht
@@ -16933,4 +16934,9 @@ malconfort          m, ongemak
 rebiffer            désobéir, niet gehoorzamen, opstaan, rebelleren, revolteren
 dans les choux      pour dire qu’on rate quelque chose
 j’en reviens toujours pas     je n’arrive pas à y croire, c'est la surprise totale
+centre aéré         m, organisme destiné aux jeunes pendant les vacances
+réunion             f, treffen, ontmoeting, samenkomst, assemblée, vergadering
+chapon              m, kapoen, gecastreerde haan
+pignons de pin      m, pijnboompit
+pignon              m, pijnboompit
 === Camus --- La chute --- pag. 60 pdf --- bovenaan --- ===
