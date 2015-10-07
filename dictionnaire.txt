@@ -1758,6 +1758,7 @@ bielle              f, drijfstang
 bien des            beaucoup des
 bien entendu        natuurlijk, uiteraard
 bien me rappeler    I must remember
+rappeler, rappelle  herinneren, herinneren aan, terugbezorgen, terugvoeren, doen denken, denken aan
 bien mis            elegant, goed gezegd
 bien portant        puissant, énergique, en pleine santé
 bien à soi          op zichzelf
@@ -3302,6 +3303,7 @@ coin                m, hoek
 coin de l'œil       m, ooghoek
 coincer             klem zetten, plakken, vastzetten
 coing               m, kweeappel, kweepeer
+pâte de coing       f, une préparation de confiserie réalisée par la cuisson de coings et de sucre
 coins de mur        hoeken van de mur
 cois                rustig en stil
 col                 m, kraag
@@ -4159,7 +4161,7 @@ cuisinière          f, kokkin
 cuissarde           f, lieslaars, baggerlaars
 cuisse              f, bovenbeen, dij, dijbeen
 cuistots            m, koks
-cuite               gaar, dronken
+cuit, cuite         gaar, gekookt, dronken
 cuivre              m, koper
 cuivré              koperachtig
 cul                 m, achterkant, achterzijde, kont
@@ -4545,6 +4547,7 @@ dilué               verwaterd, verdund, gekortwiekt, geketend
 dimache de tiré     m, voorbije zondag,
 dinanderie          f, koperwaren
 dindon              m, dupe, benadeelde, offerdier
+dinde               f, kalkoen
 dingue              waanzinnig, gek, gekkin
 diocèse             m, bisdom, diocese
 diplôme             m, diploma
@@ -4713,7 +4716,7 @@ douceâtre           zoetachtig, zoetig
 douche              f, douche, stortbad
 doudoune            f, jas
 douilles            f, patroonhuls
-douillet, douillette   behaaglijk, gezellig
+douillet, douillette   behaaglijk, gezellig, gezellige, knus
 douleur             f, lijden, droefheid, kwaad, leed, nood
 douleur             m, kwaad, pijn, zeer, leed, lijden
 douloureuse         pijnlijk, gevoelig, liefhebbend, smartelijk, zeer
@@ -16939,4 +16942,6 @@ réunion             f, treffen, ontmoeting, samenkomst, assemblée, vergadering
 chapon              m, kapoen, gecastreerde haan
 pignons de pin      m, pijnboompit
 pignon              m, pijnboompit
+synonyme            m, synoniem
+cuisson             f, het bakken, picknick
 === Camus --- La chute --- pag. 60 pdf --- bovenaan --- ===
