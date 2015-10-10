@@ -1907,10 +1907,8 @@ bonnement           gewoon
 bonnet              m, hoed, hoofddeksel, hoofdversiersel, kap, mantelkap, muts
 bonté               f, bestwil, goede wil, goedheid
 bonté               goedheid, vriendelijkheid, nut, braafheid, goedhartigheid
-borborygme          m, toute chose audible
-borborygne          scheten laten?
-bord                m, boord, kant, rand, edge
-bord                m, boord, rand, proche de la limite, surface, ...
+borborygme          m, toute chose audible, scheten laten?
+bord                m, boord, kant, rand, edge, proche de la limite, surface, ...
 bordel              m, bordeel, bende, rotzooi
 border              omranden, omzomen, instoppen
 bordereau           m, laadbrief, vrachtbrief
