@@ -16322,7 +16322,7 @@ zézayer             lispelen, slissen
 échelons            m, sport (ladder)
 écheveaux           m, klos, kluwen, streng
 échevelé            warrelig, irrégulier, qui n'est pas ou plus en ordre
-échine              f, ruggegraat, lendenen, rugleuning, achterste
+échine              f, ruggegraat, lendenen, rugleuning, achterste, rug
 échiner             zich vermoeien, de ruggegraat uitmaken van
 échoir, échut       te beurt vallen, ten deel vallen, tegen het lijf lopen, opdiepen, ontdekken, stoten op
 échoppes            f, winkeltje
