@@ -1042,6 +1042,7 @@ assoiffer           dorstig maken
 assoiffé            dorstig
 assombrir, assombrie    donker worden, donkerder worden, (ver)duisteren
 assommer            aanpakken, ontzetten, bewusteloos slaan, choqueren, raken, schokken, vloeren, vervelen
+assommante          doodsaai, afstompend, geestdodend, saai, vervelend, langdradig, monotoon, vermoeiend
 assorti             gemengd, bijpassend, bij elkaar passend
 assoupir            indoezelen, indommelen, in slaap vallen, inslapen, insluimeren
 assourdir           doof maken, verdoven
@@ -15623,6 +15624,7 @@ veins               aders
 veinules            f, bladader, bloedcirculatie
 velléda blanc       whiteboard
 velléité            désir, envie, intention
+velléitaire         m, personne faible, gemakzucht, vadsig, luiwammes, lanterfanter
 velours             m, velvet, fluweel, velours
 veloutiers          palmbomen?
 velouté             smoothness, fluweelachtig, romigheid
