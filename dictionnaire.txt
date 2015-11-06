@@ -3728,7 +3728,7 @@ convulser           samentrkken, schokken, agiteren, drillen, in beweging brenge
 convulsif           krampachtig
 convulsions         f, stuiptrekkingen, stuipen
 convulsivement      krampachtig
-conçurent, concevoir    imagineren, indenken, zich verbeelden, voorstelen, zich inbeelden
+conçurent, concevoir, conçus    imagineren, indenken, zich verbeelden, voorstelen, zich inbeelden
 copain              m, maat, makker, vriend
 copie               f, a copy
 copier sur lui      afschrijven?
@@ -16946,4 +16946,4 @@ synonyme            m, synoniem
 cuisson             f, het bakken, picknick
 liseuse             f, ebook reader, bedjasje, instrument pour lire, lampje, blouson, veste, veston - jack, jas
 le travers          le côté négatif, le défaut
-=== Camus --- La chute --- pag. 60 pdf --- bovenaan --- ===
+=== Camus --- La chute --- pag. 61 pdf --- bovenaan --- ===
