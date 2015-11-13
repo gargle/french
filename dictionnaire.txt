@@ -1,4 +1,4 @@
-t(en) contrebas      diep liggend
+(en) contrebas      diep liggend
 (se) accorder       harmoniëren, accorderen met, in overeenstemming brengen met
 (se) élancer        (af)schieten, doorsnellen, flitsen, kloppen, rennen, steken, vliegen, stormen
 ANPE                f, vdap, Agence Nationale Pour l'Emploi
