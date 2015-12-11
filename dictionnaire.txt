@@ -13442,8 +13442,7 @@ révision            f, herziening, kontrolebeurt, verbetering
 révocable           herroepbaar, herroepelijk
 révocation          f, herroeping
 révolte             f, coup, oproep, opstand, misnoegen, onvrede
-révolu              weg
-révolues            ancien, accompli, achevé, terminé, vieux
+révolue, révolues   weg, ancien, accompli, achevé, terminé, vieux
 révolution          f, révolutie
 révoquer            herroepen, ongedaan maken
 révulser            weerzinwekkend, doen walgen, inverser, draai van 180°
@@ -16948,4 +16947,5 @@ liseuse             f, ebook reader, bedjasje, instrument pour lire, lampje, blo
 le travers          le côté négatif, le défaut
 salace              m, débauche, impudeur, oneerbaarheid, geslachtsleven
 succédané           plaatsvervangend, surrogaat, substituut, doubleur
+immortel            onsterfelijk
 === Camus --- La chute --- pag. 61 pdf --- halfweg --- ===
