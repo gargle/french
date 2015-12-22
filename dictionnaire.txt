@@ -1601,7 +1601,7 @@ barbe de fleuve     f, flowing beard
 barbelé             m, stekeldraad
 barbiche            f, kinbaardje, sik
 barbichue           met een sikje
-barbillons          weerhaak, barbeel
+barbillon, barbillons   m, weerhaak, barbeel, pooier, souteneur
 barboter            plassen, poedelen, pootjebaden, voler (prendre à autrui, stelen, roven)
 barbouillage        m, kladwerk, klodders
 barbouiller         besmeren, smeren
@@ -16948,4 +16948,6 @@ le travers          le côté négatif, le défaut
 salace              m, débauche, impudeur, oneerbaarheid, geslachtsleven
 succédané           plaatsvervangend, surrogaat, substituut, doubleur
 immortel            onsterfelijk
-=== Camus --- La chute --- pag. 61 pdf --- halfweg --- ===
+maïtise             meester zijn
+danseuse à transformation   f, burlesque danseres?
+=== Camus --- La chute --- pag. 62  pdf --- bovenaan --- ===
