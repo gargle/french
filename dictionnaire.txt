@@ -4603,6 +4603,7 @@ disserter           praten
 dissimulation       f, aanmatiging, geheimzinnigheid, privacy
 dissimuler          achterhouden, wegstoppen, camoufleren, verbergen, verhullen, wegstoppen
 dissiper            verjagen, verkwisten, verspillen, uiteendrijven, uiteenslaan, verdrijven
+dissipation         f, uitgave, onoplettendheid, verstrooidheid, afwezigheid, excès des plaisirs et débauche
 dissociation        f, loskoppelen
 dissociés           van elkaar gehaald, scheiden, distantiëren
 dissolue            bandeloos, lichtzinnig, liederlijk
@@ -4837,7 +4838,6 @@ déboulonnés         debunked, ontgrendelen
 déboulèrent, débouler   naar beneden tuimelen
 déboutonner         losknopen
 débraillé           m, ontreddering, verwarring, wanordre
-débrider            ontketenen
 débrider            ontketenen, losbandig
 débridé             losbandig, onbeperkt, tomeloos
 débris              m, afval
@@ -15700,6 +15700,7 @@ vertueux, vertueuse deugdzaam, goed, rechtschapen
 vertèbres           f, wervels
 vertébral           van de ruggegraat, wervel-
 verve               f, dynamiek, levendigheid, vitaliteit
+vitalité            f, activiteit, vitaliteit, dynamiek, levendigheid
 vesou               m, sap van suikerriet
 vespéral            couchant, soir
 vessies             f, blaas, zwemband
@@ -16950,4 +16951,7 @@ succédané           plaatsvervangend, surrogaat, substituut, doubleur
 immortel            onsterfelijk
 maïtise             meester zijn
 danseuse à transformation   f, burlesque danseres?
-=== Camus --- La chute --- pag. 62  pdf --- bovenaan --- ===
+pour le coup        pour cette fois-ci
+jalousie            f, jaloersheid, jaloezie, afgunst, nijd
+débiliter           verzwakken, doen afnemen, aantasten, knagen aan, ontkrachten, ondermijnen, dom maken
+=== Camus --- La chute --- pag. 63  pdf --- bovenaan --- ===
