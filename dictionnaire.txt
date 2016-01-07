@@ -4714,7 +4714,7 @@ doucereux           poeslief, zoet, zoetsappig
 douceur             f, zachtaardigheid, gedweeheid, zoetheid
 douceâtre           zoetachtig, zoetig
 douche              f, douche, stortbad
-doudoune            f, jas
+doudoune            f, overjas, porté par-dessus les autres vêtements, mantal, pardessus
 douilles            f, patroonhuls
 douillet, douillette   behaaglijk, gezellig, gezellige, knus
 douleur             f, lijden, droefheid, kwaad, leed, nood
@@ -11577,7 +11577,7 @@ pointilleuse        overdreven precies
 pointillés          m, stippel(lijn)
 points de tricot    breien?
 points de vue       m, standpunten
-pointt autant       wijs genoeg
+point autant        wijs genoeg
 pointu              scherp, grievend, hatelijk
 poinçoin, poinçons  m, prikker, prikkertje, els, priem
 poinçonner          boven, doorboren, perforeren, faire un trou en perçant - een gat maken in
@@ -16954,4 +16954,5 @@ danseuse à transformation   f, burlesque danseres?
 pour le coup        pour cette fois-ci
 jalousie            f, jaloersheid, jaloezie, afgunst, nijd
 débiliter           verzwakken, doen afnemen, aantasten, knagen aan, ontkrachten, ondermijnen, dom maken
+hachoir             m, slagersmes, hakmes
 === Camus --- La chute --- pag. 63  pdf --- bovenaan --- ===
