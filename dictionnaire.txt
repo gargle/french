@@ -1960,7 +1960,6 @@ boucler, bouclé     aangespen, aangorden, dichtgespen, gorden, assiéger, beleg
 boucles d'oreilles  f, oorbellen
 bouclette           f, kleine ring, krul
 bouclier            m, schild
-bouclé              gekruld
 bouder              negeren, onder tafel schuiven
 boudeur, boudeuse   pruilerig, sulkily
 boudin              m, worst, bloedworst, pens, femme peu séduisante, lelijke vrouw
@@ -16806,7 +16805,7 @@ zézayer             lispelen, slissen
 être atteint        geraakt worden door
 être aux anges      dansen van vreugde, in de wolken zijn, in de zevende hemel zijn, opgewonden zijn
 être aux prises     in gevecht geraken, voeren
-être bouclé         afgerond/afgehandeld worden
+être bouclé         belegerd, omsingled, afgerond/afgehandeld worden
 être comblé         être heureux - gelukkig zijn
 être constraint     being forced, verplicht zijn om
 être coupant        cutting edge?
