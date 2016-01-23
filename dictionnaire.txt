@@ -16939,8 +16939,7 @@ j’en reviens toujours pas     je n’arrive pas à y croire, c'est la surprise
 centre aéré         m, organisme destiné aux jeunes pendant les vacances
 réunion             f, treffen, ontmoeting, samenkomst, assemblée, vergadering
 chapon              m, kapoen, gecastreerde haan
-pignons de pin      m, pijnboompit
-pignon              m, pijnboompit
+pignon, pignons de pin         m, pijnboompit
 synonyme            m, synoniem
 cuisson             f, het bakken, picknick
 liseuse             f, ebook reader, bedjasje, instrument pour lire, lampje, blouson, veste, veston - jack, jas
@@ -16954,4 +16953,4 @@ pour le coup        pour cette fois-ci
 jalousie            f, jaloersheid, jaloezie, afgunst, nijd
 débiliter           verzwakken, doen afnemen, aantasten, knagen aan, ontkrachten, ondermijnen, dom maken
 hachoir             m, slagersmes, hakmes
-=== Camus --- La chute --- pag. 63  pdf --- bovenaan --- ===
+=== Camus --- La chute --- pag. 63  pdf --- onderaan --- ===
