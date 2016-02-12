@@ -8360,7 +8360,7 @@ injuste             onrechtvaardig, oneerlijk, onterecht, unfair
 injustice           f, onrechtvaardigheid
 inlassable          onvermoeibaar
 inlassablement      onuitputtelijk, onverdroten, onvermoeibaar, onvermoeid
-innocence           onbedorvenheid, onschuldigheid, argeloosheid
+innocence           f, onbedorvenheid, onschuld(igheid), argeloosheid
 innocente           onschuldig
 innocuité           f, onschadelijkheid, onschuld
 innombrable         ontelbaar, legio
@@ -16957,4 +16957,9 @@ rase-mottes         m, dwerg, manœuvre d'un avion (laag over de grond scheren)
 Ainsi de moi qui mourais paisiblement de ma guérison    So that I was dying peacefully in my healing
 bénitier            m, wijwatervat
 basse-fosse         f, kerker met valkuil, vergeetput
-=== Camus --- La chute --- pag. 65  pdf --- bovenaan --- ===
+hautement           highly, très (intensité)
+casser le nez       neerstorten, neervallen, faire une chute
+fulminer            tieren, lallen, brabbelen, razen, fulmineren
+pied ferme          ?
+imputer             aanwrijven, toedichten, aanrekenen, aantijgen, ten laste leggen, wijten aan, beschuldigen
+=== Camus --- La chute --- pag. 65  pdf --- onderaan --- ===
