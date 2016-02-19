@@ -15261,7 +15261,7 @@ tricher             vals spelen
 tricorne            m, punthoed, steek, driekant
 tricot              m, jersey, trui
 tricotage           m, breien
-tricoter            breien, rubbing together
+tricoter, tricotant    breien, rubbing together
 tringle             f, rail, roede, stang
 tringler            doordringen, penetreren, geslachtsgemeenschap hebben
 trinquer, trinque   klinken, salueren, toasten op, de glazen heffen
@@ -16962,4 +16962,5 @@ casser le nez       neerstorten, neervallen, faire une chute
 fulminer            tieren, lallen, brabbelen, razen, fulmineren
 pied ferme          ?
 imputer             aanwrijven, toedichten, aanrekenen, aantijgen, ten laste leggen, wijten aan, beschuldigen
-=== Camus --- La chute --- pag. 65  pdf --- onderaan --- ===
+cancre, cancres     domkop, dikkop, idioot, imbeciel, bête
+=== Camus --- La chute --- pag. 67  pdf --- bovenaan --- ===
