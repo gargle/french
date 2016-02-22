@@ -11585,8 +11585,7 @@ poireauter          moeten wachten
 poireaux            m, prei, sjalot
 poirier             m, pereboom
 pois                m, erwt, stip
-pois chiche         keker, kikkererwt
-pois chiches        m, kikkererwt
+pois chiche, pois chiches  m, kikkererwt
 pois de senteur     m, pronkerwt, druivelaar, klimmer, klimplant, rank, wijnrank, wijnstok, wingerd
 poison              m, vergif
 poissait aux mains  plakkerige handen
@@ -16879,6 +16878,7 @@ communiqué          m, persbericht, communiqué
 compensation        f, compensatie, tegemoetkoming, beloning, vergoeding, schadeloosstelling
 où donner de la tête   where to head
 froussard           laf, opgewonden, bangig, angstvallig, bangelijk, beducht, schichtig, vreesachtig
+froussard           m, lafaard, lafbek, platbroek
 imbattable          onoverwinnelijk, onverslaanbaar
 lapsus              m, verspreking
 refrain             m, refrein, keerdicht
