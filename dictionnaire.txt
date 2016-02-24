@@ -2799,6 +2799,7 @@ chalet de plaisance m, (recreatie)chalet, villa, vakantiehuis
 chaleur             f, warmte, hitte, hittegolf
 chaleur ambiante    f, kamertemperatuur?
 chaloupant          wuivend, dansend, wiebelend voorschrijden
+chaloupe            f, sloep
 chalumeaux          m, brander, pit, fluit(je), herdersfluit, pijp
 chalutier           m, trawler, treiler
 chamade             f, oproep, signal de tambours ou de trompettes
@@ -16963,4 +16964,6 @@ fulminer            tieren, lallen, brabbelen, razen, fulmineren
 pied ferme          ?
 imputer             aanwrijven, toedichten, aanrekenen, aantijgen, ten laste leggen, wijten aan, beschuldigen
 cancre, cancres     domkop, dikkop, idioot, imbeciel, bête
+lésé                onrecht aandoen, onrecht doen, benadelen
+délayer             afwenden, tegenhouden, vermijden, hinderen, verhinderen, vertragen
 === Camus --- La chute --- pag. 67  pdf --- bovenaan --- ===
