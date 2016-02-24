@@ -10798,7 +10798,7 @@ paniers             m, boodschappenmand, draagmand, tas, mand, vuilemmer
 paniers d'osier     m, rieten manden
 paniquard           paniekerig
 panka               m, ventilator
-panneau             m, beschot, uithangbord, pannel, seinbord, dashboard
+panneau             m, beschot, uithangbord, paneel, seinbord, dashboard
 panoplie            f, wapenrek, arrangement, ordening, rangschikking
 panorama            m, panorama, zicht
 pans de mur         wandpanelen
