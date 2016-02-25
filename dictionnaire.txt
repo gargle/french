@@ -1394,6 +1394,7 @@ avion               m, vliegtuig
 aviron              m, riem, roeiriem
 avis                m, opinie, oordeel, visie, zienswijze
 aviser              op de hoogte stellen, in kennis stellen, to hit on
+se aviser           voir - kijken, zien; faire savoir (qqch à qqn); melden, aanmelden, aankondigen, afroepen
 avisé               beraden, scherp, verstandig, spitsvondig
 avive, aviver       bovenhalen, helder maken, evoqueren, opwinden, opvrijen, wekken
 avocat              m, advocaat
@@ -3730,7 +3731,7 @@ convulsions         f, stuiptrekkingen, stuipen
 convulsivement      krampachtig
 conçurent, concevoir, conçus    imagineren, indenken, zich verbeelden, voorstelen, zich inbeelden
 copain              m, maat, makker, vriend
-copie               f, a copy
+copie               f, a copy, kopij
 copier sur lui      afschrijven?
 copieux             overvloedig, kopieus, uitgebreid, rijkelijk voorhanden, rijkelijk, hartig, kwistig, overdadig
 copinage            m, vriendjespolitiek
@@ -10657,6 +10658,7 @@ orgueil             m, trots, opschepperigheid
 orgueilleux         verwaand, gewichtig, laatdunkend, trots
 orifice             m, duinpan, hol, mond, opening, pan
 originaux, original    m, eccentrics
+original            m, echte, authentieke
 origine             f, afkomst, herkomst, bron, geboorteplaats
 oripeaux            klatergoud
 ornementation       f, verfraaiing, versiering
@@ -10798,7 +10800,7 @@ paniers             m, boodschappenmand, draagmand, tas, mand, vuilemmer
 paniers d'osier     m, rieten manden
 paniquard           paniekerig
 panka               m, ventilator
-panneau             m, beschot, uithangbord, pannel, seinbord, dashboard
+panneau             m, beschot, uithangbord, paneel, seinbord, dashboard
 panoplie            f, wapenrek, arrangement, ordening, rangschikking
 panorama            m, panorama, zicht
 pans de mur         wandpanelen
@@ -16970,4 +16972,4 @@ imputer             aanwrijven, toedichten, aanrekenen, aantijgen, ten laste leg
 cancre, cancres     domkop, dikkop, idioot, imbeciel, bête
 lésé                onrecht aandoen, onrecht doen, benadelen
 délayer             afwenden, tegenhouden, vermijden, hinderen, verhinderen, vertragen
-=== Camus --- La chute --- pag. 77  pdf --- bovenaan --- ===
+=== Camus --- La chute --- pag. 76  pdf --- bovenaan --- ===
