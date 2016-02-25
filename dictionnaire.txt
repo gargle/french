@@ -9992,7 +9992,7 @@ mouche à viande     f, blowfly
 moucher (se)        snuiten, frapper quelqu'un, humilier, punir
 moucherons          m, mug, steekmug
 mouches             f, vlieg, kunstvlieg
-mouches plates      f, platte vliegen?
+mouches plates      f, familie van luisvliegen
 moucheter           vlekken, stippelen, spikkelen
 mouchoir            m, zakdoek, snotlap
 moudre, moulu       fijnmalen, malen, prakken, uitfrezen, vermalen
@@ -11192,6 +11192,7 @@ perturber           afleiden, in de war brengen, ontregelen, troebleren
 perturbé            beroeren, in de war brengen, troebleren, verontrusten, verstoren
 pervenche           f, personne établissant des contraventions (stationnement)
 perversité          f, perversiteit, slechtheid, onrecht
+pervers             m, pervert
 perçant, percer     doordringend, doorboren, nadenken, openbreken, perforeren
 perçu, percevoir    aanslaan, belasten, collecteren, fiscaliseren, merken, ontdekken
 pesamment           gewichtig
@@ -11971,6 +11972,7 @@ proliférer          verspreiden, voortwoekeren, woekeren
 prolonge            doortrekken, uitleggen, verlengen, langdurig, lang, langgerekt
 prolongement        m, expansie, appendix, augmentation d'une longueur
 prolonger           doortrekken, uitleggen, verlengen
+se prolonger        uitlopen
 prolégomènes        m, voorwoord, inleidend hoofdstuk
 prolétaire          proletarisch, arbeiders-
 promenade           f, wandeling, promenade, wandeldek
@@ -13362,6 +13364,7 @@ réparatrice         f, therapeut?
 réparer             schadeloosstellen, opbouwen, samenstellen, oplappen, to revive, reviving
 répartir            verdelen
 répartis            verkaleld, verspreid, verdeeld, versnipperd
+artiste             m, artiest, vakman, handwerkman, spotvogel, spotter, spotster
 répartition         f, verdeling
 répercussion        f, weerslag, teruggstoot, terugslag, repercussie
 répercuter          echoën
@@ -13800,6 +13803,7 @@ se déchirer grave   betwijfelen, twijfels hebben over, in tweestrijd zijn
 se décider          uitmaken, afspreken, afwikkelen
 se découvrir        zich ontbloten, zijn pet/hoed afnemen
 se défaire          ongedaan maken, rafelen, achterlaten, begeven, rid myself, ontdoen van
+mythomane           m, bedrieger, bedriegster, fraudeur, oplichter
 se dégager          opklaren
 se dégonfler        bang worden
 se déranger         ergeren, moeite bezorgen
@@ -16966,4 +16970,4 @@ imputer             aanwrijven, toedichten, aanrekenen, aantijgen, ten laste leg
 cancre, cancres     domkop, dikkop, idioot, imbeciel, bête
 lésé                onrecht aandoen, onrecht doen, benadelen
 délayer             afwenden, tegenhouden, vermijden, hinderen, verhinderen, vertragen
-=== Camus --- La chute --- pag. 67  pdf --- bovenaan --- ===
+=== Camus --- La chute --- pag. 77  pdf --- bovenaan --- ===
