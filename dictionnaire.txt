@@ -5574,7 +5574,7 @@ emprunter au Graf   van Graf ontlenen?
 empuanties          bevuild, stinken
 empâter             plakkerig, gezwollen, lallend, dronken, growing duller
 empâté              onduidelijk
-empêchement         m, verhindering
+empêchement         m, verhindering, chose défavorable, difficulté, chose présentant de la difficulté
 empêcher            beletten, dwarsbomen, remmen, in de weg staan, verhinderen, vermijden, verhoeden
 empêcheur           m, lastpost
 empêchés            belet, tegengewerkt, tegengehouden, verhinderd
