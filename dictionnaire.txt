@@ -8783,7 +8783,7 @@ judicieuse          verstandig, oordeelkundig, betrouwbaar
 juge                m, rechter
 juge d'instruction  m, rechter-commissaris
 juge de paix        m, vrederechter
-juge-pénitent       m, boetedoend rechter?
+juge-pénitent       m, boetedoend rechter, Camus, La Chute
 jugement            m, arrest, berechting, oordeel
 juger de            avoir une opinion, une estimation de
 jugulaire           f, halsader, deel van hoofddeksel, onder de kin gedragen
@@ -10189,7 +10189,7 @@ mépris              m, minachting, ongenoegen, verachting
 méprisable          gemeen, verachtelijk
 méprisant           minachtend, schamper
 méprise             f, malentendu, misvatting, misverstand, minachting ongenoegen, verachting
-mépriser            verafschuwen, minachten, neerkijken op
+mépriser, méprisé   verafschuwen, minachten, neerkijken op
 méridien            m, meridiaan, positiebepaling
 mérite              m, verdienste, credit
 méritoire           verdienstelijk, waardig, waard
@@ -16975,4 +16975,9 @@ délayer             afwenden, tegenhouden, vermijden, hinderen, verhinderen, ve
 chatterie           f, geste affectueux, caresse
 course de fond      f, atletiek, lichte atletiek, koers, race, maraton?
 point d'amis        no friends
-=== Camus --- La chute --- pag. 78  pdf --- bovenaan --- ===
+savonarole          philosophie de la Renaissance
+repentir            m, remords et regret - gewetenswroeging, gewetensnood, berouw, spijt, schuldbekentenis
+venue               f, het komen en gaan
+corseter, corseté   omgorden, wurmen in
+en virtuose         magistraal,  meesterlijk, virtuoos
+=== Camus --- La chute --- pag. 80  pdf --- onderaan --- ===
