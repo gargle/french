@@ -16727,7 +16727,7 @@ zézayer             lispelen, slissen
 étiquette           f, etiket
 étirer              gaan, komen, uitstrekken, rekken, uitrekken, zich strekken, ontvouwen, going slack
 étoffe              f, doek, goederen, kleed, laken, stof, weefsel
-étoffer             uitbreiden, garnir d'étoffe, vatbaarheid
+étoffer             uitbreiden, garnir d'étoffe, vatbaarheid; musler, ne plus être aussi maigre
 étoile              f, ster, splash, spikkel, vlekje
 étoile des vents    f, kompas, windrichting
 étoile filante      f, meteoor, bolide, vallende ster
