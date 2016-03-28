@@ -9617,6 +9617,7 @@ matrone             f, grootmama, grootmoeder, oma
 matérialisme        m, materialisme
 matérialité         f, relevantie
 matériel            stoffelijk
+matériel            m, artefact, élément d'un ensemble - element
 matériel de couchage    slaapzak
 matériel de fortune materiële rijkdom
 matériellement      materieel, stoffelijk
@@ -16981,4 +16982,4 @@ repentir            m, remords et regret - gewetenswroeging, gewetensnood, berou
 venue               f, het komen en gaan
 corseter, corseté   omgorden, wurmen in
 en virtuose         magistraal,  meesterlijk, virtuoos
-=== Camus --- Carnets I. mai 1935 - février 1942 --- pag. 12  pdf ---  --- ===
+=== Camus --- Carnets I. mai 1935 - février 1942 --- pag. 12  pdf --- half --- ===
