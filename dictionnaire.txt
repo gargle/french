@@ -1527,7 +1527,7 @@ balance             f, balans
 balance             m, mens, sterveling, persoon, iemand, astroloog 
 balance romaine     f, weeghaak
 balancement         m, schommelen, slingering, zwaai
-balancer            slingeren
+balancer            slingeren, dénoncer, verraden
 balancier           m, slinger, tuimelaar, evenwichtskunstenaar
 balanza             m, boom?
 balançoire          f, schommel
@@ -1937,7 +1937,7 @@ boubou              m, tunique, lang afrikaans kleed
 bouc                m, bok, bokkenbaard, geitebaard, kinbaard, sik
 boucaner            roken, roken van vlees, vis
 boucanier           m, boekanier, kaper, vrijbuiter, piraat
-bouche              f, mond, monding, kwebbel, muil, bek, bakkes
+bouche              f, mond, monding, kwebbel, muil, bek, bakkes, lieu par où l'on entre (et sort)
 bouche aux coins    mondhoeken
 bouche bée          f, open mond
 bouche d'aération   f, snorkel, ventilatie
@@ -5236,6 +5236,7 @@ dépérir             aftakelen, teloorgaan, vervallen, verliezen, bederven, sli
 dépêche             f, bericht, rapport
 dépôt               m, bewaarplaats
 déraisonnable       onredelijk, onverstandig, onwijs
+déraison            f, redeloosheid, chose absurde, absurditeit, ongerijmdheid
 dérangement         m, handicap, ontregeling, ongemak
 déranger            verstoren
 dérapage            m, slip, uitschieten, schaatsen, schaatsrijden
@@ -11454,6 +11455,7 @@ plancher            m, houten vloer, plankenvloer, vlonder
 plane               plat, vlak
 planer              zweefvliegen, zweven, glijden
 planquer            cacher qqch ou qqn, oppotten, opsparen, potten
+planque             f, chose qui cache, schuilgelegenheid, vluchtoord, vluchtplaats
 plantain            m, bakbanaan
 plante              f, voetzool, plant, zool, zeetong
 planter             plaatsen, planten, prikken, steken
@@ -16988,7 +16990,15 @@ mésestime           f, considérer avec mépris
 claironner          rondbazuinen
 égratigner          blesseren, kwetsen, verwonden, schrammen, krabben
 homologue           m, tegenhanger
-décrier             afgeven op, belasteren, lasteren, zwartmaken, niet appreciëren, kwaadspreken, kritiseren, in stukken scheuren 
+décrier             afgeven op, belasteren, zwartmaken, niet appreciëren, kwaadspreken, in stukken scheuren 
 trimballer          sjouwen, sjorren, torsen, zeulen, dragen
 foldingues          crazy
+déliquescence       f, déchéance, ruïne, dégât important, teruggang, achteruitgang
+gabegie             f, wanorde, chose désordonnée, lieu présentant un grand désordre
+sidération          f, consternatie, bafflement
+en rade             ruïne, chose ou personne abandonnées, laissées
+vignette            f, vignet, vignette routière
+prébende            f, revenu monétaire, bezit, boeltje
+détricotage         the act of unravelling a thread, uitrafelen
+féérie              f, prachtige vertoning
 === Camus --- Carnets I. mai 1935 - février 1942 --- pag. 12  pdf --- half --- ===
