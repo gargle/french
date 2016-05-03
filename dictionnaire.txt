@@ -1494,7 +1494,7 @@ bagnole             f, kar, auto, wagen
 bague               f, ring
 baguenauder         kuieren, slenteren, wandelen
 baguer, bagué       geringd
-baguette            f, aanwijsstok, dirigeerstok
+baguette            f, stokbrood, aanwijsstok, dirigeerstok
 bagué               ring, ringetje
 baie vitrée         f, erker, groot raam, vensterraam
 baie, baies         f, bes, kreek, baai, inham, vensterraam, glasraam, kijkglas
