@@ -4160,7 +4160,8 @@ cuisinier de carton m, kartonnen bord van een kok
 cuisinière          f, kokkin
 cuissarde           f, lieslaars, baggerlaars
 cuisse              f, bovenbeen, dij, dijbeen
-cuistots            m, koks
+cuistot, cuistots   m, kok, koks, abréviation familière de cuisinier
+cuisinier           m, kok, kokkin, keukenmeid, keukenprinses, cuisinier
 cuit, cuite         gaar, gekookt, dronken
 cuivre              m, koper
 cuivré              koperachtig
