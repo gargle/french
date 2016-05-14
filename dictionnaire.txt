@@ -16581,7 +16581,8 @@ zézayer             lispelen, slissen
 éparpillé           strooien, uiteengaan, verstrooien
 épars               verspreid, scattered
 épatante            belangrijk, niet slecht, indrukwekkend, groot, important
-épaté               de volume, de taille important, large (wijd, breed)               
+épaté               de volume, de taille important, large (wijd, breed)
+épater              devenir plus grand, rendre plus grand
 épaule              f, schouder
 épauler             aanleggen, meehelpen, vooruithelpen, ondersteunen
 épave               f, autowrak, ondergang, wrakstuk, wrak, flotsam, aangespoelde rommel
@@ -17002,4 +17003,5 @@ vignette            f, vignet, vignette routière
 prébende            f, revenu monétaire, bezit, boeltje
 détricotage         the act of unravelling a thread, uitrafelen
 féérie              f, prachtige vertoning
-=== Camus --- Carnets I. mai 1935 - février 1942 --- pag. 12  pdf --- half --- ===
+accessoirement      bijkomend, bijkomstig
+=== https://francebienvenue2.wordpress.com/2016/04/17/le-jeune-papa-qui-voulait-apprendre-a-cuisiner/ ===
