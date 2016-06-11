@@ -2252,7 +2252,6 @@ bulldozer           m, bulldozer
 bulle, bulles       f, ballon, bel, blaas, luchtbel, bubble
 bulletin            m, bulletin, dienstmededeling, nieuwsbrief, rapport
 bungalow            m, bungalow
-buraliste           m, handelsman, koopman, verkoper
 buraliste           m, personne qui tient un bureau de tabac, agent de comptoir
 bure                f, bruine wollen stof, schapevacht
 bureau              m, bureel, studeerkamer, agentuur, kantoor, bureel
