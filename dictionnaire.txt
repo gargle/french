@@ -11061,7 +11061,7 @@ pavillonnaire       cottage, paviljoen
 pavoiser            inschikkelijkheid, een vlag uithangen
 pavoisé             gedrapeerd
 pavot               m, klaproos, papaver
-pavé                m, tegel, kei, kassei, bestraat, geplaveid, bestrating, betegeling, remark, opmerking
+pavé                m, tegel, kei, kassei, bestraat, geplaveid, bestrating, betegeling, remark, opmerking, dik boek
 pays                m, land
 pays de connaissance   m, gekend terrein, familiar ground
 pays natal          m, geboorteland
@@ -14674,7 +14674,7 @@ tableau velléda     m, whiteboard
 tabler              bouwen, baseren
 tablette            f, plank, schap, stuk, plak (tablette de chocolat)
 tableur             m, spreadsheet
-tablier             m, jumper, overgooier, schort
+tablier             m, jumper, overgooier, schort, apron
 tablier de fer      m, ijzeren hek, ijzeren rolluik, iron shutters
 taboulé             m, taboulé
 tabouret            m, krukje, barkruk
