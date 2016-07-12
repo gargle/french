@@ -12583,6 +12583,7 @@ rapprochement       m, toenadering, vergelijking
 rapprocher          weer vastbinden, weer vastmaken, dichterbijkomen, naderen, naken, benaderen
 rapts               gijzeling, kidnapping, ontvoering, schaking
 raquette            f, racket
+racketter           voler, voler en faisant payer qqn ou qqch, gangsterpraktijken
 rare                zelfzaam, schaars, infrequent, karig, schraal, schriel, wonderlijkheid, eigenaardigheid, sparse
 rarement            zelden
 rareté              f, zeldzaamheid?
@@ -17005,4 +17006,6 @@ féérie              f, prachtige vertoning
 balaise             spierbundel, krachtpatser
 belaise             m, personne forte physiquement
 accessoirement      bijkomend, bijkomstig
+cocasserie          f, lolletje, witz, grapje, grap, scherts
+défroque            f, pièce d'habillement, habillement pauvre
 === https://francebienvenue2.wordpress.com/2016/04/17/le-jeune-papa-qui-voulait-apprendre-a-cuisiner/ ===
