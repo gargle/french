@@ -352,7 +352,7 @@ affleurement        m, ontsluiting, nivelering, opdoemen, verschijnen, opduiken
 affleurer           opduiken
 affligeante         verdriet veroorzakend
 affliger            bedroeven, kwellen, treuren, verdrieten
-affligé             gestraft met
+affligé             bedroefd, getroffen, triest, droef, droevig, verdrietig, gestraft met
 affluence           f, toeloop, toevloed
 affluent            m, bijrivier
 affluer             binnenstromen, binnenrollen, toestromen
@@ -1157,6 +1157,7 @@ au bout du fil      aan de andere kant van de lijn
 au bout du pâté     aan het einde van het blok
 au bout du rouleau  op zijn laatste benen
 au chevet           m, nachtkastje, hoofdeinde van het bed
+au chevet de        iemand verzorgen, waken over, le soigner, le veiller, s'occuper de lui
 au col              pass, pas (bergpas)
 au comble           de hoogte
 au compte en banque élevé       rijk
@@ -2984,7 +2985,7 @@ chevaline           als van een paard
 chevaucher          berijden, beklimmen, elkaar overlappen, rijden
 chevelu             behaard, harig
 chevelure           f, manen, haartooi, het haar
-chevet              m, hoofdeinde
+chevet              m, hoofdeinde van het bed, nachtkastje
 cheveu              m, een haar, haartje
 cheville            f, enkel, enkelgewricht, knijper, pen, pin, wasknijper, wasspeld
 chevreaux           m, bokje, geitje
