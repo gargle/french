@@ -8381,6 +8381,7 @@ inondée             onderstroomd, overvloeien, overstromen, overlopen, doordren
 inopinée            onverwacht
 inopinément         geimproviseerd
 inouï               bovenmatig, buitengewoon, onovertroffen
+inoubliable         onvergetelijk, gedenkwaardig, memorabel
 inqualifiable       onuitsprekelijke
 inquiet             bang, beducht, bezorgd, ongerust, schichtig, van streek
 inquisiteur         m, onderzoeker, ondervrager
@@ -17010,4 +17011,5 @@ accessoirement      bijkomend, bijkomstig
 cocasserie          f, lolletje, witz, grapje, grap, scherts
 défroque            f, pièce d'habillement, habillement pauvre
 proroger            rekken, langer doen duren, uitlopen, verlengen
+flegme              m, slijm, onaandoenlijkheid, stoïcisme, sputum, slijmprop
 === https://francebienvenue2.wordpress.com/2016/04/17/le-jeune-papa-qui-voulait-apprendre-a-cuisiner/ ===
