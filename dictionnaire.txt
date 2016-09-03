@@ -3013,6 +3013,7 @@ chiendents          m, kweekgras, grasplant
 chiens savants      getrainde honden
 chier               schijten
 chieé               f, een groot aantal
+chiffonner          bekommeren, beklemmen, inquiéter, verontrusten?
 chiffon             m, doek, lap, stofvod
 chiffonné           verfrommeld
 chiffons            m, lap, lor, vod
@@ -5946,8 +5947,7 @@ enrubannées         beribonned, pourvoir d'ornements ou d'accessoires
 enrôler             dienst nemen
 ensabler            begraven, verzanden
 ensanglanter        purper kleuren, doden, bloedend?
-enseigne à neon     f, bord, naambord, uithangbord, uithangteken
-enseigne            f, bordje, schild, uithangbord, uithangteken
+enseigne (à neon)   f, bord, schild, naambord, uithangbord, uithangteken
 enseignement        m, onderwijs, onderricht
 enseigner           doorgeven, bijbrengen, doceren, onderrichten
 ensemble            m, tenue, suite,  outfit, geheel, gezamelijk, samen
