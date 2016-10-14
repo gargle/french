@@ -12834,6 +12834,7 @@ remuer              losmaken, bewegen, treffen, kwispelen, roeren
 remueur             m, roerder, agitateur, specialist
 remâcher            herkauwen
 remèdes de bonne femme  volksgeneeskunde
+remède              m, geneesmiddel, oplossing, kuur, remedie, medicijn, 
 remémore            memoreren, onthouden, oppikken, terugdenken
 renaissant          herlevend, weer oplevendd
 renard              m, vos
@@ -17014,4 +17015,4 @@ défroque            f, pièce d'habillement, habillement pauvre
 proroger            rekken, langer doen duren, uitlopen, verlengen
 flegme              m, slijm, onaandoenlijkheid, stoïcisme, sputum, slijmprop
 à bien voir         om te zien?
-=== Camus --- Carnets I. mai 1935 - février 1942 --- pag. 15  pdf --- bovenaan --- ===
+=== Camus --- Carnets I. mai 1935 - février 1942 --- pag. 16  pdf --- bovenaan --- ===
