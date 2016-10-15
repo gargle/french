@@ -5219,6 +5219,7 @@ déposition          f, verklaring, getuigenis
 déposséder          beroven, het bezit ontnemen
 dépotoir            m, dump, schroothoop, stortplaats
 dépouille           f, kadaver, lijk
+dépouillement       m, afstropen, onthuiden, ontvellen, uitpluizen
 dépouiller          wegvegen, afstropen, afpellen, afschillen, onthuiden, ontvellen, aflezen, uitpluizen
 dépouilles          f, kadaver, kreng
 dépourvue           verstoken van
@@ -17007,12 +17008,12 @@ vignette            f, vignet, vignette routière
 prébende            f, revenu monétaire, bezit, boeltje
 détricotage         the act of unravelling a thread, uitrafelen
 féérie              f, prachtige vertoning
-balaise             spierbundel, krachtpatser
-belaise             m, personne forte physiquement
+belaise             m, personne forte physiquement, spierbundel, krachtpatser
 accessoirement      bijkomend, bijkomstig
 cocasserie          f, lolletje, witz, grapje, grap, scherts
 défroque            f, pièce d'habillement, habillement pauvre
 proroger            rekken, langer doen duren, uitlopen, verlengen
 flegme              m, slijm, onaandoenlijkheid, stoïcisme, sputum, slijmprop
 à bien voir         om te zien?
+marquant            markant, opvallend
 === Camus --- Carnets I. mai 1935 - février 1942 --- pag. 16  pdf --- bovenaan --- ===
