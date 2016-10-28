@@ -4143,8 +4143,7 @@ crête               f, kam, bergkam, kam, kruin
 cube                m, blok
 cuchoter            fluisteren, inblazen, toefluisteren
 cuculterie, cucul   f, corny, bête, dom, onnozel
-cueillette          f, pluk, teelt, oogst, gewas
-cueillette          oogst, fruitoogst, opbrengst, pluk, teelt
+cueillette          f, pluk, teelt, oogst, fruitoogst, opbrengst, gewas
 cueillir            lezen, oogsten, (af)plukken, sparen, verzamelen
 cuesta              relief de côte
 cuillers            f, eetlepel
@@ -10290,7 +10289,7 @@ nauséabond          afschuwelijk, onaangenaam
 nausée              f, braakneiging, misselijkheid, walging
 nauséeuse           misselijk
 nauvrage            m, ondergang, schipbreuk, wrak
-navet               m, knolraap
+navet               m, knolraap, knol, raap
 navette             f, shuttle, deel van weefgetouw
 navigation          f, navigatie, zeilen, binnenvaart, scheepvaart, nautiek
 naviguer            sturen, zweven
