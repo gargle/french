@@ -14464,6 +14464,8 @@ succéder, succèdent volgen op, leiden, resulteren, uitlopen, uitmonden, opeenv
 sucer, suçaient     aanzuigen, zuigen, suck, pijpen
 suceuse             zuiger
 sucre               m, suiker
+sucre glace         m, poedersuiker
+sucre semoule       m, kristalsuiker
 sucre candi         m, kandijsuiker
 sucrerie            f, zoetwaren, zuurtje, snoepje, suikergoed, fabriek; bedrijf; fabrieksgebouw; opstal
 sucrier             m, suikerpot
@@ -17020,4 +17022,8 @@ la fermer           le contraire de l'ouvrir (la = la bouche)
 ravel               m, le Réseau Autonome des Voies Lentes (RAVeL)
 la une              headlines, frontpage; faire la une des journaux, make the headline in the newspapers
 levure              f, gist, bakkersgist
+ganache             f, crème à base de beurre ou de crème fraîche et de chocolat
+tamiser             ziften, zeven
+saladier            m, kom, récipient utilisé comme mesure de volume
+récipient           m, vergaarbak, kom, vergaarbekken, vat, vaatje
 === Camus --- Carnets I. mai 1935 - février 1942 --- pag. 17 pdf --- bovenaan - Si une angoisse ... --- ===
