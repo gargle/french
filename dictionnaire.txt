@@ -7916,6 +7916,7 @@ hâler               verbranden
 hâlé                gebruind
 hâte                f, haast
 hâter               bespoedigen, accelereren, opschieten, jachten
+j'ai hâte           I'm exited
 hâtif               gehaast, haastig, vluchtig, zonder diepgang
 hâtivement          haastig, vluchtig, vlug
 hébergement         m, kot, huisvesting, accomedatie, lodging
@@ -14464,6 +14465,8 @@ succéder, succèdent volgen op, leiden, resulteren, uitlopen, uitmonden, opeenv
 sucer, suçaient     aanzuigen, zuigen, suck, pijpen
 suceuse             zuiger
 sucre               m, suiker
+sucre glace         m, poedersuiker
+sucre semoule       m, kristalsuiker
 sucre candi         m, kandijsuiker
 sucrerie            f, zoetwaren, zuurtje, snoepje, suikergoed, fabriek; bedrijf; fabrieksgebouw; opstal
 sucrier             m, suikerpot
@@ -17021,4 +17024,14 @@ ravel               m, le Réseau Autonome des Voies Lentes (RAVeL)
 la une              headlines, frontpage; faire la une des journaux, make the headline in the newspapers
 levure              f, gist, bakkersgist
 au grè de           selon le goût, la volonté de
+ganache             f, crème à base de beurre ou de crème fraîche et de chocolat
+tamiser             ziften, zeven
+saladier            m, kom, récipient utilisé comme mesure de volume
+récipient           m, vergaarbak, kom, vergaarbekken, vat, vaatje
+casse-tête          m, puzzel, legpuzzel, hersenbreker, raadsel
+inique              onrechtvaardig, abusivement, indûment, injustement
+indûment            overdreven, bovenmatig, uitermate, buitensporig
+chambouler          een streep door de rekening halen, désorganiser
+donne               f, kaartspel, jeu de cartes, cartes
+le pied au plancer  plankgas
 === Camus --- Carnets I. mai 1935 - février 1942 --- pag. 17 pdf --- bovenaan - Si une angoisse ... --- ===
