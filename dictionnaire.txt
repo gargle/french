@@ -15408,6 +15408,9 @@ tâche               f, vlek, blaam, klad, plek, schandvlek, smet, opgave, taak,
 tâcheron            m, bouwvakker
 tâter               bepotelen, betasten, voelen
 tâtonnant, tâtonner onhandig doen, rondtasten, tasten
+tâtonnement         m, action de toucher, kontakt, aanraking, rondtasten, twijfel, onzekerheid
+aller à tâtons      tasten, rondtasten, kijken hoe de zaken er voor staan
+tâtonnements        vallen en opstaan, pogen en falen, met vallen en opstaan
 télébrité           f, celebrity
 téléchargement      m, download
 télégramme          m, telegram
