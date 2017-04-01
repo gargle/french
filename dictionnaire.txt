@@ -11595,6 +11595,7 @@ poire               f, peer
 poireauter          moeten wachten
 poireaux            m, prei, sjalot
 poirier             m, pereboom
+faire le poirier    een handstand maken
 pois                m, erwt, stip
 pois chiche, pois chiches  m, kikkererwt
 pois de senteur     m, pronkerwt, druivelaar, klimmer, klimplant, rank, wijnrank, wijnstok, wingerd
