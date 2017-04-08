@@ -17039,6 +17039,9 @@ chambouler          een streep door de rekening halen, désorganiser
 donne               f, kaartspel, jeu de cartes, cartes
 le pied au plancer  plankgas
 ric-rac             être ric-rac, net genoeg hebben
-être à découvert    geen geld genoeg meer hebben
+être à découvert    geen geld genoeg meer hebben, in het rood staan
 colocation          f, verhuur, verhuring
+logement            m, huisvesting
+transport           m, vervoer
+financièrement      financieel
 === francebienvenue1 --- parlons argent ===
