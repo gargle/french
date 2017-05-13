@@ -17044,4 +17044,6 @@ colocation          f, verhuur, verhuring
 logement            m, huisvesting
 transport           m, vervoer
 financièrement      financieel
-=== francebienvenue1 --- parlons argent ===
+bougeotte           f, de kriebels, woelwater, turbulentie
+ailleurs            m, étranger, loin dans l'espace; stek, stekkie, plek, ruimte
+=== francebienvenue1 --- En stage très loin d'ici ===
