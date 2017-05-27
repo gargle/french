@@ -322,7 +322,7 @@ affable             aardig, voorkomend
 affablement         beminnelijk, minzaam
 affabulation        f, plot, fabricage
 affaibli            verzwakt
-affaiblissez        verzwakken, ontkrachten
+affaiblir, affaiblissez         verzwakken, ontkrachten
 affaire             f, zaak, bedoening, proces, drukte
 affairer            druk bezig zijn, bustling, to bustle
 affairiste          m, wheeler dealer, arrangeur
