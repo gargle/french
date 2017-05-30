@@ -10015,6 +10015,7 @@ moulage             m, afgietsel, vorm, gietvorm
 moulant, mouler     modelleren, vormen
 moule de béton      m, vorm, maal, gietvorm van beton
 moulinet            m, haspel, molentje
+moulin              m, molen, slijpapparaat
 moulures            f, lijstwerk
 mouraient, mourir   teloorgaan, vervallen, doodgaan, overlijden, inslapen
 mourantes           stervend
