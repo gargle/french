@@ -490,8 +490,7 @@ alcool à brûler     m, brandspiritus
 alcoolique          m, alcoholicus
 alcoolique mondain  m, alcoholicus door sociale verplichtingen
 alcôve              f, nis, uitsparing
-alentour            omtrek, buurt, in de buurt, rond, rondom, omgeving
-alentours           m, omtrek, buurt, omgeving, omstreken
+alentour, alentours m, omtrek, buurt, in de buurt, rond, rondom, omgeving, omstreken; dans les environs
 alerte              f, alarm, sein, signaal
 alezan              m, vos, vospaard, paard (bruin)
 alezane             m, vospaard, vos, roodvos
@@ -1979,7 +1978,7 @@ bouffon             m, clown
 bouffonnant         schertsen, grappen, plagen, dire des choses plaisantes pour faire rire
 bouffées            f, windstoot, haal, trek, lucht, geur
 bougainvillées      f, klimplant?
-bouger              agiteren, bewegen, opwerpen, roeren
+bouger              agiteren, bewegen, opwerpen, roeren; ne pas rester chez soi, voyager
 bouges              m, bar, habitation misérable
 bougie              f, kaars
 bougnoule           m, neger, negerin
@@ -3477,6 +3476,7 @@ concessionnaire     m, concessiehouder
 concevable          denkbaar
 concierge           m, beheerder, concierge, huismeester, opziener, portier, oppasser
 concile             m, concilie, kerkvergadering
+concilier           in overeenstemming brengen, in overeenstemming brengen met
 conciliabule        m, vertrouwelijk gesprek
 conciliation        f, verzoening, goedmaking
 concise             kort, bondig, kernachtig, kort samengevat
@@ -4454,7 +4454,7 @@ dessein             m, bedoeling, doel, intentie, inzicht, opzet, strekking
 desseller           afzadelen, ontzadelen
 desserra pas les dents  zijn mond niet opendoen
 desserrer           losdoen, losmaken, losdraaien, lostrekken, losser maken, verslappen, afschroeven
-desservir           dienen, bedienen, afruimen, rendre un mauvais service à qqn.
+desservir, dessert  dienen, bedienen, afruimen, rendre un mauvais service à qqn.
 dessin              m, aftekening, sporen, tekening, patroon, opzet, plan, blok, plaatje, ontwerp
 dessinateur         m, vormgever, tekenaar, ontwerper, opsteller
 dessiner            aftekenen, tekenen
@@ -7917,6 +7917,7 @@ hâlé                gebruind
 hâte                f, haast
 hâter               bespoedigen, accelereren, opschieten, jachten
 j'ai hâte           I'm exited
+avoir hâte de faire quelque chose       être très impatient, vouloir faire quelque chose le plus tôt possible
 hâtif               gehaast, haastig, vluchtig, zonder diepgang
 hâtivement          haastig, vluchtig, vlug
 hébergement         m, kot, huisvesting, accomedatie, lodging
@@ -17047,4 +17048,11 @@ transport           m, vervoer
 financièrement      financieel
 bougeotte           f, de kriebels, woelwater, turbulentie
 ailleurs            m, étranger, loin dans l'espace; stek, stekkie, plek, ruimte
+rendez-vous         m, afspraakje, afspraak, plaats van samenkomst, samenkomst
+salariés            m, bediende, employé, werknemer in loondienst
+de par              par, door middel van
+sauter sur une occasion  saisir une occasion de faire quelque chose si elle se présente, ne pas la laisser passer
+je n’en revenais pas     j’étais vraiment surprise, je n’y croyais pas
+du coup             dan
+forcément           noodzakelijkerwijs, noodgedwongen
 === francebienvenue1 --- En stage très loin d'ici ===
