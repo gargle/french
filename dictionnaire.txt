@@ -451,7 +451,6 @@ aiguë               doordringend, fel, guur, schril, lang, puntig, scherp
 ail                 m, look, knoflook
 ailerons            m, vinnen
 ailes               f, vleugel, vlerk, spatbord
-ailleurs            elders, ergens anders, op een andere plaats
 ailées              gevleugeld
 aimant              m, magneet, aantrekkingskracht
 aimanté             magnetiseren, liefdevol
@@ -17047,7 +17046,7 @@ logement            m, huisvesting
 transport           m, vervoer
 financièrement      financieel
 bougeotte           f, de kriebels, woelwater, turbulentie
-ailleurs            m, étranger, loin dans l'espace; stek, stekkie, plek, ruimte
+ailleurs            m, étranger, loin dans l'espace; plek, elders, ergens anders, op een andere plaats
 rendez-vous         m, afspraakje, afspraak, plaats van samenkomst, samenkomst
 salariés            m, bediende, employé, werknemer in loondienst
 de par              par, door middel van
