@@ -581,7 +581,7 @@ ambassade           f, ambassade, consulaat
 ambiance            f, stand van zaken, ambiance, sfeer
 ambiant             omringend, omgeving
 ambigu              dubbelzinnig
-ambiguïté           ambiguïteit, dubbelzinnigheid
+ambiguïté           f, ambiguïteit, dubbelzinnigheid
 ambition            f, ambitie, doelwit
 ambitionner         ambiëren
 ambre               amber, barnsteen
@@ -3858,6 +3858,7 @@ couloir             m, gang, baan, overloop
 coulée              f, de stroom, het vloeien
 coup                m, slag
 coup au cœur        aanrader, warm aanbevolen, speciale aanbieding
+coup de cœur        m, one from the heart, you'll have a crush on it; ;aanrader, affectie, genegenheid
 coup d'œil          m, oogopslag, look, swift glance
 coup d'œil circulaire     m, blik, overzicht 360 graden, to glance
 coup de canne       slag met wandelstok
@@ -10682,6 +10683,7 @@ orthogonale         loodrecht, orthogonaal
 orthoptère          m, insekt (o.a. krekel, sprinkhanen)
 ortie               f, brandnetel
 orée                f, kant, boskant
+à l'orée de         au début de
 os                  m, been, bot
 oscarocésarisé      ver-orcarseerbaarheid?
 oscillateur         m, oscilator
@@ -17054,4 +17056,8 @@ sauter sur une occasion  saisir une occasion de faire quelque chose si elle se p
 je n’en revenais pas     j’étais vraiment surprise, je n’y croyais pas
 du coup             dan
 forcément           noodzakelijkerwijs, noodgedwongen
-=== francebienvenue1 --- En stage très loin d'ici ===
+brindezingue        un peu folle (argot)
+fantasque           grillig, onberekenbaar, temperamentvol
+valeureux           moedig
+dense               dicht, dik, dichtopeengepakt
+=== francebienvenue2 --- Brindezingues ===
