@@ -322,7 +322,7 @@ affable             aardig, voorkomend
 affablement         beminnelijk, minzaam
 affabulation        f, plot, fabricage
 affaibli            verzwakt
-affaiblissez        verzwakken, ontkrachten
+affaiblir, affaiblissez         verzwakken, ontkrachten
 affaire             f, zaak, bedoening, proces, drukte
 affairer            druk bezig zijn, bustling, to bustle
 affairiste          m, wheeler dealer, arrangeur
@@ -451,7 +451,6 @@ aiguë               doordringend, fel, guur, schril, lang, puntig, scherp
 ail                 m, look, knoflook
 ailerons            m, vinnen
 ailes               f, vleugel, vlerk, spatbord
-ailleurs            elders, ergens anders, op een andere plaats
 ailées              gevleugeld
 aimant              m, magneet, aantrekkingskracht
 aimanté             magnetiseren, liefdevol
@@ -490,8 +489,7 @@ alcool à brûler     m, brandspiritus
 alcoolique          m, alcoholicus
 alcoolique mondain  m, alcoholicus door sociale verplichtingen
 alcôve              f, nis, uitsparing
-alentour            omtrek, buurt, in de buurt, rond, rondom, omgeving
-alentours           m, omtrek, buurt, omgeving, omstreken
+alentour, alentours m, omtrek, buurt, in de buurt, rond, rondom, omgeving, omstreken; dans les environs
 alerte              f, alarm, sein, signaal
 alezan              m, vos, vospaard, paard (bruin)
 alezane             m, vospaard, vos, roodvos
@@ -583,7 +581,7 @@ ambassade           f, ambassade, consulaat
 ambiance            f, stand van zaken, ambiance, sfeer
 ambiant             omringend, omgeving
 ambigu              dubbelzinnig
-ambiguïté           ambiguïteit, dubbelzinnigheid
+ambiguïté           f, ambiguïteit, dubbelzinnigheid
 ambition            f, ambitie, doelwit
 ambitionner         ambiëren
 ambre               amber, barnsteen
@@ -1979,7 +1977,7 @@ bouffon             m, clown
 bouffonnant         schertsen, grappen, plagen, dire des choses plaisantes pour faire rire
 bouffées            f, windstoot, haal, trek, lucht, geur
 bougainvillées      f, klimplant?
-bouger              agiteren, bewegen, opwerpen, roeren
+bouger              agiteren, bewegen, opwerpen, roeren; ne pas rester chez soi, voyager
 bouges              m, bar, habitation misérable
 bougie              f, kaars
 bougnoule           m, neger, negerin
@@ -3477,6 +3475,7 @@ concessionnaire     m, concessiehouder
 concevable          denkbaar
 concierge           m, beheerder, concierge, huismeester, opziener, portier, oppasser
 concile             m, concilie, kerkvergadering
+concilier           in overeenstemming brengen, in overeenstemming brengen met
 conciliabule        m, vertrouwelijk gesprek
 conciliation        f, verzoening, goedmaking
 concise             kort, bondig, kernachtig, kort samengevat
@@ -3859,6 +3858,7 @@ couloir             m, gang, baan, overloop
 coulée              f, de stroom, het vloeien
 coup                m, slag
 coup au cœur        aanrader, warm aanbevolen, speciale aanbieding
+coup de cœur        m, one from the heart, you'll have a crush on it; ;aanrader, affectie, genegenheid
 coup d'œil          m, oogopslag, look, swift glance
 coup d'œil circulaire     m, blik, overzicht 360 graden, to glance
 coup de canne       slag met wandelstok
@@ -4454,7 +4454,7 @@ dessein             m, bedoeling, doel, intentie, inzicht, opzet, strekking
 desseller           afzadelen, ontzadelen
 desserra pas les dents  zijn mond niet opendoen
 desserrer           losdoen, losmaken, losdraaien, lostrekken, losser maken, verslappen, afschroeven
-desservir           dienen, bedienen, afruimen, rendre un mauvais service à qqn.
+desservir, dessert  dienen, bedienen, afruimen, rendre un mauvais service à qqn.
 dessin              m, aftekening, sporen, tekening, patroon, opzet, plan, blok, plaatje, ontwerp
 dessinateur         m, vormgever, tekenaar, ontwerper, opsteller
 dessiner            aftekenen, tekenen
@@ -6743,7 +6743,7 @@ fléau               m, doem, vervloeking, vloek
 fléau               m, doem, vloek
 flécher             schieten
 fléchette           f, pijltje, darts
-fléchir             buigen
+fléchir             buigen, plooien, changer défavorablement, se mettre en position penchée - zich buigen
 fléchissement       m, doorzakken, a curve, een curve
 flétrir             ineenschrompelen, krimpen, verschrompelen
 flûte               f, fluit
@@ -7917,6 +7917,7 @@ hâlé                gebruind
 hâte                f, haast
 hâter               bespoedigen, accelereren, opschieten, jachten
 j'ai hâte           I'm exited
+avoir hâte de faire quelque chose       être très impatient, vouloir faire quelque chose le plus tôt possible
 hâtif               gehaast, haastig, vluchtig, zonder diepgang
 hâtivement          haastig, vluchtig, vlug
 hébergement         m, kot, huisvesting, accomedatie, lodging
@@ -10015,6 +10016,7 @@ moulage             m, afgietsel, vorm, gietvorm
 moulant, mouler     modelleren, vormen
 moule de béton      m, vorm, maal, gietvorm van beton
 moulinet            m, haspel, molentje
+moulin              m, molen, slijpapparaat
 moulures            f, lijstwerk
 mouraient, mourir   teloorgaan, vervallen, doodgaan, overlijden, inslapen
 mourantes           stervend
@@ -10681,6 +10683,7 @@ orthogonale         loodrecht, orthogonaal
 orthoptère          m, insekt (o.a. krekel, sprinkhanen)
 ortie               f, brandnetel
 orée                f, kant, boskant
+à l'orée de         au début de
 os                  m, been, bot
 oscarocésarisé      ver-orcarseerbaarheid?
 oscillateur         m, oscilator
@@ -11595,6 +11598,7 @@ poire               f, peer
 poireauter          moeten wachten
 poireaux            m, prei, sjalot
 poirier             m, pereboom
+faire le poirier    een handstand maken
 pois                m, erwt, stip
 pois chiche, pois chiches  m, kikkererwt
 pois de senteur     m, pronkerwt, druivelaar, klimmer, klimplant, rank, wijnrank, wijnstok, wingerd
@@ -16453,7 +16457,7 @@ zézayer             lispelen, slissen
 égard               aandacht, eerherstel, opzicht
 égarement           m, afdwaling
 égarer              verliezen, kwijtraken, ronddolen, dwalen
-égaré               gek, waanzinnige, verbijsterd, wild
+égaré               gek, waanzinnige, verbijsterd, wild, verdwaald, zoek
 égarées             verdwaald, zoek
 égayer              opbeuren, opvrolijken, sterken
 égide               f, schild, pantser, beschermkap, bescherming
@@ -17038,4 +17042,23 @@ chambouler          een streep door de rekening halen, désorganiser
 donne               f, kaartspel, jeu de cartes, cartes
 le pied au plancer  plankgas
 épinards, épindard  m, spinazie
+ric-rac             être ric-rac, net genoeg hebben
+être à découvert    geen geld genoeg meer hebben, in het rood staan
+colocation          f, verhuur, verhuring
+logement            m, huisvesting
+transport           m, vervoer
+financièrement      financieel
+bougeotte           f, de kriebels, woelwater, turbulentie
+ailleurs            m, étranger, loin dans l'espace; plek, elders, ergens anders, op een andere plaats
+rendez-vous         m, afspraakje, afspraak, plaats van samenkomst, samenkomst
+salariés            m, bediende, employé, werknemer in loondienst
+de par              par, door middel van
+sauter sur une occasion  saisir une occasion de faire quelque chose si elle se présente, ne pas la laisser passer
+je n’en revenais pas     j’étais vraiment surprise, je n’y croyais pas
+du coup             dan
+forcément           noodzakelijkerwijs, noodgedwongen
+brindezingue        un peu folle (argot)
+fantasque           grillig, onberekenbaar, temperamentvol
+valeureux           moedig
+dense               dicht, dik, dichtopeengepakt
 === Camus --- Carnets I. mai 1935 - février 1942 --- pag. 17 pdf --- bovenaan - Si une angoisse ... --- ===
