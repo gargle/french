@@ -14162,6 +14162,8 @@ solaire             zonne-,
 solarisation        f, obtention d'effets spéciaux par insolation d'une surface sensible en cours de développement
 soldat              m, soldaat
 sole meunière       f, visschotel
+sole                f, tong (vis)
+saumon              m, zalm
 soleil              m, zon
 solennel            ceremonieel, plechtig, statig, plechtstatig
 solennellement      ceremonieel, ernstig, plechtig
