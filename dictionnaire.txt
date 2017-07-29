@@ -9017,7 +9017,7 @@ le pot aux roses    affaire?
 le sort en est jeté    de teerling is geworpen
 le temps d'un éclair           just for an instant
 le tennis           tennis
-le tir à l'arc      boogschieten
+tir à l'arc         m, boogschieten
 le tour est joué    voila
 le vers du nez      naar de neus
 lecteur             m, lezer
@@ -14601,7 +14601,7 @@ suzeraineté         soevereiniteit, adelijk domein, heerlijkheid, landgoed
 suçoter             afsabbelen, sabbelen
 suédoise            zweeds
 suée                f, zweet, zweetdruppel, transpiratievocht
-svelte              gering, rank, slank, tenger
+svelte              slank, gering, rank, tenger
 sycomore            m, plataan
 sycophante          pluimstrijker, verrader, informant
 syllabaire          m, lettergreepschrift
@@ -14671,8 +14671,7 @@ sœur cadette        f, jongere zus
 sœur de Tessin      f, zuster, zwitsers canton
 sœur jumelle        f, tweelingzus
 sœurs               f, zusters
-t-shirt             m, t-shirt
-tabac               m, tabak, sigaretten
+tabac               m, tabak, sigaretten, tabakswinkel
 tabasser            afdrogen, aframmelen, afrossen, aftroeven, aftuigen
 tabatière           f, tabak, dakraam, daklicht, zolderlicht
 table               f, tafel
@@ -14779,7 +14778,8 @@ tari                opgedroogd, se vider pour un liquide, droogleggen, mettre à
 tarif               m, tarief, prijs, catalogusprijs
 tarirent, tarir     geleidelijk afnemen, opraken, opdrogen, droog, verdord
 tarmac              m, asfalt
-tarte               f, lel, opdoffer, opdonder, taart, vlaai
+tarte               f, taart, lel, opdoffer, opdonder, vlaai
+tarte aux cerises   f, kersentaart
 tartiflette au reblochon    soort gratin, kaasgratin
 tartine             f, brood, sneedje brood, boterham
 taré                bête, achterlijk?
@@ -14787,7 +14787,7 @@ tas                 m, lot, bende, massa
 tas d'ordures       m, hoop, partij, opeenhoping, opeenstapeling
 tas de              m, hoopje, hoop, a swarm of
 tas de merde        m, hoopje shit
-tasse               f, tas
+tasse               f, kop, tas
 tasser, tassé       omlaagdrukken, verkleinen, ineenkrimpen, relaxen
 tata                f, auntie, tante
 tatillon            m, adj., overdreven precies, pietluttig
@@ -14864,7 +14864,7 @@ tenir lieu          remplacer qqn ou qqch, vervanging, effectuer une tâche, une
 tenir rigueur       worden verweten
 tenir tête          trotseren, het hoofd bieden aan
 tenir à l'œil       in het oog houden
-tension             f, spanning, netspanning, belasting
+tension             f, bloedruk, spanning, netspanning, belasting
 tentacule           m, vangarm, tentakel
 tentant             verleidelijk, verlokkelijk
 tentation           f, verleiding, verzoeking
@@ -15015,7 +15015,7 @@ toiser              regarder avec défi et mépris, look someone up and down
 toison d'orr        f, gulden vlies
 toison hérissée     f, stekelige fleeche, schapenvacht
 toisons             f, vlies, schaapsvacht, peau animale, poil, beharing
-toit                m, het dak
+toit                m, dak
 toit en croupe      m, schilddak
 toit terasse        m, dakterras
 toit à cornes       m, gehoornd dak
@@ -15095,7 +15095,7 @@ toujours est il que     wat niet wegneemt dat
 toundra             f, toendra, mossteppe
 toupet              m, brutaliteit, onbeschaamdheid
 toupie              f, draaitol, tol
-tour                m, de ronde, rondom
+tour                m, beurt, ronde, rondom
 tour de poitrine    m, borstomtrek
 tour à tour         afwisselend, beurtelings, om en om, alternately
 tourbe              f, bosveen, heideveld, turf, veen
@@ -15110,7 +15110,7 @@ tourmente           f, angst, getob, onrust, doodongerust
 tourmenter          tormenteren, van streek brengen
 tourments           m, kwelling, torment, tortuur
 tourmenté           doodongerust, tobben, moeite bezorgen
-tournant            m, afslag, bocht, draai, mijlpaal, wending
+tournant            m, bocht, afslag, draai, mijlpaal, wending
 tourner             draaien, outflank, pareren, riposteren
 tourner au          wenden tot
 tourner au ralenti  stationair draaien
@@ -15359,7 +15359,7 @@ truffe              f, truffel, idioot?
 truffer             volstampen, bourrer, beaucoup, très, en grande quantité
 truffer, truffé     garnir (pourvoir une chose de qqch), mettre dans, rendu plein de qqch, plein
 truie               f, zeug
-truites             f, forel
+truite              f, forel
 trypanosome         m, eencellig organisme
 trèfle              m, klaver
 trébuche            onderuitgaan, struikelen, strompelen
@@ -15450,7 +15450,7 @@ téton               m, tepel
 tétrodon            m, blowfish
 tété                f, borstvoeding?
 têtard              m, dikkopje, joch, kind, snotaap, snotneus
-tête                f, kop, tronie, smoelwerk, aangezicht
+tête                f, hoofd, kop, tronie, smoelwerk, aangezicht
 tête brulée         f, individu qui aime le risque
 tête de mort en plâtre      gipsen doodshoofd?
 tête nue            f, blote hoofd, zonder hoed
@@ -15666,7 +15666,7 @@ vengeur             vergeldend, wraak nemen, wrekend
 venimeux            giftig, venijnig
 venir à bout        bolwerken, klaarkrijgen
 venir à l'esprit    opkomen, suggereren, zinspelen
-vent, vents         m, luchtstrool, wind, windje
+vent, vents         m, wind, luchtstroom
 ventilateur         m, ventilator, waaier
 ventouse            f, ontstopper, uitloper, zuiger, zuignap
 ventre              m, buik
@@ -15730,7 +15730,7 @@ vitalité            f, activiteit, vitaliteit, dynamiek, levendigheid
 vesou               m, sap van suikerriet
 vespéral            couchant, soir
 vessies             f, blaas, zwemband
-veste               f, jasje, jekker
+veste               f, jas, jasje, jekker
 veste d'intérieur   f, kamerjas
 vestibule           m, gang, hal
 vestige             m, overblijfsel
@@ -15790,7 +15790,7 @@ vil                 dreigend, laag, lelijk, onwaardig, walgelijk
 vilaine, vilain     lelijk, ondeugend, stout, opvallend
 vilebrequin         m, krukas
 vilipender          belasteren, kwaadspreken
-village             m, buurt, dorp, gat, gehucht
+village             m, dorp, buurt, gat, gehucht
 village-club        m, vakantiedorp
 villageois          dorpelingen
 ville               f, stad
@@ -15832,7 +15832,7 @@ virée               f, snelwandelen, wandeling, kortstondigheid
 vis                 f, schroef, vijs
 vis-à-vis           zonder iets tegenover, tegenover
 visa                m, visa, visum
-visage              m, aangezicht, snuit, toet, gezicht
+visage              m, gezicht, aangezicht, snuit, toet
 viscères            m, ingewanden, tout organe du crâne, du thorax ou de l'abdomen
 viscérale           van binnenuit komend, vanuit de ingewanden
 viser, visent       reviser, deponeren, neerleggen, mikken, mikken op, viseren
@@ -15847,7 +15847,7 @@ vit                 m, fallus, fluit, geslachtsdeel
 vital               central, essentieel, hoofd-
 viticole            viticulture, wijngebied, wijnstreek
 vitraux, vitrail    m, gebrandschilderd glas/raam, glas-in-loodraam
-vitre               f, venster, ruit, raam
+vitre               f, ruit, venster, raam
 vitres closes       f, ramen gesloten
 vitreux, vitreuse   doorschijnend, glazig, glassy, omfloerst
 vitrifié            verglaasd
@@ -17064,4 +17064,18 @@ fantasque           grillig, onberekenbaar, temperamentvol
 valeureux           moedig
 dense               dicht, dik, dichtopeengepakt
 inouï               ongehoord
+yaourt              m, yoghurt
+week-end            m, weekend
+w.-c.               m pl!,  toilet
+volaille            f, gevogelte
+vestiaire           m, vestiaire
+verbe               m, werkwoord
+vendredi            m, vrijdag
+vacances            f pl!, vakantie
+tunesien            m, Tunesiër
+tomate              f, tomaat
+tee-shirt           m, T-shirt
+tante               f, tante
+surprise            f, verrassing
+surgelé             m, diepvriesproduct
 === Camus --- Carnets I. mai 1935 - février 1942 --- pag. 17 pdf --- bovenaan - Si une angoisse ... --- ===
