@@ -1396,7 +1396,7 @@ aviser              op de hoogte stellen, in kennis stellen, to hit on
 se aviser           voir - kijken, zien; faire savoir (qqch à qqn); melden, aanmelden, aankondigen, afroepen
 avisé               beraden, scherp, verstandig, spitsvondig
 avive, aviver       bovenhalen, helder maken, evoqueren, opwinden, opvrijen, wekken
-avocat              m, advocaat
+avocat, avocate     m/f , advocaat
 avoine              f, haver
 avoir affaire       contact hebben met
 avoir beau, j'ai beau     however much
@@ -8995,10 +8995,10 @@ le Bengale          Bengalen
 le Jourdain         de Jordaan
 le approuver        inwilligen, bevestigen
 le cas échéant      indien nodig
-le cassoulet        m, cassoulet
+cassoulet           m, cassoulet
 le cœur sur les manches         le cœur sur les main, être généreux
-le front dur        harde voorhoofd
-le golf             golf
+front dur           m, harde voorhoofd
+golf                m, golf
 le grand indicateur Chaix   spoorboekje, dienstregeling
 le jeu en vaut la chandelle     het sop is de kool wel waard, le jeu n'en vaut pas la chandelle
 le long de          langs
@@ -9016,7 +9016,7 @@ le plus clair de son temps  het grootstee gedeelte van zijn tijd
 le pot aux roses    affaire?
 le sort en est jeté    de teerling is geworpen
 le temps d'un éclair           just for an instant
-le tennis           tennis
+tennis              m, tennis
 tir à l'arc         m, boogschieten
 le tour est joué    voila
 le vers du nez      naar de neus
@@ -9685,6 +9685,7 @@ menus morceaux      geselecteerde stukjes
 menus services      boodschappen doen
 menées              f, acte malhonnête
 meprendre           faire une faute par rapport à une règle
+mer                 f, zee
 mer basse           f, lage zee, laagtij
 mer grosse          f, ruwe zee
 mercantilisme       m, handelsgeest, business, commercie, koophandelsgeest
@@ -17078,4 +17079,14 @@ tee-shirt           m, T-shirt
 tante               f, tante
 surprise            f, verrassing
 surgelé             m, diepvriesproduct
+anglais             m, Engels
+italien             m, Italiaans
+allemand            m, Duits
+français            m, Frans
+ski                 m, skiën
+wolof               m, Wolof
+néerlandais         m, Nederlands
+football            m, voetbal
+gsm                 m, gsm
 === Camus --- Carnets I. mai 1935 - février 1942 --- pag. 17 pdf --- bovenaan - Si une angoisse ... --- ===
+    
