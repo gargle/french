@@ -4294,6 +4294,7 @@ dallage             m, tegelvloer
 dalle               f, plavuis, vloersteen, plein?
 dalle de roc        f, rotsplaat
 dallé, daller       betegelen
+dame                f, mevrouw
 damer               overtroeven, platdrukken, fijnmaken
 damier              m, damnbord
 damnation           f, verdoemenis
@@ -5809,6 +5810,7 @@ enchanter           betoveren, behagen, charmeren, to feel delighted, to delight
 enchanteresse       fascinerend
 enchanteur          betoverend, fascinerend, magisch
 enchanté            aangenaam, betoverd, dolblij
+enchanté(e)         aangename kennismaking
 enchaînement        m, aaneenschakeling
 enchaîner           boeien, ketenen, aan de ketting leggen, aaneenschakelen
 enchevêtrement      m, verstrengeling, spinsel
@@ -7127,6 +7129,7 @@ fétu                snuifje, strohalm
 fêlure              f, barst, fissuur, gleuf, scheur, sleuf, spleet
 fêlé                gebarsten
 fêtard              m, feestganger
+fête                f, feest
 fête foraine        f, jaarbeurs, kermis, carnaval
 fête pascale        paasviering
 fîmes, faire        uitlokken, provoceren, tarten
@@ -11955,6 +11958,7 @@ produit             m, product, opbrengst, resultaat, revenu, inkomst, inkomsten
 profanation         f, blasfemie, heiligschennis, ontheiliging, ontwijding
 profane             niet-kerkelijk, ondeskundig, leek, wereldlijk, werelds
 profession          f, beroep, vak, stand, activiteit
+professeur          m, leraar
 professionel        m, professional
 profil              m, profiel, zijaanzicht
 profiteroles        f, soesjes
@@ -12003,6 +12007,7 @@ promouvoir          aanmoedigen, stimuleren, promoten
 prompte             zich haasten, zich reppen, beschikken, besluiten
 promulguer          afkondigen, uitvaardigen
 prononcer           zich uitlaten, zich uitspreken
+prononciation       f, uitspraak
 pronostication      f, fait d'établir des pronostics, de faire des prévisions
 pronostique         m, voorspellend, prognostisch
 propagande          f, reclamecampagne, promotiecampagne
@@ -12479,6 +12484,7 @@ radiateur           m, radiator
 radiateur à bain d'huile        m, radiateur de chauffage
 radicelle           f, worteltje
 radieux, radieuse   fel, helder, stralend, vrolijk
+radio               f, radio
 radio               m, radio-operator
 radio navigant      m, radio-operator navigator
 radiocommandé       radiogestuurd
@@ -12644,6 +12650,7 @@ ravalement          reinigen
 ravaler, déprécier  degraderen
 ravalé              vernederd
 ravi, ravis         opgetogen, verrukt, geboeid
+ravi(e) de vous rencontrer     aangename kennismaking
 ravier              m, voorafje, voorgerecht
 ravin               m, bergkloof, ravijn, bergengte, afgrond
 raviner             geul, een geul trekken
@@ -12768,7 +12775,7 @@ regard vague        m, starende blik
 regarder fixement   aanstaren, fixeren
 reggae              m, reggae
 regimber            ruer, résister, weigeren
-registre            m, archief
+registre            m, archief, taalgebruik
 regonfler           opblazen
 regorger            overvloedig zijn, in overvloed hebben
 regret              m, spijt, leedwezen
@@ -13964,7 +13971,7 @@ secousse            f, schudden, wiebeling, stoot, schokken, jolts
 secret              m, geheim, stiekem, klandestien
 secret-défense      geheimhouding
 secrète             heimelijk, stiekem, rustig
-secrétaire          m, secretaris
+secrétaire          m/f, secretaris, secretaresse
 secs                puur, zuiver
 secteur             m, sector, kwadrant
 section             f, local branch, onderafdeling, sektie
@@ -17088,5 +17095,19 @@ wolof               m, Wolof
 néerlandais         m, Nederlands
 football            m, voetbal
 gsm                 m, gsm
+de la chance        geluk
+très heureux        zeer vereerd
+très bien           zeer goed
+quelqu'un           iemand
+monsieur            m, meneer
+mari                m, echtgenoot
+mademoiselle        f, juffrouw
+madame              f, mevrouw
+directeur           m, directeur
+directrice          f, directrice
+festival            m, festival
+bosser              werken
+différence          f, verschil
+signification       f, betekenis
+enregistrement      m, opname
 === Camus --- Carnets I. mai 1935 - février 1942 --- pag. 17 pdf --- bovenaan - Si une angoisse ... --- ===
-    
