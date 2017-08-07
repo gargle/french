@@ -5849,6 +5849,7 @@ endosser            op zich nemen, kleren aantrekken, zich kleden
 endroit             m, voorkant, plaats, locatie
 endroit brûlant     m, hotspot
 enduit, enduire     balsemen, zalven, besmeren, bestrijken, insmeren, doorsmeren, smeren
+enduit              m, plamuur
 endurance           f, uithoudingsvermogen
 endurcis            m, gehard, taai, verstokt
 enfance             f, kindertijd
@@ -10304,7 +10305,7 @@ naïf                m, naïeveling, lichtgelovige
 naïve               naief
 naïveté             f, mistake, naïviteit, onschuld
 ne faire aucune cas don't mention
-ne pas payer de mine    arm zijn
+ne pas payer de mine    avoir un aspect extérieur qui n'inspire pas confiance, arm zijn
 ne point            niet om te verjagen
 ne s'en laisse pas  ze niet laten
 ne t'en fait pas pour ça    maak je geen zorgen over dat
@@ -17078,4 +17079,5 @@ tee-shirt           m, T-shirt
 tante               f, tante
 surprise            f, verrassing
 surgelé             m, diepvriesproduct
+redorer             opnieuw vergulden, to restore
 === Camus --- Carnets I. mai 1935 - février 1942 --- pag. 17 pdf --- bovenaan - Si une angoisse ... --- ===
