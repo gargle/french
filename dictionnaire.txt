@@ -1396,7 +1396,7 @@ aviser              op de hoogte stellen, in kennis stellen, to hit on
 se aviser           voir - kijken, zien; faire savoir (qqch à qqn); melden, aanmelden, aankondigen, afroepen
 avisé               beraden, scherp, verstandig, spitsvondig
 avive, aviver       bovenhalen, helder maken, evoqueren, opwinden, opvrijen, wekken
-avocat              m, advocaat
+avocat, avocate     m/f , advocaat
 avoine              f, haver
 avoir affaire       contact hebben met
 avoir beau, j'ai beau     however much
@@ -4294,6 +4294,7 @@ dallage             m, tegelvloer
 dalle               f, plavuis, vloersteen, plein?
 dalle de roc        f, rotsplaat
 dallé, daller       betegelen
+dame                f, mevrouw
 damer               overtroeven, platdrukken, fijnmaken
 damier              m, damnbord
 damnation           f, verdoemenis
@@ -5809,6 +5810,7 @@ enchanter           betoveren, behagen, charmeren, to feel delighted, to delight
 enchanteresse       fascinerend
 enchanteur          betoverend, fascinerend, magisch
 enchanté            aangenaam, betoverd, dolblij
+enchanté(e)         aangename kennismaking
 enchaînement        m, aaneenschakeling
 enchaîner           boeien, ketenen, aan de ketting leggen, aaneenschakelen
 enchevêtrement      m, verstrengeling, spinsel
@@ -7128,6 +7130,7 @@ fétu                snuifje, strohalm
 fêlure              f, barst, fissuur, gleuf, scheur, sleuf, spleet
 fêlé                gebarsten
 fêtard              m, feestganger
+fête                f, feest
 fête foraine        f, jaarbeurs, kermis, carnaval
 fête pascale        paasviering
 fîmes, faire        uitlokken, provoceren, tarten
@@ -8996,10 +8999,10 @@ le Bengale          Bengalen
 le Jourdain         de Jordaan
 le approuver        inwilligen, bevestigen
 le cas échéant      indien nodig
-le cassoulet        m, cassoulet
+cassoulet           m, cassoulet
 le cœur sur les manches         le cœur sur les main, être généreux
-le front dur        harde voorhoofd
-le golf             golf
+front dur           m, harde voorhoofd
+golf                m, golf
 le grand indicateur Chaix   spoorboekje, dienstregeling
 le jeu en vaut la chandelle     het sop is de kool wel waard, le jeu n'en vaut pas la chandelle
 le long de          langs
@@ -9017,7 +9020,7 @@ le plus clair de son temps  het grootstee gedeelte van zijn tijd
 le pot aux roses    affaire?
 le sort en est jeté    de teerling is geworpen
 le temps d'un éclair           just for an instant
-le tennis           tennis
+tennis              m, tennis
 tir à l'arc         m, boogschieten
 le tour est joué    voila
 le vers du nez      naar de neus
@@ -9686,6 +9689,7 @@ menus morceaux      geselecteerde stukjes
 menus services      boodschappen doen
 menées              f, acte malhonnête
 meprendre           faire une faute par rapport à une règle
+mer                 f, zee
 mer basse           f, lage zee, laagtij
 mer grosse          f, ruwe zee
 mercantilisme       m, handelsgeest, business, commercie, koophandelsgeest
@@ -11955,6 +11959,7 @@ produit             m, product, opbrengst, resultaat, revenu, inkomst, inkomsten
 profanation         f, blasfemie, heiligschennis, ontheiliging, ontwijding
 profane             niet-kerkelijk, ondeskundig, leek, wereldlijk, werelds
 profession          f, beroep, vak, stand, activiteit
+professeur          m, leraar
 professionel        m, professional
 profil              m, profiel, zijaanzicht
 profiteroles        f, soesjes
@@ -12003,6 +12008,7 @@ promouvoir          aanmoedigen, stimuleren, promoten
 prompte             zich haasten, zich reppen, beschikken, besluiten
 promulguer          afkondigen, uitvaardigen
 prononcer           zich uitlaten, zich uitspreken
+prononciation       f, uitspraak
 pronostication      f, fait d'établir des pronostics, de faire des prévisions
 pronostique         m, voorspellend, prognostisch
 propagande          f, reclamecampagne, promotiecampagne
@@ -12479,6 +12485,7 @@ radiateur           m, radiator
 radiateur à bain d'huile        m, radiateur de chauffage
 radicelle           f, worteltje
 radieux, radieuse   fel, helder, stralend, vrolijk
+radio               f, radio
 radio               m, radio-operator
 radio navigant      m, radio-operator navigator
 radiocommandé       radiogestuurd
@@ -12644,6 +12651,7 @@ ravalement          reinigen
 ravaler, déprécier  degraderen
 ravalé              vernederd
 ravi, ravis         opgetogen, verrukt, geboeid
+ravi(e) de vous rencontrer     aangename kennismaking
 ravier              m, voorafje, voorgerecht
 ravin               m, bergkloof, ravijn, bergengte, afgrond
 raviner             geul, een geul trekken
@@ -12768,7 +12776,7 @@ regard vague        m, starende blik
 regarder fixement   aanstaren, fixeren
 reggae              m, reggae
 regimber            ruer, résister, weigeren
-registre            m, archief
+registre            m, archief, taalgebruik
 regonfler           opblazen
 regorger            overvloedig zijn, in overvloed hebben
 regret              m, spijt, leedwezen
@@ -13964,7 +13972,7 @@ secousse            f, schudden, wiebeling, stoot, schokken, jolts
 secret              m, geheim, stiekem, klandestien
 secret-défense      geheimhouding
 secrète             heimelijk, stiekem, rustig
-secrétaire          m, secretaris
+secrétaire          m/f, secretaris, secretaresse
 secs                puur, zuiver
 secteur             m, sector, kwadrant
 section             f, local branch, onderafdeling, sektie
@@ -17080,4 +17088,28 @@ tante               f, tante
 surprise            f, verrassing
 surgelé             m, diepvriesproduct
 redorer             opnieuw vergulden, to restore
-=== Camus --- Carnets I. mai 1935 - février 1942 --- pag. 17 pdf --- bovenaan - Si une angoisse ... --- ===
+anglais             m, Engels
+italien             m, Italiaans
+allemand            m, Duits
+français            m, Frans
+ski                 m, skiën
+wolof               m, Wolof
+néerlandais         m, Nederlands
+football            m, voetbal
+gsm                 m, gsm
+de la chance        geluk
+très heureux        zeer vereerd
+très bien           zeer goed
+quelqu'un           iemand
+monsieur            m, meneer
+mari                m, echtgenoot
+mademoiselle        f, juffrouw
+madame              f, mevrouw
+directeur           m, directeur
+directrice          f, directrice
+festival            m, festival
+bosser              werken
+différence          f, verschil
+signification       f, betekenis
+enregistrement      m, opname
+=== Parcours I, lesson 1 ===
