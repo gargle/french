@@ -5721,6 +5721,7 @@ en priorité         spécifiquement, avant tout
 en prise directe    en contact avec la réalité
 en proche           in de nabijheid van
 en provenance       afkomstig van
+provenance          f, afkomst, oorsprong
 en pure perte       tevergeefs, vergeefs, voor niets
 en quatrième        in vierde
 en quelque mesure   to a degree
