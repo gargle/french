@@ -17117,4 +17117,8 @@ enregistrement      m, opname
 coup de torchon     wrijfbeurt, beurt, zwiep, afwrijven, reinigen, schoonmaakbeurt, schoonmaak
 pérennité           f, longtemps, longue durée
 piller, pillé       plunderen, brandschatten, beroven, leegplunderen, uitschudden
+griot               m, verteller, personne qui compose, joue ou chante de la musique
+nom                 m, bijnaam, roep, substantief, naam, achternaam, familienaam
+girafe              f, giraf, giraffe
+caïman              m, kaaiman
 === Le soir, 20/09/2017 ===
