@@ -14,7 +14,7 @@ while (my $line = <DATA>) {
 
 while (scalar @dictionary > 0) {
     my $random = rand @dictionary;
-    say $dictionary[$random][0] . " ?";
+    print $dictionary[$random][0] . " ? ";
     my $input = <>;
     chomp $input;
     if ($input eq $dictionary[$random][1]) {
@@ -27,6 +27,22 @@ while (scalar @dictionary > 0) {
 }
 
 __DATA__
+vêtement un
+ami un
+marchand un
+viande une
+marché un
+poisson un
+repas un
+tôle une
+ciment un
+mur un
+bloc un
+toit un
+clôture une
+cour une
+étage un
+ville une
 groupe un
 aliment un
 fruit un
