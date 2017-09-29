@@ -27,6 +27,22 @@ while (scalar @dictionary > 0) {
 }
 
 __DATA__
+loupe une
+fuite une
+rôle un
+clé une
+aide une
+fondation une
+œuvre une
+calque un
+croquis un
+droit un
+porte une
+coffre un
+banque une
+planche une
+dessin un
+maître un
 vêtement un
 ami un
 marchand un
@@ -55,3 +71,6 @@ maison une
 école une
 jour un
 verre un
+bande une
+enquête une
+héritage un

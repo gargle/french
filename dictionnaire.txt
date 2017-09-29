@@ -1341,6 +1341,7 @@ attrouper           samenscholen
 à tue-tête          luid, hard, de toute la force de sa voix
 aubaine             f, buitenkans, stom geluk, toevalstreffer
 au beau milieu      in de buurt, nabij
+au mépris de        in tegenstelling tot, despite of
 aube                f, ochtendgloren
 auberge             f, herberg
 aubergine           f, aubergine, eierplant
@@ -1778,6 +1779,8 @@ bandage             m, verband, windsel
 bandana             m, doek, bandana
 bandeau             m, band, strip, blinddoek, haarband
 bande               f, lint, band, wikkel, bende
+bande à piscou      f, ducktales
+bande dessinée      f, stripverhaal, b.d.
 bandelette          f, strip
 banderole           f, banier, spandoek, vaan, vaandel, vendel, vlag
 bander              samentrekken, hard maken, être en érection, intapen, zwachtelen, omzwachtelen
@@ -1787,6 +1790,7 @@ banian              m, waringin, vijgeboom
 banlieue            f, buitenwijk, voorstad
 banlieusard         m, forens, pendelaar
 bannière            banier, vaan, vaandel
+banque              f, bank
 banquette arrière   f, backseat
 banquette           f, gestoelte, zitplaats in voertuig
 banquier            m, bankier
@@ -5441,6 +5445,7 @@ discothèque         f, discotheek, dancing
 discourir           verduidelijken, verhelderen, in detail uitwerken
 discours de prix    speech award
 discours            m, taalgebruik, redevoering, speech
+discrétion          f, discretie, geheimhouding, geslotenheid
 disculper           vrijpleiten, vrijspreken, van alle blaam zuiveren
 discussion          f, gesprek, argumentatie, discussie
 discutailleur       m, argumentatieve
@@ -9426,6 +9431,7 @@ intégral            totaal, volledig, vol, compleet, allesomvattend
 intègre             pur moralement (personne)
 intégrer à          invoegen in
 intégrer            samenvoegen, verwerken
+intégrité           f, integriteit, rechtschapenheid
 intellectuel        m, intellectueel
 intelligence        f, intelligentie
 intello             intellectueel
@@ -9792,8 +9798,6 @@ klaxon              m, sirene, claxon, hoorn, toeter
 klaxonner           klaksonneren, claxonneren, toeteren
 knacki              m, knack-worstje
 kyste               m, cyste
-la bande à piscou   f, ducktales
-la bande dessinée   f, stripverhaal, b.d.
 label               m, label, muzieklabel, label de musique, une société qui édite des disques
 labeur              m, werk, arbeid
 laboratoire         m, lab, labo, laboratorium
@@ -12568,7 +12572,7 @@ plaisantin          m, clown, grappenmaker, paljas
 plaisir             m, plezier, kick, jolijt, levensgeluk, plezier, pret
 planche à voile     f, surfplank
 planche de contact  f, contactblad
-planche             f, plank
+planche             f, plank, afbeelding, beeld, plaatje, représentation, technique d'impression
 plancher            m, houten vloer, plankenvloer, vlonder
 plan de coupe       m, snijvlak
 planéité            f, effenheid, platheid, vlakheid
@@ -15419,7 +15423,8 @@ souscription        f, contributie, inschrijving, intekening
 sous-ensemble       m, deelverzameling
 sous-jacente        onderhuids, onderliggend
 sous la terre       ondergronds
-sous le couvert     onder dekking
+sous le couvert     en confidence, in vertrouwen, onder dekking
+sous le manteau     avec beaucoup de discrétion, 
 sous l'empire       onder invloed van, onder de invloed van
 sous les traits     onder het mom
 sous-main           m, onderlegger
