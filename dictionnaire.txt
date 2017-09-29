@@ -2915,7 +2915,6 @@ cassette            f, geldkistje, opbergkist, band, cassetteband, geluidscasset
 casseuse            f, houwer, metselaar, steengraver, steenhouwer
 cassonade           f, bruine suiker
 cassoulet           m, cassoulet
-cassoulet           m, cassoulet
 cassure             f, breuk
 caste               f, kaste
 casté               f, kaste
@@ -5428,7 +5427,6 @@ diptère             m, tweevleugeligen
 directeur           m, directeur
 directif            richtlijn, sturend
 direction           f, directie, richting
-directrice          f, directrice
 directrice          f, directrice
 dirigeable          m, luchtschip
 dirigeant           m, leiding, baas, commissaris, leider, meester
