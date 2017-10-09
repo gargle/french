@@ -16325,7 +16325,7 @@ tranchant           m, kant, zijkant, kant van iets
 tranchant           vlijmscherp, scherp
 tranchées           f, bunker, gracht, loopgraaf
 trancher dans le vif   to the point, snel en energiek reageren
-trancher            in plakken snijden, schaven, verschillen, onderscheiden, beëindigen, afsnijden, cut off
+trancher            in plakken snijden, schaven, verschillen, onderscheiden, beëindigen, afsnijden, cut off, beslissen
 trancher sur        stand out against
 tranches            f, schijf
 tranchet            het mes
