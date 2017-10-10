@@ -8458,8 +8458,7 @@ grêle               f, hagel, hagelkorrel, hagelsteen, spichtig
 grêler              hagelen, pitted, doorploegd?
 grêle               spichtig, scherp, schel, pokdalig, mottig, bespikkeld
 grêlon              m, hagel, hagelsteen
-grelot              m, fam. ratel, bel, torenklok
-grelots             kleine metalen klokjes
+grelot, grelots     m, fam. ratel, bel, torenklok, kleine metalen klokjes / pl. angst, nerveusheid, zenuwachtigheid
 grelottement        m, rillen
 grelotter           huiveren, beven, bibberen, rillen
 gré                 m, wil
@@ -12142,6 +12141,7 @@ peiner              afsukkelen, draven, voorsukkelen, zwoegen, peinigen
 peines de sûreté    verzekerde bewaring
 peines              f, afstraffing, last, smart, leed, lijden
 peintre du dimanche     m, zondagsschilder?
+peintre             m, schilder
 peinture            f, verf, schilderen, schilderstuk
 pelade              maladies des phanères et des annexes de la peau
 pelage              m, bont, vacht, dierehuid
@@ -12772,7 +12772,7 @@ pomme               f, deurknop, knob
 pommes de terre     f, aardappelpuree
 pommes noisettes    f, boulettes de pommes de terre frites dans l'huile
 pommette            f, jukbeen, cheek-bone
-pommiers            appel, appelaar, appelboom
+pommiers            m, appelboom, appel, appelaar
 pompe               f, vertoon, prachtvertoon, pracht, pracht en praal, pomp
 pompes funèbres     f, begrafenisondernemer, mortuarium
 pompeusement        bombastisch, pompeus
@@ -17125,4 +17125,10 @@ zoologie            f, dierkunde, zoölogie
 zouave              m, soldaat
 zygomatique         m, muscle des lèvres
 lavette             f, schotelvod, vaatdoek
+ras-le-bol          m, fait d'en avoir assez, d'être excédé
+cadeau              m, cadeau
+prix                m, prijs
+authenticité        f, echtheid, authenticiteit, originaliteit
+priser, prisé       appreciëren, waarderen
+tiers               m, een derde
 === Le soir, 20/09/2017 ===
