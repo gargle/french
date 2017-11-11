@@ -6278,7 +6278,7 @@ enduit, enduire     balsemen, zalven, besmeren, bestrijken, insmeren, doorsmeren
 enduit              m, plamuur
 endurance           f, uithoudingsvermogen
 endurcis            m, gehard, taai, verstokt
-en effet            precies, beslist, dat... ook, inderdaad, met zekerheid, vertrouwd, zeker
+en effet            precies, beslist, dat... ook, inderdaad, met zekerheid, vertrouwd, zeker, c'est ça, c'est vrai
 en entier           in zijn geheel, helemaal, volledig
 en équerre          hoek
 énergie             f, energie, geestkracht, daadkracht
@@ -11839,6 +11839,8 @@ panthère            f, panter
 pantin              m, harlekijn, trekpop, rag doll
 pantois             beduusd, stomverbaasd, verbaasd, verwonderd, verstomd
 pantoufle           f, pantoffel
+faire la pantoufle  faire le paresseux, ne pas faire grand chose, en restant à la maison
+pantouflard         m, luiwammes, lanterfant, luilak, luiaard, vadsig
 paon                m, pauw
 papayer             m, meloenboom, papaja
 papeterie           f, kantoorbehoeften
@@ -13462,7 +13464,7 @@ quoi que ce soit    het doet er niet toe
 quolibets           m, schimpscheuten
 qu'ombrage          lommer, beschaduwen
 quota               m, quotum, quota
-quotidiens          m, dagblad
+quotidien, quotidiens  m, dagblad, gewoonheid, gemeenplaats, platitude
 rabâcher            oefenen, praktizeren, trainen
 rabaisser           vernederen, kleineren
 rabatteurs          bijeendrijvers, insluiten, verzamelaars
@@ -17135,4 +17137,6 @@ tiers               m, een derde
 être aux commandes  aan het hoofd staan van, toezicht hebben, leiden, gezag hebben over
 semestre            m, semester
 de la street        c’est la pratique d’un sport sans club, dans la rue ou sur un terrain libre d’accès
-=== france bienvenue 1 : la dixième équipe, 16 octobre 2017 ===
+à la bourre         te laat, achterblijfster, achterblijver, laatkomer
+grattouilles        c’est quand on gratte la tête d’un chien
+=== france bienvenue 1 : un compagnon à quatre pattes, 8 novembre 2017 ===
