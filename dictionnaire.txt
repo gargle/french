@@ -885,6 +885,7 @@ apaisé              geruststellen, tot bedaren brengen, paaien, kalmeren, lesse
 apaisement          m, bevrediging, kalmering, bedaren, verzoening, respijt
 apaiser             inpalmen, tot bedaren brengen
 à pari              om te wedden
+apart               m, abréviation familière de appartement
 aparté              afdwaling, terzijde, uitweiding
 à part entière      volledig
 à pas de loup       lentement, steathily, sluipend
@@ -9707,6 +9708,7 @@ joncher             bezaaien
 jonc                m, bies, riet, rietstok, rotan
 jonction            f, aankoppeling, samenkomst, kruispunt, kruising, samenvloeiing, wissel (treinsporen)
 jongleur            m, jongleur
+jongler             jongleren
 jonque              f, jonk, zeilvaartuig, zeilboot
 jonquilles          f, soort bloem, gelig
 joue aux dés        dobbelen
@@ -10975,6 +10977,7 @@ modeste             ingetogen, nederig
 modestie            f, bedeesdheid, bescheidenheid
 modique             beetje, geldsom, kleine geldsom
 modulé, moduler     moduleren, zingen
+modulation          f, modulatie, bewerking, adaptatie, verandering
 moelle              f, beenmerg, merg
 moelle osseuse      f, beenmerg
 moelleusement       confortable, gerieflijk, behaaglijk, comfortabel, gently
