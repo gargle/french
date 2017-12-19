@@ -690,7 +690,7 @@ aménagement         m, stedebouw, boedel, huisraad, inrichting, meubilering
 aménager, aménageant   inrichten, meubileren, toebereiden, to furnish
 amende              f, boete, geldboete
 amender             verbeteren, zich beteren, zijn leven beteren
-amener              aanbrengen, meenemen, gidsen, halen, brengen, de weg wijzen
+amener              aanbrengen, meenemen, gidsen, mennen, geleiden, voeren, halen, brengen, de weg wijzen
 aménité             f, beminnelijkheid, hartelijkheid, minzaamheid, vriendelijkheid
 amenuiser           snijden, verminderen, afscheiden, afsplitsen, vermageren
 âme qui vive        f, levende ziel
@@ -5156,7 +5156,7 @@ désapprobation      f, afkeuring
 désapprouver        afkeuren
 désarçonner         afwerpen, in verwarring brengen, puzelen, verbazen
 désargenter         iemand zijn geld afpakken
-désarmante          ontwapenend
+désarmant, désarmante      ontwapenend
 désarroi            m, wanorde, in de war
 désarticulé         dubbelgeleed, uit de kom draaien
 désavoué, désavouer onterven, verloochenen, niet erkennen
@@ -6921,7 +6921,9 @@ estuaire            m, riviermonding
 état d'éveil        m, waakzaamheid
 étatique            staats-
 état-major          m, staf, hoofdkwartier
-état                m, de staat
+état
+état des lieux      m, opsomming, ranglijst, ceel, cedel, lijst, enumeratie, opgave, plaatsgesteldheid
+m, de staat
 états d'âme         stemmingen
 étau                m, bankschroef
 étayer              ondersteunen, onderstutten, schragen, stutten
@@ -8768,7 +8770,7 @@ hérons              m, blauwe reiger
 héros               m, held, hoofdfiguur, protagonist
 hésitante           aarzelen, haperend, wankelend
 hésitation          f, halfslachtigheid, onzekerheid, twijfeling, weifeling
-hétéroclite         mengelmoes, rommetjes
+hétéroclite         mengelmoes, rommeltjes; vreemd, wonderlijkheid, eigenaardig, vreemdheid, buitenissigheid
 hêtre               m, beuk
 heure d'affluence   f, spitsuur, topdrukte, spits, piekuur
 heures creuses      f, daluren
@@ -11841,7 +11843,7 @@ panthéiste          m, pantheist
 panthère            f, panter
 pantin              m, harlekijn, trekpop, rag doll
 pantois             beduusd, stomverbaasd, verbaasd, verwonderd, verstomd
-pantoufle           f, pantoffel
+pantoufle           f, pantoffel, quelqu’un ou d’un animal qui n’a pas très envie de bouger
 faire la pantoufle  faire le paresseux, ne pas faire grand chose, en restant à la maison
 pantouflard         m, luiwammes, lanterfant, luilak, luiaard, vadsig
 paon                m, pauw
@@ -13467,7 +13469,7 @@ quoi que ce soit    het doet er niet toe
 quolibets           m, schimpscheuten
 qu'ombrage          lommer, beschaduwen
 quota               m, quotum, quota
-quotidien, quotidiens  m, dagblad, gewoonheid, gemeenplaats, platitude
+quotidien, quotidiens  m, dagblad, gemeenplaats, platitude, chose banale, dooddoener, banaliteit
 rabâcher            oefenen, praktizeren, trainen
 rabaisser           vernederen, kleineren
 rabatteurs          bijeendrijvers, insluiten, verzamelaars
@@ -17142,4 +17144,7 @@ semestre            m, semester
 de la street        c’est la pratique d’un sport sans club, dans la rue ou sur un terrain libre d’accès
 à la bourre         te laat, achterblijfster, achterblijver, laatkomer
 grattouilles        c’est quand on gratte la tête d’un chien
-=== france bienvenue 1 : un compagnon à quatre pattes, 8 novembre 2017 ===
+vaseux, vaseuse     modderig, vochtig; sale, smeerlapperij, vuil
+carpette            f, un petit tapis
+contexte            m, context
+=== france bienvenue 1 : Ah, quand même! 13 novembre 2017 ===
