@@ -6670,7 +6670,7 @@ en vrille           in spin
 épaisseur           f, compactheid, dichtheid, laag, taaiheid, dikte, layers, grootheid, grootte, omvang
 épaissie, épaissir  dikker worden, indikken, verdikken
 épanchées           overlopen, overstromen
-épanchements        m, ontboezemingen
+épanchements        m, ontboezemingen; écoulement (d'un liquide), overlopen, overstroming
 épanoui             ontwikkeld, opengebloeid, volgroeid, gerijpt
 epanouir            opbloeien
 épanouir            uitgroeien tot, opbloeien, spread out, blossom
@@ -14920,7 +14920,7 @@ se enliser          blijven steken
 se ennuyer d'ici        feeling homesick
 se en tirer         te trekken, zich eraan onttrekken
 se envoler          wegwaaien, vliegen, voorbijvliegen
-se épancher         zich laten gaan, ontboezingen, zijn hart uitstorten
+se épancher         zich laten gaan, ontboezingen, zijn hart uitstorten; overlopen, overstromen
 se éterniser        voortslepen
 se eventer          aanjagen, aanwakkeren, koelte toewaaien, koelte toewuiven, toewaaien
 se évertuer à       proberen, faire aussi bien que l'on peut
