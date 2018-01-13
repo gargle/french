@@ -9343,8 +9343,7 @@ inondée             onderstroomd, overvloeien, overstromen, overlopen, doordren
 inopinée            onverwacht
 inopinément         geimproviseerd
 inoubliable         onvergetelijk, gedenkwaardig, memorabel
-inouï               bovenmatig, buitengewoon, onovertroffen
-inouï               ongehoord
+inouï               bovenmatig, ongehoord, buitengewoon, onovertroffen
 inqualifiable       onuitsprekelijke
 in-quarto           m, format de pliage du livre (feuille d'impression)
 inquiétant          bedenkelijk, bezorgd, spookachtig, verontrustend
@@ -13831,7 +13830,7 @@ rédacteur, rédactrice  m/f, redakteur, samensteller
 reddition           f, overgave, capitulatie
 rédemption          f, afkoping, heil, redding, verlossing
 redéploiement       m, herschikking
-redevable           dank verschuldigd
+redevable           verschuldigd, verplichting, plicht, belasting, zich verplichten tot; dank verschuldigd
 redevances          auteursrecht, kijkgeld, koningschap
 redevenir           ontnuchteren, versoberen
 rédiger             bewerken, monteren, wijzigen, opstellen
@@ -15003,7 +15002,7 @@ s'emparer           de leiding nemen, overnemen, onder zijn hoede nemen, buitmak
 sempiternel         zonder einde, redondant
 s'empresser         zich haasten
 se mutiler          zich verminken
-s'en aller          achterlaten, verlaten, vertrekken
+s'en aller          achterlaten, verlaten, vertrekken; to go away, to leave
 Sénégal             m, le Sénégal
 s'en foutre         niks van aantrekken
 sénile              beverig, seniel
@@ -17147,4 +17146,5 @@ grattouilles        c’est quand on gratte la tête d’un chien
 vaseux, vaseuse     modderig, vochtig; sale, smeerlapperij, vuil
 carpette            f, un petit tapis
 contexte            m, context
-=== france bienvenue 1 : Ah, quand même! 13 novembre 2017 ===
+On ne saurait trop le recommender       we can not recommend it too much
+=== french stackexange - 6/1/2018 ===
