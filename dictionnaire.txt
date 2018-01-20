@@ -6512,7 +6512,7 @@ entablement         m, entablature (architectuur, bouwstijl)
 en tabulature       in notenschrift
 entailler           inkerven, kerven, krassen
 en tailleur         kleermakerszit
-entamer             aanroeren, aansnijden, ter sprake brengen, voorbereiden, aanbinden, aanbreken (fles)
+entamer, entamé     aanroeren, aansnijden, ter sprake brengen, voorbereiden, aanbinden, aanbreken (fles)
 en tandem           twee aan twee
 en tant             english: as, zoals, als
 en tant que         in de hoedanigheid van
@@ -17147,4 +17147,5 @@ vaseux, vaseuse     modderig, vochtig; sale, smeerlapperij, vuil
 carpette            f, un petit tapis
 contexte            m, context
 On ne saurait trop le recommender       we can not recommend it too much
-=== french stackexange - 6/1/2018 ===
+truculent           earthy; drôle, très drôle
+=== french stackexange - 20/1/2018 ===
