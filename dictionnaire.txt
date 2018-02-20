@@ -53,6 +53,7 @@ abondon             m, verlaten
 à bonne allure      goed tempo
 aborder             aanpakken, aan de orde stellen, ter sprake brengen, aansnijden, aanspreken, stoten op, beginnen
 abord               m, aanvaarding, ontvangst
+au premier abord    at first; aussitôt; meteen terstond
 abords              omgeving, omstreken
 aboucher            mond tot mond, samenbrengen
 à bout de bras      at arm's length
@@ -17158,4 +17159,6 @@ mistral             m, mistral, wind
 vu que              comme, parce que (familier)
 téléscopage         m, autobotsing, aanrijding, verkeersongeluk
 pote, potes         m, ami; mes potes, mes amis/amies
+adoption            f, adoptie; adopter, épouser
+ça fout rien        ça ne fait rien (style très oral)
 === La gloire de mon père - 31/01/2018 ===
