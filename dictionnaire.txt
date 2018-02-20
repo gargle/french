@@ -2044,6 +2044,7 @@ bienveillance       f, goede wil, welwillendheid
 bienveillante       aimabel, beminnelijk, liefdadig, minzaam
 bière               f, kist, grafkist, lijkkist, doodskist, bier, pint
 biffer              doorhalen, schrappen
+biffin              m, lompenhandelaar, lorrenman, voddenboer, voddenman, lompenhandelaarster, voddenraper
 bifurcation         f, afsplitsing, splitsing, tak, tweesprong, wegsplitsing
 bifurquer           zich afsplitsen, zich aftakken, zich splitsen
 bifurquons          afsplitsen, divergeren, aftakken, vertakken
@@ -2898,7 +2899,7 @@ casemate            f, kazemat, schuilkelder
 caserne             f, post, basis, kazerne
 cases               f, hokje, huisje, hut, keet
 ça s'est calmé      it has calmed down
-casier              m, bagagekluis, vakje
+casier              m, bagagekluis, locker, vakje, pronkkast, kast, compartiment, coupé
 cas                 m, case, casus, instantie, geval
 casoar              m, vogel, ensemble de plumes, panache de plumes (ornement vestimentaire)
 casqué              gehelmd
@@ -3298,7 +3299,7 @@ chien policier      m, speurhond
 chien ratier        m, straathond?
 chiens savants      getrainde honden
 chier               schijten
-chiffon             m, doek, lap, stofvod
+chiffon             m, doek, lap, stofvod; lor, tod,vod
 chiffonner          bekommeren, beklemmen, inquiéter, verontrusten?
 chiffonné           verfrommeld
 chiffons            m, lap, lor, vod
@@ -4670,6 +4671,7 @@ déchausser          zijn schoenen uittrekken
 déchéance           f, verval, vernedering, neergang, afgang
 dèche               f, misère
 déchet              m, afval, rest
+déchetterie         f, lieu où l'on jette des ordures
 déchiffrage         f, ontcijfering
 déchiffrer          decoderen, ontcijferen
 déchiquetage        m, verscheuren, to shred
@@ -6225,6 +6227,7 @@ en colchide         f, la Colchide est le royaume d'Aétès et de Médée et la 
 en collants noirs   in zwarte panty's
 encolure            f, halslijn, halsuitsnijding
 encombré            encombrer, occuper à l'excès, verstopt
+encombrant          hinderlijk, log, onhandelbaar, zwaar
 encombrements       m, ballast, belemmering, hindernis, opstopping, rem
 encombrer           blokkeren, stranden, vastlopen, slecht functioneren
 en compréhension    in begrip
@@ -7638,6 +7641,7 @@ flairer             ruiken, snuffelen
 flamant             m, flamingo
 flambant            vlammend
 flambeau            m, fakkel, toorts
+passer le flambeau  passer le flambeau, passer le relais; de fakkel doorgeven
 flamboyant          arbre tropical, fel, goedkoop, opzichtig, vlammend
 flammèches          f, vonkjes
 flamme              f, vlam, wimpel
@@ -9983,7 +9987,7 @@ légitime            rechtmatig
 le grand indicateur Chaix   spoorboekje, dienstregeling
 legs                m, erfenis, familiestuk, familietrekje, legaat
 léguaient           nalaten, achterlaten
-léguer              achterlaten, nalaten
+léguer              legateren; achterlaten, nalaten, vermaken, laten, legeren (laatste wil)
 légume              m, gewas, groente
 leitmotiv           m, leitmotiv
 le jeu en vaut la chandelle     het sop is de kool wel waard, le jeu n'en vaut pas la chandelle
