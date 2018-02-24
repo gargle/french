@@ -5555,7 +5555,8 @@ dominer             neerkijken, neerzien, uitzien op
 dominicale          zondags...
 dominicaux          zondags
 dominion            m, territoire dépendant et colonie, commenwealth
-dommage             m, averij, beschadiging, schade, nadeel
+dommage             m, averij, beschadiging, nadeel, schade
+dommageable         qui n'est pas favorable; nadeel, schade
 dompter             temmen
 dompteur            m, temmer, dompteur, trainer
 don                 m, gave, vaardigheid, vermogen
