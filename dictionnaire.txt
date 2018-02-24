@@ -10496,6 +10496,7 @@ manquer             missen, ontberen, gebrek hebben aan, offenser, ruzie zoeken
 manquer son coup    failing in your attempt
 mansarde            f, dakkamertje, zolderkamertje
 manteau             m, mantel
+manteau coupe-vend  m, wind jacket
 mante               f, soort insect
 mante religieuse    f, bidsprinkhaan
 mantille            f, sluier, voile, foulard
@@ -10519,6 +10520,7 @@ marbrier            m, iemand die met marmer werkt
 marbrure            f, spikkel, spijsvet, vlek
 marchandise         f, artikel, goederen, handelsgoederen
 marchand, marchande m/f, handelaar, koopman, winkeljuffrouw, winkelierster
+marche              f, mars, voortgang, vaart, gang, beweging, loop, tocht, tippel, snelwandelen, marstempo
 marche arrière      f, achteruit van versnelling
 marché aux puces    m, vlooienmarkt, rommelmarkt
 marche, marches     f, loopvlak, opstapje, gang, trap, voortgang
@@ -17162,4 +17164,6 @@ téléscopage         m, autobotsing, aanrijding, verkeersongeluk
 pote, potes         m, ami; mes potes, mes amis/amies
 adoption            f, adoptie; adopter, épouser
 ça fout rien        ça ne fait rien (style très oral)
+indolores           pijnloos
+gelure              f, bevriezing
 === La gloire de mon père - 31/01/2018 ===
