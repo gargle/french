@@ -13609,6 +13609,7 @@ rançon              f, afkoopsom, bescherming, losgeld
 rancune             f, wraakzucht, wrok, vete
 rancuneux           wrokkig, spiteful
 randonnées          f, wandeling, trektocht
+randonneur          m, wandelaar, trekker, langeafstandswandelaar
 rang d'oignons      'uienrang'?
 rangée              f, gelid, haag, rij, reeks, gelid
 rangement           m, inrichting, in orde brengen
