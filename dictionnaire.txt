@@ -13037,7 +13037,7 @@ prélèvement de moelle osseuse   beenmergpunktie
 prélever            aanslaan, belasten, heffen, afhalen, wegnemen, een stukje wegnemen
 préliminaire        m, inleidend, voorafgaand, openend, voor-, voorafgaand
 prématuré           vroeg, voorbarig
-pré                 m, beemd, gransland, hooiland
+pré, prés           m, veld, akker, beemd, gransland, hooiland
 préméditation       f, voorbedachtbeid, met voorbedachten rade
 prémédité           met voorbedachte rade
 premier rang        m, eerste rij
@@ -13097,7 +13097,6 @@ préserver de        behoeden voor, vrijwaren tegen
 président du conseil   chef et haut dignitaire, ministre - minister; ministerschap
 président           m, président, voorzitter
 présider            presederen, voorzitten
-prés                m, veld, akker, beemd
 présomptif          voorbestemd
 présomption         f, veronderstelling, instict
 présomptueuse, présomptueux              verwaand
