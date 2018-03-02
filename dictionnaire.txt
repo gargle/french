@@ -9823,7 +9823,7 @@ lâchant             verlaten, verlossen, lossen
 lâchement           laf, lafhartig, afraid, angstig
 lâche               m, lafaard, lafbek, bloodaard, soepel, afraid
 lâcher              bevrijden, droppen, prijsgeven, opgeven, verlaten, defect geraken, ophouden, laten gaan
-lâcher prise        loslaten
+lâcher-prise        m, loslaten
 lâcheté             f, lafheid
 la chose semble acquise         the thing seems certain
 la choucroute       f, zuurkool
@@ -12122,8 +12122,7 @@ péan                m, chant, hymne, paean
 peaufiner           lappen, zemen
 peau, peaux         f, huid, leer, pels, bont, vacht, vel, schil
 pêche au lancer     f, hengelsport, pêche à la ligne, sportvisserij
-peche               f, schacht, stang, poolstok
-pêche               f, visserij, visvangst
+pêche               f, visserij, visvangst; schacht, stang, poolstok
 péché               m, kwaad, zondigheid, zonde
 pèche, pécher       zondigen, een zonde begaan
 pêchers nains       m, dwergperzikkenboom
@@ -17166,4 +17165,6 @@ adoption            f, adoptie; adopter, épouser
 ça fout rien        ça ne fait rien (style très oral)
 indolores           pijnloos
 gelure              f, bevriezing
-=== La gloire de mon père - 31/01/2018 ===
+infusion            f, aftreksel, kruidenthee, kruidendrank, brouwsel
+sachet              m, buil, zakje, sachet
+=== Une petite tisane - 28/02/2018 ===
