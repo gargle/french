@@ -5145,6 +5145,7 @@ dérouter            benevelen, verduisteren, verbijsteren, verwarren
 désabusé            ontgoocheld
 désabuser           de illusie benemen, ontgoochelen, ontnuchteren
 désaccorder         faire devenir qqch en mauvais état, schade toebrengen
+désaccord           m, onenigheid, verdeeldheid
 désaffecté          niet meer gebruikt, verouderd
 désaffecter         wijzigen
 désagréable         slechtgehumeurd, onaangenaam, onaardig, aanstootgevend
@@ -7881,6 +7882,7 @@ foutre les boules   pissed off, ça fait chier
 foutre les jetons   faire très peur
 foutrement          verdoemen
 foutu               bloeiend, stomme
+ça fout rien        ça ne fait rien (style très oral)
 foyer               m, haardstede, vuurhaard, haardplaats, stookplaats, brandpunt, beeldscherpte, focus
 fracas              m, gekletter, gerammel, herrie, kabaal
 fracassant          vermorzelend, kapotvallend, neerstortend, stortend, crashend
@@ -10790,6 +10792,7 @@ mesa                f, tafelberg?
 mésange             f, koolmees, mees
 mésaventure         f, accident, ongeluk, ongeval, tegenspoed
 mésentériques       m, darmvlees
+mésentente          f, verdeeldheid, désentente, désaccord
 mésestime           f, considérer avec mépris
 mésestimer          se tromper, se tromper dans une évaluation
 mesquine            benepen, bekrompen, gemeen, gesloten, kleinzielig, pietluttig
@@ -11374,6 +11377,7 @@ nigaud              m, dwaas, idioot
 nimber              doordringen, entourer d'une auréole, omringen, omsluiten, omgeven
 nippes              f, vodden
 niveau              m, niveau, graad, kwadrant
+au niveau           au niveau de la, au niveau des; en ce qui concerne
 nnailenouissait     opbloeien, uitgroeien tot
 noblaillon          m, kleine adel
 noble               hooghartig, edel, adellijk, waardig, belangrijk
@@ -17167,4 +17171,7 @@ indolores           pijnloos
 gelure              f, bevriezing
 infusion            f, aftreksel, kruidenthee, kruidendrank, brouwsel
 sachet              m, buil, zakje, sachet
+désastre            m, ramp, catastrofe, onheil
+désastreux          très mauvais, un vrai désastre; catastrophique, une catastrophe
+guillemet, guillements       m, aanhalingsteken, quote
 === Une petite tisane - 28/02/2018 ===
