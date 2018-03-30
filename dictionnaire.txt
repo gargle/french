@@ -808,7 +808,7 @@ anguille            f, aal, paling, slangachtig
 anguleux            gehoekt, hoekig, kantig
 ânier               m, ezeldrijver
 animalière          m, beest, dier, spel
-animal              m, beest, dier
+animal, animaux     m, beest, dier
 animateur           m, animator, conférencier, quizmaster
 animation           f, animatie
 animation           f, levendigheid, animatie
@@ -3702,6 +3702,8 @@ compensation        f, compensatie, tegemoetkoming, beloning, vergoeding, schade
 compenser           goed boeren, in het leven slagen, compenseren, schadeloosstellen
 compétence          f, competentie, deskundigheid, vaardigheid
 compétitivité       f, concurrentievermogen
+compétitrice        f, j’ai l’esprit de compétition
+quelqu’un de très compétitrice       je n’ai pas vraiment l’esprit de compétition
 complaire, complu   likken, strooplikken, vlijen, être en joie, vreugde, blijdschap, se réjouir
 complaisamment      avec complaisance
 complaisance        f, opschepper, grootspreker, inschikkelijkheid, behulpzaam, hulpvaardig, vriendjespolitiek
@@ -4284,7 +4286,7 @@ crachoter           sputteren, to spit
 craie               f, krijt, krijtje, kalk
 craindre, craigne   duchten, vrezen
 craindre            vrezen, spijten, berouwen
-crainte             f, angst, vrees
+crainte             f, angst, vrees; c’est moins fort que la peur
 craintif            beducht, schikaanjagend, bangig, schichtig, schuw, angstig
 craintive, craintif angstig, bang, schuw, schuchter
 craintivement       angstig, bedeesd, beducht, beschroomd
@@ -12380,7 +12382,7 @@ peuplier            m, populier
 peu raisonnable     onredelijk
 peureuse            aangstvallig, angstig, beducht, laf
 peureusement        angstig, angstvallig
-peur                f, angst
+peur                f, angst; grosse peur
 peu sans doute      wat waarschijnlijk
 peut s'y prendre    to manage
 phagocyte           m, cel, levende cel
@@ -17181,4 +17183,6 @@ trilogie            f, trilogie
 ça part en live     ça devient complètement fou
 prestation          f, prestation des acteurs; le jeu des acteurs, ce que les acteurs font
 donner de sa personne  se donnent de leur personne; qu’on s’implique dans quelque chose, faire tout ce qu’on peut
-=== Quand Tina et Laëtitia font leur cinéma --- 30/03/2018 ===
+monter à cheval     j’ai une grosse peur de monter à cheval !
+effectivement       c'est vrai; on emploie cet adverbe pour confirmer ce qui vient d’être dit
+=== Le cheval, c’est génial ! --- 30/03/2018 ===
