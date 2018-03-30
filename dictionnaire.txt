@@ -4049,8 +4049,8 @@ cor de chasse       m, jachthoorn
 cordée              f, alpinisten, aaneengelosten met een koord
 corde               f, koord, kabel, lijn, streng, strik, strop, touw, snaar
 cordelette          f, worgpaal, wurgpaal, wurgtouw, kort touwtje
-cordes              f, snaren
-cordes              snaar, kabel, koord, lasso, lijn
+cordes              f, snaren, kabel, koord, lasso, lijn
+corde sensible      f, toucher une corde sensible; pour dire que qq. chose nous touche particulièrement, personnelle
 cordiale            gezellig, hartig, joviaal, vriendelijk
 cordial             hart-, innig, gezellig
 cordialité          f, aardigheid, beminnelijkheid, medeleven
@@ -11931,6 +11931,7 @@ pare-feu            m, firewall, schutting voor open haard
 pareille            eender, gelijksoortig, gelijk, zulk
 pareillement        even, idem, van het zelfde, eveneens, evenzo
 pareils             zulk, gelijksoortig, soortgelijk, gelijke
+pareil              de la même façon, aussi. (familier, oral uniquement)
 parement            m, galakleding
 par endroits        lokaal, hier en daar, here and there
 parenté             f, verwantschap, overeenkomst, gelijkenis
@@ -12048,6 +12049,7 @@ passeur             m, smokkelaar, veerman, pontwachter, traverser (un lieu, un 
 passe-violet        m, couleur que le fer ou l'acier acquiert à un certain degré de feu
 passion             f, passie, lijdensgeschiedenis, lijdensverhaal
 passionnément       dwepend, gepassionneerd
+passionné(e) de     avoir la passoin du cinéma
 pastèque            f, watermeloen
 pasteurisation      f, pasteurisatie
 pasteur             m, herder
@@ -17174,4 +17176,9 @@ sachet              m, buil, zakje, sachet
 désastre            m, ramp, catastrofe, onheil
 désastreux          très mauvais, un vrai désastre; catastrophique, une catastrophe
 guillemet, guillements       m, aanhalingsteken, quote
-=== Une petite tisane - 28/02/2018 ===
+tenir à cœur        être très important
+trilogie            f, trilogie
+ça part en live     ça devient complètement fou
+prestation          f, prestation des acteurs; le jeu des acteurs, ce que les acteurs font
+donner de sa personne  se donnent de leur personne; qu’on s’implique dans quelque chose, faire tout ce qu’on peut
+=== Quand Tina et Laëtitia font leur cinéma --- 30/03/2018 ===
