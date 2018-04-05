@@ -10403,6 +10403,7 @@ malchanceuse        gedoemd, niet gelukkig, onfortuinlijk
 malchanceux         m, onfortuinlijke, pechvogel, ongeluksvogel
 malconfort          m, ongemak
 mal de signes       slechte tekenen
+mal, maux           m, het slechte, pijnen
 maldonne            f, probleem, fout, dwaling, fout delen, vergeven
 malédiction         f, godslastering, krachtterm, vervloeking
 maléfiques          kwaad, kwade, slecht
