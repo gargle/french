@@ -17176,7 +17176,6 @@ indolores           pijnloos
 gelure              f, bevriezing
 infusion            f, aftreksel, kruidenthee, kruidendrank, brouwsel
 sachet              m, buil, zakje, sachet
-<<<<<<< HEAD
 hit-parade          m, hit parade
 dynamo              f, dynamo
 panacée             f, panacea, middel tegen alle kwalen
