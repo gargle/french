@@ -969,6 +969,7 @@ appeau              m, lokvogel
 appeler les mœurs   vice-squad, zedenpolitie
 appels              m, bevel, oproep, telefoongesprek, trigger, gil, kreet, lokroep
 appendice           m, aanhangsel, blinde darm, bijlage
+appendicite         f, blindedarmontsteking
 appentis            m, afdak, luifel, schuurtje, bijgebouw
 appesantir          uitmeten, uitweiden over, toenemen, steunen op
 appetit             m, graagte, hongerigheid
@@ -1522,7 +1523,7 @@ aux enchères        op veilingsites, bij opbod, ebay
 aux environs        in de buurt, omheen
 aux fins de         met als doel, als doelstellling
 aux îles Scilly     Scilly eilanden
-auxiliaire          m, hulpkracht, helper, bondgenoot, assistente
+auxiliaire          m, hulpwerkwoord, hulpkracht, helper, bondgenoot, assistente
 avait pas de milieu er was geen tussenweg
 avalanche           f, lawine, sneeuwlawine
 avalé               in zich opnemen, doorslikken
@@ -4469,7 +4470,7 @@ cuivre              m, koper
 culasse             f, koppakking
 culbuter            val, vallen, tuimelen
 cul de poule        m, grimace de la bouche
-cul-de-sac, cul de sac m, doodlopende straat
+cul-de-sac, culs-de-sac m, doodlopende straat
 cul                 m, achterkant, achterzijde, kont
 culminant           leidend tot een climax, het hoogtepunt bereiken, culmineren
 culot               m, schaamteloosheid
@@ -9257,9 +9258,8 @@ inexpérimenté       met weinig ervaring, onervaren, groen, nieuw
 inexprimable        onuitsprekelijk
 inexpugnable        ongenaakbaar, ontoegankelijk, onoverwinnelijk
 inextinguible       niet te doven, onblusbaar
-inextricable        onlosmakelijke
-infamante           smadelijk
-infamant            smadelijk
+inextricable        uiterst verward, onlosmakelijk, onontwarbaar
+infamant, infamante smadelijk
 infâme              afgrijselijk, schandelijk, schofterig, schurkachtig
 infantilisante      kinderlijk behandelen
 infarctus           m, infarct
@@ -17167,4 +17167,7 @@ indolores           pijnloos
 gelure              f, bevriezing
 infusion            f, aftreksel, kruidenthee, kruidendrank, brouwsel
 sachet              m, buil, zakje, sachet
-=== Une petite tisane - 28/02/2018 ===
+hit-parade          m, hit parade
+dynamo              f, dynamo
+panacée             f, panacea, middel tegen alle kwalen
+=== competence de base, test d'auto-evaluation - 05/04/2018 ===
