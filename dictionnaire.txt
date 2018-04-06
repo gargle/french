@@ -16336,7 +16336,7 @@ traiteur            m, traiteur
 trait               m, trek, gelaatstrek, lijn
 trait pour trait    trek voor trek, streek voor streek
 traitre             melken
-traître, traîtresse     trouweloos, ontrouw, m, f, verrader, verraadster, bedrieger, bedriegster, leugenaar, leugenares
+traître, traîtresse     verraderlijk, ontrouw; m, f, verra(a)d(er/ster), bedrieg(er/ster), leugena(a)r(es)
 traits              m, trekken, penseeltrekken, lijnen
 trajectoire         f, traject, kogelbaan
 trajet              m, baan, route, weg, tocht, reis, reisroute
