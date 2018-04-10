@@ -1967,7 +1967,7 @@ benêt               m, debiel, domkop, domoor, uiskuiken
 bénévolence         welwillendheid
 bénévoles           vrijwillig
 béni                gezegende
-bénigne             goedaardig, onschuldig
+bénin, bénigne      goedaardig, onschuldig
 bénignité           weldadigheid
 bénir               inzegenen, wijden, zegenen
 bénit, bénite       gezegend, gewijd, geheiligd
@@ -5264,8 +5264,7 @@ destituer           afzetten
 destrier            m, strijdros
 destructeur         m, vernieler
 déstructuré         ongestructureerd
-désuet              achterhaald, in onbruik
-désuète             achterhaald, in onbruik, ouderwets, verouderd
+désuet, désuète     achterhaald, in onbruik, ouderwets, verouderd
 de surcroît         daarenboven
 dès                 vanaf
 des violettes       regenboogkleuren
@@ -12137,6 +12136,7 @@ peau, peaux         f, huid, leer, pels, bont, vacht, vel, schil
 pêche au lancer     f, hengelsport, pêche à la ligne, sportvisserij
 pêche               f, visserij, visvangst; schacht, stang, poolstok
 péché               m, kwaad, zondigheid, zonde
+pécheur, pécheresse m, f, zondaar, zondares
 pèche, pécher       zondigen, een zonde begaan
 pêchers nains       m, dwergperzikkenboom
 pêcher              vissen, hengelen
@@ -16341,7 +16341,7 @@ traiteur            m, traiteur
 trait               m, trek, gelaatstrek, lijn
 trait pour trait    trek voor trek, streek voor streek
 traitre             melken
-traître             trouweloos, ontrouw, m. verrader, leugen, bedrieger, leugenaar
+traître, traîtresse     verraderlijk, ontrouw; m, f, verra(a)d(er/ster), bedrieg(er/ster), leugena(a)r(es)
 traits              m, trekken, penseeltrekken, lijnen
 trajectoire         f, traject, kogelbaan
 trajet              m, baan, route, weg, tocht, reis, reisroute
@@ -17196,4 +17196,5 @@ monter à cheval     j’ai une grosse peur de monter à cheval !
 effectivement       c'est vrai; on emploie cet adverbe pour confirmer ce qui vient d’être dit
 affirmer            beamen, ja zeggen, toestemmen, verzekeren; bevestigen, verklaren
 régionalisme        m, language parlé, omgangstaal, spreektaal
+pâlot, pâlotte      bleek, pips, wit weggetrokken; groen zien van, ziekelijk
 === https://francaisdenosregions.com/2018/04/03/le-midi-vous-dejeunez-ou-vous-dinez ===
