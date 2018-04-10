@@ -4880,7 +4880,11 @@ déjanter            faire sortir un pneu de la jante, se mettre à l'extérieur
 déjection           f, stoelgang, uitwerpselen, excrementen
 déjeter             kromgroeien, scheefgroeien, vergroeienn
 déjeuner au vitriol ?
-déjeuner            ontbijten, lunch, middageten
+petit déjeuner      ontbijten 
+petit déjeuner      m, ontbijt
+déjeuner            m, lunch, middageten, diner
+déjeuner            lunchen, middageten, dineren
+dîner               dineren, het avondmaal/warme maaltijd gebruiken, soeperen, tafelen
 déjouer             doorkruisen
 de justesse         ternauwernood, maar net
 délabrées           bouwvallig, vervallen
@@ -6128,7 +6132,7 @@ empêchés            belet, tegengewerkt, tegengehouden, verhinderd
 empêcheur           m, lastpost
 empeser             met stijfsel bewerken, opstijven
 empester, empesté   rieken, stinken
-empêtrer            betrekken, verstrikken, verwarren
+empêtrer            verstrikken, verwarren, betrekken
 empierré            met stenen bedekt, bestraat
 empiéter            inbreuk maken op, overtreden, schenden
 empiffrer           manger beaucoup
@@ -15109,6 +15113,7 @@ se replier          terugtrekken, zich terugtrekken
 se reposer          steunen op, zich verlaten op
 se reprocher        zich schamen
 se resserver        hergebruikt worden
+se restaurer        apaiser la faim de qqn, hun honger stillen
 se retrouver        terechtkomen, te voorschijn komen, aanbelanden, eindigen met, vallen
 serf                m, horige, lijfeigene, halfvrije
 sergent de ville    m, politie, stadswacht
@@ -16336,7 +16341,7 @@ traiteur            m, traiteur
 trait               m, trek, gelaatstrek, lijn
 trait pour trait    trek voor trek, streek voor streek
 traitre             melken
-traître, traîtresse     trouweloos, ontrouw, m, f, verrader, verraadster, bedrieger, bedriegster, leugenaar, leugenares
+traître, traîtresse     verraderlijk, ontrouw; m, f, verra(a)d(er/ster), bedrieg(er/ster), leugena(a)r(es)
 traits              m, trekken, penseeltrekken, lijnen
 trajectoire         f, traject, kogelbaan
 trajet              m, baan, route, weg, tocht, reis, reisroute
@@ -17189,5 +17194,7 @@ prestation          f, prestation des acteurs; le jeu des acteurs, ce que les ac
 donner de sa personne  se donnent de leur personne; qu’on s’implique dans quelque chose, faire tout ce qu’on peut
 monter à cheval     j’ai une grosse peur de monter à cheval !
 effectivement       c'est vrai; on emploie cet adverbe pour confirmer ce qui vient d’être dit
+affirmer            beamen, ja zeggen, toestemmen, verzekeren; bevestigen, verklaren
+régionalisme        m, language parlé, omgangstaal, spreektaal
 pâlot, pâlotte      bleek, pips, wit weggetrokken; groen zien van, ziekelijk
-=== competence de base, test d'auto-evaluation - 05/04/2018 ===
+=== https://francaisdenosregions.com/2018/04/03/le-midi-vous-dejeunez-ou-vous-dinez ===
