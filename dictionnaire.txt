@@ -162,7 +162,6 @@ accrue, accroître   groeien, ophogen, oplopen, toenemen, verhogen, stijgen
 accru               verhogen, vermeerderd
 accueillante        gastvrij, huiselijk
 accueillir          opnemen, onthalen, verwelkomen, welkom heten
-accueil             m, onthaal?
 accueil             m, onthaal, ontvangst
 acculer             in het nauw drijven
 accumulation        f, aanwas, ophoping
@@ -2604,6 +2603,7 @@ cadi                kadi, religieuze chef (islaam)
 cadrage             m, framing, in beeld brengen
 cadran              m, wijzerplaat
 cadre               m, deel, kader
+ce cadre            cet environnement, ce lieu
 cadrer              kloppen, sluiten, kadreren, image et représentation (visuelle) - (plaatje)
 caduque, caduc      aftands, bouwvallig, gammel, krakkemikkig, vergankelijk, wankel
 çà et là            derwaarts, naar alle kanten, hier en daar, hier en overal
@@ -4012,6 +4012,7 @@ convier             uitnodigen
 convié              uitgenodigd
 convives            m, tafelgast, eetster, eter, gast, logé
 convivial           gezellig, hartelijk, joviaal
+convivialité        le sens de l'accueil
 convocation         f, dagvaardiging, oproep
 convoi              m, konvooi, begeleiding, vrijgeleide
 convoitait, convoiter        begeren, hunkeren, verlangen, zuchten
@@ -4022,7 +4023,7 @@ convulser           samentrkken, schokken, agiteren, drillen, in beweging brenge
 convulsif           krampachtig
 convulsions         f, stuiptrekkingen, stuipen
 convulsivement      krampachtig
-copain              m, maat, makker, vriend
+copain, copine      m, f; maat, makker, vriend, vriendin
 copie               f, a copy, kopij
 copier sur lui      afschrijven?
 copieux             overvloedig, kopieus, uitgebreid, rijkelijk voorhanden, rijkelijk, hartig, kwistig, overdadig
@@ -6103,7 +6104,7 @@ emmagasinée, emmagasiner  bergen, bewaren, bijeenbrengen, opslaan, oppotten
 emmaillotée         hullen, omzwachtelen
 emmanché            commencer
 emmanché            con, idiot, imbécile
-emmazouté           
+emmazouter, emmazouté    (être) souillé, pollué par du mazout
 emmêlement          m, entanglement, in de knoop, knoop
 emmêler             in de knoop maken, verwarren, verstrikken
 emménager           betrekken, intrekken
@@ -6661,6 +6662,7 @@ envier              benijden, misgunnen, jaloers zijn op
 envier, envié       benijden, misgunnen
 environner          être situé autour
 environ             ongeveer
+environnement       m, omgeving, milieu
 environs            m, entourage, milieu, omgeving, omstreken, geburen
 en virtuose         magistraal,  meesterlijk, virtuoos
 envisager           overwegen, nadenken over, zich inbeelden, zich verbeelden
@@ -7497,6 +7499,7 @@ fermes              f, boerderij
 fermeté             f, beslistheid, degelijkheid, stevigheid, grondigheid, firmness
 fermeture à glissière  f, ritssluiting
 fermeture éclair    f, ritssluiting
+ferme               f, boerderij
 fermier             m, landbouwer, boer
 fer                 m, ijzer, strijkijzer
 fermoir             m, haaksluiting, gesp, knip
@@ -8761,7 +8764,7 @@ hémorragie          f, bloeding, uitstorting
 henné               m, henna
 hennissement        m, gehinnik
 herbe rase          f, kort gras
-herbes              f, gras, kruiden
+herbe, herbes       f, gras, kruiden
 herbes folles       f, onkruid
 herbes sauvages     f, wilde kruiden, onkruid?
 herbeux             herbeuses, bedekt met gras, grasrijk, grazig
@@ -10317,7 +10320,7 @@ macaron             m, kokoskoekje, gebak, taart, haarsnit, insigne
 macchabées          m, aas, kadaver, kreng, stoffelijk overschot
 macérer             devenir mouillé, mettre en contact avec un liquide
 mâchefer            m, cendré, cendreux, ver-assen, afbrokkelen, overblijfsel
-mâche               f, groente, feuille alimentaire
+mâche               f, groente, feuille alimentaire, la mâche est une variété de salade
 mâcher              kauwen
 maches de chemise   hemdsmouwen
 machination         f, intrige, kuiperij
@@ -11331,6 +11334,7 @@ négrillon, négrillonne    m/f, enfant négre
 négroïde            negroid
 nématode            m, ronde worm
 n'empêche que       niettemin
+empêcher            verhinderen, voorkomen, beletten, tegenhouden
 nems                m, loempia
 néné                m, borst, tiet
 n'en savoir que faire   niet weten wat te doen
@@ -11954,6 +11958,7 @@ paresseux, paresseuse         m/f, leegloper, luiaard, luiwammes
 par excellence      bij uitstek
 par extraordinaire  door buitengewone
 parfaire            perfectioneren
+parfum              m, parfum, geur
 par hasard          toeval, toevalligheid, bij toeval, per toeval, toevalligerwijs
 parier, pariaient   gokken, inzetten, wedden
 pari                m, gok, weddenschap, spelen
@@ -12891,6 +12896,7 @@ postiche            m, haarstukje, pruik, toupet, vals haar
 postillonne         sputters, stotteren?
 posture             f, lichaamshouding
 potable             drinkbaar, accepteerbaar
+potage              m, soep
 potager             f, moestuin
 potageurs, jardin potager   groentebed, groentetuin, kruidentuin, moestuin
 pot-au-feu          m, stoofpot, stoofschotel
@@ -13170,6 +13176,7 @@ principauté         f, prinsdom, vorstendom
 principaux          belangrijkste, voornaamste, hoofd-
 principe            m, aanhef, inleiding, principe
 printanier          lente-, voorjaars-
+hivernal, hivernale winters
 printemps           m, lente
 pris à partie       genomen om de taak?
 pris au piège       gevangen
@@ -13904,7 +13911,7 @@ réfutable           weeglegbaar
 réfutation          f, ontkrachting, ontzenuwing, weerlegging
 réfuter             ontzenuwen, weerleggen
 regagner            inhalen, weer bereiken, herwinnen
-régala, régaler     aanbieden, geven, onthalen op, tracteren, vergasten op, smikkelen, smullen van
+régala, régaler     tracteren, onthalen op, vergasten op, aanbieden, geven, smikkelen, smullen van
 regard aigu         m, doordringende blik
 regarder fixement   aanstaren, fixeren
 regard franc        m, directe blik, eerlijk, frank, overholen, openhartig, onbedekt
@@ -15418,6 +15425,7 @@ soupçon d'amertume  m, hint van bitterheid
 soupçonner          inbeelden, aannemen, wanen, verbeelden
 soupçonneux         suspicious, achterdochtig
 soupçon, soupçons   m, achterdocht, argwaan, wantrouwen, verdenking, hoop, hint
+soupe               f, soep
 souper              avondeten, souper
 soupeser            met de hand wegen
 soupirail           m, venstertje, opening, kijkgat
@@ -17197,4 +17205,10 @@ effectivement       c'est vrai; on emploie cet adverbe pour confirmer ce qui vie
 affirmer            beamen, ja zeggen, toestemmen, verzekeren; bevestigen, verklaren
 régionalisme        m, language parlé, omgangstaal, spreektaal
 pâlot, pâlotte      bleek, pips, wit weggetrokken; groen zien van, ziekelijk
-=== https://francaisdenosregions.com/2018/04/03/le-midi-vous-dejeunez-ou-vous-dinez ===
+chauvin, chauvine   m, f; chauvinist(e)
+être à cheval sur quelque chose       estimer que quelque chose est très important, on ne peut pas faire autrement
+rissoler            uitbakken, uitbraden
+suivant la lumière  selon la lumière, en fonction de la lumière
+au fil du temps     over time, door de jaren heen
+oseille             f, veldzuring
+=== francebienvenau 2 - A la soupe - 13/04/2018 ===
