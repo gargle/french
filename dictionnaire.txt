@@ -7499,6 +7499,7 @@ fermes              f, boerderij
 fermeté             f, beslistheid, degelijkheid, stevigheid, grondigheid, firmness
 fermeture à glissière  f, ritssluiting
 fermeture éclair    f, ritssluiting
+fermeture           f, sluiting
 ferme               f, boerderij
 fermier             m, landbouwer, boer
 fer                 m, ijzer, strijkijzer
@@ -17214,4 +17215,7 @@ au fil du temps     over time, door de jaren heen
 oseille             f, veldzuring
 équipier, équipière m, f; personeel; on fait partie d’une équipe
 être classe         être élégant, raffiné; Elle a de la classe. / Elle est classe.; C’est la classe !
-=== francebienvenue 1 - Le rêve de Mina - 16/04/2018 ===
+lambda              m, quelconque, ordinaire; qui n’a rien de spécial et représente en quelque sort tous les autres
+local, locaux       m, opbouw, constructie, bebouwing, gebouw; un bâtiment qui sert à l’activité d’une entreprise
+activité            f, beroepsbezigheid, activiteit, werkzaamheid
+=== francebienvenue 2 - La mort dans l'âme - 17/04/2018 ===
