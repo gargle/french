@@ -3094,6 +3094,7 @@ champ d'herbes      grasveld
 champenoise         de Champagne
 champignon          m, paddestoel, champignon
 champ               m, baan, circuit, invloedssfeer, akker, veld, smalle kant van een kist
+champ d'application m, scope 
 chancelante         aangeslagen, aarzelend, onvast, wankel
 chanceler, chancela duizelen, hompelen, strompelen, wankelen
 chancelèrent        duizelen, slingeren, strompelen, wankelen, wiebelen
@@ -4733,7 +4734,7 @@ décor               m, decor, plaatje
 décortiquant, décortiquer     analyseren, doppen, afpellen, pellen, schillen, afstropen, villen
 de côté             zijwaarts
 découcher           partir, quitter un lieu, se déplacer
-découler            voortkomen, volgen (op), voortvloeien uit
+découler, découlant     voortkomen, volgen (op), voortvloeien uit
 découpage           m, perforatie, scheiden
 découpé             afgevijld, bijgesneden, verknipt
 découper            aansnijden, afknippen, uitknippen, stand out against
@@ -4893,7 +4894,7 @@ délabrement         bouwvalligheid, gebrekkigheid, verkrotting, verval
 de la chance        geluk
 de la côte          aan de kant
 délaie              devenir à l'état liquide
-délai               m, wachttijd
+délai, délais       m, wachttijd
 délaisser           laten varen, verlaten, eenzaam, forsaken, achtergelaten
 délaissés           diepbedroefd, eenzaam, verlaten
 de la peine         pijn doen, met moeite, pijn voelen, triest zijn
@@ -13937,8 +13938,8 @@ régistre d'écrou    m, gevangenisregister
 registre            m, archief, taalgebruik
 règle               f, regel, principe
 réglé               gelijnd, met regels
-réglement des comptes    m, afrekening
-règlement           m, afrekening, reglement, regeling, decreet, verordening
+règlement des comptes    m, afrekening
+règlement           m, regel, verordening, reglement, stelregel, afrekening, regeling, decreet
 régler              afstemmen, afstellen
 réglisse            drop, zoethout
 régnante            heersend
@@ -17228,4 +17229,9 @@ soi-disant          à ce qu’on prétend, would-be, zogenaamd
 agrandissement      m, exansie, uitbreiding, vergroting, het vergroten, uitvergroting
 effluent            m, effluent, afvalwater
 marchand de sommeil     m, huisjesmelker
-=== francebienvenue 2 - Une vie raisonnable avec ses vaches - 20/04/2018 ===
+législation         f, wetgeving, wet, jurisprudentie
+réglementation      f, regelgeving
+union               f, unie
+Union européenne    f, Europese Unie
+sigle               m, letterwoord, initiaalwoord
+=== le soir, La protection des données: mesures à prendre!, 19/04/2018 === 
