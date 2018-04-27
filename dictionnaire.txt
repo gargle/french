@@ -3798,7 +3798,8 @@ condescendance      f, laatdunkendheid
 condescendre        zich verwaardigen, zich waardig achten
 condiment           m, kruiderij, specerij
 condisciples        m, compagnon d'études, camerade, compagnon, copain
-condition           f, omstandigheid, toestand, vereiste
+condition           f, omstandigheid, toestand, vereiste, voorwaarde
+conditions générales   f, algemene voorwaarden, algemene bepalingen
 condoléance         f, rouwbeklag
 conducteur          m, bestuurder, geleider, stroomgeleider
 conduire            leiden tot, de weg wijzen, 
@@ -5807,8 +5808,7 @@ echo                m, echo
 éclairante          verlichtend
 éclaircir           uiteenzetten, voorlichte, uitklaren, getting thinner
 éclaircissement     m, opklaring, verklaring, verlichting
-éclairer            verlichten, belichten
-éclairer            verlichten, stralen, oplichten
+éclairer            verlichten, belichten, stralen, oplichten; verduidelijken, duiden, expliceren, toelichten
 éclaireur           padvinder, talentjager, verkenner
 éclaireurs          m, padvinder, verkenner
 éclair              m, bliksem, licht(flits), trek, weerlicht, flash, flits, relevation, openbaring
@@ -6445,7 +6445,7 @@ en outre            en daarbij ook, bovendien, verder
 en pagaille         bij de vleet
 en partance         qui arrive, binnenkomend, hoek, kant, richting, zijde, aftredend, uitgaand
 en particulier      in het bijzonder, speciaal, specialiter
-en partie           gedeeltelijk, voor een deel
+en partie           gedeeltelijk, voor een deel <> en tout
 en passant          achteloos, nonchalant, terloops
 en passe de         ingesteld op
 en peine de         ressentir cruellement le manque de quelque chose
@@ -6542,6 +6542,8 @@ entasse             zich opstapelen, ophopen
 en taule            in de gevangenis
 entéléchie          f, karakter, staat, eigenschap
 entendement         m, begrijpen, inzicht, notie, begrip, benul
+entendeur           m, luisteraar, de verstaander
+à bon entendeur     aan de goede verstaander 
 entendre            beproeven, de voorzorg nemen om, doelen op, intenderen, beogen, bedoelen, horen
 entendre            overweg kunnen met, boteren tussen, kunnen opschieten met
 entente             f, akkoord, afspraak, verstandhouding, begrip, wapenstilstand?
@@ -6572,6 +6574,7 @@ entouré             omsluiten, omgorden
 entourer            aangorden, omgorden, omsluiten
 en tous cas         in alle gevallen, in elk geval
 en tous points      in alle opzichten
+en tout             in zijn geheel <> en partie
 en tout cas         in elk geval, in ieder geval, toch, in any case
 en toute hypothèse  in elke geval
 en tout état de cause   in ieder geval
@@ -10174,6 +10177,7 @@ lissé               glad
 lisse               kalm, glad, glanzend, vlak, stil, zijdeachtig, satijnzacht
 lisser              gladstrijken
 liste               f, lijst
+mailing liste       f, mailing
 lit de camp         m, campingbed, hangmat, veldbed
 lit de fortune      kermisbed
 lit de sangle       kinderbed
@@ -11974,6 +11978,7 @@ par justification   f, met rechtvaardiging, rechtvaardiging, verantwoording, ver
 parka               f, parka
 parking             m, parking
 par la suite        achteraf, daarna, later, nadien, toen
+Parlement           m, parlement
 parlementer         onderhandelen
 par le menu         in geuren en kleuren, tot in de kleinste details
 par l'entreprise    met de hulp van, door, via
@@ -11984,6 +11989,7 @@ parloir             m, spreekkamer, ontmoetingskamer, in gevangenis of klooster
 par ma foi          volgens mij?
 parme               mauve, kleur
 par monts et par vaux   over berg en dal
+par ordre pour respecter     in order to           
 paroi               f, muur, oppervlakte, wand
 parois              f, wand, facade, afscheiding
 paroisse            f, kerkdorp, parochie, wijkgemeente, kerkgemeente
@@ -17234,4 +17240,9 @@ réglementation      f, regelgeving
 union               f, unie
 Union européenne    f, Europese Unie
 sigle               m, letterwoord, initiaalwoord
+document            m, document, verslag
+en vigueur          van kracht, heersend, geldend, geldig, veel voorkomend; van kracht, geldig, bedrijvend
+entrer en vigueur   van kracht worden, in werking treden; ingaan; effect hebben
+collecte            f, inzameling, verzameling
+coordonnées         f, coördinaten; indication de position (absolue) dans l'espace
 === le soir, La protection des données: mesures à prendre!, 19/04/2018 === 
