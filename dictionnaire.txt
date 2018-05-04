@@ -3468,7 +3468,7 @@ claquer             in het slot vallen, knallen
 clarinette          f, klarinet
 clarté              f, herderheid, klaarheid, straling
 classe en termnale  f, laatstejaar middelbaar
-classe              f, klasse
+classe              f, klasse; être classe, c’est être élégant, raffiné
 classeur            m, classeur, draagmap, archiefkast
 classification      f, rangschikking, classificatie
 claudiquer          hinken
@@ -5978,7 +5978,7 @@ effusion            f, directe uiting van gevoelens
 élancement          m, klop, scheut
 élancé              slank
 élan                m, aanloop, sprong, opwekking, prikkel, plunge, impulses
-élargir             verbreden
+élargir             verbreden; t'élargir, découvrir de nouvelles choses
 élasticité          veerkracht, spankracht, soepelheid
 élastine            f, elastine, rekbare stof
 élastique à chaussette  m, elastiek, sokophouder
@@ -6790,7 +6790,6 @@ equinoxe            m, equinox
 équinoxe            m, equinox
 équipage            m, bemanning
 équipe              f, gezelschap, team
-équipier            m, teamlid
 équitation          f, paardensport
 équité              billijkheid, gerechtigheid, recht, rechtvaardigheid
 équivalente         gelijkwaardig, gelijkwaardig aan
@@ -17223,7 +17222,7 @@ rissoler            uitbakken, uitbraden
 suivant la lumière  selon la lumière, en fonction de la lumière
 au fil du temps     over time, door de jaren heen
 oseille             f, veldzuring
-équipier, équipière m, f; personeel; on fait partie d’une équipe
+équipier, équipière m, f; personeel, teamlid; on fait partie d’une équipe
 être classe         être élégant, raffiné; Elle a de la classe. / Elle est classe.; C’est la classe !
 lambda              m, quelconque, ordinaire; qui n’a rien de spécial et représente en quelque sort tous les autres
 local, locaux       m, opbouw, constructie, bebouwing, gebouw; un bâtiment qui sert à l’activité d’une entreprise
@@ -17245,4 +17244,7 @@ en vigueur          van kracht, heersend, geldend, geldig, veel voorkomend; van 
 entrer en vigueur   van kracht worden, in werking treden; ingaan; effect hebben
 collecte            f, inzameling, verzameling
 coordonnées         f, coördinaten; indication de position (absolue) dans l'espace
-=== le soir, La protection des données: mesures à prendre!, 19/04/2018 === 
+licence             f, licentie
+hôtesse de l'air    f, stewardess
+continuation        f, verlenging, voortzetting, voortduring, voortgang, prolongatie, hervatting, vervolgblad
+=== francebienvenue1 , Le rêve de Mina, 16/04/2018 === 
