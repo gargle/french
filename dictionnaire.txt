@@ -7947,7 +7947,6 @@ fraises             f, aardbeien
 fraisier            m, aardbeiplant
 frais               m, eten
 français            m, Frans
-=== francebienvenue2 , Auto-portrait dans l'auto, 11/10/2017 === 
 franc               eerlijk, frank en vrij, openlijk, onverbloemd
 franc, franche      direct, eerlijk, openlijk, volmondig, onomwonden, onverbloed
 franchement         eerlijk, frank, duidelijk, eenvoudig, onverbloemd, onomwonden
@@ -17253,3 +17252,4 @@ zone                f, zone
 zoologie            f, dierkunde, zoölogie
 zouave              m, soldaat
 zygomatique         m, muscle des lèvres
+=== francebienvenue2 , Auto-portrait dans l'auto, 11/10/2017 === 
