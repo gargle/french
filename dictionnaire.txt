@@ -1133,6 +1133,7 @@ arrière-mondes      ?
 arrière-pays        m, achterland
 arrière-pensée      f, bijbedoeling, bijgedachte, voorbehoud
 arrière-plan        m, background, achtergrond
+arrière-saison      f, najaar
 arrimer             vastleggen van vracht, stouwen
 arrivée             f, aankomst
 arrivisme           m, ambitieniveau
@@ -1915,6 +1916,7 @@ battre son plein    in volle gang
 baudet              m, ezel
 baudruche           f, blaas, membraam, vlies, personne faible, ne pas avoir de volonté
 baume               m, balsem, bijenkruid, vrouwenkruid
+baume au cœur       ça met le baume au cœur; ça nous console, nous réconforte, nous fait du bien
 bavante             kwijlend
 bavardage           m, achterklap, kletspraat, roddel
 bavarder            praten, babbelen, kletsen, keuvelen
@@ -17252,4 +17254,6 @@ zone                f, zone
 zoologie            f, dierkunde, zoölogie
 zouave              m, soldaat
 zygomatique         m, muscle des lèvres
-=== francebienvenue2 , Auto-portrait dans l'auto, 11/10/2017 ===
+estival             zomerachtig, zomer-, zomers
+température         f, temperatuur
+=== francebienvenue2 , Temps estival, 15/10/2017 ===
