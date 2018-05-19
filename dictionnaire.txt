@@ -1717,7 +1717,7 @@ bagué               ring, ringetje
 baguette            f, stokbrood, aanwijsstok, dirigeerstok
 baie, baies         f, bes, kreek, baai, inham, vensterraam, glasraam, kijkglas
 baie vitrée         f, erker, groot raam, vensterraam
-baignade            f, duik, het baden
+baignade            f, duik, het baden; le fait de se baigner, un endroit où il est possible de se baigner
 baigner, baigné     baden, wellen, een bad nemen
 baigneur            m, bader, badgast, zwemmer
 baignoire à jacuzzi f, jacuzzi
@@ -8236,6 +8236,8 @@ gaule               f, paal, roede, schacht, staak
 gauler              op de takken van een boom slaan
 gavais, gaver, gavé brassen, schransen, slempen, volproppen, vettig
 gavroche            rchétype du gamin de Paris
+gaz                 m, gas
+gaz carbonique      m, kooldioxide, koolzuur, koolzuurgas
 gaze                f, gaas, verbandgaas
 gazelle             f, gazelle
 gaze                racen, vergassen, flamberen
@@ -8650,7 +8652,7 @@ guetteur            m, wacht, verkenner, schildwacht
 gueule              f, bakkes? muil, gezicht, tronie
 gueuler             schreeuwen, brullen
 gueuleton           m, repas, viering, vreugdefeest, excessif et trop
-guide               m, gids
+guide               m, gids; celui ou celle qui emmène d’autres personnes en randonnée
 guidon              m, fietsstuur, stuur
 guignarde           lobbes, sukkel
 guigner             bespioneren, in het oog hebben
@@ -9113,7 +9115,7 @@ impression          f, indruk, effect, druk, drukwerk
 impressionner       frapperen, imponeren, inboezemen, treffen, raken
 impressionnisme     m, impressionisme
 imprévisible        f, onvoorspelbaar, onvoorzienbaar
-imprévu             niet te voorzien, onverhoeds, onvoorzien
+imprévu             toevallig, terloops, niet te voorzien, onverhoeds, onvoorzien
 imprimatur          m, aantekening, bevestiging, groen licht
 imprimé             m, drukwerk, gedrukt stuk
 imprimer            afdrukken, drukken, doordrukken
@@ -9741,6 +9743,7 @@ je ne tiens  à        ik wil niet
 je ne tiens pas à en parler      I don't want to talk about it
 j'en fais autant    ik doe het zelfde
 j’en reviens toujours pas     je n’arrive pas à y croire, c'est la surprise totale
+j'y arrive            je réussis à faire ce que j’ai entrepris, j’en suis capable
 je n'y entre plus   er niet meer op in gaan?
 je n'y pouvais rien    I could not help it
 je suis au supplice    I am on tenterhooks, on the full stretch, most curious, anxious
@@ -12234,7 +12237,7 @@ peine capitale      f, doodstraf, la peine de mort
 peine               f, zorg, krachtinspanning, afstraffing, straf, vergelding, sorrow
 peiné               gepijnigd
 peine perdue        verspilde moeite
-peiner              afsukkelen, draven, voorsukkelen, zwoegen, peinigen
+peiner              afsukkelen, draven, voorsukkelen, zwoegen, peinigen; avoir du mal à faire quelque chose
 peines de sûreté    verzekerde bewaring
 peines              f, afstraffing, last, smart, leed, lijden
 peintre du dimanche     m, zondagsschilder?
@@ -12916,6 +12919,7 @@ portant             m, set, decor (theater), pièce de bois dressée verticaleme
 port de plaisance   m, jachthaven
 porté à faux        overhangend              
 porte-bagages       m, bagagerek, bagagedrager, imperiaal, ruif, rek
+porte-bébé          m, reiswieg
 porte-clé, porte-clefs      m, sleutelhanger
 porte cochère       f, afscheiding, dranghek, slagboom, ouverture (dans un édifice), poort, deur
 porte cochére       m, garagepoort
@@ -16027,6 +16031,7 @@ téléphoniste        m, telefonist
 téléscopage         m, autobotsing, aanrijding, verkeersongeluk
 téléviseur          m, teeveetoestel
 télévision          f, televisie
+télé                f, televisie
 telle que           zo
 telles              semblable
 telle               un différent, un autre / une semblable, un même
@@ -16118,6 +16123,7 @@ terrassement        m, terras aanleggen?
 terrasser           neerslaan, neervellen
 terrassier          m, delver, graver, grondwerker
 terre à terre       geesteloos, zielloos, nuchter, zakelijk
+terre               f, aarde, grond, veld, terrein
 terreau             m, bladaarde, humus, klei, leem, plantaarde, potaarde
 terre battue        f, gravel
 terre cuite         f, terracotta
@@ -17256,4 +17262,11 @@ zouave              m, soldaat
 zygomatique         m, muscle des lèvres
 estival             zomerachtig, zomer-, zomers
 température         f, temperatuur
-=== francebienvenue2 , Temps estival, 15/10/2017 ===
+documentaire        m, documentaire
+marcheur            m, voetganger, voetgangster, loper, wandelaar
+bambou              m, bamboe
+c’est formidable    c’est super (plus familier) / c’est merveilleux
+expirer             uitademen, expireren; de pijp uitgaan; verjaren, vervallen
+c'est dur           c'est difficile
+c’est un comble     ça ne paraît pas croyable et il y a une sorte de paradoxe
+=== francebienvenue2 , Le paradis à pied, 18/10/2017 ===
