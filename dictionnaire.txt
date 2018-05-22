@@ -1793,6 +1793,7 @@ bandage             m, verband, windsel
 bandana             m, doek, bandana
 bande à piscou      f, ducktales
 bandeau             m, band, strip, blinddoek, haarband
+bande annonce       f, preview, trailer; voorpremière, voorvertoning
 bande dessinée      f, stripverhaal, b.d.
 bande               f, lint, band, wikkel, bende
 bandelette          f, strip
@@ -3295,6 +3296,7 @@ chevet              m, hoofdeinde van het bed, nachtkastje
 cheveu              m, een haar, haartje
 cheville            f, enkel, enkelgewricht, knijper, pen, pin, wasknijper, wasspeld
 chevreaux           m, bokje, geitje
+chèvre              m, un fromage de chèvre; geitenkaas
 chèvre              f, geit
 chèvres bises       f, gijze geiten?
 chevrette           f, geitje, bokje
@@ -5013,7 +5015,8 @@ démolisseur         m, afbreker,
 de mon bord         van mijn soort, my kind, somebody of my sort
 démon               m, demon, duivel, Beëlzebub, lucifer, mefisto, satan
 démonologie         f, demonenleer
-démonter            demonstreren, aantonen, resulteren, hardmaken, leiden
+démonter            demonstreren, aantonen, resulteren, leiden
+se démonter         se laisser perturber par quelque chose et donc ne plus savoir quoi dire ou faire
 démontrable         aantoonbaar, aanwijsbaar, bewijsbaar
 démontré            certificeren, aantonen, bewijzen, demonstreren
 démontrer           aantonen, bewijzen
@@ -10317,7 +10320,7 @@ louer               aanbevelen, prijzen, verhuren, huren
 loufoque            m, pias, extravagant
 loupe               f, loep, vergrootglas
 loupiottes          f, leds, kleine lampjes op een pc
-loup                m, wolf
+loup                m, wolf; baars
 loups-garous        m, weerwolven
 lourdaud            klungelig, links, lomp, onhandig, plomp, trang van begrip
 lourdement          log, zwaar, hard, helemaal, dully, to struggle
@@ -16652,7 +16655,8 @@ tumulte             m, tumult, bedoening, kabaal, keet
 tunesien            m, Tunesiër
 tunnel              m, tunnel, opbouw, constructie
 turban              m, tulband
-turbotin            m, jonge turbot, vis
+turbot              m, tarbot; vis
+turbotin            m, jonge turbot, tarbot; vis
 turbulence          f, luidruchtigheid, onhandelbaarheid, onstuimigheid
 turgescente         gezwollen
 turlupin            m, grapjas, personne farceuse ou qui plaisante
@@ -17269,4 +17273,6 @@ c’est formidable    c’est super (plus familier) / c’est merveilleux
 expirer             uitademen, expireren; de pijp uitgaan; verjaren, vervallen
 c'est dur           c'est difficile
 c’est un comble     ça ne paraît pas croyable et il y a une sorte de paradoxe
-=== francebienvenue2 , Le paradis à pied, 18/10/2017 ===
+répartie            f, response, beantwoording; antwoord, oplossing; weerwoord, respons; repliek
+préparatif          m, voorbereidingen
+=== francebienvenue2 , Le sens de la répartie, 22/10/2017 ===
