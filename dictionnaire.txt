@@ -2241,6 +2241,7 @@ boucher             m, slachter, beenhouwer
 boucher             smoren, stikken, verstikken, verstopt zijn, afstoppen
 bouches             f, scheur, uitloop, bakkes, bek, smoel, snoet
 bouché              verstopt
+être bouché         (familier) être stupide, ne comprendre rien
 bouchon             m, flessehals, kurk, opstopping, verkeersopstopping
 bouchonner          droogwrijven
 bouchons de liège   kurken
@@ -4573,6 +4574,8 @@ dans l'absolu       in absolute termen
 dans la mesure      voor zover
 dans le fond        après tout
 dans le genre       van de soort
+dans le champ       dans le champ de l’appareil photo, dans ce que cadre l’objectif de l’appareil photo
+dans l'esprit       cela correspond à ce qui est attendu, à l’atmosphère qui est souhaitée
 dans l'ensemble     alles bij elkaar, al met al, alles samengenomen
 dans les choux      pour dire qu’on rate quelque chose
 dans les moindres détails   haarfijn
@@ -7754,7 +7757,7 @@ flou                onscherp, vaag
 fluette             iel, schriel
 fluide              m, vloeistof, life force
 fluide              vloeiend
-flûte               f, fluit
+flûte               f, fluit, fluitje; un verre dans lequel on boit le champagne
 flûté, flûtée       piepend
 flûter              fluiten
 fluvial             rivier-, fluviatiel
@@ -13006,6 +13009,7 @@ pouilly-fuissé      m, vin de Bourgogne
 poulailler          m, hoenderhok, kippenhok
 poulain             hengstveulen,veulen
 poulet chasseur     m, kip, chasseur is de saus, dik, bruin, samengesteld, champignons
+poulet              m, kip; c’est un policier (argot)
 pouliches           f, jonge merrie, merrieveulen, veulen
 poulie              f, katrol, katrolblok
 pouls               m, pols, polsslag
@@ -13490,6 +13494,7 @@ pusillanimité       f, kleinhartigheid, lafhartigheid, lafheid
 pus                 m, suppuratif, etter?
 pustule             f, vin, puist, pukkel
 putain              f, hoer, prostituée
+ce putain de ...    très familier, voire vulgaire
 pute                f, hoer, prostituée, prostituee, del
 putréfaction        f, verrotting
 putréfier           bederven, verrotten
@@ -17170,7 +17175,7 @@ voix sourde         f, schorre stem
 volage              grillig
 volaille            f, gevogelte
 volant              m, pluimbal, shuttle, stuurwiel, stuur
-volatiles           vluchtig, vogel, vogeltje, gevogelte
+volatiles           vluchtig; vogel, vogeltje, gevogelte
 volatiliser         faire disparaître, vervluchtigen, oplossen
 volcan              m, vulkaan, krater
 volée               f, zwerm
@@ -17275,4 +17280,9 @@ c'est dur           c'est difficile
 c’est un comble     ça ne paraît pas croyable et il y a une sorte de paradoxe
 répartie            f, response, beantwoording; antwoord, oplossing; weerwoord, respons; repliek
 préparatif          m, voorbereidingen
+texto               m, sms
+ponctuation         f, interpunctie, leesteken; on dit plutôt : les signes de ponctuation
+débile              idiot, complètement stupide
+gueule              f, bakkes, bek, muil, muilband, muilkorf, kaak
+ferme ta gueule     tais-toi (vulgaire et donc agressif)
 === francebienvenue2 , Le sens de la répartie, 22/10/2017 ===
