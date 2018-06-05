@@ -4421,7 +4421,7 @@ cristalline         kristalhelder, kristallijn, ooglens, lenzenstelsel
 cristallin          m, blik, ooglens
 cristal             m, kristal
 critère             m, criterium, maatstaf, norm, peil, toetssteen
-critique            f, criticus
+critique            f, criticus; kritiek
 croassement         m, gekras, krassen
 croc-en-jambe       pootje lappen
 croc-en-jambe       pootje lichten, iemand laten struikelen
@@ -5097,7 +5097,7 @@ de pied ferme       sans sortir de sa place, sans quitter son poste, sans recule
 de pieds à la tête  van kop tot teen
 dépité              verongelijkt
 dépit               m, irritatie, gepikeerdheid
-déplacement         m, transport, vervoer, beweging, verplaatsing
+déplacement         m, transport, vervoer, beweging, verplaatsing, verandering, verschuiving
 déplacé             niet op zijn plaats, onjuist, misplaatst
 de plain-pied       walk-in, op één verdieping, au même niveau, ou d'accès facile, sur le même plan, également
 déplaire, déplu     mishagen, niet aanstaan, niet bevallen, ontevreden
@@ -6971,7 +6971,7 @@ estuaire            m, riviermonding
 étanche             waterdicht
 étang               m, zoutmeer, meer, vijver
 étape               f, etappe, stadium, lieu où l'on s'arrête
-état
+état                m, staat
 état civil          m, burgerlijke stand
 état de fait        m, stand van zaken, voldane feiten?
 état de siège       m, staat van beleg
@@ -17286,4 +17286,6 @@ débile              idiot, complètement stupide
 gueule              f, bakkes, bek, muil, muilband, muilkorf, kaak
 ferme ta gueule     tais-toi (vulgaire et donc agressif)
 plaque d'avaloir    f, riooldeksel, afvoerplaat
-=== francebienvenue2 , Le sens de la répartie, 22/10/2017 ===
+quand mếme          malgré tout, cependant, même si
+marathon            m, marathon
+=== francebienvenue2 - Ah, quand même! - 13/11/2017 ===
