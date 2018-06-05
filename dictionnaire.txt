@@ -12143,6 +12143,7 @@ pastille de mente   f, pepermunt
 pastille            f, tablet, pil
 pastoral            herderlijk, landelijk, pastoraal
 patatella           m, cigare de La Havane, long et mince
+patate              f, aardappel; pommes de terre
 patatras            badaboum, pan, patapouf, vlan
 pataude             onhandig
 pataud              lomp
@@ -12830,7 +12831,7 @@ points de tricot    breien?
 points de vue       m, standpunten
 pointu              scherp, grievend, hatelijk
 poireauter          moeten wachten
-poireaux            m, prei, sjalot
+poireau, poireaux   m, prei, sjalot
 poire               f, peer
 poirier             m, pereboom
 pois chiche, pois chiches  m, kikkererwt
@@ -12843,6 +12844,7 @@ poisse              f, gebrek, manque, pauvreté, armoe, armoede
 poisser, poissant   dronken worden, zich bedrinken, zich bezatten, devenir sale
 poisseuse           plakkerig
 poisson frit        m, gebakken vis
+poisson pané        m, gepaneerde vis
 poisson             m, vis
 poissonnier         m, visboer
 poissons-scies      m, zaagvis, zwaardvis
@@ -12878,7 +12880,7 @@ pommeau             broes, doucheknop, sproeidop
 pommeau             m, handvat
 pomme d'Adam        f, adamsappel
 pomme               f, deurknop, knob
-pommes de terre     f, aardappelpuree
+pommes de terre     f, aardappel, aardappelpuree
 pommes noisettes    f, boulettes de pommes de terre frites dans l'huile
 pommette            f, jukbeen, cheek-bone
 pommiers            m, appelboom, appel, appelaar
@@ -13439,6 +13441,7 @@ psychose            f, psychose
 ptérodactyle        m, pterodactylus
 puanteur            f, stank, lucht
 puant, puer         meuren, rieken, stinken
+pub                 f, publicité, advertentie
 pubard              ad-man, reclameman
 pubis               m, onderlijf, schaamstreek
 publicité           f, reclame, publiciteit
@@ -17288,4 +17291,6 @@ ferme ta gueule     tais-toi (vulgaire et donc agressif)
 plaque d'avaloir    f, riooldeksel, afvoerplaat
 quand mếme          malgré tout, cependant, même si
 marathon            m, marathon
-=== francebienvenue2 - Ah, quand même! - 13/11/2017 ===
+lacune              f, gaping, leegte, hiaat, lacune, leemte, manco, vacuüm, kier
+panais              m, pastinaak (wit gele wortel), légume
+=== francebienvenue2 - Des lacunes en légumes - 25/11/2017 ===
