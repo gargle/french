@@ -76,7 +76,7 @@ abritait, abriter   schuilen, dekking zoeken, herbergen, huisvesten, beschermen,
 abroger             afgelasten, ontbinden
 abruptement         abrupt, bruusk, plots, plotseling
 abrupt              steil, sterk hellend
-abruti              m, dikkop, domkop, domoor, stommeling
+abruti              m, dikkop, domoor, stommeling; quelqu’un qui est complètement stupide (une insulte)
 abrutir             afstompen, vervlakken
 abrutissement       dom worden
 absence             f, afwezigheid, verstek, ontstentenis
@@ -3772,6 +3772,7 @@ comptine            f, kinderrijm, kinderversje
 comptoir            m, bar, counter, desk, balie, toonbank
 comptoirs commerciaux   m, handelsposten
 compulser           consulter, doorbladeren
+con                 stupide, idiot (terme vulgaire)
 concasseur          m, crusher, verbrijzelaar
 concéda, concéder   toegeven, toekennen
 concentrationnaire  concentratiekamp
@@ -4473,7 +4474,7 @@ cryptogramme        m, document, écrit - geschrift, schriftuur, schrijfsel
 cryptographie       f, encodering
 cube                m, blok
 cuchoter            fluisteren, inblazen, toefluisteren
-cuculterie, cucul   f, corny, bête, dom, onnozel
+cuculterie, cucul   f, corny, bête, dom, onnozel; pas très intelligent (familier) 
 cueillette          f, pluk, teelt, oogst, fruitoogst, opbrengst, gewas
 cueillir            lezen, oogsten, (af)plukken, sparen, verzamelen
 cuesta              relief de côte
@@ -5095,7 +5096,7 @@ dépiauté            gevild, villen
 de pièce en pièce   van kamer tot kamer
 de pied ferme       sans sortir de sa place, sans quitter son poste, sans reculer; tranquillement, sans crainte
 de pieds à la tête  van kop tot teen
-dépité              verongelijkt
+dépité              teneergeslagen, verongelijkt; abattu, très déçu
 dépit               m, irritatie, gepikeerdheid
 déplacement         m, transport, vervoer, beweging, verplaatsing, verandering, verschuiving
 déplacé             niet op zijn plaats, onjuist, misplaatst
@@ -15791,7 +15792,7 @@ surface corrigée    f, oppervlakte van een appartement/huis, aangepast na corre
 surface d'incidence des flots   f, incoming surface waves
 surface             f, oppervlak
 surfait             overschat, overrated
-surgelé             m, diepvriesproduct
+surgelé             m, diepvriesproduct; diepvriezen, invriezen
 surgir              opduiken, vertonen
 surgissement        m, opkomst
 surhomme            m, godenzoon, halfgod, übermensch
@@ -16163,6 +16164,7 @@ tétanique           tetanus, tétanos, besmetting, infectie
 tétaniser           spasmen
 tétanos             m, tetanus, mondklem, wondkramp
 têtard              m, dikkopje, joch, kind, snotaap, snotneus
+têtasse             f, tête (péjoratif), pas de tête, pas d’intelligence
 tête-à-queue        m, kop-staart, volledig ronddraaien van een voertuig
 tête brulée         f, individu qui aime le risque
 tête de mort en plâtre      gipsen doodshoofd?
@@ -17285,7 +17287,7 @@ répartie            f, response, beantwoording; antwoord, oplossing; weerwoord,
 préparatif          m, voorbereidingen
 texto               m, sms
 ponctuation         f, interpunctie, leesteken; on dit plutôt : les signes de ponctuation
-débile              idiot, complètement stupide
+débile              idiot, stupide, complètement stupide
 gueule              f, bakkes, bek, muil, muilband, muilkorf, kaak
 ferme ta gueule     tais-toi (vulgaire et donc agressif)
 plaque d'avaloir    f, riooldeksel, afvoerplaat
@@ -17293,4 +17295,12 @@ quand mếme          malgré tout, cependant, même si
 marathon            m, marathon
 lacune              f, gaping, leegte, hiaat, lacune, leemte, manco, vacuüm, kier
 panais              m, pastinaak (wit gele wortel), légume
+gosses              m, les enfants, môme est un peu plus familier que gosse
+mômes               m, les enfants, môme est un peu plus familier que gosse
+tebé                idiot, stupide (c’est du verlan, c’est-à-dire les mots dits à l’envers)
+de la merde         des choses pas bonnes du tout (vulgaire)
+chou-fleur          m, bloemkool
+féculent            m, groente; meel-, zetmeelrijk
+fécule              f, meel-, zetmeel; stijfsel, bindmiddel
+congelé             invriezen, bevriezen, vriezen, diepvriezen, wegkijken
 === francebienvenue2 - Des lacunes en légumes - 25/11/2017 ===
