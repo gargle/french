@@ -1177,6 +1177,7 @@ asociabilité        f, asociale
 à son sujet         about him
 aspect              m, aspekt, dimensie, appearance
 asperger            besprenkelen, sprenkelen, bestuiven
+asperge             f, asperge
 aspérité            f, partie inégale d'une surface, accident, angle, rudesse, inégalité
 asphalte            m, asfalt
 asphodèle           m, affodil, bolgewas
@@ -1290,6 +1291,7 @@ attaché-case        m, diplomatenkoffertje
 attachée de presse  persattaché, persvoorlichter
 attache             f, hoop, hulp, hulpmiddel
 attaché             m, personne faisant partie d'un service particulier
+artichaut           m, artisjok
 attacher ses chiens avec des saucisses  zotte kosten doen
 attaches            f, beugel, klembeugel, asbout, lijmklem
 attagène            m, mijt (in tapijt)
@@ -3923,6 +3925,7 @@ console             f, console, ce qui rend beau, harp, snaarinstrument, randapp
 consoler            vertroosten, troosten, geruststellen
 consolider          sterker worden, consolideren, bestendigen
 consommateur        m, client, afnemer, klant
+concombre           m, komkommer
 consommation        f, consumptie
 consommer           opgebruiken, voltooien, voltrekken, ontfermen, opgaan
 consortium          m, consortium, trust, syndicaat
@@ -9714,6 +9717,7 @@ jaquette            f, rokkostuum, avondkostuum, overjas, cover, kaft, omslag, b
 jardinage           m, tuinieren
 jardin à la française  m, franse tuin
 jardinet            m, tuin
+jardiner            tuinieren, hovenieren
 jardinière          f, tuinierster, bloembak
 jardinier           m, tuinman, tuinier, hovenier, kweker
 jardin              m, tuin, hof, erf
