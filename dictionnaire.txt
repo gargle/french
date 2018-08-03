@@ -317,6 +317,7 @@ affaiblir, affaiblissez         verzwakken, ontkrachten
 affaibli            verzwakt
 affairé             actief, drukdoende
 affaire             f, zaak, bedoening, proces, drukte
+affaire à saisir    f, business opportunity
 affairer            druk bezig zijn, bustling, to bustle
 affairèrent         être actif, agir avec empressement
 affairiste          m, wheeler dealer, arrangeur
@@ -4786,7 +4787,7 @@ décrépitude         f, gebrekkigheid
 décréter            beslissen, ordoneren, decreteren
 décret              m, decreet, uitvoering, verordening
 décrier             afgeven op, belasteren, zwartmaken, niet appreciëren, kwaadspreken, in stukken scheuren 
-décrire             berichten, beschrijven, bestempelen
+décrire, décrite    berichten, beschrijven, bestempelen
 décriver            beschrijven
 décrochement        écart de niveau entre deux terrains
 décrocher           loshaken, loskoppelen, afhaken, naar beneden halen, slagen
@@ -9471,8 +9472,7 @@ insoumis            oproerig, weerbarstig, weerspannig
 insoutenable        onhoudbaar
 inspecteur d'academie           m, schoolinspecteur
 inspecteur de fouilles          m, inspecteur van opgravingen
-inspiration         f, inspiratie, adem, aspiratie
-inspiration         f, inspiratie, bezieling, motor
+inspiration         f, inspiratie, adem, aspiratie, bezieling, motor
 inspirer            aanzetten tot, oproepen, inspireren
 inspirer confiance  vertrouwen wekken
 installer           neerstrijken, zich settelen, neervlijen
@@ -15104,7 +15104,7 @@ semblable en cela   soortgelijke in dit
 semblables          m, eender, gelijkvormig, dezelfde, gelijk, gelijksoortig
 semblant de dérision    schijn van spot
 sembler             overkomen, blijken, lijken, schijnen
-se méfier           beware
+se méfier           wantrouwen, niet vertrouwen, verdenken, afvragen, bevroeden, vermoeden; to beware
 semelle             f, schoenzool
 semence             f, sperma, zaad
 semer, semé         zaaien, planten, uitzaaien, bezaaien, insemineren, distancer, leave behind, lose, shake off
@@ -17309,4 +17309,8 @@ fécule              f, meel-, zetmeel; stijfsel, bindmiddel
 congelé             invriezen, bevriezen, vriezen, diepvriezen, wegkijken
 réduction           f, korting, afslag, reductie; action sur les prix, dépréciation d'une valeur économique
 muet comme une carpe   silencieux, qui garde le silence
+Toulouse la rose    Toulouse est surnommée la « ville rose » en raison de la couleur de la brique de terre cuite
+princier, princière          vorstelijk, prinselijk
+extinction          f, extinctie, het uitdoven, doven, smoren, beëindiging, einde, eind
+aphone              afonie, heesheid, schorheid; onbespraakt, onwelsprekend
 === francebienvenue2 - Sans voix - 29/11/2017 ===
