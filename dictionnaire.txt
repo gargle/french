@@ -4083,10 +4083,10 @@ corbillard          m, begrafeniswagen, lijkauto, lijkwagen
 cordage             m, touw, bespanning
 cor de chasse       m, jachthoorn
 cordée              f, alpinisten, aaneengelosten met een koord
-corde               f, koord, kabel, lijn, streng, strik, strop, touw, snaar
+corde               f, koord, kabel, lasso, lijn, streng, strik, strop, touw, snaar
+cordes vocales      f, stembanden
 cordelette          f, worgpaal, wurgpaal, wurgtouw, kort touwtje
 corde sensible      f, toucher une corde sensible; pour dire que qq. chose nous touche particulièrement, personnelle
-cordes              f, snaren, kabel, koord, lasso, lijn
 cordiale            gezellig, hartig, joviaal, vriendelijk
 cordial             hart-, innig, gezellig
 cordialité          f, aardigheid, beminnelijkheid, medeleven
