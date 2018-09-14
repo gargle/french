@@ -17319,4 +17319,11 @@ passoire            f, zeef, keukenzeef, vergiet
 bisou               m, kus, zoen
 bise                f, kus, kusje, zoen
 prochette           f, de cover (van een cd, lp, album)
+partez au Mans      au Mans, à le Mans n'existe pas
+partez au Creusot   au Creusot, à le Creusot n'existe pas
+partez au Tréport   au Tréport, à le Tréport n'existe pas
+partez au Touquet   au Touquet, à le Touquet n'existe pas
+partez au Havre     au Havre, à le Havre n'existe pas
+partez au Mont Saint Michel   au Mont Saint Michel, à le Mont Saint Michel n'existe pas
+partez au Croisic   au Croisic, à le Croisic n'existe pas
 === francebienvenue2 - On y va ? - 10/12/2017 ===
