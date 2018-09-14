@@ -17181,6 +17181,7 @@ voix grave          f, een diepe stem
 voix mouillée       f, tearful voice
 voix pleine         f, luide stem
 voix sourde         f, schorre stem
+voix                f, stem
 volage              grillig
 volaille            f, gevogelte
 volant              m, pluimbal, shuttle, stuurwiel, stuur
@@ -17326,4 +17327,5 @@ partez au Touquet   au Touquet, à le Touquet n'existe pas
 partez au Havre     au Havre, à le Havre n'existe pas
 partez au Mont Saint Michel   au Mont Saint Michel, à le Mont Saint Michel n'existe pas
 partez au Croisic   au Croisic, à le Croisic n'existe pas
-=== francebienvenue2 - On y va ? - 10/12/2017 ===
+doper               drogeren
+=== francebienvenue2 - Mariage incandescent - 16/12/2017 ===
