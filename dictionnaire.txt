@@ -2926,7 +2926,7 @@ casier              m, bagagekluis, locker, vakje, pronkkast, kast, compartiment
 cas                 m, case, casus, instantie, geval
 casoar              m, vogel, ensemble de plumes, panache de plumes (ornement vestimentaire)
 casqué              gehelmd
-casque              m, valhelm, veiligheidshelm, koptelefoon
+casque              m, helm, valhelm, veiligheidshelm, koptelefoon
 casquette           f, muts, pet
 cassant             broos, zelfverzekerd, brittle
 cassation           f, cassatie
@@ -7125,7 +7125,7 @@ euthanasie          f, levensbeëindiging
 euthanasier         euthaniseren
 évacue              afvoeren, leegpompen, lozen
 évadé               m, ontsnapte, voortvluchtige, vluchteling
-évader              doorbreken, uitbreken, ontsnappen
+évader, s'évader    doorbreken, uitbreken, ontsnappen
 évanescente         vergankelijk, voorbijgaand
 évangile            m, bijbel, Heilige Schrift
 Évangile            m, evangelie, Heilige Schrift
@@ -17314,4 +17314,9 @@ princier, princière          vorstelijk, prinselijk
 extinction          f, extinctie, het uitdoven, doven, smoren, beëindiging, einde, eind
 aphone              afonie, heesheid, schorheid; onbespraakt, onwelsprekend
 longtemps           langdurig, lang
-=== francebienvenue2 - C'est pas beau de mentir! - 07/12/2017 ===
+passoire-casque     f, zeef-, keukenzeef-, vergiet-helm
+passoire            f, zeef, keukenzeef, vergiet
+bisou               m, kus, zoen
+bise                f, kus, kusje, zoen
+prochette           f, de cover (van een cd, lp, album)
+=== francebienvenue2 - On y va ? - 10/12/2017 ===
