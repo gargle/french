@@ -3390,7 +3390,7 @@ chuchotement        m, gefluister
 chuchoter           fluisteren, inblazen, toefluisteren
 chuintant           slissen
 chuintement         m, sissend, gesis
-chute               f, smak, valpartij, val, tuimeling, fall
+chute               f, val, smak, valpartij, tuimeling; fall
 chuter              afgaan, neerkletteren, sodemieteren
 chutes              f, overschot, restafval, overschot na knipwerk
 cicatrice           f, lidteken, wondteken
@@ -4864,7 +4864,7 @@ défunte             dood, gestorven, wijlen, verdwenen
 défunt              m, dood, gestorvene, wijlen
 de fureur           furiously
 de furtifs          steels
-dégagé, dégager     verlossen, losmaken, aflossen, vrijgeven, vrijmaken, wegschopen
+dégagé, dégager     verlossen, losmaken, aflossen, vrijgeven, vrijmaken, wegschoppen
 dégagé              helder
 dégaine             f, wonderlijkheid, eigenaardigheid
 dégainer            trekken
@@ -6182,6 +6182,7 @@ empiffrer           manger beaucoup
 empilement          m, stack
 empiler             op een hoop gooien, opstapelen
 empire              m, bestuur, empire, rijk, wereldrijk
+empirer             van kwaad tot erger vervallen, verzwaren, verscherpen, verergeren
 empiriquement       empirisch
 emplacement         m, plaats, lokatie, oord, oriëntatie, ruimte, plek
 emplâtre            stomp, vuistslag, plaaster
@@ -8846,6 +8847,8 @@ hésitante           aarzelen, haperend, wankelend
 hésitation          f, halfslachtigheid, onzekerheid, twijfeling, weifeling
 hétéroclite         mengelmoes, rommeltjes; vreemd, wonderlijkheid, eigenaardig, vreemdheid, buitenissigheid
 hêtre               m, beuk
+heure               f, uur
+l'heure est aux...  it's time for...
 heure d'affluence   f, spitsuur, topdrukte, spits, piekuur
 heures creuses      f, daluren
 heurté              gedeukt, gebotst
@@ -12313,6 +12316,7 @@ pensionnat          m, kosthuis, pension, internaat
 Pentecôte           f, Pinksteren
 pente douche        f, zachte helling
 pente               f, afdaling, daling, glooiing, hoogte, val, helling, slope
+pentu               qui est en pente, glooiend
 pénurie             f, behoefte, gemis, honger, schaarste, tekort
 pépier, pétiaient, pépient  kwetteren, sjilpen, kwelen
 pépinière           f, kweekplaats, kweektuin, kwekerij
@@ -13107,7 +13111,7 @@ précieusement       kostbaar
 préciosité          f, kostbaarheid, zoetsappigheid, zoetheid, aanstellerij, affectation
 précipice           m, afgrond, abyss
 précipitamment      haastig, halsoverkop, overhaastig
-précipitation       f, bruuskheid, drukte, gehaast, gejakker, spoed
+précipitation       f, bruuskheid, drukte, gehaast, gejakker, spoed; neerslag
 précipité           gehaast
 précipiter dans la crainte        fill with fear
 précipiter          zich haasten, opschieten, meeslepen, to hurl, gooien, uitstorten
@@ -13964,6 +13968,7 @@ redorer             opnieuw vergulden, to restore
 redoutable          schrikwekkend, vreselijk, verschrikkelijk, erg, geducht, angstwekkend
 redouté             duchten, opkijken tegen
 redouter            duchten, opkijken tegen, opzien tegen, vrezen, zich zorgen maken
+redoux              m, réchauffement du temps
 redressement        m, herstel
 redresser           corrigeren, verbeteren, beter maken, zich oprichten
 réductrice          adapter, arrangeur, verdeelstekker, verkleiner, verminderen
@@ -17331,4 +17336,7 @@ partez au Mont Saint Michel   au Mont Saint Michel, à le Mont Saint Michel n'ex
 partez au Croisic   au Croisic, à le Croisic n'existe pas
 doper               drogeren
 à contre-pied       ce qui est diamétralement opposé à (une opinion, un comportement), sur le mauvais pied
-=== francebienvenue2 - Mariage incandescent - 16/12/2017 ===
+neige               f, sneeuw, sneeuwdek, sneeuwlaag, sneeuwbui, sneeuwval
+neiger              sneeuwen
+chute de neige      f, sneeuwval, sneeuwbui, sneeuw
+=== https://immobilier.lefigaro.fr/article/chutes-de-neige-voila-pourquoi-vous-devez-penser-a-degager-votre-toiture_eb31446e-1d87-11e9-a628-f5feed317e99/ - 22/01/2019 ===
