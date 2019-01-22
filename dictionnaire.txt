@@ -9971,7 +9971,7 @@ langue de bois      f, wafel
 langue de feu       f, vuurtongen
 langue              f, taal, stem, moedertaal, roeipen, tong
 langues de sable    f, zandtongen
-langueur            f, dromerigheid, lusteloosheid, willoosheid, matheid, apatie
+langueur            f, dromerigheid, lusteloosheid, willoosheid, matheid, apatie, loom(heid)
 langue-violon       f, ?
 languir, languit    verkommeren, verkwijnen, wegkwijnen, smachten, verlangen
 languissant         smachtend, kwijnend, futloos, hunkerend, slap
@@ -12114,6 +12114,7 @@ pas du tout         helemaal niet
 pas                 m, pas, trede, overloop, stoep
 passablement        redelijk
 passage             m, doorgang, gang, doorreis, doortocht, passage, aflevering, afgifte, jaargang
+passage à tabac     m, fait de tabasser quelqu’un, een aframmeling
 passagère           kortstondig, vluchtig, voorbijgaand
 passager            kortstondig, vluchtig, vergankelijk
 passarelle          f, wandelpad
@@ -12734,6 +12735,7 @@ pleine à craquer    barstensvol
 plein été           m, midden zomer, volle zomer
 plein               massief, vol, zwaar
 plein               m, repletion, karakter, teken, streek
+plein les yeux, plein les oreilles          a fabulous spectacle
 plein pot           volle snelheid?
 plein rétablissement         m, volledig herstel
 pleins à en vomir   gevuld tot overgeven, klaar om te braken
@@ -17328,4 +17330,5 @@ partez au Havre     au Havre, à le Havre n'existe pas
 partez au Mont Saint Michel   au Mont Saint Michel, à le Mont Saint Michel n'existe pas
 partez au Croisic   au Croisic, à le Croisic n'existe pas
 doper               drogeren
+à contre-pied       ce qui est diamétralement opposé à (une opinion, un comportement), sur le mauvais pied
 === francebienvenue2 - Mariage incandescent - 16/12/2017 ===
