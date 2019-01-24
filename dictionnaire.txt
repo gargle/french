@@ -6594,7 +6594,6 @@ enterrement         m, begrafenis
 enterrer            begraven, bijzetten, ter ruste leggen
 en tête d'épingle   pinpoint, speldenkop?
 entête              hardleers, koppig, hardnekkig
-entêté              koppig, hardleers
 en-tête             m, briefhoofd
 entêtement          eigenzinnigheid, koppigheid
 entêter             hardnekkig doorgaan met
@@ -17339,4 +17338,5 @@ doper               drogeren
 neige               f, sneeuw, sneeuwdek, sneeuwlaag, sneeuwbui, sneeuwval
 neiger              sneeuwen
 chute de neige      f, sneeuwval, sneeuwbui, sneeuw
+piquer une tête     een duik nemen
 === https://immobilier.lefigaro.fr/article/chutes-de-neige-voila-pourquoi-vous-devez-penser-a-degager-votre-toiture_eb31446e-1d87-11e9-a628-f5feed317e99/ - 22/01/2019 ===
