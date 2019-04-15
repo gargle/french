@@ -17339,4 +17339,5 @@ neige               f, sneeuw, sneeuwdek, sneeuwlaag, sneeuwbui, sneeuwval
 neiger              sneeuwen
 chute de neige      f, sneeuwval, sneeuwbui, sneeuw
 piquer une tête     een duik nemen
+
 === https://immobilier.lefigaro.fr/article/chutes-de-neige-voila-pourquoi-vous-devez-penser-a-degager-votre-toiture_eb31446e-1d87-11e9-a628-f5feed317e99/ - 22/01/2019 ===
