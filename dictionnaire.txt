@@ -2018,6 +2018,7 @@ bêtise              f, gekte, absurditeit, miskleun, uitglijder, stommigheid, s
 béton               m, beton
 bétonneuse          f, betonmolen
 betterave           f, beet, biet, rode biet
+betterave sucrière  f, suikerbiet
 bétyle              m, heilige steen, bethel
 bétylle             m, heilige steen
 beuglement          m, geblèr
@@ -17339,4 +17340,4 @@ neige               f, sneeuw, sneeuwdek, sneeuwlaag, sneeuwbui, sneeuwval
 neiger              sneeuwen
 chute de neige      f, sneeuwval, sneeuwbui, sneeuw
 piquer une tête     een duik nemen
-=== https://immobilier.lefigaro.fr/article/chutes-de-neige-voila-pourquoi-vous-devez-penser-a-degager-votre-toiture_eb31446e-1d87-11e9-a628-f5feed317e99/ - 22/01/2019 ===
+=== https://www.lesoir.be/206913/article/2019-02-16/myriam-leroy-ce-quon-ne-ma-jamais-dit-sur-les-flamands ===
