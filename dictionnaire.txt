@@ -17340,4 +17340,6 @@ neige               f, sneeuw, sneeuwdek, sneeuwlaag, sneeuwbui, sneeuwval
 neiger              sneeuwen
 chute de neige      f, sneeuwval, sneeuwbui, sneeuw
 piquer une tête     een duik nemen
+assermenté          adj. beëdigd
+assermenter         beëdigen, een eed afnemen
 === https://www.lesoir.be/206913/article/2019-02-16/myriam-leroy-ce-quon-ne-ma-jamais-dit-sur-les-flamands ===
