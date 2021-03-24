@@ -2386,7 +2386,7 @@ bramer              tekeer gaan, schreeuwen, roepen, gillen, tieren, uitvallen t
 branchage           m, ensemble des branches d'un arbre
 branché à la con    ?
 branche             f, aftakking, tak
-branché             levend, energiek, geladen, gloeiend
+branché             levend, energiek, geladen, gloeiend, verbonden; connected
 branchement         m, verbindingen
 brancher            schakelen, aansluiten, inpluggen, verbinden
 branchie            f, kieuw, kieuwspleet
