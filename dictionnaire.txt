@@ -7482,8 +7482,7 @@ fatigue             f, de vermoeidheid, een vermoeienis
 fat                 m, verwaande/zelfvoldane kerel, fat, ijdeltuit
 faubourgs           m, buitenwijk, randwijk, voorstad
 faubourien          voorstads-
-fauché              onvermogend, insolvent
-faucher, fauché     neermaaien, gappen, jatten, stelen, wegkapen
+faucher, fauché     neermaaien, gappen, jatten, stelen, wegkapen; onvermogend, insolvent
 faucilles           f, sikkel
 faucon              m, havik, valk
 faufilant, faufiler aanrijgen, spartelen, trappelen, zich een weg banen
