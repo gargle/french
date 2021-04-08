@@ -2386,7 +2386,7 @@ bramer              tekeer gaan, schreeuwen, roepen, gillen, tieren, uitvallen t
 branchage           m, ensemble des branches d'un arbre
 branché à la con    ?
 branche             f, aftakking, tak
-branché             levend, energiek, geladen, gloeiend
+branché             levend, energiek, geladen, gloeiend, verbonden; connected
 branchement         m, verbindingen
 brancher            schakelen, aansluiten, inpluggen, verbinden
 branchie            f, kieuw, kieuwspleet
@@ -17341,4 +17341,5 @@ chute de neige      f, sneeuwval, sneeuwbui, sneeuw
 piquer une tête     een duik nemen
 assermenté          adj. beëdigd
 assermenter         beëdigen, een eed afnemen
-flibuste            f, vrijbuiterij, piraterij, bedrijfsspionage, zeeroverij, letterdieverij 
+flibuste            f, vrijbuiterij, piraterij, bedrijfsspionage, zeeroverij, letterdieverij
+désaxé              m., qui n'est pas dans son état normal
