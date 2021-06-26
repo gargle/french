@@ -2392,7 +2392,7 @@ bramer              tekeer gaan, schreeuwen, roepen, gillen, tieren, uitvallen t
 branchage           m, ensemble des branches d'un arbre
 branché à la con    ?
 branche             f, aftakking, tak
-branché             levend, energiek, geladen, gloeiend
+branché             levend, energiek, geladen, gloeiend, verbonden; connected
 branchement         m, verbindingen
 brancher            schakelen, aansluiten, inpluggen, verbinden
 branchie            f, kieuw, kieuwspleet
@@ -7504,8 +7504,7 @@ fatigue             f, de vermoeidheid, een vermoeienis
 fat                 m, verwaande/zelfvoldane kerel, fat, ijdeltuit
 faubourgs           m, buitenwijk, randwijk, voorstad
 faubourien          voorstads-
-fauché              onvermogend, insolvent
-faucher, fauché     neermaaien, gappen, jatten, stelen, wegkapen
+faucher, fauché     neermaaien, gappen, jatten, stelen, wegkapen; onvermogend, insolvent
 faucilles           f, sikkel
 faucon              m, havik, valk
 faufilant, faufiler aanrijgen, spartelen, trappelen, zich een weg banen
