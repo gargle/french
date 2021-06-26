@@ -8328,7 +8328,6 @@ gentilesse          f, aardigheid, beminnelijkheid, goedheid, vriendelijkheid
 gentiment           kameraadschappelijk, lieflijk, zacht, vriendschappelijk
 génuflexion         f, kniebuiging, knieling
 geôle               f, gevangenis, nor
-gêole               f, gevangenis, nor
 geôlier             m, gevangenisbewaarder, cipier
 géologie            f, geologie
 géomantique         voorspellingen adhv het gooien van stenen, botjes
