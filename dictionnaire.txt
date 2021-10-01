@@ -202,6 +202,7 @@ acnéique            acne
 à cœur joie         naar hartelust, zat
 acolyte             m, aanhanger, bondgenoot, helper, akoliet
 a contrario         integendeel, andersom, in tegendeel
+à contre-pied       ce qui est diamétralement opposé à (une opinion, un comportement), sur le mauvais pied
 à contretemps       de façon inopportune
 à cor et à cri      moord en brand schreeuwen
 à couper au couteau gesneden met een mes
@@ -316,8 +317,8 @@ affabulation        f, plot, fabricage
 affaiblir, affaiblissez         verzwakken, ontkrachten
 affaibli            verzwakt
 affairé             actief, drukdoende
-affaire             f, zaak, bedoening, proces, drukte
 affaire à saisir    f, business opportunity
+affaire             f, zaak, bedoening, proces, drukte
 affairer            druk bezig zijn, bustling, to bustle
 affairèrent         être actif, agir avec empressement
 affairiste          m, wheeler dealer, arrangeur
@@ -913,6 +914,7 @@ apeuré              met angst, saisi par la peur
 apeurés             angstig, bang
 apex                m, top
 aphasie             f, afasie, zenuwaandoening, amnesie, geheugenverlies
+aphone              afonie, heesheid, schorheid; onbespraakt, onwelsprekend
 aphorisme           m, kernspreuk, spreuk
 aphorisme           m, spreuk, kernspreuk
 aphrodisiaque       m, afrodisiacum
@@ -1149,6 +1151,7 @@ arroseur            m, sprinkler, regenmachine, sproeier
 arsenal, arsenaux   m, arsenaal, wapenkamer, wapendepot, magazijn
 artère              f, verkeersader, hartader, slagader
 arthritique         artritisch
+artichaut           m, artisjok
 article             m, artikel, stuk
 articulation        f, gewricht, uitspraak, articulatie
 artifice            m, drogbeeld, illusie, kunstgreep, magie, waanvoorstelling
@@ -1177,8 +1180,8 @@ asociabilité        f, asociale
 à son habitude      naar gewoonte
 à son sujet         about him
 aspect              m, aspekt, dimensie, appearance
-asperger            besprenkelen, sprenkelen, bestuiven
 asperge             f, asperge
+asperger            besprenkelen, sprenkelen, bestuiven
 aspérité            f, partie inégale d'une surface, accident, angle, rudesse, inégalité
 asphalte            m, asfalt
 asphodèle           m, affodil, bolgewas
@@ -1204,6 +1207,8 @@ asséner             knuppel, een stoot geven, porren
 assener un coup een stoot geven, porren
 assentiment         m, goedkeuring, instemming, jawoord, toestemming
 asseoir, asseyons   neerzetten, neerzitten, plaatsnemen, zetelen
+assermenté          adj. beëdigd
+assermenter         beëdigen, een eed afnemen
 asservir            tot slaaf maken, verplichten, zich verplichten tot
 asservissement      m, gevangenschap, slavernij
 assesseurs          adjoint van een rechter
@@ -1292,7 +1297,6 @@ attaché-case        m, diplomatenkoffertje
 attachée de presse  persattaché, persvoorlichter
 attache             f, hoop, hulp, hulpmiddel
 attaché             m, personne faisant partie d'un service particulier
-artichaut           m, artisjok
 attacher ses chiens avec des saucisses  zotte kosten doen
 attaches            f, beugel, klembeugel, asbout, lijmklem
 attagène            m, mijt (in tapijt)
@@ -1785,6 +1789,7 @@ balourdise          f, domheid
 baluchon            m, buidel
 balustrade          f, balustrade, borstwering, leuning
 balustre            m, balustrade, borstwering, pedestal, kolom, zuil, pilaar
+bambou              m, bamboe
 banalité            f, algemeenheid, banaliteit, dooddoener
 banane              f, banaan
 bananier            m, banaanboom, bananeboom
@@ -1794,9 +1799,9 @@ bancs de morues     m, kabeljauwschool
 bancs de terre      m, zandbanken
 bandage             m, verband, windsel
 bandana             m, doek, bandana
+bande annonce       f, preview, trailer; voorpremière, voorvertoning
 bande à piscou      f, ducktales
 bandeau             m, band, strip, blinddoek, haarband
-bande annonce       f, preview, trailer; voorpremière, voorvertoning
 bande dessinée      f, stripverhaal, b.d.
 bande               f, lint, band, wikkel, bende
 bandelette          f, strip
@@ -1919,8 +1924,8 @@ battre en retraite  de aftocht blazen, zich terugtrekken
 battre son plein    in volle gang
 baudet              m, ezel
 baudruche           f, blaas, membraam, vlies, personne faible, ne pas avoir de volonté
-baume               m, balsem, bijenkruid, vrouwenkruid
 baume au cœur       ça met le baume au cœur; ça nous console, nous réconforte, nous fait du bien
+baume               m, balsem, bijenkruid, vrouwenkruid
 bavante             kwijlend
 bavardage           m, achterklap, kletspraat, roddel
 bavarder            praten, babbelen, kletsen, keuvelen
@@ -2090,6 +2095,8 @@ biscuit, biscuits   m, biscuit, koekje
 biscuits de mer     m, zoals soldatenkoeken
 biseauté            afgekant, afgeschuind
 biseauter           afschuinen
+bise                f, kus, kusje, zoen
+bisou               m, kus, zoen
 bistouri            m, ontleedmes, scalpel
 bistre              roetkleur
 bistrot             m, bistrot
@@ -2245,7 +2252,6 @@ boucher             m, slachter, beenhouwer
 boucher             smoren, stikken, verstikken, verstopt zijn, afstoppen
 bouches             f, scheur, uitloop, bakkes, bek, smoel, snoet
 bouché              verstopt
-être bouché         (familier) être stupide, ne comprendre rien
 bouchon             m, flessehals, kurk, opstopping, verkeersopstopping
 bouchonner          droogwrijven
 bouchons de liège   kurken
@@ -3024,6 +3030,7 @@ centre              m, centrum
 centripète          centripetaal, middelpuntzoekend
 cependant           desondanks, echter, maar, niettegenstaand, niettemin, toch, toch
 céphalé             hoofd-
+ce putain de ...    très familier, voire vulgaire
 ce que tu lui trouves   wat je in hem ziet
 céramique           f, aardewerk
 cératosaure         m, ceratosaurus
@@ -3062,9 +3069,12 @@ c'est ce qui te trompe that's where you're mistaken
 c'est comme cela que    dat is hoe
 c'est dire          
 c'est du Feydeau    dat is toneel, wat een veaudeville
+c'est dur           c'est difficile
+c’est formidable    c’est super (plus familier) / c’est merveilleux
 c'est malin         that's not fair
 c'est selon         het hangt er vanaf, that depends
 c'est tout de même  all the same
+c’est un comble     ça ne paraît pas croyable et il y a une sorte de paradoxe
 cétacé              m, walvisachtigen
 cétacé              walvisachtigen
 cette réserve près  f, voorbehoud
@@ -3301,8 +3311,8 @@ chevet              m, hoofdeinde van het bed, nachtkastje
 cheveu              m, een haar, haartje
 cheville            f, enkel, enkelgewricht, knijper, pen, pin, wasknijper, wasspeld
 chevreaux           m, bokje, geitje
-chèvre              m, un fromage de chèvre; geitenkaas
 chèvre              f, geit
+chèvre              m, un fromage de chèvre; geitenkaas
 chèvres bises       f, gijze geiten?
 chevrette           f, geitje, bokje
 chevreuil           m, damhert, ree, reebok, reegeit
@@ -3374,6 +3384,7 @@ chouan              m, royalist, west-frankrijk, tegengesteld aan de revolutie
 chouchou            groente?
 chouette            f, nachtuil, uil
 chou                f, koolsla
+chou-fleur          m, bloemkool
 chou                m, gezicht
 chouquette          f, gâteau et biscuit sucrés, gebak, taart, koek
 choux palmistes     m, koolpalm, le cœur de palmier frais 
@@ -3391,6 +3402,7 @@ chuchotement        m, gefluister
 chuchoter           fluisteren, inblazen, toefluisteren
 chuintant           slissen
 chuintement         m, sissend, gesis
+chute de neige      f, sneeuwval, sneeuwbui, sneeuw
 chute               f, val, smak, valpartij, tuimeling; fall
 chuter              afgaan, neerkletteren, sodemieteren
 chutes              f, overschot, restafval, overschot na knipwerk
@@ -3776,7 +3788,6 @@ comptine            f, kinderrijm, kinderversje
 comptoir            m, bar, counter, desk, balie, toonbank
 comptoirs commerciaux   m, handelsposten
 compulser           consulter, doorbladeren
-con                 stupide, idiot (terme vulgaire)
 concasseur          m, crusher, verbrijzelaar
 concéda, concéder   toegeven, toekennen
 concentrationnaire  concentratiekamp
@@ -3800,6 +3811,7 @@ concision           f, beknoptheid, bondigheid
 concitoyen          m, stadgenoot, stadgenote, medeburger
 conclure            afhandelen, besluiten
 concocter           bedenken, concipiëren, smeden, uitdenken
+concombre           m, komkommer
 concombres          m, komkommer
 concomitant         begeleidend
 concordance         f, concordantie, akkoord
@@ -3859,6 +3871,7 @@ confusion           f, angst, verwarring, gedoe
 confusion mentale   f, mentale verwarring
 congédier           de bons geven, ontslaan, verwijderen, wegzenden
 congélateur         m, diepvriezer
+congelé             invriezen, bevriezen, vriezen, diepvriezen, wegkijken
 congé               m, afscheid, vaarwel, verlof, verloftijd
 congénère           m, rasgenoot, soortgenoot
 congénitale         aangeboren
@@ -3927,7 +3940,6 @@ console             f, console, ce qui rend beau, harp, snaarinstrument, randapp
 consoler            vertroosten, troosten, geruststellen
 consolider          sterker worden, consolideren, bestendigen
 consommateur        m, client, afnemer, klant
-concombre           m, komkommer
 consommation        f, consumptie
 consommer           opgebruiken, voltooien, voltrekken, ontfermen, opgaan
 consortium          m, consortium, trust, syndicaat
@@ -3947,6 +3959,7 @@ constitutif         samenstellend
 constitution        f, grondwet, staatsbestel, gestel, aard
 constitutive        samenstellend
 constriction        f, vernauwing
+con                 stupide, idiot (terme vulgaire)
 consubstantiel      onderdeel
 consulat            m, consulaat
 contact             m, contakt
@@ -4085,9 +4098,9 @@ cordage             m, touw, bespanning
 cor de chasse       m, jachthoorn
 cordée              f, alpinisten, aaneengelosten met een koord
 corde               f, koord, kabel, lasso, lijn, streng, strik, strop, touw, snaar
-cordes vocales      f, stembanden
 cordelette          f, worgpaal, wurgpaal, wurgtouw, kort touwtje
 corde sensible      f, toucher une corde sensible; pour dire que qq. chose nous touche particulièrement, personnelle
+cordes vocales      f, stembanden
 cordiale            gezellig, hartig, joviaal, vriendelijk
 cordial             hart-, innig, gezellig
 cordialité          f, aardigheid, beminnelijkheid, medeleven
@@ -4578,13 +4591,13 @@ danse               f, dans
 danseuse à transformation   f, burlesque danseres?
 dans l'absolu       in absolute termen
 dans la mesure      voor zover
+dans le champ       dans le champ de l’appareil photo, dans ce que cadre l’objectif de l’appareil photo
 dans le fond        après tout
 dans le genre       van de soort
-dans le champ       dans le champ de l’appareil photo, dans ce que cadre l’objectif de l’appareil photo
-dans l'esprit       cela correspond à ce qui est attendu, à l’atmosphère qui est souhaitée
 dans l'ensemble     alles bij elkaar, al met al, alles samengenomen
 dans les choux      pour dire qu’on rate quelque chose
 dans les moindres détails   haarfijn
+dans l'esprit       cela correspond à ce qui est attendu, à l’atmosphère qui est souhaitée
 dans l'intervalle   in de tussentijd
 dans l'obscurité    in het donker
 dans une glace      in een spiegel
@@ -4636,6 +4649,7 @@ débauche            f, excès des plaisirs et débauche, viering, vreugdefeest,
 débaucher           éviter ou interrompre une relation avec qqn
 de belle taille     f, groot
 de biais            vooringenomenheid, en travers, diagonaal
+débile              idiot, stupide, complètement stupide
 débiliter           verzwakken, doen afnemen, aantasten, knagen aan, ontkrachten, ondermijnen, dom maken
 débiter             afdraaien, afratelen, opdreunen, uitkramen
 débit               m, productie, verwerkingscapaciteit, stemvolume
@@ -4928,6 +4942,7 @@ délai, délais       m, wachttijd
 délaie              devenir à l'état liquide
 délaisser           laten varen, verlaten, eenzaam, forsaken, achtergelaten
 délaissés           diepbedroefd, eenzaam, verlaten
+de la merde         des choses pas bonnes du tout (vulgaire)
 de la peine         pijn doen, met moeite, pijn voelen, triest zijn
 délasser            zich ontspannen, zich verpozen
 de la street        c’est la pratique d’un sport sans club, dans la rue ou sur un terrain libre d’accès
@@ -5025,7 +5040,6 @@ de mon bord         van mijn soort, my kind, somebody of my sort
 démon               m, demon, duivel, Beëlzebub, lucifer, mefisto, satan
 démonologie         f, demonenleer
 démonter            demonstreren, aantonen, resulteren, leiden
-se démonter         se laisser perturber par quelque chose et donc ne plus savoir quoi dire ou faire
 démontrable         aantoonbaar, aanwijsbaar, bewijsbaar
 démontré            certificeren, aantonen, bewijzen, demonstreren
 démontrer           aantonen, bewijzen
@@ -5209,6 +5223,7 @@ désarticulé         dubbelgeleed, uit de kom draaien
 désastre            m, ramp, catastrofe, onheil
 désastreux          très mauvais, un vrai désastre; catastrophique, une catastrophe
 désavoué, désavouer onterven, verloochenen, niet erkennen
+désaxé              m, qui n'est pas dans son état normal
 descendance         f, afstammeling, afkomst
 descendant          m, afstammeling
 descendre           koud maken, vermoorden, afstappen, afdalen, aflopen, naar beneden, uitstappen, uitstijgen
@@ -5578,6 +5593,7 @@ docker              m, bootwerker, dokwerker
 dock                m, dok (haven)
 docteur             m, geneesheer, arts
 doctrine d'emploi   f, doctrine, filosofie, leer
+documentaire        m, documentaire
 document            m, document, verslag
 dodeliner           wiegelen, knikkebollen
 dodues              mollige
@@ -6340,6 +6356,7 @@ endurcis            m, gehard, taai, verstokt
 en effet            precies, beslist, dat... ook, inderdaad, met zekerheid, vertrouwd, zeker, c'est ça, c'est vrai
 en entier           in zijn geheel, helemaal, volledig
 en équerre          hoek
+énergie éolienne    f, windenergie
 énergie             f, energie, geestkracht, daadkracht
 énergumènes         opgewonden persoon
 énervement          m, heethoofdigheid, lichtgeraaktheid
@@ -6727,6 +6744,7 @@ envoûté             betoverd, bezweerd, bewitched
 envoûtement         m, bezwering
 envoyé              m, afgezant, gezant
 en vrille           in spin
+éolien, ëolienne    met betrekking tot de wind
 éon, éons           m, eeuwigheid, een eeuwigheid
 épagneul            m, spaniël (hond)
 épais, épaisse      dik, dicht, dichtopeengepakt, dom, grof, onbehouwen, plomp, stijf, taai, solid
@@ -6946,6 +6964,7 @@ estimable           achtenswaardig, achtenswaard
 estimation          f, oordeel, inschatting
 estime              f, aanzien, achting, eerbied, krediet, respect
 estimer             schatten, respecteren, waarderen, achten, naar waarde schatten
+estival             zomerachtig, zomer-, zomers
 estivant            m, recreant, vakantieganger
 est                 m, oosten
 estomac d'austruche m, maag van een struisvogel
@@ -6978,7 +6997,6 @@ estuaire            m, riviermonding
 étanche             waterdicht
 étang               m, zoutmeer, meer, vijver
 étape               f, etappe, stadium, lieu où l'on s'arrête
-état                m, staat
 état civil          m, burgerlijke stand
 état de fait        m, stand van zaken, voldane feiten?
 état de siège       m, staat van beleg
@@ -6986,6 +7004,7 @@ estuaire            m, riviermonding
 état d'éveil        m, waakzaamheid
 étatique            staats-
 état-major          m, staf, hoofdkwartier
+état                m, staat
 états d'âme         stemmingen
 étau                m, bankschroef
 étayer              ondersteunen, onderstutten, schragen, stutten
@@ -7056,6 +7075,7 @@ et puis             en vervolgens
 être aux anges      dansen van vreugde, in de wolken zijn, in de zevende hemel zijn, opgewonden zijn
 être aux commandes  aan het hoofd staan van, toezicht hebben, leiden, gezag hebben over
 être aux prises     in gevecht geraken, voeren
+être bouché         (familier) être stupide, ne comprendre rien
 être bouclé         belegerd, omsingled, afgerond/afgehandeld worden
 étrécies            innaaien, innemen, ingetrokken
 être classe         être élégant, raffiné; Elle a de la classe. / Elle est classe.; C’est la classe !
@@ -7243,6 +7263,7 @@ expérience, expériences f, proeven, experimenten, ervaring
 expérimentaux       proef-
 expier, expiaient   boeten, boeten voor, bloeden
 expiration          f, vervaldag
+expirer             uitademen, expireren; de pijp uitgaan; verjaren, vervallen
 explication         f, uitleg
 exploitation        f, ontplooiing, ontginning
 exploser            uitbarsten, exploderen, openbarsten
@@ -7269,6 +7290,7 @@ exténuant           uitputtend, afjagend, afbeulend
 exténué             uitgeput
 extérieur           m, externe, buitenwereld, buitenshuis, openlucht
 extérioriser        belichamen
+extinction          f, extinctie, het uitdoven, doven, smoren, beëindiging, einde, eind
 extirper            loswrikken, loswroeten, uitwieden, wieden
 extorqué            afdwingen, afpersen
 extraction          f, afkomst
@@ -7517,6 +7539,8 @@ fécondation         f, bevruchting, conceptie, impregnatie, fertilisatie
 féconder            bemesten, bevruchten
 féconde             vruchtbaar
 fécondité           f, fertiliteit
+fécule              f, meel-, zetmeel; stijfsel, bindmiddel
+féculent            m, groente; meel-, zetmeelrijk
 fédérateur          verenigende, bestrijding van
 fée                 f, fee
 féerie              f, prachtige vertoning
@@ -7544,11 +7568,13 @@ fente               f, scheur, sleuf, spleet, kier, doorbraak, breuk
 fer à cheval        m, hoef, hoefijzer 
 fer-blanc           m, blik, conservenblik, tin
 ferir, féru         qui aime qqch, enthousiast, geestdriftig over
+ferme éolienne      f, windmolenpark
 ferme               f, boerderij
 fermement           flink, standvastig, stevig, vast, vastberaden
 fermenter           in onrust brengen
 fermer              afsluiten, dichtdraaien, sluiten
 fermes              f, boerderij
+ferme ta gueule     tais-toi (vulgaire et donc agressif)
 fermeté             f, beslistheid, degelijkheid, stevigheid, grondigheid, firmness
 fermeture à glissière  f, ritssluiting
 fermeture éclair    f, ritssluiting
@@ -7744,6 +7770,7 @@ fleurir             openbloeien, floreren, bloeien
 fleuriste           m, florist, bloemenverkoper, bloemist
 fleuron             m, kruisbloem
 fleuve              m, rivier, stroom
+flibuste            f, vrijbuiterij, piraterij, bedrijfsspionage, zeeroverij, letterdieverij
 flingue             m, blaffer, vuurwapen
 flippées            geflipt
 flipper             m, flipperkast
@@ -8248,11 +8275,11 @@ gaule               f, paal, roede, schacht, staak
 gauler              op de takken van een boom slaan
 gavais, gaver, gavé brassen, schransen, slempen, volproppen, vettig
 gavroche            rchétype du gamin de Paris
-gaz                 m, gas
 gaz carbonique      m, kooldioxide, koolzuur, koolzuurgas
 gaze                f, gaas, verbandgaas
 gazelle             f, gazelle
 gaze                racen, vergassen, flamberen
+gaz                 m, gas
 gazomètre           m, gashouder, gasketel, réservoir fermé pour entreposer des liquides
 gazouiller          kraaien, kukelekuën, kwelen, kwetteren
 gazouillis          m, gekweel, getjilp, gekwetter, lied
@@ -8301,7 +8328,6 @@ gentiane            f, alcoholische drank
 gentilesse          f, aardigheid, beminnelijkheid, goedheid, vriendelijkheid
 gentiment           kameraadschappelijk, lieflijk, zacht, vriendschappelijk
 génuflexion         f, kniebuiging, knieling
-gêole               f, gevangenis, nor
 geôle               f, gevangenis, nor
 geôlier             m, gevangenisbewaarder, cipier
 géologie            f, geologie
@@ -8429,6 +8455,7 @@ gorge serrée        f, dichtgeknepen keel
 gorille             m, gorilla, mensaap
 gosier              m, slokdarm, strot, windpipe, keel
 gosse               m, joch, kind, snotaap
+gosses              m, les enfants, môme est un peu plus familier que gosse
 gouache             f, gouache, verf, verfstop
 gouailler           bespotten, belachelijk maken
 goudron             m, teer, pek, pik
@@ -8661,6 +8688,7 @@ guet-apens          m, hinderlaag, val, valstrik
 guet                m, uitkijk
 guetter             bespionneren, hoeden, omzien, oppassen, gluren, loeren, vluchtig kijken, opletten, letten op
 guetteur            m, wacht, verkenner, schildwacht
+gueule              f, bakkes, bek, muil, muilband, muilkorf, kaak
 gueule              f, bakkes? muil, gezicht, tronie
 gueuler             schreeuwen, brullen
 gueuleton           m, repas, viering, vreugdefeest, excessif et trop
@@ -8847,9 +8875,8 @@ hésitante           aarzelen, haperend, wankelend
 hésitation          f, halfslachtigheid, onzekerheid, twijfeling, weifeling
 hétéroclite         mengelmoes, rommeltjes; vreemd, wonderlijkheid, eigenaardig, vreemdheid, buitenissigheid
 hêtre               m, beuk
-heure               f, uur
-l'heure est aux...  it's time for...
 heure d'affluence   f, spitsuur, topdrukte, spits, piekuur
+heure               f, uur
 heures creuses      f, daluren
 heurté              gedeukt, gebotst
 hévéas              m, rubber
@@ -9719,8 +9746,8 @@ j'apporte mes quarts   ik betaal
 jaquette            f, rokkostuum, avondkostuum, overjas, cover, kaft, omslag, boekomslag
 jardinage           m, tuinieren
 jardin à la française  m, franse tuin
-jardinet            m, tuin
 jardiner            tuinieren, hovenieren
+jardinet            m, tuin
 jardinière          f, tuinierster, bloembak
 jardinier           m, tuinman, tuinier, hovenier, kweker
 jardin              m, tuin, hof, erf
@@ -9757,7 +9784,6 @@ je ne tiens  à        ik wil niet
 je ne tiens pas à en parler      I don't want to talk about it
 j'en fais autant    ik doe het zelfde
 j’en reviens toujours pas     je n’arrive pas à y croire, c'est la surprise totale
-j'y arrive            je réussis à faire ce que j’ai entrepris, j’en suis capable
 je n'y entre plus   er niet meer op in gaan?
 je n'y pouvais rien    I could not help it
 je suis au supplice    I am on tenterhooks, on the full stretch, most curious, anxious
@@ -9868,6 +9894,7 @@ juteux              sappig, smeuig
 juvénile            jeugd, jeugdig, jong
 juxtaposer          naast elkaar leggen, naast elkaar plaatsen
 juxtaposition       f, nabij, naast elkaar leggen, naast elkaar plaatsen
+j'y arrive            je réussis à faire ce que j’ai entrepris, j’en suis capable
 kabyle              algerijns
 kaléidoscope        m, toverkijker, caleidoscoop
 karité              boom uit Afrika
@@ -9909,6 +9936,7 @@ laconique           kort en bondig, kort en krachtig
 la corde au cou     halster
 la Corse            Corsica
 la course de taureaux  f, stierenloop
+lacune              f, gaping, leegte, hiaat, lacune, leemte, manco, vacuüm, kier
 lacustre            meren-, lac, qui se rapporte à des étendues d'eau
 là-dessus           daarop, daarna, erop, op dit punt
 la fermer           le contraire de l'ouvrir (la = la bouche)
@@ -10147,6 +10175,7 @@ lévrier             m, hazewind, hazewindhond, windhond
 levure              f, gist, bakkersgist
 lézarde             f, kloof, slenk, spleet, crack
 lézard              m, hagedis
+l'heure est aux...  it's time for...
 l'humour pince-sans-rire  m, droge humor
 liaison étroute     dicht
 liaison             f, verhouding, verbinding, binding
@@ -10296,6 +10325,7 @@ longiligne          lang
 longions, longer    dichtbij blijven, omstrengelen, omarmen, langslopen
 long                le long de = langs
 long plan fixe      lange statische shot (film)
+longtemps           langdurig, lang
 longuement          lang
 longues             lang, langdradig, langwerpig
 longueur d'onde     f, golflengte
@@ -10596,6 +10626,7 @@ maquilleuse         f, grimeur, grimeuse
 maquis              m, maquis, bush
 marais              m, moeras 
 marasme             m, krachteloosheid, magerte, dunheid, nietsdoen, inactiviteit, crisis, crisistijd, depressie
+marathon            m, marathon
 maraudage           m, beroving, diefstal, dieverij, ontvreemding, roof
 maraudeurs          duitendief, hebber, mestgier, dief, dievegge
 marbre              m, marmer
@@ -10611,6 +10642,7 @@ marche              f, mars, voortgang, vaart, gang, beweging, loop, tocht, tipp
 marche, marches     f, loopvlak, opstapje, gang, trap, voortgang
 marché              m, markt, afzet, actie, commercie, business
 marchepied          m, opstapje, trapladder, trapleer
+marcheur            m, voetganger, voetgangster, loper, wandelaar
 marécage            m, modder, moeras, slib, veen
 maréchal des logis  m, officier, sergant-majoor
 maréchal-ferrant    m, hoefsmid
@@ -11106,6 +11138,7 @@ mollir              vermurwen, slap worden
 molosse             m, bulldog
 môme                m, dreumes, kleuter, joch, kind, snotaap
 momentanément       kortstondig, vluchtig, voorbijgaand, overgangs-
+mômes               m, les enfants, môme est un peu plus familier que gosse
 momie               f, mummie
 monade              f, monad (Leibniz)
 monceau             m, stapel
@@ -11259,6 +11292,7 @@ moyens du bord      naar best vermogen
 moyeu               m, naaf, partie d'une hélice
 mue                 f, rui, ruitijd, vervelling, stemwisseling
 mué, muer           bewogen, bezweken, van stem wisselen
+muet comme une carpe   silencieux, qui garde le silence
 muettement          zwijgend
 muette              sprakeloos, stil, stom, mute
 mufle               lomp, ploertig, klungelig, m, aangezicht, bek
@@ -11409,6 +11443,8 @@ négresse            f, negerin
 négrifier           zwart maken
 négrillon, négrillonne    m/f, enfant négre
 négroïde            negroid
+neige               f, sneeuw, sneeuwdek, sneeuwlaag, sneeuwbui, sneeuwval
+neiger              sneeuwen
 nématode            m, ronde worm
 n'empêche que       niettemin
 nems                m, loempia
@@ -11921,6 +11957,7 @@ pamphlet            m, brochure, pamflet
 panacée             f, panacea, middel tegen alle kwalen
 panache             m, pluim
 panacher            mengelen
+panais              m, pastinaak (wit gele wortel), légume
 panama              m, panamahoed
 pancarte            f, aanplakbiljet, affiche, plakkaat, poster
 pandanus            m, plante aquatique et de marais — waterplant; hydrofyt
@@ -11994,6 +12031,7 @@ parbleu             Good God, dammit
 par boutade         bij wijze van grap
 par bribes          in flarden
 parcelle            f, deeltje, greintje, grondgebied, partikel, perceel
+parc éolien         m, windmolenpark
 parcheminer         perkament
 parchemin           m, perkament
 parcimonie          f, spaarzaamheid, karigheid, zuinigheid
@@ -12084,6 +12122,13 @@ partage             m, zonder scheidswand, schot, tussenwand, gedeelte
 partance            aftredend, uitgaand
 partenaire          m, partner
 parterre            m, slaapplaats, bed, bloemperk, rustplaats
+partez au Creusot   au Creusot, à le Creusot n'existe pas
+partez au Croisic   au Croisic, à le Croisic n'existe pas
+partez au Havre     au Havre, à le Havre n'existe pas
+partez au Mans      au Mans, à le Mans n'existe pas
+partez au Mont Saint Michel   au Mont Saint Michel, à le Mont Saint Michel n'existe pas
+partez au Touquet   au Touquet, à le Touquet n'existe pas
+partez au Tréport   au Tréport, à le Tréport n'existe pas
 part                f, deel, aandeel, stuk
 parthénogenèse      f, asexuele reproductie, voortplanting
 participation       f, aandeel, betrokkenheid, inspraak
@@ -12116,8 +12161,8 @@ pas davantage       noch
 pas du tout         helemaal niet
 pas                 m, pas, trede, overloop, stoep
 passablement        redelijk
-passage             m, doorgang, gang, doorreis, doortocht, passage, aflevering, afgifte, jaargang
 passage à tabac     m, fait de tabasser quelqu’un, een aframmeling
+passage             m, doorgang, gang, doorreis, doortocht, passage, aflevering, afgifte, jaargang
 passagère           kortstondig, vluchtig, voorbijgaand
 passager            kortstondig, vluchtig, vergankelijk
 passarelle          f, wandelpad
@@ -12144,6 +12189,8 @@ passe-violet        m, couleur que le fer ou l'acier acquiert à un certain degr
 passion             f, passie, lijdensgeschiedenis, lijdensverhaal
 passionné(e) de     avoir la passoin du cinéma
 passionnément       dwepend, gepassionneerd
+passoire-casque     f, zeef-, keukenzeef-, vergiet-helm
+passoire            f, zeef, keukenzeef, vergiet
 pastèque            f, watermeloen
 pasteurisation      f, pasteurisatie
 pasteur             m, herder
@@ -12151,8 +12198,8 @@ pasticheur          m, navolger, auteur, imitateur
 pastille de mente   f, pepermunt
 pastille            f, tablet, pil
 pastoral            herderlijk, landelijk, pastoraal
-patatella           m, cigare de La Havane, long et mince
 patate              f, aardappel; pommes de terre
+patatella           m, cigare de La Havane, long et mince
 patatras            badaboum, pan, patapouf, vlan
 pataude             onhandig
 pataud              lomp
@@ -12624,6 +12671,7 @@ pipeau              m, fluit, fluitje, herdersfluit
 pipe                f, pijp
 piquer              aanvallen, donderen, duvelen, prikken, snijden, stompen
 piquer au vif       op de tenen trappen
+piquer une tête     een duik nemen
 piqueter            afpalen, gevlekt, spikkelachtig, se couvrier de taches
 piquet              m, piket, pin, kleerhaak, kaartspel
 piquets             pin, pen, piket, knijper, wasknijper
@@ -12710,6 +12758,7 @@ plantes grasses     f, vetplanten
 plantes sages       f, geneeskrachtige planten?
 planton             m, oppasser, ordonnans
 plantureuse         mollig
+plaque d'avaloir    f, riooldeksel, afvoerplaat
 plaque              f, plaatje, gevelsteen
 plaqué              m, vertind, verguld, plaat, plaatje
 plaquer             tackelen, appliqueren, opleggen, to slap
@@ -12737,9 +12786,9 @@ plébéien            gewoon, plebejisch
 plébisciter         exprimer son opinion par un vote, akkoord gaan met, goedvinden, goedkeuren, ergens achter staan
 pleine à craquer    barstensvol
 plein été           m, midden zomer, volle zomer
+plein les yeux, plein les oreilles          a fabulous spectacle
 plein               massief, vol, zwaar
 plein               m, repletion, karakter, teken, streek
-plein les yeux, plein les oreilles          a fabulous spectacle
 plein pot           volle snelheid?
 plein rétablissement         m, volledig herstel
 pleins à en vomir   gevuld tot overgeven, klaar om te braken
@@ -12841,8 +12890,8 @@ point               m, punt
 points de tricot    breien?
 points de vue       m, standpunten
 pointu              scherp, grievend, hatelijk
-poireauter          moeten wachten
 poireau, poireaux   m, prei, sjalot
+poireauter          moeten wachten
 poire               f, peer
 poirier             m, pereboom
 pois chiche, pois chiches  m, kikkererwt
@@ -12855,9 +12904,9 @@ poisse              f, gebrek, manque, pauvreté, armoe, armoede
 poisser, poissant   dronken worden, zich bedrinken, zich bezatten, devenir sale
 poisseuse           plakkerig
 poisson frit        m, gebakken vis
-poisson pané        m, gepaneerde vis
 poisson             m, vis
 poissonnier         m, visboer
+poisson pané        m, gepaneerde vis
 poissons-scies      m, zaagvis, zwaardvis
 poitrail            m, borst
 poitrinaire         m, tuberculose
@@ -12903,6 +12952,7 @@ pompon              m, kwastje, pompon
 pomponner           mooi maken, tidy up, tooien, zich opdirken
 poncer              gladschuren, polijsten
 poncif              m, stencil, cliché
+ponctuation         f, interpunctie, leesteken; on dit plutôt : les signes de ponctuation
 ponctuel            stipt, prompt, precies, trefzeker, nauwkeurig
 ponctuer            leestekens aanbrengen, faire sortir, punctuated
 pondération         f, weging, overweging
@@ -13185,6 +13235,7 @@ prénommaient, prénommer     als voornaam hebben
 prénom              m, voornaam, doopnaam
 préoccupation       f, verontrusting, hoofdbezigheid
 préoccuper          in beslag genomen
+préparatif          m, voorbereidingen
 préparer            voorbereiden, bezorgen, klaarstomen voor, opmaken, optuigen
 prépondérant        hoogste, overheersend, overwegend
 préposé             aangesteld
@@ -13265,6 +13316,7 @@ primes, prendre     de richting inslaan, draaien, een bocht maken
 primo-étoiles       f, primaire sterren
 primogéniture       f, eerstgeborenrecht
 primordiale         oorspronkelijk
+princier, princière          vorstelijk, prinselijk
 principalement      inzonderheid, meestal, vooral, voornamelijk, bovenal
 principauté         f, prinsdom, vorstendom
 principaux          belangrijkste, voornaamste, hoofd-
@@ -13306,6 +13358,7 @@ processus           m, proces, ontwikkelingsgang, verloop
 procès-verbal       m, proces-verbaal, bekeuring, boete, bon, handelingen, notulen, werkzaamheden
 proche              m, het nabije
 Proche-Orient       m, Midden-Oosten
+prochette           f, de cover (van een cd, lp, album)
 procréation         f, voortplanting
 procréer            voorbrengen
 procuration         f,  authorisatie, machtiging, toestemming, vergunning
@@ -13452,8 +13505,8 @@ psychose            f, psychose
 ptérodactyle        m, pterodactylus
 puanteur            f, stank, lucht
 puant, puer         meuren, rieken, stinken
-pub                 f, publicité, advertentie
 pubard              ad-man, reclameman
+pub                 f, publicité, advertentie
 pubis               m, onderlijf, schaamstreek
 publicité           f, reclame, publiciteit
 public              m, publiek
@@ -13508,7 +13561,6 @@ pusillanimité       f, kleinhartigheid, lafhartigheid, lafheid
 pus                 m, suppuratif, etter?
 pustule             f, vin, puist, pukkel
 putain              f, hoer, prostituée
-ce putain de ...    très familier, voire vulgaire
 pute                f, hoer, prostituée, prostituee, del
 putréfaction        f, verrotting
 putréfier           bederven, verrotten
@@ -13531,6 +13583,7 @@ quadrupède          vierpotig, viervoetig
 quai, quais         m, ka, kaai, kade, perron
 qua la mienne en fasse autant if mine does the same
 qualité             f, kwaliteit, mate, niveau
+quand mếme          malgré tout, cependant, même si
 quantité            f, hoeveelheid
 quartier            m, een kwart, kwartier, wijk
 quart               m, kwart, vierde
@@ -13971,6 +14024,7 @@ redouter            duchten, opkijken tegen, opzien tegen, vrezen, zich zorgen m
 redoux              m, réchauffement du temps
 redressement        m, herstel
 redresser           corrigeren, verbeteren, beter maken, zich oprichten
+réduction           f, korting, afslag, reductie; action sur les prix, dépréciation d'une valeur économique
 réductrice          adapter, arrangeur, verdeelstekker, verkleiner, verminderen
 réduire             beknotten, knevelen
 réduire en cendres  aanjagen, aanwakkeren, opflakkeren, vlammen, in de as leggen, platbranden
@@ -14195,6 +14249,7 @@ reparaître          weer opduiken
 réparateur          genezend, heilzaam
 réparatrice         f, therapeut?
 réparer             schadeloosstellen, opbouwen, samenstellen, oplappen, to revive, reviving
+répartie            f, response, beantwoording; antwoord, oplossing; weerwoord, respons; repliek
 repartir            opnieuw vertrekken, uitleggen, beantwoorden, antwoord geven op
 répartir            verdelen
 répartis            verkaleld, verspreid, verdeeld, versnipperd
@@ -15029,6 +15084,7 @@ se découvrir        zich ontbloten, zijn pet/hoed afnemen
 se défaire          ongedaan maken, rafelen, achterlaten, begeven, rid myself, ontdoen van
 se dégager          opklaren
 se dégonfler        bang worden
+se démonter         se laisser perturber par quelque chose et donc ne plus savoir quoi dire ou faire
 se déranger         ergeren, moeite bezorgen
 se dérobe           enten, de boot afhouden, wegkapen, verstoppen, ontsnappen
 se désoler          treuren, worden verstoord
@@ -16025,6 +16081,7 @@ taveler             spikkelen, vlekken
 taverne             f, taverne
 taxi                m, taxi
 tchatche            m, chat
+tebé                idiot, stupide (c’est du verlan, c’est-à-dire les mots dits à l’envers)
 technicien          m, technicus, technieker, ingenieur
 technico-commercial m, technical sales
 technique           f, handelswijze, hulpmiddel
@@ -16043,6 +16100,7 @@ teinturière         m, stoffenverver, verver
 tekteks             ?
 télébrité           f, celebrity
 téléchargement      m, download
+télé                f, televisie
 télégénie           f, telegeniek
 télégramme          m, telegram
 télégraphier        telegraferen
@@ -16054,7 +16112,6 @@ téléphoniste        m, telefonist
 téléscopage         m, autobotsing, aanrijding, verkeersongeluk
 téléviseur          m, teeveetoestel
 télévision          f, televisie
-télé                f, televisie
 telle que           zo
 telles              semblable
 telle               un différent, un autre / une semblable, un même
@@ -16069,6 +16126,7 @@ témoignage          m, getuigenis, bewijs
 témoigner           getuigen, aantonen, bewijzen, staven
 témoin              m, de getuige
 tempe               f, slaap (lichaam, van gezicht)
+température         f, temperatuur
 tempéré             gematigd, matig, verzacht, getemperd
 tempérer            temperen, verzachten
 tempète             f, noodweer, stormweer
@@ -16146,12 +16204,12 @@ terrassement        m, terras aanleggen?
 terrasser           neerslaan, neervellen
 terrassier          m, delver, graver, grondwerker
 terre à terre       geesteloos, zielloos, nuchter, zakelijk
-terre               f, aarde, grond, veld, terrein
 terreau             m, bladaarde, humus, klei, leem, plantaarde, potaarde
 terre battue        f, gravel
 terre cuite         f, terracotta
 terre de Sienne     pigment, bruin ocre, roodachtig, in schilderkunst gebruikt
 terre d'ombre       f, bruine kleurstof, slagschaduw
+terre               f, aarde, grond, veld, terrein
 terre glaise        f, klei, kleigrond, leem, leemgrond
 terre meuble        f, losse grond
 terre-plein, terre-pleins    m, platform, versterkingen
@@ -16190,6 +16248,7 @@ Têtu                magazine voor homosexuelen
 teufs               ?
 texte               m, de tekst
 texte               m, tekst
+texto               m, sms
 texture             f, structuur, textuur, weefsel
 théâtre             m, theater, toneel
 thébaïde            f, kluis (kluizenaar) 
@@ -16365,6 +16424,7 @@ touffe              f, bosje, bundel, (haar)lok
 touffeur            f, zwoel, zwoele atmosfeer
 touffu, touffue     duister, troubel, vaag, rijk begroeid, dicht begroeid
 toujours est il que     wat niet wegneemt dat
+Toulouse la rose    Toulouse est surnommée la « ville rose » en raison de la couleur de la brique de terre cuite
 toundra             f, toendra, mossteppe
 toupet              m, brutaliteit, onbeschaamdheid
 toupie              f, draaitol, tol
@@ -16676,8 +16736,8 @@ tumulte             m, tumult, bedoening, kabaal, keet
 tunesien            m, Tunesiër
 tunnel              m, tunnel, opbouw, constructie
 turban              m, tulband
-turbot              m, tarbot; vis
 turbotin            m, jonge turbot, tarbot; vis
+turbot              m, tarbot; vis
 turbulence          f, luidruchtigheid, onhandelbaarheid, onstuimigheid
 turgescente         gezwollen
 turlupin            m, grapjas, personne farceuse ou qui plaisante
@@ -17184,11 +17244,11 @@ voiture de mutilé   f, rolstoel?
 voiture de police   f, politiewagen
 voiture             f, koets, wagen
 voix de rainette    f, croaking voice, kikkerstem?
+voix                f, stem
 voix grave          f, een diepe stem
 voix mouillée       f, tearful voice
 voix pleine         f, luide stem
 voix sourde         f, schorre stem
-voix                f, stem
 volage              grillig
 volaille            f, gevogelte
 volant              m, pluimbal, shuttle, stuurwiel, stuur
@@ -17286,61 +17346,3 @@ zone                f, zone
 zoologie            f, dierkunde, zoölogie
 zouave              m, soldaat
 zygomatique         m, muscle des lèvres
-estival             zomerachtig, zomer-, zomers
-température         f, temperatuur
-documentaire        m, documentaire
-marcheur            m, voetganger, voetgangster, loper, wandelaar
-bambou              m, bamboe
-c’est formidable    c’est super (plus familier) / c’est merveilleux
-expirer             uitademen, expireren; de pijp uitgaan; verjaren, vervallen
-c'est dur           c'est difficile
-c’est un comble     ça ne paraît pas croyable et il y a une sorte de paradoxe
-répartie            f, response, beantwoording; antwoord, oplossing; weerwoord, respons; repliek
-préparatif          m, voorbereidingen
-texto               m, sms
-ponctuation         f, interpunctie, leesteken; on dit plutôt : les signes de ponctuation
-débile              idiot, stupide, complètement stupide
-gueule              f, bakkes, bek, muil, muilband, muilkorf, kaak
-ferme ta gueule     tais-toi (vulgaire et donc agressif)
-plaque d'avaloir    f, riooldeksel, afvoerplaat
-quand mếme          malgré tout, cependant, même si
-marathon            m, marathon
-lacune              f, gaping, leegte, hiaat, lacune, leemte, manco, vacuüm, kier
-panais              m, pastinaak (wit gele wortel), légume
-gosses              m, les enfants, môme est un peu plus familier que gosse
-mômes               m, les enfants, môme est un peu plus familier que gosse
-tebé                idiot, stupide (c’est du verlan, c’est-à-dire les mots dits à l’envers)
-de la merde         des choses pas bonnes du tout (vulgaire)
-chou-fleur          m, bloemkool
-féculent            m, groente; meel-, zetmeelrijk
-fécule              f, meel-, zetmeel; stijfsel, bindmiddel
-congelé             invriezen, bevriezen, vriezen, diepvriezen, wegkijken
-réduction           f, korting, afslag, reductie; action sur les prix, dépréciation d'une valeur économique
-muet comme une carpe   silencieux, qui garde le silence
-Toulouse la rose    Toulouse est surnommée la « ville rose » en raison de la couleur de la brique de terre cuite
-princier, princière          vorstelijk, prinselijk
-extinction          f, extinctie, het uitdoven, doven, smoren, beëindiging, einde, eind
-aphone              afonie, heesheid, schorheid; onbespraakt, onwelsprekend
-longtemps           langdurig, lang
-passoire-casque     f, zeef-, keukenzeef-, vergiet-helm
-passoire            f, zeef, keukenzeef, vergiet
-bisou               m, kus, zoen
-bise                f, kus, kusje, zoen
-prochette           f, de cover (van een cd, lp, album)
-partez au Mans      au Mans, à le Mans n'existe pas
-partez au Creusot   au Creusot, à le Creusot n'existe pas
-partez au Tréport   au Tréport, à le Tréport n'existe pas
-partez au Touquet   au Touquet, à le Touquet n'existe pas
-partez au Havre     au Havre, à le Havre n'existe pas
-partez au Mont Saint Michel   au Mont Saint Michel, à le Mont Saint Michel n'existe pas
-partez au Croisic   au Croisic, à le Croisic n'existe pas
-doper               drogeren
-à contre-pied       ce qui est diamétralement opposé à (une opinion, un comportement), sur le mauvais pied
-neige               f, sneeuw, sneeuwdek, sneeuwlaag, sneeuwbui, sneeuwval
-neiger              sneeuwen
-chute de neige      f, sneeuwval, sneeuwbui, sneeuw
-piquer une tête     een duik nemen
-assermenté          adj. beëdigd
-assermenter         beëdigen, een eed afnemen
-flibuste            f, vrijbuiterij, piraterij, bedrijfsspionage, zeeroverij, letterdieverij
-désaxé              m., qui n'est pas dans son état normal
