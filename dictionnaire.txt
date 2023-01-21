@@ -5869,6 +5869,7 @@ echo                m, echo
 éclat des lampions  m, gloed van lantaarns, fonkeling
 éclatement          m, barst, breuk, scheur
 éclater             uitbarsten, losbarsten, barsten, uiteenspatten, uiteenbarsten
+je m'éclate         I'm having a ball, I have fun, I'm having the time of my life
 éclat               m, splinter, scherf, glans, barst, schittering, opschudding, fonkeling, geschitter
 éclats de           fragmenten van
 éclat soudain       m, plotselinge uitbarsting
