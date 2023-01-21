@@ -17345,3 +17345,4 @@ zone                f, zone
 zoologie            f, dierkunde, zoölogie
 zouave              m, soldaat
 zygomatique         m, muscle des lèvres
+rencard             m, appointment
