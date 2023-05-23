@@ -2538,7 +2538,7 @@ brusquement         abrupt, plots, plotseling, suddenly
 brusquerie          f, bitsheid, boosheid, botheid, bruuskheid, schorheid, slecht humeur
 brutal              barbaars, beestachtig, bot, bruut, grof
 brute               f, bruut, ondeskundige, agressieveling, grof, onbewerkt, crude
-bruyante, bruyamment   lawaaierig, luid, luidruchtig
+bruyante, bruyamment   fun-loving, lawaaierig, luid, luidruchtig
 bts                 m, brevet de technicien supérieur
 buanderie           f, lieu où l'on lave du linge
 bubon               m, bubon, tumor
@@ -4993,7 +4993,7 @@ démangent           kriebelen, jeuken, wriemelen
 démanger            kriebelen, kriewelen
 démantelé           ontmanteld
 démantibulé         schade toebrengen, duperen, benadelen, schade berokkenen aan, schaden, beschadigen
-démarche            f, loopje, benadering, toenaderingspoging, stap, maatregel, benadering, pas, sprong, tred
+démarche            f, loopje, benadering, toenaderingspoging, stap, maatregel, benadering, sprong, procedures
 de marque           vooraanstaand
 démarqué            witte producten
 démarrage           m, start
@@ -10805,7 +10805,6 @@ méduse              f, kwal
 médusé              verbaasd
 méfaits             m, misdaad, euveldaad, vergrijp
 méfiance            f, achterdocht, argwaan
-méfiant             achterdochtig, wantrouwend
 méfiant             wantrouwend, achterdochtig
 méfier, méfiez-vous niet vertrouwen, wantrouwen
 méfier              verdenken, vermoeden, wantrouwen, niet vertrouwen
@@ -11215,7 +11214,7 @@ morsure             f, beet, hap
 mortadelle          f, worst, charcuterie, bologna
 mortaise            f, tapgat, élément de charpente
 morte               f, einde, gebruiksduur, levensduur, sterven, dode, de pijn uitgaan, dode, afgestorvene
-mortels             m, stervelingen
+mortel              m, sterveling; doodzonde, péché mortel
 mort                f, de dood, fin d'une durée
 mortier             m, molen, mortier
 mortification       f, gekrenktheid, zelfkwelling, zelfvernedering, vernedering
@@ -11653,7 +11652,7 @@ odyssée             f, odyssee, tocht, reis
 œdème               m, waterzucht, oedeem, hydropsie, zucht
 œil beau            m, mooie ogen
 œil épais           m, dikke oog
-œillade             f, blik werpen, manière de diriger les yeux vers qqch
+œillade             f, blik werpen, manière de diriger les yeux vers qqch, oogopslag
 œillet              m, anjer, oogje
 œil morne           m, oog, blik
 œil vide            m, lege blik?
@@ -12271,7 +12270,7 @@ peaufiner           lappen, zemen
 peau, peaux         f, huid, leer, pels, bont, vacht, vel, schil
 pêche au lancer     f, hengelsport, pêche à la ligne, sportvisserij
 pêche               f, visserij, visvangst; schacht, stang, poolstok
-péché               m, kwaad, zondigheid, zonde
+péché               m, kwaad, zondigheid, zonde; péché mortel
 pèche, pécher       zondigen, een zonde begaan
 pêchers nains       m, dwergperzikkenboom
 pêcher              vissen, hengelen
