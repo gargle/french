@@ -14686,7 +14686,7 @@ rude                bars, akelig, ruw, oneffen, ruig, vigorous
 rudesse             f, barsheid, brutaliteit, ruwheid
 rudiment            m, oerbeginsel, rudiment
 rue courbe          f, gebogen straat, ronde straat
-ruée                f, gehaast, haast, spoed, drukte, agitation (personnes)
+ruée                f, gehaast, haast, spoed, drukte; agitation (personnes); a charge
 ruelle              f, doorgang, dreef, kattegat, laantje, steeg, straatje, weg
 rue piétonnière     f, voetgangersstraat, wandelweg
 ruer                bokken, schokken, liften
