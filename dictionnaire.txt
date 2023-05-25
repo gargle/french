@@ -13976,7 +13976,7 @@ reconstitution      f, reconstructie, wederopbouw
 recoupement         m, kruisprodukt, cartetisch product
 recourber           buigen, krombuigen, ombuigen, krommen, verkrommen
 recourir            terug komen op, terug lopen naar, toevlucht nemen tot
-recours             m, beroep, hulpmiddelen, redmiddel
+recours             m, beroep, hulpmiddelen, redmiddel, bronnen; resources
 recousu             dichtnaaien
 recouvrir           behangen, bedekken, omsluieren, afdekken, met een laag bedekken
 recracher           spuwen, uitspuwen
