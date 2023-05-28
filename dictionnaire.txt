@@ -17283,7 +17283,7 @@ vomissures          f, braaksel, overgeefsel, kots
 vorace              begerig, hebberig, vraatzuchtig
 voracité            f, grote honger, vraatzucht
 vortex              m, draaikolk, maalstroom, windhoos
-voué                plechtig beloven, gewijd
+voué                plechtig beloven, gewijd; reserved for
 vouer               plechtig beloven
 voûte               f, boog, gewelf
 voûté               gebogen, gewelfd, krom, met een ronde rug
@@ -17346,3 +17346,5 @@ zoologie            f, dierkunde, zoölogie
 zouave              m, soldaat
 zygomatique         m, muscle des lèvres
 rencard             m, appointment
+inféconde           onvruchtbaar, infertiel, desolaat; sterile
+boulomane           m, jeu de boules speler
