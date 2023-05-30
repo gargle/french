@@ -2363,7 +2363,7 @@ bouteille de bas armagnac   fles armagnac
 bouteille           f, fles
 bouteille Hépar     f, fles mineraalwater
 bouter              mettre, beknibbelen, allumer, bousculer, koken?
-boutique            f, boetiek, magazijn, schop, winkel
+boutique            f, boetiek, magazijn, shop, winkel
 boutiquiers         m, detaillist, kleinhandelaar, middenstander
 boutoir             m, bijtel, snuit
 boutonner           knopen, dichtknopen, vastknopen
@@ -2662,7 +2662,7 @@ caillé              stollen, stremmen
 caillots            m, klonter, stolsel
 caillou             m, kiezel, kei, grind
 caillouteuse        kiezelig
-cailloux, cailloux  m, grind, kiezel, kiezelsteen, kei
+cailloux            m, grind, kiezel, kiezelsteen, kei
 caïman              m, kaaiman
 caisse              f, geldkas, kasregister, kistje, koffer, chest, krat
 caissette           f, kistje
@@ -12824,7 +12824,6 @@ ploucs              m, lomp
 ployant             buigen, bukken, krommen, stoten
 ployer, ployé       buigen, plooien
 pluie battante      f, bui, hoosbui, plensbui, regenval, waterhoos, wolkbreuk
-pluie               f, de regen, neerslag
 pluie               f, regen, regenval, regenbui, neerslag, hemelwater
 plume, plumes       f, pen, pluim, veder, veer, vogelveer
 plumier             m, pennenbakje, potloodvak

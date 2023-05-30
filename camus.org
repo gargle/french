@@ -1,8 +1,12 @@
 # camus.org -*- coding: utf-8; mode: org -*- 
 
+* https://plato.stanford.edu/entries/camus/
+
 * L'été
 
 Mais toi tu es né pour un jour limpide...  (Hölderlin)
+
+| limpide | limpid, clear, transparent; helder |
 
 Cet essai date de 1939.  Le lecteur devra s'en souvenir pour juger de ce que pourrait être l'Oran
 d'aujourd'hui.  Des protestations passionnées venues de cette belle ville m'assurent en effet qu'il a
@@ -28,7 +32,7 @@ quelques villes espagnoles, de Florence ou de Prague.  Salzbourg serait paisible
 loin en loin, court sur la Salzach le grand cri orgueilleux de don Juan plongeant aux enfers.  Vienne
 paraît plus silencieuse, c'est une jeune fille parmi les villes.  Les pierres n'y ont pas plus de trois
 siècles et leur jeunesse ignore la mélancolie.  Mais Vienne est à un carrefour d'histoire.  Autour
-d'elle retentissent des chocs d'empires.  Certains soirs où le ciel se couvre de sang, les cheavaux de
+d'elle retentissent des chocs d'empires.  Certains soirs où le ciel se couvre de sang, les chevaux de
 pierre, sur les monuments du Ring, semblent s'envoler.  Dans cet instant fugitif, où tout parle de
 puissance et d'histoire, on peut distinctement entendre, sous la ruée des escadrons polonais, la chute
 fracassante du royaume ottoman.  Cela non plus fait pas assez de silence.
@@ -74,12 +78,49 @@ le mauvais goût de l'Europe et de l'Orient s'y est donné rendez-vous.  On y tr
 lévriers de marbre, des danseuses au cygne, des Dianes chasseresses en galalithe verte, des lanceurs de
 disque et des moissonneurs, tout ce qui sert aux cadeaux d'anniversaire ou de mariage, tout le peuple
 affligeant qu'un génie commercial et farceur ne cesse de susciter sur les dessus de nos cheminées.  Mais
-cette application dans le mauvais goût  prend ici une allure baroque qui fait tout pardonner.  Voice,
+cette application dans le mauvais goût  prend ici une allure baroque qui fait tout pardonner.  Voici,
 offert dans un écrin de poussière, le contenu d'une vitrine : d'affreux modèles en plâtre de pieds
-torturés, un lot de dessins de Rembrandt « sacrifiés à 150 frans l'un », des « farces-attrapes », des
+torturés, un lot de dessins de Rembrandt « sacrifiés à 150 francs l'un », des « farces-attrapes », des
 porte-billets tricolores, un pastel du XVIIIe siècle, un bourricot mécanique en peluche, des bouteilles
 d'eau de Provence pour conserver les olives vertes, et une ignoble vierge en bois, au sourire indécent.
-(pour que nul n'en ignore, la « direction » a placé à ses pieds un écriteau : « Vierge en bois. »)
+(Pour que nul n'en ignore, la « direction » a placé à ses pieds un écriteau : « Vierge en bois. »)
+
+| voué              | reserved for; gewijd            |
+| caillou, cailloux | m., kiezel, grind               |
+| boue              | f., bagger, modder              |
+| pluie             | f., regen                       |
+| soleil            | m., zon                         |
+| boutique          | f., boetiek, shop, winkel       |
+| pêle-mêle         | dooreen, door elkaar            |
+| lévrier           | m., windhond                    |
+| moissonneur       | m., harvesters; maaier, oogster |
+| affligeant        | bedroeven; depressing           |
+
+On peut trouver à Oran:
+
+1. Des cafés au comptoir verni de crasse, saupoudré de pattes et d'ailes de mouches, le patron toujours
+souriant, malgré la salle toujours déserte.  Le « petit noir » y coûtait douze sous et le grand,
+dix-huit.
+
+| verni de  | gevernist met                   |
+| crasse    | f., vet, smerigheid, viezigheid |
+| saupoudré | besprenkeld, bestrooid          |
+| pattes    | f., poten                       |
+| aile      | f., vleugel                     |
+
+2. Des boutiques de photographes où la technique n'a pas progressé depuis l'invention du papier
+sensible.  Elles exposent une faune singulière, impossible à rencontrer dans les rues, depuis le
+pseudo-marin qui s'appuie du coude sur une console, jusqu'à la jeune fille à marier, taille fagotée,
+bras ballants devant un fond sylvestre.  On peut supposer qu'il ne s'agit pas de portraits d'après
+nature : ce sont des créations.
+
+| singulière | bijzonder                 |
+
+3. Une édifiante abondance de magasins funéraires.  Ce n'est pas qu'à Oran on meure plus qu'ailleurs,
+mais j'imagine seulement qu'on en fait plus d'histoires.
+
+| édifiante              | instructieve, leerrijke; stichtelijke |
+| faire plus d'histoires | make more fuss about it               |
 
 * Journaux de voyage https://www.theparisreview.org/blog/2023/03/14/camuss-new-york-diary-1946/
 
