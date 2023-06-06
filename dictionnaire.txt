@@ -13371,7 +13371,7 @@ productiviste       m, verhoging van de productie
 produit             m, product, opbrengst, resultaat, revenu, inkomst, inkomsten
 proéminents         uitstekend, vooruitspringend, overhangend
 profanation         f, blasfemie, heiligschennis, ontheiliging, ontwijding
-profane             niet-kerkelijk, ondeskundig, leek, wereldlijk, werelds
+profane             m, leek; niet-kerkelijk, ondeskundig, wereldlijk, werelds
 proférant           schelden
 proféra             schelden
 proféré             geslaakte (kreten, beschuldigingen)
@@ -17347,3 +17347,5 @@ zygomatique         m, muscle des lèvres
 rencard             m, appointment
 inféconde           onvruchtbaar, infertiel, desolaat; sterile
 boulomane           m, jeu de boules speler
+cireur              m, schoenpoetser
+cirage              m, schoensmeer, schoenpoets, schoencrème
