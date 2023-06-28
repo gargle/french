@@ -3,4 +3,4 @@
 :END:
 #+title: foisonner
 
-overvloedig aanwezig zijn
+overvloedig aanwezig zijn, in overvloed
