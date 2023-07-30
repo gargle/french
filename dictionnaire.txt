@@ -888,10 +888,8 @@ anxieux             bevreesd, bezorgd, ongerust
 aorte               f, aorta
 aoûtat              m, oogstmijt
 apaisante           pijnstillend, verlichtend, verzoenend
-apaisé              bedaren, sussen
-apaisé              geruststellen, tot bedaren brengen, paaien, kalmeren, lessen
+apaiser, apaisé     geruststellen, tot bedaren brengen, paaien, kalmeren, lessen, bedaren, sussen, inpalmen
 apaisement          m, bevrediging, kalmering, bedaren, verzoening, respijt
-apaiser             inpalmen, tot bedaren brengen
 à pari              om te wedden
 aparté              afdwaling, terzijde, uitweiding
 à part entière      volledig
@@ -5839,6 +5837,7 @@ ecclésiastiques     kerkelijk
 échauffourée        f, riot, ordeverstoring, vechtpartij
 échéance            f, vervaldag
 échec               m, schaak, mislukking, storing
+échecs              les échecs; het schaakspel
 échelle             f, schaal, ladder
 échelonnement       m, een rij vormen, uitspreiden,  spreiden, faseren, verspreiden
 échelonner          een rij vormen, uitspreiden,  spreiden, faseren, verspreiden
@@ -5991,7 +5990,7 @@ effraction          f, braak, huisbraak, inbreuk
 effraie             f, bosuil, kerkuil, torenuil
 effrayant           afschrikwekkend, vreselijk, enorm
 effrayer            afschrikken, anst aanjagen
-effréné             losbandig, onbeteugeld, teugelloos, tomeloos
+effréné             losbandig, onbeteugeld, teugelloos, tomeloos; sans frein
 effriter, éffriter  afbrokkelen, afkalven
 effroi              m, angst, bangheid, nerveusheid, paniek
 effronté            brutaal, gewichtig, moedig, onbeschaamd, schaamteloos
@@ -9335,7 +9334,7 @@ indulgente          barmhartig, mid, toegeeflijk, tolerant, vergevingsgezind
 indûment            overdreven, bovenmatig, uitermate, buitensporig
 industrie           f, industrie
 inébranlable        onvermurwbaar, onwrikbaar, rotsvast
-inédite             onuitgegeven, ongepubliceerd, wat niet is, qui est nouveau
+inédit, inédite     onuitgegeven, ongepubliceerd, wat niet is, qui est nouveau; qui n’a pas été imprimé ou publié
 ineffable           onzegbaar, unspeakable
 ineffaçable         onuitwisbaar
 inégalable          ongeëvenaard, unbeatable
@@ -13011,7 +13010,7 @@ portière            f, (auto)portieren, deuren
 portiques           m, portiek, poortje
 port                m, haven, havenstad?
 portraitiste        m, portretschilder
-portrait            m, afbeelding, portret
+portrait            m, afbeelding, portret; foto
 portraiturer        portretteren
 posé                bedaard
 pose                f, houding, opname, pose
@@ -13591,7 +13590,7 @@ quatuor             m, kwartet, viertal
 que jamais          dan ooit
 que je ne meure dans sa voiture  dat ik in zijn wagen zou sterven
 que je sache        that I know, that I'm aware of
-quelconque          lelijk, nietszeggend, een of ander, willekeurig
+quelconque          qui est ordinaire, sans caractère particulier ou sans distinction
 qu'elles ne s'ouvrissent seules            they might open by themselves
 quelque chose qui cloche         iets dat niet klopt, niet juist is
 quelquefois         soms, af en toe, occasionally
@@ -17351,3 +17350,8 @@ cireur              m, schoenpoetser
 cirage              m, schoensmeer, schoenpoets, schoencrème
 emmurer             ommuren, omwallen, dichtmetselen
 pâquerette          f, madeliefje, meibloempje, grasbloem, madelief
+vitamine            f, vitamine
+échiquier           m, schaakbord
+addiction           f, verslaving; dépendance
+dépandance          f, verslaving
+bloc-notes          m, kladblok
