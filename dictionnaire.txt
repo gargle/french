@@ -12586,7 +12586,7 @@ pic-vert            m, groene specht
 pièce à conviction  bewijsstuk
 pièce de monnaie    f, kleingeld
 pièce d'identité    f, legitimatie, identiteitsbewijs
-pièce               f, slaapvertrek, kamer, documenten, papieren
+pièce               f, slaapvertrek, kamer, documenten, papieren; stuk
 piécette            f, kleingeld
 piècette            f, pièce de monnaie métallique fiduciaire - geldstuk; muntstuk
 pièce unique        f, eenspersoonskamer?
@@ -17351,3 +17351,4 @@ cireur              m, schoenpoetser
 cirage              m, schoensmeer, schoenpoets, schoencrème
 emmurer             ommuren, omwallen, dichtmetselen
 pâquerette          f, madeliefje, meibloempje, grasbloem, madelief
+échiquier           m, schaakbord
