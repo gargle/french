@@ -4720,7 +4720,7 @@ décharger           storten, afladen
 décharnement        vermagering
 décharnés           broodmager, knokig
 déchausser          zijn schoenen uittrekken
-déchéance           f, verval, vernedering, neergang, afgang
+déchéance           f, neergang, verval, vernedering, afgang
 dèche               f, misère
 déchet              m, afval, rest
 déchetterie         f, lieu où l'on jette des ordures
@@ -7353,7 +7353,7 @@ faire autant         eveneens, hetzelfde gedaan
 faire avaler        aanpraten
 faire bonne figure  er goed uit zien
 faire cadeau de ... à   aanbieden, geven, gunnen, weggeven
-faire ces délices   tot vreugde
+faire ces délices   bekoren
 faire chier         emmerder, ennuyer, iemand ambeteren, ruzie zoeken
 faire chier         vervelen, emmerder
 faire chou blanc    e pas réussir son coup, ne rien gagner
