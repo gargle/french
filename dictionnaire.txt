@@ -17353,5 +17353,5 @@ pâquerette          f, madeliefje, meibloempje, grasbloem, madelief
 vitamine            f, vitamine
 échiquier           m, schaakbord
 addiction           f, verslaving; dépendance
-dépandance          f, verslaving
+dépendance          f, verslaving
 bloc-notes          m, kladblok
