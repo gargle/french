@@ -36,7 +36,7 @@
 | le rouquin                        | red haired boy; rosse                           |
 | féroce                            | fierce                                          |
 | amendement                        | improuvement                                    |
-| pour jouir de la chaleur          | to enjoy the warmth                             |
+| pour jouir de la chaleur          | to enjoy the warmth              git            |
 | relâchement                       | loosening                                       |
 | dit-elle d'un ton neutre          | she said levelly                                |
 | bedaine                           | paunch, belly                                   |
@@ -87,3 +87,8 @@
 | gloussa                           | to giggle                                       |
 | lambiner                          | faire lentement; stretch out time               |
 | au bout d'un moment               | after a moment                                  |
+| zébré                             | gestreept                                       |
+| une fissure                       | barst                                           |
+| racler                            | schrapen                                        |
+
+pag. 52
