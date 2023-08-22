@@ -2,65 +2,88 @@
 
 * Le jeu de la dame
 
-faire les délices                               bekoren
-délice                                          f; plaisir gustatif, m; mets, boisson délicieux
-joueur des échecs                               m; schaakspeler
-bloc-notes                                      m; kladblok
-elle était tout à fait quelconque               ordinair, oninteressant; heel gewoon zijn
-
-pag. 24
-s'enfla                                         expanded
-lanière de cuir                                 leather strap
-tâtant                                          feeling
-s'amenuisa                                      reduced
-calée                                           wedged; geklemd
-faire se tendre le corps                        verstarren
-atténué                                         faded
-le coup du berger                               scholar's mate
-l'homme à tout faire                            janitor
-la veille au soir                               the night before
-se cogner la tête                               hitting his head
-voûté                                           stoop a bit, vooroverbuigen
-arriver au fond du couloir                      going down the hall
-sa hanche                                       her hip
-gâché                                           wasted
-tendit la main                                  reached out
-louper le déjeuner                              missing lunch
-s'était ravisée                                 decided not to
-acquiesça                                       nodded
-impassible                                      without emotions
-était réticent à lacher cette                   unwilling to give that
-donner une claque                               to slap a face
-elle lui fusilla du regard                      she glared at him
-entrecroiser                                    crisscrossing
-un oreiller                                     pillow
-convoquer                                       to summon
-le rouquin                                      red haired boy; rosse
-féroce                                          fierce
-amendement                                      improuvement
-pour jouir de la chaleur                        to enjoy the warmth
-relâchement                                     loosening
-dit-elle d'un ton neutre                        she said levelly
-bedaine                                         paunch, belly
-époustouflaunte                                 astounding
-attraper                                        reach down to get
-raidir                                          to stiffen
-murmurer                                        to whisper
-le drap                                         sheet
-coincée                                         uptight
-contorsionna                                    squirmed
-devenir flasque                                 go limp
-la chemise de nuit                              nightgown
-effleurer                                       graze
-moite                                           damp
-obtempéra                                       to do as she was told
-un bruit de course                              footsteps came running up
-entra à flots                                   light streamed in
-
-pag. 36
-
-pag. 52
-
-gloussa                                         to giggle
-lambiner                                        faire lentement; stretch out time
-au bout d'un moment                             after a moment
+| faire les délices                 | bekoren                                         |
+| délice                            | f; plaisir gustatif, m; mets, boisson délicieux |
+| joueur des échecs                 | m; schaakspeler                                 |
+| bloc-notes                        | m; kladblok                                     |
+| elle était tout à fait quelconque | ordinair, oninteressant; heel gewoon zijn       |
+| s'enfla                           | expanded                                        |
+| lanière de cuir                   | leather strap                                   |
+| tâtant                            | feeling                                         |
+| s'amenuisa                        | reduced                                         |
+| calée                             | wedged; geklemd                                 |
+| faire se tendre le corps          | verstarren                                      |
+| atténué                           | faded                                           |
+| le coup du berger                 | scholar's mate                                  |
+| l'homme à tout faire              | janitor                                         |
+| la veille au soir                 | the night before                                |
+| se cogner la tête                 | hitting his head                                |
+| voûté                             | stoop a bit, vooroverbuigen                     |
+| arriver au fond du couloir        | going down the hall                             |
+| sa hanche                         | her hip                                         |
+| gâché                             | wasted                                          |
+| tendit la main                    | reached out                                     |
+| louper le déjeuner                | missing lunch                                   |
+| s'était ravisée                   | decided not to                                  |
+| acquiesça                         | nodded                                          |
+| impassible                        | without emotions                                |
+| était réticent à lacher cette     | unwilling to give that                          |
+| donner une claque                 | to slap a face                                  |
+| elle lui fusilla du regard        | she glared at him                               |
+| entrecroiser                      | crisscrossing                                   |
+| un oreiller                       | pillow                                          |
+| convoquer                         | to summon                                       |
+| le rouquin                        | red haired boy; rosse                           |
+| féroce                            | fierce                                          |
+| amendement                        | improuvement                                    |
+| pour jouir de la chaleur          | to enjoy the warmth                             |
+| relâchement                       | loosening                                       |
+| dit-elle d'un ton neutre          | she said levelly                                |
+| bedaine                           | paunch, belly                                   |
+| époustouflaunte                   | astounding                                      |
+| attraper                          | reach down to get                               |
+| raidir                            | to stiffen                                      |
+| murmurer                          | to whisper                                      |
+| le drap                           | sheet                                           |
+| coincée                           | uptight                                         |
+| contorsionna                      | squirmed                                        |
+| devenir flasque                   | go limp                                         |
+| la chemise de nuit                | nightgown                                       |
+| effleurer                         | graze                                           |
+| moite                             | damp                                            |
+| obtempéra                         | to do as she was told                           |
+| un bruit de course                | footsteps came running up                       |
+| entra à flots                     | light streamed in                               |
+| vriller                           | to warp                                         |
+| un aimant                         | magneet                                         |
+| la reliure                        | kaft; cover; la reliure souple, paperback       |
+| inédit                            | onuitgegeven                                    |
+| incrédule                         | het niet gelovend                               |
+| pénible                           | dull; qui donne de la peine, de la fatigue      |
+| affublé                           | être affublé, couvert de                        |
+| la rosée                          | dew                                             |
+| bavasser                          | to drone on; afdreunen                          |
+| au fil de leur ballet entier      | through their entire ballet                     |
+| émerveillé                        | in awe                                          |
+| enivré                            | enraptured,intoxicated; dronken                 |
+| pour la fixer du regard           | to stare at her                                 |
+| se figer                          | verstijven                                      |
+| le parage                         | rondom, de omgeving, contreïen                  |
+| personne dans les parages         | nobody around                                   |
+| battre comme plâtre               | beat senseless                                  |
+| gagner cinq parties d’affilée     | straight; een na de ander                       |
+| être un peu trop fin pour ça      | a bit too smart for that                        |
+| percer unsecret                   | find a secret                                   |
+| une vive lumière                  | bright light                                    |
+| langueur                          | dreaminess                                      |
+| le buisson                        | struik; bush                                    |
+| dépolie                           | frosted                                         |
+| en écaille                        | tortoise                                        |
+| un air gauche                     | awkwardly                                       |
+| le factotum                       | custodian                                       |
+| le placard à jeux                 | game closet                                     |
+| n’avoir rien dit a quiconque      | hadn’t told anyone                              |
+| se hissa sur la pointe des pieds  | stood on tiptoe                                 |
+| gloussa                           | to giggle                                       |
+| lambiner                          | faire lentement; stretch out time               |
+| au bout d'un moment               | after a moment                                  |
