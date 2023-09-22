@@ -19,6 +19,7 @@
 | la veille au soir                 | the night before                                |
 | se cogner la tête                 | hitting his head                                |
 | voûté                             | stoop a bit, vooroverbuigen                     |
+| la poutre                         | balk                                            |
 | arriver au fond du couloir        | going down the hall                             |
 | sa hanche                         | her hip                                         |
 | gâché                             | wasted                                          |
@@ -27,7 +28,7 @@
 | s'était ravisée                   | decided not to                                  |
 | acquiesça                         | nodded                                          |
 | impassible                        | without emotions                                |
-| était réticent à lacher cette     | unwilling to give that                          |
+| était réticent à lâcher cette     | unwilling to give that                          |
 | donner une claque                 | to slap a face                                  |
 | elle lui fusilla du regard        | she glared at him                               |
 | entrecroiser                      | crisscrossing                                   |
