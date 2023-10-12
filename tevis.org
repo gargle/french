@@ -102,3 +102,22 @@
 | une moquette                      | kamerbreed tapijt, vaste vloerbedekking         |
 | moquetté                          | carpated                                        |
 | une ballustrade                   | banister                                        |
+| le habit                          | kledij                                          |
+| la porte à tambour                | draaideur                                       |
+| encombré                          | busy                                            |
+| le sac d'emplettes                | shopping bag                                    |
+| une emplette                      | ce qu'on a acheté; winkelwaar                   |
+| fendre                            | wandelen door; walked through                   |
+| dépareillé                        | niet bij elkaar horend; irregulars              |
+| une affichette                    | a card                                          |
+| le tas                            | a pile                                          |
+| induit                            | induced, mesmerised; gefocust                   |
+| agacée                            | annoyed                                         |
+| un rouge à lèvres                 | lipstick                                        |
+| un peigne                         | comb                                            |
+| une pince                         | (was)knijper, tang; clip                        |
+| verrouillée                       | gesloten                                        |
+| casier                            | locker                                          |
+| le sac à main                     | purse                                           |
+| une ordonnance                    | voorschrift                                     |
+|                                   |                                                 |
