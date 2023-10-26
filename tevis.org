@@ -51,7 +51,7 @@
 | devenir flasque                   | go limp                                         |
 | la chemise de nuit                | nightgown                                       |
 | effleurer                         | graze                                           |
-| moite                             | damp                                            |
+| moite                             | klam, vochting; damp                            |
 | obtempéra                         | to do as she was told                           |
 | un bruit de course                | footsteps came running up                       |
 | entra à flots                     | light streamed in                               |
@@ -142,3 +142,5 @@
 | brusquement indécise              | suddenly unsure                                 |
 | mijoter                           | being up to                                     |
 | harceler                          | ambeteren; nagging                              |
+| le fou                            | loper in het schaakspel                         |
+| une horloge                       | uurwerk                                         |
