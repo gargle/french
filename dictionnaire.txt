@@ -17355,3 +17355,4 @@ vitamine            f, vitamine
 addiction           f, verslaving; dépendance
 dépendance          f, verslaving
 bloc-notes          m, kladblok
+clope               f, sigaret
