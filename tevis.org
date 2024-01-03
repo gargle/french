@@ -174,7 +174,6 @@
 | le tableau d’affichage            | bulletin board                                                         |
 | le rôti braisé                    | potroast                                                               |
 | le four                           | oven                                                                   |
-
 | escarpins                         | pumps                                                                  |
 | bas                               | stockings                                                              |
 | cheville                          | enkel                                                                  |
@@ -254,3 +253,51 @@
 | faillir en                        | almost                                                                 |
 | le lin                            | linnen                                                                 |
 | décontenancer                     | niet van zijn stuk brengen                                             |
+| étourdissant                      | overwhelming                                                           |
+| la gare routière                  | bus station                                                            |
+| une valise                        | luggage                                                                |
+| une effervescence                 | liveliness                                                             |
+| duveteuse                         | fluffy; donzig; garni de duvet                                         |
+| le duvet                          | dons                                                                   |
+| lisser                            | gladstrijken                                                           |
+| lisse                             | glad; smooth                                                           |
+| un pli                            | plooi                                                                  |
+| le couvre-lit                     | bedsprei; bedspread                                                    |
+| la mezzanine                      | tussenverdieping                                                       |
+| un entre-sol                      | tussenverdieping                                                       |
+| déambuler                         | walking around                                                         |
+| une voix grave                    | a deep voice                                                           |
+| un jean                           | jeansbroek                                                             |
+| un pull à col roulé noir          | a black turtleneck                                                     |
+| une casquette                     | a cap; een pet                                                         |
+| arborer                           | put up, erect                                                          |
+| fournie                           | thick; goed gevuld, goed voorzien                                      |
+| écorché                           | gevild                                                                 |
+| la défense Caro-Kann              | de Caro-Kann verdediging                                               |
+| propre sur lui                    | neat                                                                   |
+| le ruban                          | tape; ribbon                                                           |
+| à présent                         | now                                                                    |
+| faiblard                          | zwak; tame                                                             |
+| dégommer                          | to wipe out someone                                                    |
+| la belle affaire                  | big deal                                                               |
+| une tige                          | plant die uitkomt                                                      |
+| un film en accéléré               | time lapse photography                                                 |
+| une pivoine                       | soort plant                                                            |
+| bourgeonner                       | ontluiken                                                              |
+| comme s’il se fût agi de          | as though they were                                                    |
+| un coteau                         | mes                                                                    |
+| un geste                          | gesture                                                                |
+| un piège                          | valstrik; pitfall                                                      |
+| la parole                         | het woord                                                              |
+| débordé                           | overwhelmed                                                            |
+| farfouiller                       | overhoop gooien; to rummage                                            |
+| le sous-sol                       | kelder                                                                 |
+| moucheté                          | met sproeten; freckle                                                  |
+| raide                             | stijf, strak; straight                                                 |
+| hausser les épaules               | to shrug                                                               |
+| une boutique                      | boetiek                                                                |
+| losanges                          | argyle, diamond shaped pattern                                         |
+| un flocon                         | vlok                                                                   |
+| aplomb                            | zelfzeker                                                              |
+| forcer à l’abandon                | force to resign                                                        |
+| en quête de                       | looking for                                                            |
