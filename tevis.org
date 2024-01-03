@@ -174,15 +174,15 @@
 | le tableau d’affichage            | bulletin board                                                         |
 | le rôti braisé                    | potroast                                                               |
 | le four                           | oven                                                                   |
-| escarpins                         | pumps                                                                  |
+| escarpins, un escarpin            | pumps                                                                  |
 | bas                               | stockings                                                              |
-| cheville                          | enkel                                                                  |
+| la cheville                       | enkel                                                                  |
 | roqué                             | castled in chess                                                       |
 | empourpré                         | (le visage) flushing                                                   |
 | fourré                            | jammed (jammed into something)                                         |
 | le lampadaire                     | streetlight                                                            |
 | la penderie                       | closet                                                                 |
-| étagère                           | shelf                                                                  |
+| une étagère                       | shelf                                                                  |
 | s’inquir de la question           |                                                                        |
 | berner                            | to fool                                                                |
 | chamboulé                         | rattled                                                                |
