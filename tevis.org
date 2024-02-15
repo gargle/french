@@ -193,8 +193,8 @@
 | audacieux                         | bold                                                                   |
 | se mirent à                       | began                                                                  |
 | le clouage                        | to pin (schaken)                                                       |
-| ébahi                             | bafflement                                                             |
-| un éhabissement                   | bafflement                                                             |
+| ébahi                             | bafflement, amazed                                                     |
+| un éhabissement                   | bafflement, amazed                                                     |
 | bourru                            | gruff                                                                  |
 | têtus                             | stubborn; koppig                                                       |
 | parée                             | gereed, klaar; ready                                                   |
@@ -305,4 +305,79 @@
 | de part et d'autre                | van beide kanten; from either side, on each side                       |
 | un enjeu                          | inzet, doel                                                            |
 | insoutenable                      | agonising                                                              |
-|                                   |                                                                        |
+| grimper                           | beklimmen                                                              |
+| une bourde                        | blunder                                                                |
+| le menton                         | chin                                                                   |
+| les yeux rivés                    | looking down                                                           |
+| la poutrelle                      | dwarsbalk, balk; beam                                                  |
+| d’amas                            | stacks                                                                 |
+| un exemplaire                     | een exemplaar                                                          |
+| un tournoi                        | een toernooi, wedstrijd                                                |
+| glousser                          | to giggle, chuckle                                                     |
+| repasser                          | strijken (kleding)                                                     |
+| avide                             | eager for                                                              |
+| le hublot                         | patrijspoort                                                           |
+| le lycée                          | lyceum                                                                 |
+| refléter                          | weerspiegelen                                                          |
+| plateaux-repas                    | tv dinner                                                              |
+| repérer                           | to find                                                                |
+| la truite                         | trout                                                                  |
+| une ordonnance                    | voorschrift                                                            |
+| le poisson                        | vis                                                                    |
+| faire du lèche-vitrine            | window shopping                                                        |
+| n’être rebuté                     | to not mind                                                            |
+| la saleté                         | dirt                                                                   |
+| étincelante                       | flikkerend                                                             |
+| un siège                          | zetel                                                                  |
+| fumer comme un pompier            | to chain smoke                                                         |
+| scruter                           | bestuderen; to look intently                                           |
+| la mesure                         | reading, measurement                                                   |
+| le posemètre                      | lichtmeter (fotografie)                                                |
+| jouer à la poupée                 | met poppen spelen                                                      |
+| un cendrier                       | asbak                                                                  |
+| tapoter                           | lichte tikjes geven, tokkelen                                          |
+| une algèbre                       | algebra                                                                |
+| le cours                          | de les                                                                 |
+| un autographe                     | handtekening                                                           |
+| un magazine                       | tijdschrift                                                            |
+| sidéré                            | verbaasd; stunned                                                      |
+| un article                        | het artikel                                                            |
+| la page                           | het blad                                                               |
+| la photo                          | de foto                                                                |
+| le bâtiment                       | het gebouw                                                             |
+| le stylo à bille                  | ballpoint pen                                                          |
+| un passe-temps                    | tijdsverdrijf                                                          |
+| la compulsion                     | dwang                                                                  |
+| la précocité                      | vroegrijp                                                              |
+| le visage fermé                   | unsmiling                                                              |
+| marron                            | kastanjebruin; brown                                                   |
+| un cheveu, cheveux                | haar                                                                   |
+| brun                              | bruin                                                                  |
+| un orphelinat                     | weeshuis                                                               |
+| tomber pile aux épaules           | tot net op de schouder                                                 |
+| une épaule                        | schouder                                                               |
+| une soirée                        | avond, een feestje; a pledge party                                     |
+| bel et bien                       | goed en wel                                                            |
+| une robe                          | kleedje                                                                |
+| un col                            | col                                                                    |
+| enfiler                           | aantrekken                                                             |
+| la boiserie                       | houtwerk                                                               |
+| une flambée                       | een vuur                                                               |
+| une bergère                       | grote diepe fauteuil met kussen                                        |
+| une jupe                          | jurk                                                                   |
+| le raffinement                    | sophistication                                                         |
+| le raffinement négligé            | cool sophistication                                                    |
+| un verre                          | glas                                                                   |
+| un poste de télévision            | tv-toestel                                                             |
+| le ragot, ragots                  | roddel                                                                 |
+| un ennui                          | verveling                                                              |
+| retenir                           | weerhouden, tegenhouden                                                |
+| une élite                         | elte                                                                   |
+| une éclaircie                     | opklaring                                                              |
+| le dessert                        | het dessert                                                            |
+| le café                           | de koffie                                                              |
+| le étranger                       | buitenland, het onbekende                                              |
+| une boucherie                     | slachthuis                                                             |
+| un bénéfice                       | a profit                                                               |
+| un/une prodige                    | a prodigy                                                              |
+| en vouloir à                      | kwalijk nemen                                                          |
