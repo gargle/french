@@ -319,7 +319,7 @@
 | le hublot                         | patrijspoort                                                           |
 | le lycée                          | lyceum                                                                 |
 | refléter                          | weerspiegelen                                                          |
-| plateaux-repas                    | tv dinner                                                              |
+| un plateau-repas, plateaux-repas  | tv dinner                                                              |
 | repérer                           | to find                                                                |
 | la truite                         | trout                                                                  |
 | une ordonnance                    | voorschrift                                                            |
