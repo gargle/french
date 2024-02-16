@@ -83,7 +83,7 @@
 | un air gauche                     | awkwardly                                                              |
 | le factotum                       | custodian                                                              |
 | le placard à jeux                 | game closet                                                            |
-| n’avoir rien dit a quiconque      | hadn’t told anyone                                                     |
+| n'avoir rien dit a quiconque      | hadn't told anyone                                                     |
 | se hissa sur la pointe des pieds  | stood on tiptoe                                                        |
 | gloussa                           | to giggle                                                              |
 | lambiner                          | faire lentement; stretch out time                                      |
@@ -243,7 +243,7 @@
 | une obtention                     | l’action de obtenir                                                    |
 | taches de rousseur                | freckles                                                               |
 | un compte en banque               | a bank account                                                         |
-| être très loin de me douter       | hadn’t the foggiest idea                                               |
+| être très loin de me douter       | hadn't the foggiest idea                                               |
 | le cordonnier                     | schoenmaker                                                            |
 | le placard                        | closet                                                                 |
 | la stupéfaction                   | astonishment; verbazing                                                |
@@ -325,7 +325,7 @@
 | une ordonnance                    | voorschrift                                                            |
 | le poisson                        | vis                                                                    |
 | faire du lèche-vitrine            | window shopping                                                        |
-| n’être rebuté                     | to not mind                                                            |
+| n'être rebuté                     | to not mind                                                            |
 | la saleté                         | dirt                                                                   |
 | étincelante                       | flikkerend                                                             |
 | un siège                          | zetel                                                                  |
