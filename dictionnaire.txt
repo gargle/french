@@ -1887,6 +1887,7 @@ bastingage          m, balustrade op brug van een schip
 bastion             m, bastion, bolwerk, citadel, fort, vesting
 bastonnade          f, stokslagen
 bastonner           afranselen, knuppelen, afrossen
+baston              f, vechtpartij, knokpartij, gevecht, handgemeen
 bataclan            m, lading, belasting
 bataille            f, gevecht, slag, strijd, actie
 bâtard              m, bastaard
