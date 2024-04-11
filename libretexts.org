@@ -75,6 +75,6 @@ S'il te plaît.
 
 *** Les étiquettes
 
-Monsieur.
-Madame.
-Mademoiselle.
+Monsieur (M.)
+Madame (Mme.)
+Mademoiselle (Mlle.)

@@ -13,7 +13,7 @@
 | s'amenuisa                        | reduced                                                                |
 | calée                             | wedged; geklemd                                                        |
 | faire se tendre le corps          | verstarren                                                             |
-| atténué                           | faded                                                                  |
+| atténué                           | faded, eased, lessened                                                 |
 | le coup du berger                 | scholar's mate                                                         |
 | l'homme à tout faire              | janitor                                                                |
 | la veille au soir                 | the night before                                                       |
@@ -226,7 +226,7 @@
 | un crachin                        | drizzle                                                                |
 | un lest                           | ballast, gewicht                                                       |
 | la frange                         | haren voorhoofd                                                        |
-| une allure                        | the looks                                                              |
+| une allure                        | houding, postuur; the looks                                            |
 | peinât à voir                     | it was difficult to see                                                |
 | narquoi                           | sly                                                                    |
 | être sur le point                 | ready to                                                               |
@@ -253,7 +253,7 @@
 | faillir en                        | almost                                                                 |
 | le lin                            | linnen                                                                 |
 | décontenancer                     | niet van zijn stuk brengen                                             |
-| étourdissant                      | overwhelming                                                           |
+| étourdissant                      | overwhelming, dazzling                                                 |
 | la gare routière                  | bus station                                                            |
 | une valise                        | luggage                                                                |
 | une effervescence                 | liveliness                                                             |
@@ -359,7 +359,7 @@
 | une soirée                        | avond, een feestje; a pledge party                                     |
 | bel et bien                       | goed en wel                                                            |
 | une robe                          | kleedje                                                                |
-| un col                            | col                                                                    |
+| un col                            | col, kraag                                                             |
 | enfiler                           | aantrekken                                                             |
 | la boiserie                       | houtwerk                                                               |
 | une flambée                       | een vuur                                                               |
@@ -381,153 +381,113 @@
 | un bénéfice                       | a profit                                                               |
 | un/une prodige                    | a prodigy                                                              |
 | en vouloir à                      | kwalijk nemen                                                          |
-
-7c7
-< atténué   faded, eased
----
-> atténué   faded, eased, lessened
-82c82
-< la joue   wang
----
-> la joue   wang; cheek
-105a106
-> une dent   a tooth
-193c194
-< une allure   the looks
----
-> une allure   houding, postuur ;the looks
-220c221
-< étourdissant   overwhelming
----
-> étourdissant   overwhelming, dazzling
-293d293
-< 
-303c303,304
-< sidéré   verbaasd; stunned ???un article   het artikel
----
-> sidéré   verbaasd; stunned ???
-> un article   het artikel
-310d310
-< 
-322c322,326
-< un col   col
----
-> un col   col, kraag
-> un médicament
-> siroter   sippen
-> le goût   smaak
-> la bière   bier
-342c346,454
-< un/une prodige   a prodigy
-\ No newline at end of file
----
-> un/une prodige   a prodigy
-> le championnat   het kampioenschap
-> un événement   evenement
-> la revue   tijdschrift
-> vaquer à   bezighouden met
-> en maille double   double-knits
-> la cafétéria
-> un hôtel
-> le tapotement   tapping; tikken
-> la feutrine   vilt
-> un jeton
-> un dé   dobbelsteen
-> un tabouret   barstoel; stool
-> le comptoir   toog
-> une tasse   tas, kop
-> peinant à   qui cause de la peine
-> le reportage   het verslag
-> un œuf, œufs brouillés   scrambled eggs
-> troublée   agitation mixed with confusion
-> un abat-jour   gedeelte lamp dat licht naar onder duwt
-> entortiller   to swirl
-> une résille   (haar)net
-> un rideau   drape
-> le lavabo
-> une pellicule   filmrolletje
-> rembobiner   oprollen; to rewind
-> la table de chevet   nachtkastje
-> un appareil
-> funèbre   mournful
-> accabler   onder de voeten lopen; to overwhelm
-> la page de l’ours   ??? ;masthead page
-> une canette   blikje
-> entamer   openbreken
-> le service en chambre   room service
-> un opercule   stop, lipje van blikje
-> savamment   skilfully; behendig
-> bombé   bol staan
-> le reste   de rest
-> une gorgée   teug
-> la gorge   keel
-> un estomac   maag
-> l’espace d’un instant   for a moment
-> un espace
-> jeter de toutes ses forces
-> la force
-> la bague   de ring
-> se cogner   botsen
-> une épaule   schouder
-> le chambranle   deurlijst, frame
-> un âge   leeftijd
-> 
-> pag. 186
-> un rêve   droom
-> la salle   kamer
-> le gambit   valstrik in schaak
-> de temps à autre   from time to time
-> une intruse   intruder
-> affable   vriendelijk
-> frimer   showing off
-> une faille   a weakness
-> un ajournement   op vastgestelde dag en uur spelen
-> un flash   a flash bulb
-> une erreur   een fout
-> crépiter   knetteren
-> de part et d’autre   on each side
-> comme le roc   as a rock
-> une attaque   aanval
-> 
-> pag. 190
-> amassé   clustered
-> épinglé   pinned
-> ligoter   bind; gebonden
-> contraindre   restrict
-> un casse-tête   ploertendoder; head-splitting
-> caler   plaatsen, neerpoten
-> un poing   vuist
-> une pensée   gedachte; thought
-> un esprit   de geest
-> un échange   a trade
-> encombrer   to clog
-> un coude   elleboog
-> déchiquetée   jagged
-> une arborescence   tree; boom, boomstructuur
-> une branche   tak
-> engourdies   stiff
-> intimer   to command
-> ramener   to pull back
-> une horloge   klok
-> la fuite   de vlucht
-> la rangée   (chess) file
-> au dépourvu   off-guard
-> une contremenace   counterthreat
-> rabattre   terugbrengen, terugvallen
-> désemparée   disabled
-> un nul   a draw
-> un air songuer   meditatively
-> en auditrice libre   als vrije student
-> à l’unisson   in unison
-> un unisson
-> la platine   disk
-> un disque   disk
-> une liasse   pak (papiergeld bv)
-> le joint
-> une taffe   drag (of a sigarette)
-> un nichon   boob
-> une cantonade   the group at large
-> un interrupteur   knop
-> une gazinière   stoof
-> une poêle   bakpan
-\ No newline at end of file
+| la joue                           | wang; cheek                                                            |
+| une dent                          | a tooth                                                                |
+| un médicament                     |                                                                        |
+| siroter                           | sippen                                                                 |
+| le goût                           | smaak                                                                  |
+| la bière                          | bier                                                                   |
+| le championnat                    | het kampioenschap                                                      |
+| un événement                      | evenement                                                              |
+| la revue                          | tijdschrift                                                            |
+| vaquer à                          | bezighouden met                                                        |
+| en maille double                  | double-knits                                                           |
+| la cafétéria                      |                                                                        |
+| un hôtel                          |                                                                        |
+| le tapotement                     | tapping; tikken                                                        |
+| la feutrine                       | vilt                                                                   |
+| un jeton                          |                                                                        |
+| un dé                             | dobbelsteen                                                            |
+| un tabouret                       | barstoel; stool                                                        |
+| le comptoir                       | toog                                                                   |
+| une tasse                         | tas, kop                                                               |
+| peinant à                         | qui cause de la peine                                                  |
+| le reportage                      | het verslag                                                            |
+| un œuf, œufs brouillés            | scrambled eggs                                                         |
+| troublée                          | agitation mixed with confusion                                         |
+| un abat-jour                      | gedeelte lamp dat licht naar onder duwt                                |
+| entortiller                       | to swirl                                                               |
+| une résille                       | (haar)net                                                              |
+| un rideau                         | drape                                                                  |
+| le lavabo                         |                                                                        |
+| une pellicule                     | filmrolletje                                                           |
+| rembobiner                        | oprollen; to rewind                                                    |
+| la table de chevet                | nachtkastje                                                            |
+| un appareil                       |                                                                        |
+| funèbre                           | mournful                                                               |
+| accabler                          | onder de voeten lopen; to overwhelm                                    |
+| la page de l’ours                 | ??? ;masthead page                                                     |
+| une canette                       | blikje                                                                 |
+| entamer                           | openbreken                                                             |
+| le service en chambre             | room service                                                           |
+| un opercule                       | stop, lipje van blikje                                                 |
+| savamment                         | skilfully; behendig                                                    |
+| bombé                             | bol staan                                                              |
+| le reste                          | de rest                                                                |
+| une gorgée                        | teug                                                                   |
+| la gorge                          | keel                                                                   |
+| un estomac                        | maag                                                                   |
+| l’espace d’un instant             | for a moment                                                           |
+| un espace                         |                                                                        |
+| jeter de toutes ses forces        |                                                                        |
+| la force                          |                                                                        |
+| la bague                          | de ring                                                                |
+| se cogner                         | botsen                                                                 |
+| une épaule                        | schouder                                                               |
+| le chambranle                     | deurlijst, frame                                                       |
+| un âge                            | leeftijd                                                               |
+| un rêve                           | droom                                                                  |
+| la salle                          | kamer                                                                  |
+| le gambit                         | valstrik in schaak                                                     |
+| de temps à autre                  | from time to time                                                      |
+| une intruse                       | intruder                                                               |
+| affable                           | vriendelijk                                                            |
+| frimer                            | showing off                                                            |
+| une faille                        | a weakness                                                             |
+| un ajournement                    | op vastgestelde dag en uur spelen                                      |
+| un flash                          | a flash bulb                                                           |
+| une erreur                        | een fout                                                               |
+| crépiter                          | knetteren                                                              |
+| de part et d’autre                | on each side                                                           |
+| comme le roc                      | as a rock                                                              |
+| une attaque                       | aanval                                                                 |
+| amassé                            | clustered                                                              |
+| épinglé                           | pinned                                                                 |
+| ligoter                           | bind; gebonden                                                         |
+| contraindre                       | restrict                                                               |
+| un casse-tête                     | ploertendoder; head-splitting                                          |
+| caler                             | plaatsen, neerpoten                                                    |
+| un poing                          | vuist                                                                  |
+| une pensée                        | gedachte; thought                                                      |
+| un esprit                         | de geest                                                               |
+| un échange                        | a trade                                                                |
+| encombrer                         | to clog                                                                |
+| un coude                          | elleboog                                                               |
+| déchiquetée                       | jagged                                                                 |
+| une arborescence                  | tree; boom, boomstructuur                                              |
+| une branche                       | tak                                                                    |
+| engourdies                        | stiff                                                                  |
+| intimer                           | to command                                                             |
+| ramener                           | to pull back                                                           |
+| une horloge                       | klok                                                                   |
+| la fuite                          | de vlucht                                                              |
+| la rangée                         | (chess) file                                                           |
+| au dépourvu                       | off-guard                                                              |
+| une contremenace                  | counterthreat                                                          |
+| rabattre                          | terugbrengen, terugvallen                                              |
+| désemparée                        | disabled                                                               |
+| un nul                            | a draw                                                                 |
+| un air songuer                    | meditatively                                                           |
+| en auditrice libre                | als vrije student                                                      |
+| à l’unisson                       | in unison                                                              |
+| un unisson                        |                                                                        |
+| la platine                        | disk                                                                   |
+| un disque                         | disk                                                                   |
+| une liasse                        | pak (papiergeld bv)                                                    |
+| le joint                          |                                                                        |
+| une taffe                         | drag (of a sigarette)                                                  |
+| un nichon                         | boob                                                                   |
+| une cantonade                     | the group at large                                                     |
+| un interrupteur                   | knop                                                                   |
+| une gazinière                     | stoof                                                                  |
+| une poêle                         | bakpan                                                                 |
