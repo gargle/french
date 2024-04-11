@@ -416,7 +416,7 @@
 | un appareil                       |                                                                        |
 | funèbre                           | mournful                                                               |
 | accabler                          | onder de voeten lopen; to overwhelm                                    |
-| la page de l’ours                 | ??? ;masthead page                                                     |
+| la page de l’ours                 | colophon, masthead page                                                |
 | une canette                       | blikje                                                                 |
 | entamer                           | openbreken                                                             |
 | le service en chambre             | room service                                                           |
