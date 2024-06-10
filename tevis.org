@@ -175,7 +175,7 @@
 | le rôti braisé                        | potroast                                                           |
 | le four                               | oven                                                               |
 | escarpins, un escarpin                | pumps                                                              |
-| bas                                   | stockings                                                          |
+| un bas                                | stockings                                                          |
 | la cheville                           | enkel                                                              |
 | roqué                                 | castled in chess                                                   |
 | empourpré                             | (le visage) flushing; rood worden                                  |
@@ -231,7 +231,7 @@
 | peinât à voir                         | it was difficult to see                                            |
 | narquoi                               | sly                                                                |
 | être sur le point                     | ready to                                                           |
-| la caisse                             | de kassa; the teller                                               |
+| la caisse                             | de kassa, doos; the teller, box                                    |
 | sur la pointe des pieds               | tiptoe                                                             |
 | un tuteur                             | voogd                                                              |
 | la terrasse                           | front porch                                                        |
@@ -268,6 +268,7 @@
 | un entre-sol                          | tussenverdieping                                                   |
 | déambuler                             | walking around                                                     |
 | une voix grave                        | a deep voice                                                       |
+| une voix plate                        | vlakke stem                                                        |
 | un jean                               | jeansbroek                                                         |
 | un pull à col roulé noir              | a black turtleneck                                                 |
 | une casquette                         | a cap; een pet                                                     |
@@ -372,7 +373,7 @@
 | un poste de télévision                | tv-toestel                                                         |
 | le ragot, ragots                      | roddel                                                             |
 | un ennui                              | verveling                                                          |
-| retenir                               | weerhouden, tegenhouden                                            |
+| retenir                               | weerhouden, tegenhouden, inhouden                                  |
 | une élite                             | elte                                                               |
 | une éclaircie                         | opklaring                                                          |
 | le dessert                            | het dessert                                                        |
@@ -420,7 +421,6 @@
 | la page de l’ours                     | colophon, masthead page                                            |
 | une canette                           | blikje                                                             |
 | entamer                               | openbreken                                                         |
-| le service en chambre                 | room service                                                       |
 | un opercule                           | stop, lipje van blikje                                             |
 | savamment                             | skilfully; behendig                                                |
 | bombé                                 | bol staan                                                          |
@@ -462,7 +462,7 @@
 | une pensée                            | gedachte; thought                                                  |
 | un esprit                             | de geest                                                           |
 | un échange                            | a trade                                                            |
-| encombrer                             | to clog                                                            |
+| encombrer                             | to clog, cluttered                                                 |
 | un coude                              | elleboog                                                           |
 | déchiquetée                           | jagged                                                             |
 | une arborescence                      | tree; boom, boomstructuur                                          |
@@ -495,7 +495,7 @@
 | une poêle                             | bakpan                                                             |
 | une allumette                         | lucifer                                                            |
 | une boîte                             | doosje                                                             |
-| une mèche                             | wiek; wick                                                         |
+| une mèche                             | wiek, haarlok; wick                                                |
 | le gland                              | schacht; glans                                                     |
 | hébété                                | met verstomming geslagen; dazed                                    |
 | une clé                               | sleutel                                                            |
@@ -556,7 +556,7 @@
 | songeuse                              | thoughtful                                                         |
 | le soleil                             |                                                                    |
 | la lune                               |                                                                    |
-| papillonner                           | flutter; van het ene naar het ander vlinderen                      |
+| papillonner                           | flutter; van het ene naar het ander fladderen                      |
 | la taille                             | waist                                                              |
 | une tortue                            | schildpad                                                          |
 | pataude                               | zwaarlijvig ???                                                    |
@@ -657,7 +657,8 @@
 | se coucher                            | gaan slapen                                                        |
 | une tortilla                          |                                                                    |
 | un panneau                            | board                                                              |
-| se attarder                           | vertragen                                                          |
+| se attarder                           | vertragen, tijd verliezen; to dwell                                |
+| un effort                             |                                                                    |
 | un nul                                | a draw                                                             |
 | une liste                             |                                                                    |
 | une victoire                          |                                                                    |
@@ -719,7 +720,6 @@
 | décrocher                             | oppakken (telefoon)                                                |
 | le téléphone                          |                                                                    |
 | le fauteuil                           |                                                                    |
-| le service en chambre                 | room service                                                       |
 | une civière                           | brancard                                                           |
 | un tailleur                           | suit; kleed???                                                     |
 | d’âge mûr                             | middle aged                                                        |
@@ -770,3 +770,124 @@
 | un autel                              | altaar                                                             |
 | défaire la valise                     | uitpakken                                                          |
 | le rez-de-chaussée                    | gelijkvloers                                                       |
+| un accoudoir                          | armrest                                                            |
+| un paquet                             |                                                                    |
+| imposer                               | overdonderen ???                                                   |
+| emménager                             | intrekken                                                          |
+| une chevrolet                         |                                                                    |
+| orner                                 | versieren, mooi maken                                              |
+| un phare                              | grootlicht                                                         |
+| le trottoir                           |                                                                    |
+| sortir de voiture                     |                                                                    |
+| un coffre                             | koffer                                                             |
+| un pantalon                           |                                                                    |
+| une pair                              |                                                                    |
+| se dégager de lui                     | van hem loskomen                                                   |
+| ouvert sur le dessus                  | van boven open                                                     |
+| le tapis                              | tapijt; rug                                                        |
+| le salon                              |                                                                    |
+| un titre                              |                                                                    |
+| le porte-journaux                     | tijdschriftenrek; magazine rack                                    |
+| un pédant                             | betweter ???                                                       |
+| à tout jamais                         | forever                                                            |
+| la télé                               |                                                                    |
+| intransigeant                         | uncompromising                                                     |
+| une pile                              | stapel                                                             |
+| faire ma diva                         | de prima-donna uithangen                                           |
+| un demi-sourire                       |                                                                    |
+| un érable                             | mapple (boom)                                                      |
+| le coin                               |                                                                    |
+| contigu                               | naast elkaar; interlinked                                          |
+| un gain                               | winst, overwinning                                                 |
+| disposer                              | to arrange; opzetten (schaakstukken op bord)                       |
+| un acharnement                        | dodgedly, relentless; zonder opgave                                |
+| d’un air très détendu                 | coolly                                                             |
+| la pelouse                            | gazon                                                              |
+| la variante                           | kind of                                                            |
+| la tièdeur                            | lauw, niet earm, niet koud                                         |
+| le jardin de derrière                 | backyard                                                           |
+| une façon neuve                       |                                                                    |
+| sombrer                               | zinken; to fall                                                    |
+| saigner à blanc                       | leegbloeden                                                        |
+| un petit boulot                       | a part-time job                                                    |
+| une matinée                           | voormiddag                                                         |
+| un après-midi                         | namiddag                                                           |
+| enchaîner                             | aaneenschakelen                                                    |
+| déceler                               | to reveal                                                          |
+| une lèvre                             | lip                                                                |
+| lassitude                             | het moe zijn, vermoeidheid                                         |
+| un infini                             | oneindigheid                                                       |
+| une complication                      | complexity                                                         |
+| décourageante                         | hopelessness                                                       |
+| la profondeur                         | diepte                                                             |
+| une poigne                            | the grip of, energy; handgreep                                     |
+| une couche                            | laag; layer                                                        |
+| le sexe                               | seks                                                               |
+| une simplicité                        | eenvoud                                                            |
+| rafraîchissante                       | verfrissend                                                        |
+| ponctuer                              | punctuate; leestekens plaatsen                                     |
+| un orgasme                            |                                                                    |
+| contenuer                             | to restrain ???                                                    |
+| une chambre                           |                                                                    |
+| se épanouir                           | ontspruiten, openbloeien                                           |
+| la vaisseille                         | de vaat                                                            |
+| un héro                               |                                                                    |
+| échecs à l’aveugle                    | blindfolded chess                                                  |
+| un musicien                           |                                                                    |
+| étriqué                               | cramped                                                            |
+| la réflexion                          | nadenken                                                           |
+| se griller                            | to burn; hier hersenen pijnigen                                    |
+| le cerveau                            | hersenen                                                           |
+| une siècle                            | eeuw                                                               |
+| un risque                             |                                                                    |
+| une folie                             |                                                                    |
+| une vanité                            |                                                                    |
+| mitigé                                | mixed; minder streng, verzacht, afgezwakt                          |
+| une chaussure                         |                                                                    |
+| ingénierie                            | engineering                                                        |
+| solide                                | sterker                                                            |
+| un regard noir                        | to glare                                                           |
+| une blessure                          |                                                                    |
+| une colère                            |                                                                    |
+| un handicap                           |                                                                    |
+| grand-chose                           |                                                                    |
+| un réfrigérateur                      |                                                                    |
+| auparavant                            | jaren geleden                                                      |
+| la librairie                          | krantenwinkel                                                      |
+| savoureusement                        | smakelijk                                                          |
+| létal                                 | dodelijk                                                           |
+| une fenêtre                           | raam                                                               |
+| une cuisine                           | keuken                                                             |
+| un papillon                           | vlinder                                                            |
+| un écran anti-moustiques              |                                                                    |
+| au loin                               | veraf                                                              |
+| aboyer                                | blaffen                                                            |
+| la chenille                           | zijde ???                                                          |
+| sereine                               | sereen                                                             |
+| une bouche                            | mond                                                               |
+| être censé                            | supposed to be                                                     |
+| un soutier                            | matroos ???; bum                                                   |
+| une assiette                          | bord                                                               |
+| une université                        |                                                                    |
+| un étage                              | verdieping                                                         |
+| un plat cuisiné                       |                                                                    |
+| un congélateur                        |                                                                    |
+| aux marges de la ville                |                                                                    |
+| une marche                            | trede                                                              |
+| un perron                             | perron; hier treden, trap                                          |
+| le volant                             | stuur                                                              |
+| un cachet                             | pil                                                                |
+| avaler à sec                          |                                                                    |
+| tourbillonner                         | draaien                                                            |
+| une volonté farouche                  | determination ???                                                  |
+| une jaquette                          | dustjacket (book)                                                  |
+| un gros plan de                       | uitvergroot                                                        |
+| la gueule de bois                     | hangover                                                           |
+| le foie                               | lever                                                              |
+| un oignon                             | ui                                                                 |
+| un présentoir                         | display case                                                       |
+| un briquet                            | aansteker                                                          |
+| épaisse                               | thick                                                              |
+| emporter                              | winnen                                                             |
+| frémir                                | ritselen; thrill                                                   |
+| bougonne                              | muttering; mompelen                                                |
