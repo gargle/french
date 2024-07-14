@@ -1,0 +1,17 @@
+# mage.org -*- coding: utf-8; mode: org -*- 
+
+* Le mage du Kremlin
+
+| un mage        | wijze                       |
+| un roman       | roman                       |
+| un fait        | gebeurtenis                 |
+| un personnage  | figuur, persoon             |
+| néanmoins      | hoe dan ook, desalniettemin |
+| une vie        | een leven                   |
+| un auteur      | schrijver                   |
+| une histoire   | verhaal                     |
+| la propagande  | propaganda                  |
+| la langue      | taal                        |
+| récompenser    | belonen                     |
+| une récompense | beloning                    |
+
