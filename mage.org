@@ -14,4 +14,13 @@
 | la langue      | taal                        |
 | récompenser    | belonen                     |
 | une récompense | beloning                    |
-
+| le prix        | prijs                       |
+| une académie   | academie                    |
+| une comédie    | komedie                     |
+| la vie         | het leven                   |
+| susciter       | oproepen                    |
+| un monastère   | klooster                    |
+| un lèzard      | hagedis                     |
+| une nuée       | wolk                        |
+| s'agiter       | rusteloos bewegen           |
+|                |                             |
