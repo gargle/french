@@ -27,7 +27,7 @@
 | louper le déjeuner                    | missing lunch                                                      |
 | s'était ravisée                       | decided not to                                                     |
 | acquiesça                             | nodded                                                             |
-| impassible                            | without emotions                                                   |
+| impassible                            | without emotions, unmoved                                          |
 | était réticent à lâcher cette         | unwilling to give that                                             |
 | donner une claque                     | to slap a face                                                     |
 | elle lui fusilla du regard            | she glared at him                                                  |
@@ -48,7 +48,7 @@
 | le drap                               | sheet                                                              |
 | coincée                               | uptight                                                            |
 | contorsionna                          | squirmed                                                           |
-| devenir flasque                       | go limp                                                            |
+| devenir flasque                       | go limp, listless                                                  |
 | la chemise de nuit                    | nightgown                                                          |
 | effleurer                             | graze                                                              |
 | moite                                 | klam, vochting; damp                                               |
@@ -74,7 +74,7 @@
 | battre comme plâtre                   | beat senseless                                                     |
 | gagner cinq parties d’affilée         | straight; een na de ander                                          |
 | être un peu trop fin pour ça          | a bit too smart for that                                           |
-| percer unsecret                       | find a secret                                                      |
+| percer unsecret                       | find out a secret                                                  |
 | une vive lumière                      | bright light                                                       |
 | langueur                              | dreaminess                                                         |
 | le buisson                            | struik; bush                                                       |
@@ -193,8 +193,8 @@
 | audacieux                             | bold                                                               |
 | se mirent à                           | began                                                              |
 | le clouage                            | to pin (schaken)                                                   |
-| ébahi                                 | bafflement, amazed                                                 |
-| un éhabissement                       | bafflement, amazed                                                 |
+| ébahi                                 | bafflement, amazed, shocked                                        |
+| un éhabissement                       | bafflement, amazed, shocked                                        |
 | bourru                                | gruff                                                              |
 | têtus                                 | stubborn; koppig                                                   |
 | parée                                 | gereed, klaar; ready                                               |
@@ -891,3 +891,226 @@
 | emporter                              | winnen                                                             |
 | frémir                                | ritselen; thrill                                                   |
 | bougonne                              | muttering; mompelen                                                |
+| un schéma                             |                                                                    |
+| fondre sur                            | move in; zich storten op                                           |
+| vertigineuse                          | duizelingwekkend                                                   |
+| une rapidité                          | snelheid                                                           |
+| un requin                             | shark                                                              |
+| veiné                                 | veined; dooradert                                                  |
+| la fierté                             |                                                                    |
+| la tristesse                          |                                                                    |
+| délavé                                | faded                                                              |
+| une couverture                        | cover                                                              |
+| soupçonneux                           | achterdochtig                                                      |
+| une faiblesse                         | zwakheid                                                           |
+| sonore                                | loudly                                                             |
+| un campus                             |                                                                    |
+| l’Ohio (m)                            |                                                                    |
+| un numéro                             | uitgave                                                            |
+| d’âge moyen                           | middle-aged                                                        |
+| encastré                              | ingebouwd                                                          |
+| une étendue                           | a stretch                                                          |
+| pliante                               | plooi                                                              |
+| cession                               | sessie ???                                                         |
+| une surface                           | oppervlakte                                                        |
+| le néon                               |                                                                    |
+| une poignée                           | handvol                                                            |
+| cependant                             | however                                                            |
+| spartiate                             | spartaans                                                          |
+| une valise                            |                                                                    |
+| une anicroche                         | tegenslag(je)                                                      |
+| éreintante                            | grueling; afmattend                                                |
+| à mesure que                          | as time went on                                                    |
+| une petite chambre d’étudiant         |                                                                    |
+| une promenade                         |                                                                    |
+| entretenir                            | onderhouden                                                        |
+| un orme                               | elm tree                                                           |
+| le frisson                            | koorts, competitie                                                 |
+| languisser                            | missen                                                             |
+| un neurone                            |                                                                    |
+| boisé                                 | met hout bekleed                                                   |
+| en velours beige                      |                                                                    |
+| le velours                            | velvet                                                             |
+| finit par voir ce qu’il fallait faire | finally see what was needed                                        |
+| très ample                            | very loose                                                         |
+| parier                                | gokken                                                             |
+| le gobelet                            | cup                                                                |
+| une pince à billets                   | clip                                                               |
+| une poche                             |                                                                    |
+| balayer                               | wipe away                                                          |
+| la sicilienne                         |                                                                    |
+| une ouverture                         | opening                                                            |
+| délaisser                             | to ignore                                                          |
+| une reprise                           | een keer                                                           |
+| un filet                              | een net (vissen)                                                   |
+| assidu                                | vaste, regelmatige                                                 |
+| un sauvetage                          |                                                                    |
+| une muette humiliation                | quiet humiliation                                                  |
+| netteté                               | preciezie                                                          |
+| ne vous en faites pas pour ça         | do not worry about that                                            |
+| un hochement                          | knikje                                                             |
+| hocher                                | knikken                                                            |
+| de loin en loin                       | met lange tussenpozen, af en toe ???                               |
+| de travers                            | askew; verkeerd                                                    |
+| mutique                               | silent                                                             |
+| une coiffure                          | kapsel                                                             |
+| un affrontement                       | confrontatie                                                       |
+| entraîner                             | meeslepen                                                          |
+| la gestion                            | beheer                                                             |
+| le riz                                | rijst                                                              |
+| le gâteau                             |                                                                    |
+| une guerre                            |                                                                    |
+| contrer                               | afhouden ???                                                       |
+| pousser à bout                        |                                                                    |
+| remonter à loin                       | lang geleden                                                       |
+| obnubiler                             | wrapping up; in de mist gaan ???                                   |
+| le lait                               | melk                                                               |
+| une aire                              | area; oppervlakte                                                  |
+| au clair de lune                      | by moonlight                                                       |
+| une balançoire                        | wip (speeltuin)                                                    |
+| la déférence                          | achting, eerbied ???                                               |
+| la préséance                          | precedence; voorkeursbehandeling                                   |
+| en pendentif                          | on a chain; als hangertje                                          |
+| un médaillon                          |                                                                    |
+| un travailleur                        |                                                                    |
+| sensiblement                          | a good deal                                                        |
+| donner le top départ                  | to signal to begin                                                 |
+| à son égard                           | regarding                                                          |
+| un égard                              | regard                                                             |
+| sans concéder ne fût-ce qu’un nul     | without even a draw                                                |
+| concéder                              | to grant, to accord                                                |
+| remonter                              | overstijgen, overkomen                                             |
+| maligne                               | slim                                                               |
+| flancher                              | opgeven op beslissend ogenblik; wilting                            |
+| se dressait là                        | it sits there                                                      |
+| un étau                               | bankschroef ; bind                                                 |
+| à contretemps                         | in de verkeerde volgorde                                           |
+| aborder                               | aanpakken; to approach                                             |
+| redoutable                            | sinister                                                           |
+| redouter                              | erg vrezen                                                         |
+| furtif                                | vluchtig; quick                                                    |
+| avéré                                 | als waarheid bevestigd, zeker; certain                             |
+| à l’évidence                          | clearly                                                            |
+| une évidence                          | bewijs; evidence                                                   |
+| berner                                | bespotten ???; to confuse                                          |
+| la suite                              | het vervolg                                                        |
+| fulgurante                            | flitsenf                                                           |
+| chérisser                             | love                                                               |
+| attirante                             | aantrekkelijk                                                      |
+| éviterer à                            | to deny ???                                                        |
+| battre leur plein                     | intently in progress                                               |
+| à saisir                              | to take in                                                         |
+| une cérémonie                         |                                                                    |
+| un box, boxes                         |                                                                    |
+| grisée                                | high; gepolijst                                                    |
+| fulminer                              | ontploffen, exploderen                                             |
+| songeur                               | dromerig; thoughtful                                               |
+| la mousse                             | kol van een glas bier                                              |
+| se tasser                             | to settle                                                          |
+| un avion                              |                                                                    |
+| rude                                  | moeilijk; tough                                                    |
+| un angle                              | hoek                                                               |
+| un lot                                | a lot; hoop                                                        |
+| effondré                              | collapsed; ingestort                                               |
+| un projet                             |                                                                    |
+| un entraîneur                         |                                                                    |
+| un vol                                |                                                                    |
+| stupéfier                             | to shock; verbijsteren                                             |
+| un gâchis                             | modderpoel; mess                                                   |
+| noyer                                 | verdrinken                                                         |
+| le printemps                          |                                                                    |
+| avaler                                | slikken                                                            |
+| une insouciance                       | onbezorgdheid                                                      |
+| irradier                              | uitstralen                                                         |
+| un vide                               | leegte; void                                                       |
+| une importance                        |                                                                    |
+| un viol                               | violation                                                          |
+| un dard                               | angel (insekt)                                                     |
+| la glissière                          | vangrail                                                           |
+| boudeur, boudeuse                     | sulking                                                            |
+| filer                                 | voorbijvlieger                                                     |
+| un endroit                            |                                                                    |
+| une ampoule                           | lamp                                                               |
+| un verrou                             | slot                                                               |
+| impénétrable                          |                                                                    |
+| une voie                              | rijweg                                                             |
+| un tunnel                             |                                                                    |
+| un abandon                            | opgave                                                             |
+| ragaillardie                          | terug vrolijk worden                                               |
+| une ordure                            | vuiligheid, vuilnis; garbage                                       |
+| une entrée                            | ingang                                                             |
+| un coussin                            | kussen                                                             |
+| un rayonnage                          | shelve                                                             |
+| un canapé                             |                                                                    |
+| informe                               | vormeloos                                                          |
+| un matelas                            |                                                                    |
+| un camion                             |                                                                    |
+| une ambulance                         |                                                                    |
+| le dos                                | rug                                                                |
+| la sirène                             |                                                                    |
+| un volet                              | vensterluik; shutter                                               |
+| la cabine                             |                                                                    |
+| un couvercle                          | dop                                                                |
+| tremper                               | deppen                                                             |
+| une table à jeux pliante              | folding card table                                                 |
+| un rouleau                            | rol                                                                |
+| un élastique                          |                                                                    |
+| une brochure                          |                                                                    |
+| un registre                           | a record; register                                                 |
+| vilainement                           | smerig; smudgily                                                   |
+| la fenêtre de devant                  | front window                                                       |
+| avancer à pas                         | slow-moving                                                        |
+| une race                              |                                                                    |
+| une épicerie                          | kruidenier                                                         |
+| avoir un tant soit peu de mystère     | ???                                                                |
+| un ordinaire                          |                                                                    |
+| laisser en rade                       | achtergebleven; backward ???                                       |
+| une rigeur                            | rigor                                                              |
+| brider                                | beperken, stoppen                                                  |
+| mettre en rogne                       | to infuriate                                                       |
+| la justesse                           |                                                                    |
+| exulter                               | to exult; extreem blij zijn                                        |
+| un sacrifice                          |                                                                    |
+| inéluctable                           | niet aan te ontsnappen                                             |
+| un mélodrame                          |                                                                    |
+| un drame                              |                                                                    |
+| pointer du doigt                      | pointing out                                                       |
+| un doigt                              | vinger                                                             |
+| s’appliquant                          | carefully                                                          |
+| receler                               | achterhouden, verborgen houden                                     |
+| ahurissante                           | staggering                                                         |
+| incertain                             | inconclusive                                                       |
+| sous-tendre                           | implicit                                                           |
+| mettre un terme                       | canceling out                                                      |
+| percer à jour                         | ontmaskeren                                                        |
+| une agence                            |                                                                    |
+| jours de latence                      | wachttijd                                                          |
+| fourbue                               | afgepeigerd                                                        |
+| freiner                               | inhouden, afremmen                                                 |
+| communiquer qu’à propod des échecs    |                                                                    |
+| une chose                             |                                                                    |
+| la langue                             |                                                                    |
+| le replacer                           | hier, iemand plaatsen, herkennen                                   |
+| frappante                             | striking                                                           |
+| un teint                              | complexion                                                         |
+| pâle                                  | bleek                                                              |
+| une épaulette                         |                                                                    |
+| une révérence                         |                                                                    |
+| une calvitie                          | kale plek                                                          |
+| précoce                               | vroegrijp                                                          |
+| un échiquier                          | schaakbord                                                         |
+| une leçon                             |                                                                    |
+| la foule                              | menigte                                                            |
+| s’y être un peu frottée               | to try, dabble                                                     |
+| être accessoire                       | irrelevant                                                         |
+| fondus de problèmes ordinaires        | ???                                                                |
+| la poitrine                           | chest; borstkas                                                    |
+| paraissait très vain                  | seemed silly                                                       |
+| le fil                                | het verloop                                                        |
+| une simultanée                        | a simultaneous; tegen meerdere spelen                              |
+| la fermeté                            |                                                                    |
+| affûté                                | scherp staan                                                       |
+| une amertume                          | bitterness                                                         |
+| pigé le truc                          | getting it, understanding                                          |
+| détendre quelqu’un                    | de spanning weghalen                                               |
+
