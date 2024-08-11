@@ -74,7 +74,7 @@
 | battre comme plâtre                   | beat senseless                                                     |
 | gagner cinq parties d’affilée         | straight; een na de ander                                          |
 | être un peu trop fin pour ça          | a bit too smart for that                                           |
-| percer unsecret                       | find out a secret                                                  |
+| percer unsecret                       | find out a secret; doorzien                                        |
 | une vive lumière                      | bright light                                                       |
 | langueur                              | dreaminess                                                         |
 | le buisson                            | struik; bush                                                       |
@@ -136,6 +136,7 @@
 | fureter                               | glanching around                                                   |
 | être tendu                            | wound up tight                                                     |
 | l'aile dame                           | queenside                                                          |
+| une aile                              | wing, side                                                         |
 | vilaine                               | nasty                                                              |
 | jouxtaient                            | next to                                                            |
 | brusquement indécise                  | suddenly unsure                                                    |
@@ -199,7 +200,10 @@
 | souillé                               | bevuild                                                            |
 | tassé                                 | thight                                                             |
 | un panier                             | basket                                                             |
-| un éclat                              | glans, weerspiegeling                                              |
+| un éclat                              | glans, weerspiegeling, schijn van                                  |
+| se soucier de                         | zich iets aantrekken van                                           |
+| une chaise                            |                                                                    |
+| une cafetière                         | koffiekan                                                          |
 | un peigne                             | kam                                                                |
 | peigner                               | kammen                                                             |
 | mordiller                             | to bite                                                            |
@@ -1096,7 +1100,7 @@
 | la foule                              | menigte                                                            |
 | s’y être un peu frottée               | to try, dabble                                                     |
 | être accessoire                       | irrelevant                                                         |
-| fondus de problèmes ordinaires        | ???                                                                |
+| fondus de problèmes ordinaires        | freaks that love little problems                                   |
 | la poitrine                           | chest; borstkas                                                    |
 | paraissait très vain                  | seemed silly                                                       |
 | le fil                                | het verloop                                                        |
@@ -1106,3 +1110,33 @@
 | une amertume                          | bitterness                                                         |
 | pigé le truc                          | getting it, understanding                                          |
 | détendre quelqu’un                    | de spanning weghalen                                               |
+| se tenir assis                        | sitting                                                            |
+| une insomnie                          | slapeloosheid                                                      |
+| une baie                              | bay window                                                         |
+| une clarté                            | klaarheid; clarity                                                 |
+| une querelle                          | quarrel                                                            |
+| une exultation                        | het jubelen                                                        |
+| j’en ai ma claque                     | I’m at my fucking wit’s end                                        |
+| va te faire foutre                    | up your ass                                                        |
+| une semaine                           |                                                                    |
+| fourvoyer                             | verloren lopen, van het juiste pad afdwalen                        |
+| éprouver                              | voelen; sentir                                                     |
+| une affection                         |                                                                    |
+| craindre                              | vrezen                                                             |
+| se adosser                            | met de rug leunen tegen                                            |
+| cérébral                              | met betrekking op de hersenen                                      |
+| un ressentiment                       | resentment; aanstootgevend iets                                    |
+| charnel                               | lovemaking                                                         |
+| la va-vite                            | slordig ???                                                        |
+| une tacticienne                       |                                                                    |
+| une image                             |                                                                    |
+| fluide                                | smooth; vlot                                                       |
+| un climatiseur                        | airco                                                              |
+| ronronner                             | zoemen, snorren (kat)                                              |
+| faire le ronron                       |                                                                    |
+| le portefeuille                       |                                                                    |
+| un écart                              | zijsprong, afstand                                                 |
+| à l’écart                             | op afstand                                                         |
+| une intensité                         |                                                                    |
+| un intérêt                            |                                                                    |
+| se ficher                             | not caring; niks van aantrekken                                    |
