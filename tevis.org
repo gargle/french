@@ -13,7 +13,6 @@
 | s'amenuisa                            | reduced                                                            |
 | calée                                 | wedged; geklemd                                                    |
 | faire se tendre le corps              | verstarren                                                         |
-| atténué                               | faded, eased, lessened                                             |
 | le coup du berger                     | scholar's mate                                                     |
 | l'homme à tout faire                  | janitor                                                            |
 | la veille au soir                     | the night before                                                   |
@@ -74,7 +73,7 @@
 | battre comme plâtre                   | beat senseless                                                     |
 | gagner cinq parties d’affilée         | straight; een na de ander                                          |
 | être un peu trop fin pour ça          | a bit too smart for that                                           |
-| percer unsecret                       | find out a secret; doorzien                                        |
+| percer un secret                      | find out a secret; doorzien                                        |
 | une vive lumière                      | bright light                                                       |
 | langueur                              | dreaminess                                                         |
 | le buisson                            | struik; bush                                                       |
@@ -473,11 +472,11 @@
 | ramener                               | to pull back                                                       |
 | une horloge                           | klok                                                               |
 | la fuite                              | de vlucht                                                          |
-| la rangée                             | (chess) file                                                       |
+| la rangée                             | (chess) rank (horizontale lijnen)                                  |
 | au dépourvu                           | off-guard                                                          |
 | une contremenace                      | counterthreat                                                      |
 | rabattre                              | terugbrengen, terugvallen                                          |
-| désemparée                            | disabled, aimless                                                  |
+| désemparée                            | disabled, aimless, helpless                                        |
 | un nul                                | a draw                                                             |
 | un air songuer                        | meditatively                                                       |
 | en auditrice libre                    | als vrije student                                                  |
@@ -543,7 +542,7 @@
 | une gaieté                            | vrolijkheid                                                        |
 | une euphorie                          | mirth                                                              |
 | une aise                              | gemak                                                              |
-| le rebord                             | edge                                                               |
+| le rebord                             | edge; kant                                                         |
 | abriter                               | verschuilen                                                        |
 | un livre                              | boek                                                               |
 | empressement                          | eagerly                                                            |
@@ -586,14 +585,14 @@
 | criarde                               | schreeuwend                                                        |
 | une cravate                           | das                                                                |
 | un costume                            | pak                                                                |
-| morne                                 | sad, sorrowful; triest                                             |
+| morne                                 | sad, sorrowful, flatly; triest, saai, monotoon                     |
 | un gobelet                            | kop, drinkglas                                                     |
 | la femelle                            | vrouwelijke                                                        |
 | quintes                               | interval (muziektheorie)                                           |
 | haché                                 | afgekapt                                                           |
 | une toux                              | hoest                                                              |
 | un virus                              |                                                                    |
-| exaspérant                            | irriterend                                                         |
+| exaspérant                            | irriterend; infuriating                                            |
 | une pendule                           | klokje                                                             |
 | un froissement                        | rustling                                                           |
 | étouffer                              | verstikken                                                         |
@@ -601,7 +600,7 @@
 | d’humour bavarde                      | aanspreekbaar                                                      |
 | marmonner                             | mompelen; to mutter                                                |
 | ronchonner                            | knorren; to rasp                                                   |
-| agacée                                | geïrriteerd                                                        |
+| agacée                                | geïrriteerd; annoyed                                               |
 | étourdi                               | duizelig; dizzy                                                    |
 | une manœuvre                          |                                                                    |
 | se frayer                             | push; zich een weg banen                                           |
@@ -639,7 +638,7 @@
 | se botterer                           | to dig                                                             |
 | tâter                                 | zacht aanraken                                                     |
 | impuissant                            | helpless                                                           |
-| attirer                               | aantrekken; attract                                                |
+| attirer                               | aantrekken, trekken; attract                                       |
 | un cerf-volant                        | kite; windvogel                                                    |
 | arpenter                              | to pace; snel doorkruisen, met grote stappen                       |
 | luire                                 | to glow                                                            |
@@ -704,7 +703,7 @@
 | étranglée                             | gewurgd                                                            |
 | une tequila sunrise                   |                                                                    |
 | la remise                             | overdracht, prijsuitreiking; award ceremony                        |
-| atténuer                              | to blur; verdoezelen???                                            |
+| atténuer                              | to blur, to fade, to ease, to lessen; verdoezelen                  |
 | empotée  embarressed                  |                                                                    |
 | une élocution                         | uitspraak                                                          |
 | passer commande                       | bestellen                                                          |
@@ -744,7 +743,7 @@
 | un silence                            |                                                                    |
 | une autopsie                          |                                                                    |
 | le voyage                             |                                                                    |
-| unn billet                            |                                                                    |
+| un billet                             |                                                                    |
 | un tranchant                          | snijvlak van een mes, klaarheid; crispness                         |
 | une concession                        | concessie (op bv. kerkhof)                                         |
 | le Kentucky                           |                                                                    |
@@ -783,7 +782,7 @@
 | se dégager de lui                     | van hem loskomen                                                   |
 | ouvert sur le dessus                  | van boven open                                                     |
 | le tapis                              | tapijt; rug                                                        |
-| le salon                              |                                                                    |
+| le salon                              | living room                                                        |
 | un titre                              |                                                                    |
 | le porte-journaux                     | tijdschriftenrek; magazine rack                                    |
 | un pédant                             | betweter ???                                                       |
@@ -849,7 +848,7 @@
 | un handicap                           |                                                                    |
 | grand-chose                           |                                                                    |
 | un réfrigérateur                      |                                                                    |
-| auparavant                            | jaren geleden                                                      |
+| auparavant                            | jaren geleden; before                                              |
 | la librairie                          | krantenwinkel                                                      |
 | savoureusement                        | smakelijk                                                          |
 | létal                                 | dodelijk                                                           |
@@ -869,7 +868,7 @@
 | un étage                              | verdieping                                                         |
 | un plat cuisiné                       |                                                                    |
 | un congélateur                        |                                                                    |
-| aux marges de la ville                |                                                                    |
+| aux marges de la ville                | at the edge of town                                                |
 | une marche                            | trede                                                              |
 | un perron                             | perron; hier treden, trap                                          |
 | le volant                             | stuur                                                              |
@@ -1140,3 +1139,34 @@
 | une intensité                         |                                                                    |
 | un intérêt                            |                                                                    |
 | se ficher                             | not caring; niks van aantrekken                                    |
+| un sentiment de scandale              | outrage                                                            |
+| une pioche                            | pikhouweel                                                         |
+| un ascenseur                          | lift                                                               |
+| tirer son coup                        |                                                                    |
+| une tactique                          |                                                                    |
+| une stratégie                         |                                                                    |
+| une colère                            |                                                                    |
+| un arrêt                              |                                                                    |
+| une avenue                            |                                                                    |
+| le réveil                             |                                                                    |
+| traquer                               | to hound, hunt, chase                                              |
+| froisser                              | to cross; kwaad maken                                              |
+| ça lui fit un bien fou                |                                                                    |
+| hormis                                | behalve                                                            |
+| une séance                            |                                                                    |
+| le terminal                           |                                                                    |
+| une zone                              |                                                                    |
+| ténébreuse                            | dark                                                               |
+| un souffle                            | breath                                                             |
+| le prendre en photo                   |                                                                    |
+| une école                             |                                                                    |
+| une appréhension                      | zorgen; crainte                                                    |
+| une crainte                           |                                                                    |
+| une angoisse                          |                                                                    |
+| un talent                             |                                                                    |
+| un œillet                             | oog (schoenveter)                                                  |
+| un vase                               | vaas                                                               |
+| le bois                               | hout                                                               |
+| le bois de noyer                      | okkernotenboom; walnut                                             |
+| assorti au sol et au plafond          | matching the floor and ceiling                                     |
+| un entraînement                       |                                                                    |
