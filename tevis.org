@@ -139,7 +139,7 @@
 | vilaine                               | nasty                                                              |
 | jouxtaient                            | next to                                                            |
 | brusquement indécise                  | suddenly unsure                                                    |
-| mijoter                               | being up to                                                        |
+| mijoter                               | being up to; uitspoken                                             |
 | harceler                              | ambeteren; nagging                                                 |
 | la tour                               | toren in het schaakspel                                            |
 | le fou                                | loper in het schaakspel                                            |
@@ -476,7 +476,7 @@
 | au dépourvu                           | off-guard                                                          |
 | une contremenace                      | counterthreat                                                      |
 | rabattre                              | terugbrengen, terugvallen                                          |
-| désemparée                            | disabled, aimless, helpless                                        |
+| désemparée                            | disabled, aimless, helpless, in dismay                             |
 | un nul                                | a draw                                                             |
 | un air songuer                        | meditatively                                                       |
 | en auditrice libre                    | als vrije student                                                  |
@@ -534,7 +534,7 @@
 | une coiffeuse                         | hairdresser; spiegel, dressoir ???                                 |
 | le vertige                            | duizeligheid                                                       |
 | se farder                             | opmaken, make-up aanbrengen                                        |
-| un soupçon                            | verdenking                                                         |
+| un soupçon                            | hint, verdenking; a hint of                                        |
 | une margarita                         |                                                                    |
 | une éthique                           | ethic                                                              |
 | un confin                             | grenzen; reach                                                     |
@@ -808,7 +808,8 @@
 | saigner à blanc                       | leegbloeden                                                        |
 | un petit boulot                       | a part-time job                                                    |
 | une matinée                           | voormiddag                                                         |
-| un après-midi                         | namiddag                                                           |
+| un après-midi                         | de uren na de middag                                               |
+| une après-midi                        | namiddag                                                           |
 | déceler                               | to reveal                                                          |
 | une lèvre                             | lip                                                                |
 | lassitude                             | het moe zijn, vermoeidheid                                         |
@@ -1170,3 +1171,82 @@
 | le bois de noyer                      | okkernotenboom; walnut                                             |
 | assorti au sol et au plafond          | matching the floor and ceiling                                     |
 | un entraînement                       |                                                                    |
+| garnir                                | voorzien (van)                                                     |
+| un terrain                            |                                                                    |
+| irrémédiablement                      | unrecoverable                                                      |
+| coincé de partout                     | bottled up ???                                                     |
+| se délecter                           | prendre beaucoup de plaisir à quelque chose                        |
+| un chemisier                          | hemdenverkoper                                                     |
+| une vitrine                           |                                                                    |
+| un plaisir                            |                                                                    |
+| se imprégner                          | to take in; zich laten doordringen                                 |
+| un immeuble                           |                                                                    |
+| singulière                            | odd                                                                |
+| au gré de ses pas                     | to wander                                                          |
+| un gré                                | de wil                                                             |
+| la naissance                          |                                                                    |
+| une réception                         |                                                                    |
+| le cadre                              |                                                                    |
+| la haleine                            | adem                                                               |
+| une pâtisserie                        |                                                                    |
+| un millefeuille                       | gebakje                                                            |
+| une hilarité                          | vrolijkheid                                                        |
+| pondéreuse                            | zwaarwichtig                                                       |
+| le ventre                             | stomach; buik                                                      |
+| lugubrement                           | grimly                                                             |
+| une douzaine                          |                                                                    |
+| un avant-dernier jour                 | voorlaatste                                                        |
+| un jour                               |                                                                    |
+| un bureau                             |                                                                    |
+| une organisation                      |                                                                    |
+| un lendemain                          |                                                                    |
+| un conseil                            |                                                                    |
+| un espoir                             |                                                                    |
+| bifurquer                             | splitsen; to branch                                                |
+| imperturbable                         | onverstoorbaar                                                     |
+| rusé                                  | sluwheid, doortraptheid                                            |
+| une ruse                              | cunning, sly; sluwheid, doortraptheid ???                          |
+| aménagé                               | voorbereid, klaar gemaakt                                          |
+| esquiver                              | handig ontwijken                                                   |
+| une ressource                         |                                                                    |
+| une heure passée                      | it was after one o’clock                                           |
+| une montre                            |                                                                    |
+| de repli                              | punt om op terug te vallen, terug te trekken                       |
+| serrer les dents                      | to grit teeth                                                      |
+| une pierre de touche                  | a touchstone                                                       |
+| la désordre                           | disarray                                                           |
+| la solidité sans cesse croissante     | growing strength                                                   |
+| la nausée                             |                                                                    |
+| une envie                             |                                                                    |
+| une nasse                             | valstrik, val; a trap                                              |
+| que c’en était effrayant              | that it was frightening                                            |
+| un nœud                               | knoop                                                              |
+| dénouer                               | ontknopen                                                          |
+| panser ses plaies                     | lick her wounds                                                    |
+| une plaie                             | wond; wound                                                        |
+| panser                                | verzorgen (wond)                                                   |
+| un aller-retour                       |                                                                    |
+| une hôtesse                           | stewardess                                                         |
+| le courrier                           |                                                                    |
+| un avocat                             |                                                                    |
+| le titre                              |                                                                    |
+| traîner des pieds                     | creating difficulty                                                |
+| le combiné                            | hoorn (telefoon)                                                   |
+| un argent                             |                                                                    |
+| une maison                            |                                                                    |
+| un regard circulaire                  |                                                                    |
+| la blancheur                          |                                                                    |
+| un mollet                             | scheenbeen; calf                                                   |
+| la gêne                               |                                                                    |
+| affligé                               | sad; atteint d’un malheur                                          |
+| un lapin                              |                                                                    |
+| effarouché                            | opgeschrikt, angstig (dieren)                                      |
+| un document                           |                                                                    |
+| se taiser                             | zwijgen                                                            |
+| une orpheline                         |                                                                    |
+| finaude                               | doortrapt; smart-assed                                             |
+| la gueulle                            |                                                                    |
+| une valeur                            |                                                                    |
+| un enterrement                        |                                                                    |
+| une facture                           |                                                                    |
+| une veste                             | jacket                                                             |
