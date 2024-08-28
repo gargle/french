@@ -1250,3 +1250,21 @@
 | un enterrement                        |                                                                    |
 | une facture                           |                                                                    |
 | une veste                             | jacket                                                             |
+| un martyr                             |                                                                    |
+| une enveloppe                         |                                                                    |
+| une chaîne hi-fi                      |                                                                    |
+| un dessus-de-lit                      | bedspread                                                          |
+| une taie d’oreiller                   | kussensloop                                                        |
+| un passepoil                          | smal stukje stof als scheiding ???                                 |
+| étroite                               | smal                                                               |
+| à la chaux                            | washed ???                                                         |
+| un meuble                             | meubel                                                             |
+| un cabinet                            |                                                                    |
+| le peignoir                           |                                                                    |
+| un chausson                           | sloef; slipper                                                     |
+| un relevé                             | (bank)statement                                                    |
+| appartenir                            | bezitten                                                           |
+| rapporter                             | terugbrengen, meebrengen                                           |
+| cuisaient                             | koken ???                                                          |
+| une casserole                         |                                                                    |
+| dérouler                              | uitrollen; to set up                                               |
