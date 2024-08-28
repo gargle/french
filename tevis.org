@@ -111,7 +111,6 @@
 | une affichette                        | a card                                                             |
 | le tas                                | a pile                                                             |
 | induit                                | induced, mesmerised; gefocust                                      |
-| agacée                                | annoyed                                                            |
 | un rouge à lèvres                     | lipstick                                                           |
 | un peigne                             | comb                                                               |
 | une pince                             | (was)knijper, tang; clip                                           |
@@ -223,7 +222,7 @@
 | la butte                              | heuvel                                                             |
 | œufs au plat                          | fried eggs                                                         |
 | œufs mollet                           | boiled eggs                                                        |
-| une coupe                             | a cup (eggs)                                                       |
+| une coupe                             | a cup (eggs), a haircut                                            |
 | rugueux                               | grainy                                                             |
 | un crachin                            | drizzle                                                            |
 | un lest                               | ballast, gewicht                                                   |
@@ -739,7 +738,7 @@
 | le pot                                | (koffie)pot                                                        |
 | un déclic                             | click                                                              |
 | factice                               | vals, gespeeld; feigned                                            |
-| le matin                              |                                                                    |
+| un matin                              |                                                                    |
 | un silence                            |                                                                    |
 | une autopsie                          |                                                                    |
 | le voyage                             |                                                                    |
@@ -800,7 +799,7 @@
 | un acharnement                        | dodgedly, relentless; zonder opgave                                |
 | d’un air très détendu                 | coolly                                                             |
 | la pelouse                            | gazon                                                              |
-| la variante                           | kind of                                                            |
+| la variante                           | variante; kind of                                                  |
 | la tièdeur                            | lauw, niet earm, niet koud                                         |
 | le jardin de derrière                 | backyard                                                           |
 | une façon neuve                       |                                                                    |
@@ -859,7 +858,7 @@
 | un écran anti-moustiques              |                                                                    |
 | au loin                               | veraf                                                              |
 | aboyer                                | blaffen                                                            |
-| la chenille                           | zijde ???                                                          |
+| la chenille                           | soort garen, stof gemaakt van dit garen, rups                      |
 | sereine                               | sereen                                                             |
 | une bouche                            | mond                                                               |
 | être censé                            | supposed to be                                                     |
@@ -1103,7 +1102,7 @@
 | fondus de problèmes ordinaires        | freaks that love little problems                                   |
 | la poitrine                           | chest; borstkas                                                    |
 | paraissait très vain                  | seemed silly                                                       |
-| le fil                                | het verloop                                                        |
+| un fil                                | het verloop, draad                                                 |
 | une simultanée                        | a simultaneous; tegen meerdere spelen                              |
 | la fermeté                            |                                                                    |
 | affûté                                | scherp staan                                                       |
@@ -1268,3 +1267,25 @@
 | cuisaient                             | koken ???                                                          |
 | une casserole                         |                                                                    |
 | dérouler                              | uitrollen; to set up                                               |
+| une cuillérée                         | spoonful                                                           |
+| une cuillère                          | lepel                                                              |
+| une invitation                        |                                                                    |
+| un papier                             |                                                                    |
+| une qualité                           |                                                                    |
+| une lettre                            | brief, letter; character, type                                     |
+| le russe                              | Russische taal                                                     |
+| un nom                                |                                                                    |
+| une notation                          | schaaknotatie                                                      |
+| une difficulté                        |                                                                    |
+| un alphabet                           |                                                                    |
+| un gouvernement                       |                                                                    |
+| écaler                                | pellen (ei)                                                        |
+| une écale                             | schil, schaal                                                      |
+| un bol                                | kom                                                                |
+| s'en lasser                           | becoming bored                                                     |
+| démêler                               | ontrafelen                                                         |
+| consciencieusement                    |                                                                    |
+| une herbe                             | gras                                                               |
+| un rosier thé                         | tea rose; soort roos                                               |
+| mal en point                          | en mauvais état de santé                                           |
+| une occupation                        | bezigheid                                                          |
