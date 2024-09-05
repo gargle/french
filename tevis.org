@@ -49,7 +49,7 @@
 | contorsionna                          | squirmed                                                           |
 | devenir flasque                       | go limp, listless                                                  |
 | la chemise de nuit                    | nightgown                                                          |
-| effleurer                             | graze                                                              |
+| effleurer                             | graze; glijden over (met de hand)                                  |
 | moite                                 | klam, vochting; damp                                               |
 | obtempéra                             | to do as she was told                                              |
 | un bruit de course                    | footsteps came running up                                          |
@@ -442,7 +442,7 @@
 | le gambit                             | valstrik in schaak                                                 |
 | de temps à autre                      | from time to time                                                  |
 | une intruse                           | intruder                                                           |
-| affable                               | vriendelijk                                                        |
+| affable                               | vriendelijk; pleasantly                                            |
 | frimer                                | showing off                                                        |
 | une faille                            | a weakness                                                         |
 | un ajournement                        | uitgesteld spelen                                                  |
@@ -483,7 +483,7 @@
 | à l’unisson                           | in unison                                                          |
 | un unisson                            |                                                                    |
 | la platine                            | disk                                                               |
-| un disque                             | disk                                                               |
+| un disque                             | lp, plaat; disk                                                    |
 | une liasse                            | pak (papiergeld bv)                                                |
 | le joint                              |                                                                    |
 | une taffe                             | drag (of a sigarette)                                              |
@@ -539,7 +539,7 @@
 | une éthique                           | ethic                                                              |
 | un confin                             | grenzen; reach                                                     |
 | une enfance                           | childhood                                                          |
-| une gaieté                            | vrolijkheid                                                        |
+| une gaieté                            | vrolijkheid; cheerfulness                                          |
 | une euphorie                          | mirth                                                              |
 | une aise                              | gemak                                                              |
 | le rebord                             | edge; kant                                                         |
@@ -903,7 +903,7 @@
 | sonore                                | loudly                                                             |
 | un campus                             |                                                                    |
 | l’Ohio (m)                            |                                                                    |
-| un numéro                             | uitgave                                                            |
+| un numéro                             | uitgave, nummer                                                    |
 | d’âge moyen                           | middle-aged                                                        |
 | encastré                              | ingebouwd                                                          |
 | une étendue                           | a stretch                                                          |
@@ -1268,3 +1268,56 @@
 | cuisaient                             | koken ???                                                          |
 | une casserole                         |                                                                    |
 | dérouler                              | uitrollen; to set up                                               |
+| un matin                              |                                                                    |
+| la herbe                              | het gras                                                           |
+| mal en point                          | shabby                                                             |
+| la peur                               |                                                                    |
+| un soulagement                        |                                                                    |
+| une douche                            |                                                                    |
+| une coupe                             | haircut                                                            |
+| tondre                                | to mow                                                             |
+| une adresse                           |                                                                    |
+| le ménage                             | huishouden                                                         |
+| une toile                             | web                                                                |
+| une araignée                          | spin                                                               |
+| le linge                              | linnen, laken                                                      |
+| un rasoir                             | scheermes                                                          |
+| cailler                               | verzuren van melk                                                  |
+| le beurre                             |                                                                    |
+| le givre                              | rijm (ijskast)                                                     |
+| maculer                               | beduimelen                                                         |
+| une femme de ménage                   | kuisvrouw                                                          |
+| un libraire                           | verkoper van boeken                                                |
+| comment s’y prendre pour              | weten hoe iets te…                                                 |
+| combler                               | to bridge                                                          |
+| un chef de rang                       | headwaiter                                                         |
+| un apéritif                           |                                                                    |
+| le buffet                             |                                                                    |
+| la glace                              | ijs                                                                |
+| un intérieur                          |                                                                    |
+| un gin                                |                                                                    |
+| une perle                             |                                                                    |
+| taquiner                              | plagen; banter                                                     |
+| un effet                              |                                                                    |
+| noué                                  | in de knoop                                                        |
+| un cocktail                           |                                                                    |
+| estomper                              | verzachten; to subside                                             |
+| une ombre                             | shadow                                                             |
+| un piano                              |                                                                    |
+| une caisse                            | kist                                                               |
+| un taxi                               |                                                                    |
+| une démarche                          | gait; manier van stappen                                           |
+| un flirt                              |                                                                    |
+| un alcool                             |                                                                    |
+| consommer                             | to consumate                                                       |
+| en pourboire                          | drinkgeld                                                          |
+| un grille-pain                        | toaster ???                                                        |
+| un spaghetti ???                      |                                                                    |
+| un chili ???                          |                                                                    |
+| dévisser                              | ontkurken                                                          |
+| un bouchon                            | stop; cap                                                          |
+| une cuiller                           | lepel                                                              |
+| une gorgée                            | a swallow; slok                                                    |
+| une réserve                           |                                                                    |
+| faire de cocktail                     |                                                                    |
+| remuer                                | mixen; to stir                                                     |
