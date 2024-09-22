@@ -150,7 +150,6 @@
 | une combinaison                       | une suite de coups forcée (échecs)                                 |
 | une rangée                            | gelid, haag; reeks                                                 |
 | espacé                                | uiteengeplaatst                                                    |
-| dérouler                              | zich afspelen, ontrollen                                           |
 | un poteau                             | paaltje, deurpost                                                  |
 | agglutiné                             | samengepakt, samengekleefd                                         |
 | chauve                                | kaal                                                               |
@@ -1264,7 +1263,7 @@
 | rapporter                             | terugbrengen, meebrengen                                           |
 | cuisaient                             | koken ???                                                          |
 | une casserole                         |                                                                    |
-| dérouler                              | uitrollen; to set up                                               |
+| dérouler                              | zich afspelen, ontrollen, uitrollen; to set up                     |
 | une cuillérée                         | spoonful                                                           |
 | une cuillère                          | lepel                                                              |
 | une invitation                        |                                                                    |
