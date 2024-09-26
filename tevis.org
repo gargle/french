@@ -1370,3 +1370,5 @@
 | un degré                              | graad, trap                                                        |
 | une ivresse                           | een dronkenschap                                                   |
 | une chaussette                        | sok                                                                |
+| un ébranlement                        | schok, ondermijning, beschadiging                                  |
+| ébranler                              | wagelen, wiegen, in beweging komen, schokken, doen schudden        |
