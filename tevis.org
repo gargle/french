@@ -150,7 +150,6 @@
 | une combinaison                              | une suite de coups forcée (échecs)                           |
 | une rangée                                   | gelid, haag; reeks                                           |
 | espacé                                       | uiteengeplaatst                                              |
-| dérouler                                     | zich afspelen, ontrollen                                     |
 | un poteau                                    | paaltje, deurpost                                            |
 | agglutiné                                    | samengepakt, samengekleefd                                   |
 | chauve                                       | kaal                                                         |
@@ -1264,7 +1263,7 @@
 | rapporter                                    | terugbrengen, meebrengen                                     |
 | cuisaient                                    | koken ???                                                    |
 | une casserole                                |                                                              |
-| dérouler                                     | uitrollen; to set up                                         |
+| dérouler                                     | zich afspelen, ontrollen, uitrollen; to set up               |
 | une cuillérée                                | spoonful                                                     |
 | une cuillère                                 | lepel                                                        |
 | une invitation                               |                                                              |
@@ -1352,15 +1351,15 @@
 | baisser le son                               |                                                              |
 | un membre                                    | ledemaat                                                     |
 | renverser                                    | to spil                                                      |
-| un vrombissement                             |                                                              |
+| un vrombissement                             | een zoemend geluid                                           |
 | une tondeuse                                 |                                                              |
 | une motte                                    | een plak aarde                                               |
 | se imprégner                                 | doordrenken, in zich opnemen ???                             |
 | un sac à main                                | purse                                                        |
 | un vin                                       |                                                              |
 | un bourgogne                                 |                                                              |
-| un poivre                                    |                                                              |
-| astringent                                   | samentrekkend ???                                            |
+| un poivre                                    | een peper                                                    |
+| astringent                                   | bitter, samentrekkend ???                                    |
 | se assommer                                  | overweldigen; overwhelm                                      |
 | s’en mefier                                  | wantrouwen; being wary of                                    |
 | sévèrement                                   |                                                              |
@@ -1368,7 +1367,7 @@
 | au contraire                                 |                                                              |
 | un escalier                                  |                                                              |
 | un degré                                     | graad, trap                                                  |
-| une ivresse                                  |                                                              |
+| une ivresse                                  | dronkenschap                                                 |
 | une chaussette                               | sok                                                          |
 | ivre                                         | dronken                                                      |
 | à moitié                                     | half                                                         |
@@ -1395,3 +1394,5 @@
 | acheter à quelq’un                           |                                                              |
 | s’en souvenant du plus profond de son ventre |                                                              |
 | une entraille                                | ingewand                                                     |
+| un ébranlement                               | schok, ondermijning, beschadiging                            |
+| ébranler                                     | wagelen, wiegen, in beweging komen, schokken, doen schudden  |
