@@ -1623,6 +1623,7 @@ aviser              op de hoogte stellen, in kennis stellen, to hit on
 avis                m, opinie, oordeel, visie, zienswijze
 avive, aviver       bovenhalen, helder maken, evoqueren, opwinden, opvrijen, wekken
 avocat, avocate     m/f , advocaat
+avocatier           m, fruitboom, dont le fruit est l'avocat
 avoine              f, haver
 avoir à faire       te doen hebben
 avoir affaire       contact hebben met
@@ -8521,7 +8522,7 @@ grandissante        groeiend
 grand ouvertes      wide open (van ramen)
 Grand-Place         f, Grote Markt
 grand-route         f, hoofdverkeersader, hoofdweg, verkeersweg
-grange              f, herenboerderij, hooischuur, korenschuur, voorraadschuur
+grange              f, schuur, hooischuur, korenschuur, voorraadschuur
 granit              m, graniet, granietsteen
 granule             m, korrel
 granuleux, granuleuse     korrelachtig, korrelig
@@ -9139,6 +9140,7 @@ importer peu        weinig belang
 importuner          belagen, beduvelen, dwarszitten, koeioneren, lastigvallen, plagen, rotzooien
 importunés          m, gestoorden, niet welkom
 importun            lastig, niet welkom, ongevraagd, onwelkom
+importun, importune m, f, ongevraagde gast, ongevraagd
 imposition          f, last, oplegging, belasting
 impossibilité       f, ondoenlijkheid, onmogelijkheid
 impossible          m, the impossible
@@ -11755,7 +11757,7 @@ opprimer            benauwen, verdrukken, onderdrukken, neerslaan
 opprobre            beruchtheid, schande
 optimisme           m, optimisme
 opulence            f, weelde, weelderigheid
-opulent             weelderig
+opulent             weelderig; aisé, fortuné
 opuscule            m, petit livre, brochure, pamflet
 oracle              m, orakel
 orage-de-cerveau    m, brainstorm
@@ -12147,6 +12149,7 @@ partisan            m, aanhang, advocaat, discipel, eedgenoot, medestander
 partouze            f, orgie
 partouzer           een orgie houden
 parturientes        f, vrouwen die bevallen
+parturition         f, ter wereld brengen
 party               f, party
 parure              f, opschik, opsmuk, tooi, verfraaiing, jewel
 parurent, paraître  verschijnen, lijken, schijnen
@@ -17356,3 +17359,7 @@ addiction           f, verslaving; dépendance
 dépendance          f, verslaving
 bloc-notes          m, kladblok
 clope               f, sigaret
+unijambiste         éénbenige, se dit de quelqu'un qui a subi l'amputation d'une jambe
+raffut              m, bruit violent, confus et désordonné, discordant
+tord-boyaux         m, eau-de-vie très forte ou de mauvaise qualité
+gnôle               f, eau-de-vie, généralement très forte
